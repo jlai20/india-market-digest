@@ -1,22 +1,31 @@
 #!/usr/bin/env python3
-"""Fetch Indian market news from RSS feeds and generate HTML dashboard."""
+"""
+India Market Digest
+  1. Fetch RSS news
+  2. Deduplicate against persistent depository (data/news_store.json)
+  3. Analyse new items with Claude — positive / negative / neutral per stock
+  4. Commit depository + regenerate docs/index.html
+"""
 
 import feedparser
+import json
+import hashlib
+import os
 import re
 import sys
+import time
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from email.utils import parsedate_to_datetime
 
+import anthropic
+
 # ── Timezones ─────────────────────────────────────────────────────────────────
 IST    = timezone(timedelta(hours=5, minutes=30))
-SYDNEY = timezone(timedelta(hours=10))  # AEST
+SYDNEY = timezone(timedelta(hours=10))
 
-# ── Stock universe (F&O eligible) ─────────────────────────────────────────────
-# Maps display label → list of name/ticker strings to match in article text.
-# Ordered by rough market cap within each sector for display priority.
+# ── Stock universe ─────────────────────────────────────────────────────────────
 STOCKS = {
-    # ── Banking & Financial Services ──────────────────────────────────────────
     "Banking": {
         "HDFC Bank":        ["HDFC Bank", "HDFCBANK"],
         "ICICI Bank":       ["ICICI Bank", "ICICIBANK"],
@@ -39,7 +48,6 @@ STOCKS = {
         "Muthoot Finance":  ["Muthoot Finance", "MUTHOOTFIN"],
         "Shriram Finance":  ["Shriram Finance", "SHRIRAMFIN"],
     },
-    # ── IT & Technology ───────────────────────────────────────────────────────
     "IT": {
         "TCS":              ["TCS", "Tata Consultancy"],
         "Infosys":          ["Infosys", "INFY"],
@@ -55,7 +63,6 @@ STOCKS = {
         "Birlasoft":        ["Birlasoft", "BSOFT"],
         "Cyient":           ["Cyient", "CYIENT"],
     },
-    # ── Telecoms ──────────────────────────────────────────────────────────────
     "Telecoms": {
         "Bharti Airtel":    ["Bharti Airtel", "Airtel", "BHARTIARTL"],
         "Reliance Jio":     ["Reliance Jio", "Jio"],
@@ -63,9 +70,7 @@ STOCKS = {
         "Indus Towers":     ["Indus Towers", "INDUSTOWER"],
         "Tata Comms":       ["Tata Communications", "TATACOMM"],
         "BSNL":             ["BSNL"],
-        "MTNL":             ["MTNL"],
     },
-    # ── Automobiles ───────────────────────────────────────────────────────────
     "Autos": {
         "Maruti Suzuki":    ["Maruti", "MARUTI"],
         "Tata Motors":      ["Tata Motors", "TATAMOTORS"],
@@ -80,9 +85,7 @@ STOCKS = {
         "Apollo Tyres":     ["Apollo Tyre", "APOLLOTYRE"],
         "MRF":              ["MRF"],
         "Motherson":        ["Motherson", "MOTHERSON"],
-        "Samvardhana":      ["Samvardhana Motherson"],
     },
-    # ── E-Commerce & Consumer Tech ────────────────────────────────────────────
     "E-Commerce": {
         "Zomato":           ["Zomato", "ZOMATO"],
         "Swiggy":           ["Swiggy", "SWIGGY"],
@@ -90,16 +93,14 @@ STOCKS = {
         "PolicyBazaar":     ["PolicyBazaar", "PB Fintech", "PBFINTECH"],
         "Paytm":            ["Paytm", "One97", "PAYTM"],
         "Delhivery":        ["Delhivery", "DELHIVERY"],
-        "Honasa":           ["Honasa", "Mamaearth", "HONASA"],
         "Ola Electric":     ["Ola Electric", "OLAELEC"],
         "Firstcry":         ["Firstcry", "Brainbees", "BRAINBEES"],
         "Indiamart":        ["Indiamart", "INDIAMART"],
         "Info Edge":        ["Naukri", "Info Edge", "NAUKRI"],
         "D-Mart":           ["D-Mart", "DMart", "Avenue Supermarts", "DMART"],
         "Trent":            ["Trent", "Westside", "TRENT"],
-        "Reliance Retail":  ["Reliance Retail"],
+        "Honasa":           ["Honasa", "Mamaearth", "HONASA"],
     },
-    # ── Materials (Metals, Chemicals, Cement) ─────────────────────────────────
     "Materials": {
         "Tata Steel":       ["Tata Steel", "TATASTEEL"],
         "JSW Steel":        ["JSW Steel", "JSWSTEEL"],
@@ -118,13 +119,10 @@ STOCKS = {
         "ACC":              ["ACC Cement", "ACC"],
         "Pidilite":         ["Pidilite", "PIDILITIND"],
         "Asian Paints":     ["Asian Paints", "ASIANPAINT"],
-        "Berger Paints":    ["Berger Paint", "BERGEPAINT"],
         "SRF":              ["SRF", "SRFLTD"],
         "PI Industries":    ["PI Industries", "PIIND"],
-        "Coromandel":       ["Coromandel", "COROMANDEL"],
         "UPL":              ["UPL", "UPLLIMITED"],
     },
-    # ── Industrials & Infra ───────────────────────────────────────────────────
     "Industrials": {
         "L&T":              ["Larsen", "L&T", "LT "],
         "Siemens":          ["Siemens", "SIEMENS"],
@@ -147,19 +145,18 @@ STOCKS = {
         "RVNL":             ["RVNL", "Rail Vikas"],
         "IRFC":             ["IRFC", "Indian Railway Finance"],
         "GMR Airports":     ["GMR", "GMRAIRPORT"],
-        "Reliance Infra":   ["Reliance Infra", "RELINFRA"],
         "IRB Infra":        ["IRB Infra", "IRB"],
+        "L&T Finance":      ["L&T Finance", "LTFH"],
     },
 }
 
-# Flat map: search_term → (sector, display_label)
+# Flat term → (sector, label)
 _TERM_MAP: dict[str, tuple[str, str]] = {}
-for _sector, _stocks in STOCKS.items():
-    for _label, _terms in _stocks.items():
+for _sec, _stks in STOCKS.items():
+    for _lbl, _terms in _stks.items():
         for _t in _terms:
-            _TERM_MAP[_t.lower()] = (_sector, _label)
+            _TERM_MAP[_t.lower()] = (_sec, _lbl)
 
-# ── Macro keywords ────────────────────────────────────────────────────────────
 MACRO_KEYWORDS = [
     "RBI", "Reserve Bank of India", "rupee", "INR", "USD/INR", "forex reserve",
     "GDP", "inflation", "CPI", "WPI", "IIP", "PMI", "trade deficit",
@@ -170,32 +167,30 @@ MACRO_KEYWORDS = [
     "Nifty 50", "Sensex", "NSE", "BSE", "FII", "FPI", "DII", "FDI",
     "repo rate", "MPC", "monetary policy", "rate cut", "rate hike",
     "OPEC", "US Fed", "Federal Reserve", "dollar index", "DXY",
-    "war", "ceasefire", "peace deal", "export ban", "import duty",
+    "war", "export ban", "import duty",
 ]
 
-# Sector-level keywords (fallback when no stock name matched)
 SECTOR_KEYWORDS = {
-    "Banking":      ["bank", "banking", "NBFC", "insurance", "credit", "loan", "NPA",
-                     "fintech", "mutual fund", "AMC", "Nifty Bank", "repo rate",
-                     "interest rate", "financial services", "microfinance", "MFI"],
-    "IT":           ["IT sector", "software", "technology", "digital", "AI", "cloud",
-                     "outsourcing", "NASSCOM", "SaaS", "Nifty IT", "data center",
-                     "cybersecurity", "artificial intelligence"],
-    "Telecoms":     ["telecom", "5G", "spectrum", "ARPU", "subscriber",
-                     "broadband", "Nifty Telecom", "AGR", "TRAI"],
-    "Autos":        ["automobile", "EV", "electric vehicle", "vehicle sales",
-                     "auto sector", "passenger vehicle", "two-wheeler",
-                     "commercial vehicle", "Nifty Auto", "car sales"],
-    "E-Commerce":   ["e-commerce", "ecommerce", "online retail", "food delivery",
-                     "quick commerce", "q-commerce", "OTT", "streaming",
-                     "digital payments", "UPI", "fintech platform"],
-    "Materials":    ["steel", "aluminum", "aluminium", "copper", "zinc", "iron ore",
-                     "coal", "metal", "mining", "commodity", "Nifty Metal",
-                     "cement", "paints", "chemicals", "agrochemicals"],
-    "Industrials":  ["infrastructure", "capital goods", "defence", "defense",
-                     "power sector", "electricity", "PLI scheme", "Make in India",
-                     "order book", "Nifty Infra", "capex", "EPC", "shipbuilding",
-                     "railways", "airport", "logistics"],
+    "Banking":    ["bank", "banking", "NBFC", "insurance", "credit", "loan", "NPA",
+                   "fintech", "mutual fund", "AMC", "Nifty Bank", "repo rate",
+                   "interest rate", "financial services", "microfinance"],
+    "IT":         ["IT sector", "software", "technology", "digital", "AI", "cloud",
+                   "outsourcing", "NASSCOM", "SaaS", "Nifty IT", "data center",
+                   "cybersecurity", "artificial intelligence"],
+    "Telecoms":   ["telecom", "5G", "spectrum", "ARPU", "subscriber",
+                   "broadband", "Nifty Telecom", "AGR", "TRAI"],
+    "Autos":      ["automobile", "EV", "electric vehicle", "vehicle sales",
+                   "auto sector", "passenger vehicle", "two-wheeler",
+                   "commercial vehicle", "Nifty Auto", "car sales"],
+    "E-Commerce": ["e-commerce", "ecommerce", "online retail", "food delivery",
+                   "quick commerce", "q-commerce", "OTT", "digital payments", "UPI"],
+    "Materials":  ["steel", "aluminum", "aluminium", "copper", "zinc", "iron ore",
+                   "coal", "metal", "mining", "commodity", "Nifty Metal",
+                   "cement", "paints", "chemicals", "agrochemicals"],
+    "Industrials":["infrastructure", "capital goods", "defence", "defense",
+                   "power sector", "electricity", "PLI scheme", "Make in India",
+                   "order book", "Nifty Infra", "capex", "EPC", "shipbuilding",
+                   "railways", "airport", "logistics"],
 }
 
 RSS_FEEDS = [
@@ -223,6 +218,18 @@ SECTOR_COLORS = {
     "Industrials": "#37474f",
 }
 
+SENTIMENT_STYLE = {
+    "positive": {"color": "#1e3a2a", "border": "#2e7d52", "text": "#4caf80", "label": "▲ Positive"},
+    "negative": {"color": "#3a1a1a", "border": "#8b2e2e", "text": "#f28b82", "label": "▼ Negative"},
+    "neutral":  {"color": "#1e2030", "border": "#3a4060", "text": "#8892a4", "label": "● Neutral"},
+    "mixed":    {"color": "#2a2010", "border": "#7a5c1e", "text": "#ffb74d", "label": "◆ Mixed"},
+}
+
+STORE_PATH = Path("data/news_store.json")
+STORE_DAYS = 90   # keep 90 days of history
+BATCH_SIZE = 8    # items per Claude call
+
+
 # ── Helpers ───────────────────────────────────────────────────────────────────
 
 def strip_html(text: str) -> str:
@@ -244,24 +251,22 @@ def parse_date(entry) -> datetime | None:
     return None
 
 
+def item_id(title: str, pub_dt: datetime | None) -> str:
+    day = pub_dt.strftime("%Y-%m-%d") if pub_dt else "unknown"
+    return hashlib.md5(f"{day}::{title}".encode()).hexdigest()[:16]
+
+
 def tag_item(title: str, summary: str) -> tuple[set[str], set[str]]:
-    """Return (matched_sectors, matched_stock_labels)."""
     combined = f"{title} {summary}".lower()
-    matched_sectors: set[str] = set()
-    matched_stocks: set[str] = set()
-
-    # Stock-level matching (most precise)
-    for term, (sector, label) in _TERM_MAP.items():
+    sectors, stocks = set(), set()
+    for term, (sec, lbl) in _TERM_MAP.items():
         if term in combined:
-            matched_sectors.add(sector)
-            matched_stocks.add(label)
-
-    # Sector keyword fallback
-    for sector, kws in SECTOR_KEYWORDS.items():
+            sectors.add(sec)
+            stocks.add(lbl)
+    for sec, kws in SECTOR_KEYWORDS.items():
         if any(kw.lower() in combined for kw in kws):
-            matched_sectors.add(sector)
-
-    return matched_sectors, matched_stocks
+            sectors.add(sec)
+    return sectors, stocks
 
 
 def is_macro(title: str, summary: str) -> bool:
@@ -269,14 +274,119 @@ def is_macro(title: str, summary: str) -> bool:
     return any(kw.lower() in combined for kw in MACRO_KEYWORDS)
 
 
-# ── Fetch ─────────────────────────────────────────────────────────────────────
+# ── Depository ────────────────────────────────────────────────────────────────
 
-def fetch_all_news(hours_back: int = 24) -> dict:
+def load_store() -> dict:
+    if STORE_PATH.exists():
+        try:
+            return json.loads(STORE_PATH.read_text(encoding="utf-8"))
+        except Exception:
+            pass
+    return {"items": {}}
+
+
+def save_store(store: dict) -> None:
+    STORE_PATH.parent.mkdir(exist_ok=True)
+    # Prune items older than STORE_DAYS
+    cutoff = (datetime.now(timezone.utc) - timedelta(days=STORE_DAYS)).isoformat()
+    store["items"] = {
+        k: v for k, v in store["items"].items()
+        if v.get("pub_dt", "9") >= cutoff
+    }
+    STORE_PATH.write_text(json.dumps(store, indent=2, ensure_ascii=False), encoding="utf-8")
+
+
+# ── Claude sentiment analysis ─────────────────────────────────────────────────
+
+def build_history_context(store: dict, stocks: set[str], days: int = 14) -> str:
+    """Return recent store items that mention the same stocks, as context."""
+    cutoff = (datetime.now(timezone.utc) - timedelta(days=days)).isoformat()
+    relevant = []
+    for item in store["items"].values():
+        if item.get("pub_dt", "") < cutoff:
+            continue
+        if any(s in item.get("stocks", []) for s in stocks):
+            sent = item.get("sentiment", {})
+            relevant.append(
+                f"- [{item.get('pub','')[:10]}] {item['title']} "
+                f"→ {sent.get('overall','?')}: {sent.get('reasoning','')[:100]}"
+            )
+    return "\n".join(relevant[-20:]) if relevant else "No recent history for these stocks."
+
+
+def analyse_batch(client: anthropic.Anthropic, batch: list[dict], store: dict) -> list[dict]:
+    """Send a batch of new items to Claude for sentiment analysis. Returns enriched items."""
+
+    items_text = ""
+    for i, item in enumerate(batch, 1):
+        history = build_history_context(store, set(item["stocks"]))
+        items_text += f"""
+--- Item {i} ---
+Headline: {item['title']}
+Summary: {item['summary']}
+Stocks tagged: {', '.join(item['stocks']) or 'none (sector-level)'}
+Sectors: {', '.join(item['sectors'])}
+Recent history for these stocks:
+{history}
+"""
+
+    prompt = f"""You are an Indian equity analyst. Analyse each news item below and output ONLY valid JSON.
+
+For each item, reason about whether the news is positive, negative, neutral, or mixed for the stocks involved.
+Consider: direct impact on earnings/margins/growth, regulatory implications, competitive dynamics, macro linkages.
+Use the recent history to spot whether this is a continuation of a trend or a reversal.
+
+Return a JSON array with one object per item, in the same order:
+[
+  {{
+    "overall": "positive|negative|neutral|mixed",
+    "reasoning": "2-3 sentence explanation of WHY, referencing specific impact on earnings/valuation",
+    "stocks": {{"StockName": "positive|negative|neutral"}}
+  }},
+  ...
+]
+
+Only include stocks from the 'Stocks tagged' list in the stocks dict.
+If no specific stocks are tagged, leave stocks as {{}}.
+
+News items:
+{items_text}
+
+Return ONLY the JSON array, no other text."""
+
+    try:
+        response = client.messages.create(
+            model="claude-haiku-4-5-20251001",
+            max_tokens=2048,
+            messages=[{"role": "user", "content": prompt}],
+        )
+        raw = response.content[0].text.strip()
+        # Extract JSON array even if model adds preamble
+        match = re.search(r"\[[\s\S]*\]", raw)
+        if not match:
+            raise ValueError("No JSON array in response")
+        results = json.loads(match.group())
+        for item, result in zip(batch, results):
+            item["sentiment"] = {
+                "overall":   result.get("overall", "neutral"),
+                "reasoning": result.get("reasoning", ""),
+                "stocks":    result.get("stocks", {}),
+            }
+    except Exception as e:
+        print(f"  Warning: Claude analysis failed for batch: {e}", file=sys.stderr)
+        for item in batch:
+            item["sentiment"] = {"overall": "neutral", "reasoning": "", "stocks": {}}
+
+    return batch
+
+
+# ── RSS fetch ─────────────────────────────────────────────────────────────────
+
+def fetch_new_items(store: dict, hours_back: int = 26) -> list[dict]:
+    """Fetch RSS and return only items not already in the store."""
     cutoff = datetime.now(timezone.utc) - timedelta(hours=hours_back)
-    seen: set[str] = set()
-
-    macro_items: list[dict] = []
-    sector_items: dict[str, list[dict]] = {s: [] for s in STOCKS}
+    seen_titles: set[str] = set()
+    new_items: list[dict] = []
 
     for url in RSS_FEEDS:
         try:
@@ -287,99 +397,139 @@ def fetch_all_news(hours_back: int = 24) -> dict:
 
         for entry in feed.entries:
             title = strip_html(entry.get("title", "")).strip()
-            if not title or title in seen:
+            if not title or title in seen_titles:
                 continue
             pub = parse_date(entry)
             if pub and pub < cutoff:
                 continue
-            seen.add(title)
+            seen_titles.add(title)
 
-            link    = entry.get("link", "#")
-            summary = strip_html(entry.get("summary", ""))[:300]
-            pub_str = pub.astimezone(IST).strftime("%d %b %H:%M IST") if pub else ""
+            summary  = strip_html(entry.get("summary", ""))[:400]
+            link     = entry.get("link", "#")
+            pub_str  = pub.astimezone(IST).strftime("%d %b %H:%M IST") if pub else ""
+            pub_iso  = pub.isoformat() if pub else ""
 
             sectors, stocks = tag_item(title, summary)
             macro           = is_macro(title, summary)
 
-            item = {
+            iid = item_id(title, pub)
+            if iid in store["items"]:
+                continue  # already processed
+
+            new_items.append({
+                "id":      iid,
                 "title":   title,
                 "link":    link,
                 "summary": summary,
                 "pub":     pub_str,
-                "pub_dt":  pub,
-                "stocks":  sorted(stocks),   # stock tags
-                "sectors": sorted(sectors),  # sector tags
-            }
+                "pub_dt":  pub_iso,
+                "sectors": sorted(sectors),
+                "stocks":  sorted(stocks),
+                "macro":   macro,
+                "sentiment": None,   # filled by Claude
+            })
 
-            if macro:
-                macro_items.append(item)
-            for sec in sectors:
-                if sec in sector_items:
-                    sector_items[sec].append(item)
-
-    def sort_key(i):
-        return i["pub_dt"] or datetime.min.replace(tzinfo=timezone.utc)
-
-    macro_items.sort(key=sort_key, reverse=True)
-    for k in sector_items:
-        sector_items[k].sort(key=sort_key, reverse=True)
-
-    return {"macro": macro_items, "sectors": sector_items}
+    return new_items
 
 
 # ── HTML ──────────────────────────────────────────────────────────────────────
 
-def item_html(item: dict) -> str:
+def sentiment_badge(sent: dict | None) -> str:
+    if not sent or not sent.get("overall"):
+        return ""
+    s = sent["overall"]
+    st = SENTIMENT_STYLE.get(s, SENTIMENT_STYLE["neutral"])
+    return (
+        f'<span class="sentiment-badge" '
+        f'style="background:{st["color"]};border-color:{st["border"]};color:{st["text"]}">'
+        f'{st["label"]}</span>'
+    )
+
+
+def stock_sentiment_tags(sent: dict | None, all_stocks: list[str]) -> str:
+    if not sent or not sent.get("stocks"):
+        return ""
+    tags = []
+    for stock in all_stocks:
+        s = sent["stocks"].get(stock)
+        if not s:
+            continue
+        st = SENTIMENT_STYLE.get(s, SENTIMENT_STYLE["neutral"])
+        tags.append(
+            f'<span class="tag tag-stock" '
+            f'style="border-color:{st["border"]};color:{st["text"]}">'
+            f'{stock.replace("&","&amp;")}</span>'
+        )
+    return "".join(tags)
+
+
+def reasoning_block(sent: dict | None) -> str:
+    if not sent or not sent.get("reasoning"):
+        return ""
+    text = sent["reasoning"].replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+    return f'<p class="reasoning">{text}</p>'
+
+
+def item_html(item: dict, show_sector_tags: bool = False) -> str:
     title   = item["title"].replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
     summary = item["summary"].replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
     link    = item["link"].replace('"', "%22")
     pub     = item["pub"]
+    sent    = item.get("sentiment")
 
-    # Stock tags
-    stock_tags = ""
-    if item["stocks"]:
-        tags = "".join(
+    overall = sent.get("overall", "neutral") if sent else "neutral"
+    st      = SENTIMENT_STYLE.get(overall, SENTIMENT_STYLE["neutral"])
+
+    stock_tags_html = stock_sentiment_tags(sent, item.get("stocks", []))
+    if not stock_tags_html:
+        # fallback: plain stock tags
+        stock_tags_html = "".join(
             f'<span class="tag tag-stock">{s.replace("&","&amp;")}</span>'
-            for s in item["stocks"]
+            for s in item.get("stocks", [])
         )
-        stock_tags = f'<div class="tags">{tags}</div>'
 
-    # Sector tags (only shown in macro section where sector context is useful)
-    sector_tags = ""
-    if item.get("_show_sector_tags") and item["sectors"]:
-        tags = "".join(
+    sector_tags_html = ""
+    if show_sector_tags and item.get("sectors"):
+        sector_tags_html = "".join(
             f'<span class="tag tag-sector" style="border-color:{SECTOR_COLORS.get(s,"#888")}">{s}</span>'
             for s in item["sectors"]
         )
-        sector_tags = f'<div class="tags">{tags}</div>'
 
     return f"""
-    <article class="news-item">
-      <a href="{link}" target="_blank" rel="noopener noreferrer" class="news-title">{title}</a>
-      {f'<p class="news-summary">{summary}</p>' if summary else ''}
+    <article class="news-item" style="border-left:3px solid {st['border']}">
+      <div class="news-top">
+        <a href="{link}" target="_blank" rel="noopener noreferrer" class="news-title">{title}</a>
+        {sentiment_badge(sent)}
+      </div>
+      {reasoning_block(sent)}
+      {f'<p class="news-summary">{summary}</p>' if summary and not sent else ''}
       <div class="news-footer">
         {f'<span class="news-time">{pub}</span>' if pub else ''}
-        {stock_tags}{sector_tags}
+        <div class="tags">{stock_tags_html}{sector_tags_html}</div>
       </div>
     </article>"""
 
 
-def generate_html(data: dict, generated_at: datetime) -> str:
+def generate_html(today_items: list[dict], store: dict, generated_at: datetime) -> str:
     now_ist = generated_at.astimezone(IST).strftime("%d %b %Y, %H:%M IST")
     now_syd = generated_at.astimezone(SYDNEY).strftime("%d %b %Y, %H:%M AEST")
 
-    # Macro section — show sector tags so reader sees which sectors are in play
-    for item in data["macro"]:
-        item["_show_sector_tags"] = True
+    # Split today's items
+    macro_items   = [i for i in today_items if i.get("macro")]
+    sector_items  = {sec: [] for sec in STOCKS}
+    for item in today_items:
+        for sec in item.get("sectors", []):
+            if sec in sector_items:
+                sector_items[sec].append(item)
+
     macro_html = (
-        "".join(item_html(i) for i in data["macro"][:25])
+        "".join(item_html(i, show_sector_tags=True) for i in macro_items[:25])
         or "<p class='empty'>No macro news in last 24h.</p>"
     )
 
-    # Sector sections
     sector_blocks = ""
     for sec_name, color in SECTOR_COLORS.items():
-        items = data["sectors"].get(sec_name, [])
+        items = sector_items.get(sec_name, [])
         if not items:
             continue
         items_html = "".join(item_html(i) for i in items[:15])
@@ -396,8 +546,13 @@ def generate_html(data: dict, generated_at: datetime) -> str:
     nav_items = "".join(
         f'<a href="#{s.lower()}" style="border-color:{c}">{s}</a>'
         for s, c in SECTOR_COLORS.items()
-        if data["sectors"].get(s)
+        if sector_items.get(s)
     )
+
+    # Depository stats
+    total_items = len(store["items"])
+    oldest = min((v["pub_dt"] for v in store["items"].values() if v.get("pub_dt")), default="")
+    oldest_str = oldest[:10] if oldest else "—"
 
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -421,7 +576,9 @@ def generate_html(data: dict, generated_at: datetime) -> str:
             position:sticky;top:0;z-index:100;}}
     .logo{{font-size:20px;font-weight:700;color:var(--accent);letter-spacing:-0.5px;}}
     .logo span{{color:var(--text);}}
+    .meta{{display:flex;flex-direction:column;align-items:flex-end;gap:2px;}}
     .updated{{color:var(--muted);font-size:12px;}}
+    .store-stat{{color:#5a6480;font-size:11px;}}
     .container{{max-width:1200px;margin:0 auto;padding:20px 16px;}}
 
     .sector-nav{{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:24px;
@@ -448,18 +605,25 @@ def generate_html(data: dict, generated_at: datetime) -> str:
 
     .news-list{{display:flex;flex-direction:column;gap:10px;}}
     .news-item{{padding:12px;background:var(--surface2);border-radius:6px;
-                border:1px solid var(--border);transition:border-color .15s;}}
-    .news-item:hover{{border-color:#3a4060;}}
+                border:1px solid var(--border);border-left-width:3px;
+                transition:border-color .15s;}}
+    .news-top{{display:flex;align-items:flex-start;gap:10px;margin-bottom:4px;flex-wrap:wrap;}}
     .news-title{{color:var(--link);text-decoration:none;font-weight:500;
-                 font-size:13.5px;display:block;margin-bottom:4px;line-height:1.4;}}
+                 font-size:13.5px;line-height:1.4;flex:1;min-width:200px;}}
     .news-title:hover{{color:var(--link-hover);text-decoration:underline;}}
+
+    .sentiment-badge{{font-size:11px;padding:2px 8px;border-radius:10px;
+                      border:1px solid;white-space:nowrap;font-weight:600;
+                      flex-shrink:0;margin-top:1px;}}
+    .reasoning{{font-size:12px;color:#a0aabe;margin:6px 0;line-height:1.5;
+                border-left:2px solid #2a3050;padding-left:8px;font-style:italic;}}
     .news-summary{{color:var(--muted);font-size:12px;margin-bottom:6px;}}
     .news-footer{{display:flex;align-items:center;flex-wrap:wrap;gap:6px;margin-top:6px;}}
     .news-time{{font-size:11px;color:#5a6480;margin-right:4px;}}
 
     .tags{{display:flex;flex-wrap:wrap;gap:4px;}}
     .tag{{font-size:11px;padding:2px 7px;border-radius:10px;font-weight:500;white-space:nowrap;}}
-    .tag-stock{{background:#1e2a3a;color:#90caf9;border:1px solid #2a4060;}}
+    .tag-stock{{background:#1a2030;border:1px solid;}}
     .tag-sector{{background:transparent;color:var(--muted);border:1px solid;}}
 
     .empty{{color:var(--muted);font-style:italic;font-size:13px;}}
@@ -470,7 +634,10 @@ def generate_html(data: dict, generated_at: datetime) -> str:
 <body>
   <header>
     <div class="logo">India <span>Market Digest</span></div>
-    <div class="updated">Updated {now_syd} &nbsp;·&nbsp; {now_ist}</div>
+    <div class="meta">
+      <span class="updated">Updated {now_syd} · {now_ist}</span>
+      <span class="store-stat">Depository: {total_items:,} items since {oldest_str}</span>
+    </div>
   </header>
   <div class="container">
     <nav class="sector-nav">
@@ -486,7 +653,7 @@ def generate_html(data: dict, generated_at: datetime) -> str:
     {sector_blocks}
   </div>
   <footer>
-    India Market Digest · F&amp;O stocks · News since last NSE close · Auto-updated 10am AEST daily<br/>
+    India Market Digest · F&amp;O stocks · Sentiment powered by Claude · Auto-updated 10am AEST daily<br/>
     Sources: Economic Times · Business Standard · Moneycontrol · LiveMint
   </footer>
 </body>
@@ -496,15 +663,48 @@ def generate_html(data: dict, generated_at: datetime) -> str:
 # ── Main ──────────────────────────────────────────────────────────────────────
 
 def main():
-    print("Fetching news…", file=sys.stderr)
-    data = fetch_all_news(hours_back=24)
-    print(f"  Macro: {len(data['macro'])} items", file=sys.stderr)
-    for sec in STOCKS:
-        n = len(data["sectors"].get(sec, []))
-        if n:
-            print(f"  {sec}: {n} items", file=sys.stderr)
+    api_key = os.environ.get("ANTHROPIC_API_KEY", "")
+    client  = anthropic.Anthropic(api_key=api_key) if api_key else None
 
-    html = generate_html(data, datetime.now(timezone.utc))
+    print("Loading depository…", file=sys.stderr)
+    store = load_store()
+    print(f"  {len(store['items'])} existing items", file=sys.stderr)
+
+    print("Fetching RSS…", file=sys.stderr)
+    new_items = fetch_new_items(store)
+    print(f"  {len(new_items)} new items", file=sys.stderr)
+
+    # Analyse with Claude in batches
+    if new_items and client:
+        print("Analysing sentiment…", file=sys.stderr)
+        for i in range(0, len(new_items), BATCH_SIZE):
+            batch = new_items[i:i + BATCH_SIZE]
+            print(f"  batch {i//BATCH_SIZE + 1}: {len(batch)} items", file=sys.stderr)
+            analyse_batch(client, batch, store)
+            if i + BATCH_SIZE < len(new_items):
+                time.sleep(1)  # avoid rate limits
+    elif new_items and not client:
+        print("  No ANTHROPIC_API_KEY — skipping sentiment", file=sys.stderr)
+        for item in new_items:
+            item["sentiment"] = {"overall": "neutral", "reasoning": "", "stocks": {}}
+
+    # Commit new items to store
+    for item in new_items:
+        store["items"][item["id"]] = item
+
+    save_store(store)
+    print(f"  Store saved ({len(store['items'])} items)", file=sys.stderr)
+
+    # Collect today's items for the HTML (last 26 hours from store)
+    cutoff = (datetime.now(timezone.utc) - timedelta(hours=26)).isoformat()
+    today_items = sorted(
+        [v for v in store["items"].values() if v.get("pub_dt", "") >= cutoff],
+        key=lambda x: x.get("pub_dt", ""),
+        reverse=True,
+    )
+    print(f"  {len(today_items)} items in today's digest", file=sys.stderr)
+
+    html = generate_html(today_items, store, datetime.now(timezone.utc))
     out  = Path("docs/index.html")
     out.parent.mkdir(exist_ok=True)
     out.write_text(html, encoding="utf-8")
