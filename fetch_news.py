@@ -8,251 +8,232 @@ from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from email.utils import parsedate_to_datetime
 
-# ── Timezone ──────────────────────────────────────────────────────────────────
-IST = timezone(timedelta(hours=5, minutes=30))
-SYDNEY = timezone(timedelta(hours=10))  # AEST; script runs ~10am Sydney
+# ── Timezones ─────────────────────────────────────────────────────────────────
+IST    = timezone(timedelta(hours=5, minutes=30))
+SYDNEY = timezone(timedelta(hours=10))  # AEST
 
-# ── NSE Sectors (Nifty 50 weight order) ──────────────────────────────────────
-SECTORS = [
-    {
-        "name": "Financials & Banking",
-        "weight": "~33%",
-        "color": "#1a73e8",
-        "stocks": [
-            "HDFC Bank", "HDFCBANK", "ICICI Bank", "ICICIBANK", "SBI", "SBIN",
-            "Kotak Mahindra", "KOTAKBANK", "Axis Bank", "AXISBANK",
-            "Bajaj Finance", "BAJFINANCE", "HDFC Life", "HDFCLIFE",
-            "SBI Life", "SBILIFE", "Bajaj Finserv", "BAJAJFINSV",
-            "IndusInd Bank", "INDUSINDBK", "Federal Bank", "FEDERALBNK",
-            "Bandhan Bank", "BANDHANBNK", "ICICI Prudential", "ICICIPRULIFE",
-            "AU Small Finance", "AUBANK", "CSB Bank", "CSBBANK",
-            "RBL Bank", "RBLBANK", "Karnataka Bank", "KTKBANK",
-        ],
-        "keywords": [
-            "bank", "banking", "NBFC", "insurance", "credit", "loan", "NPA",
-            "fintech", "mutual fund", "AMC", "Nifty Bank", "repo rate",
-            "interest rate", "financial services", "microfinance", "MFI",
-        ],
+# ── Stock universe (F&O eligible) ─────────────────────────────────────────────
+# Maps display label → list of name/ticker strings to match in article text.
+# Ordered by rough market cap within each sector for display priority.
+STOCKS = {
+    # ── Banking & Financial Services ──────────────────────────────────────────
+    "Banking": {
+        "HDFC Bank":        ["HDFC Bank", "HDFCBANK"],
+        "ICICI Bank":       ["ICICI Bank", "ICICIBANK"],
+        "SBI":              ["State Bank", "SBI", "SBIN"],
+        "Kotak Bank":       ["Kotak Mahindra", "Kotak Bank", "KOTAKBANK"],
+        "Axis Bank":        ["Axis Bank", "AXISBANK"],
+        "Bajaj Finance":    ["Bajaj Finance", "BAJFINANCE"],
+        "HDFC Life":        ["HDFC Life", "HDFCLIFE"],
+        "SBI Life":         ["SBI Life", "SBILIFE"],
+        "Bajaj Finserv":    ["Bajaj Finserv", "BAJAJFINSV"],
+        "IndusInd Bank":    ["IndusInd", "INDUSINDBK"],
+        "ICICI Pru Life":   ["ICICI Prudential", "ICICIPRULIFE"],
+        "Federal Bank":     ["Federal Bank", "FEDERALBNK"],
+        "Bandhan Bank":     ["Bandhan Bank", "BANDHANBNK"],
+        "AU SFB":           ["AU Small Finance", "AUBANK"],
+        "RBL Bank":         ["RBL Bank", "RBLBANK"],
+        "PNB":              ["Punjab National", "PNB"],
+        "Bank of Baroda":   ["Bank of Baroda", "BANKBARODA"],
+        "Canara Bank":      ["Canara Bank", "CANARABANK"],
+        "Muthoot Finance":  ["Muthoot Finance", "MUTHOOTFIN"],
+        "Shriram Finance":  ["Shriram Finance", "SHRIRAMFIN"],
     },
-    {
-        "name": "IT & Technology",
-        "weight": "~13%",
-        "color": "#0f9d58",
-        "stocks": [
-            "TCS", "Infosys", "INFY", "Wipro", "HCL Tech", "HCLTECH",
-            "Tech Mahindra", "TECHM", "Persistent Systems", "PERSISTENT",
-            "Coforge", "COFORGE", "Mphasis", "MPHASIS", "LTIMindtree", "LTIM",
-            "Hexaware", "Oracle Financial", "OFSS", "Mastek", "MASTECH",
-            "Cyient", "CYIENT", "Birlasoft", "BSOFT", "KPIT Technologies", "KPITTECH",
-        ],
-        "keywords": [
-            "IT sector", "software", "technology", "digital transformation",
-            "AI", "artificial intelligence", "cloud", "outsourcing", "NASSCOM",
-            "tech company", "SaaS", "Nifty IT", "data center", "cybersecurity",
-        ],
+    # ── IT & Technology ───────────────────────────────────────────────────────
+    "IT": {
+        "TCS":              ["TCS", "Tata Consultancy"],
+        "Infosys":          ["Infosys", "INFY"],
+        "Wipro":            ["Wipro", "WIPRO"],
+        "HCL Tech":         ["HCL Tech", "HCLTECH"],
+        "Tech Mahindra":    ["Tech Mahindra", "TECHM"],
+        "LTIMindtree":      ["LTIMindtree", "LTIM"],
+        "Persistent":       ["Persistent Systems", "PERSISTENT"],
+        "Coforge":          ["Coforge", "COFORGE"],
+        "Mphasis":          ["Mphasis", "MPHASIS"],
+        "KPIT Tech":        ["KPIT Tech", "KPITTECH"],
+        "Oracle FS":        ["Oracle Financial", "OFSS"],
+        "Birlasoft":        ["Birlasoft", "BSOFT"],
+        "Cyient":           ["Cyient", "CYIENT"],
     },
-    {
-        "name": "Oil, Gas & Energy",
-        "weight": "~12%",
-        "color": "#f57c00",
-        "stocks": [
-            "Reliance Industries", "RELIANCE", "ONGC", "BPCL", "IOC", "Indian Oil",
-            "Petronet LNG", "PETRONET", "Oil India", "GAIL", "HINDPETRO",
-            "MRPL", "Gujarat Gas", "GUJGAS", "IGL", "Indraprastha Gas",
-            "MGL", "Adani Total Gas", "ATGL", "Adani Green", "ADANIGREEN",
-            "Tata Power", "TATAPOWER", "NHPC", "SJVN", "Torrent Power", "TORNTPOWER",
-        ],
-        "keywords": [
-            "crude oil", "petroleum", "refinery", "natural gas", "LNG",
-            "OPEC", "petrol", "diesel", "fuel price", "oil price",
-            "Nifty Energy", "renewable energy", "solar", "wind energy", "power sector",
-        ],
+    # ── Telecoms ──────────────────────────────────────────────────────────────
+    "Telecoms": {
+        "Bharti Airtel":    ["Bharti Airtel", "Airtel", "BHARTIARTL"],
+        "Reliance Jio":     ["Reliance Jio", "Jio"],
+        "Vodafone Idea":    ["Vodafone Idea", "Vi ", "IDEA"],
+        "Indus Towers":     ["Indus Towers", "INDUSTOWER"],
+        "Tata Comms":       ["Tata Communications", "TATACOMM"],
+        "BSNL":             ["BSNL"],
+        "MTNL":             ["MTNL"],
     },
-    {
-        "name": "Automobiles",
-        "weight": "~7%",
-        "color": "#7b1fa2",
-        "stocks": [
-            "Maruti Suzuki", "MARUTI", "Tata Motors", "TATAMOTORS",
-            "Mahindra", "M&M", "MAHINDRA", "Bajaj Auto", "BAJAJAUTO",
-            "Hero MotoCorp", "HEROMOTOCO", "Eicher Motors", "EICHERMOT",
-            "TVS Motor", "TVSMOTOR", "Ashok Leyland", "ASHOKLEY",
-            "Apollo Tyres", "APOLLOTYRE", "MRF", "MRFLTD", "Bosch", "BOSCHLTD",
-            "Bharat Forge", "BHARATFORG", "Motherson", "MOTHERSON", "Samvardhana",
-        ],
-        "keywords": [
-            "automobile", "EV", "electric vehicle", "vehicle sales",
-            "auto sector", "passenger vehicle", "two-wheeler", "commercial vehicle",
-            "Nifty Auto", "car sales", "SUV", "auto OEM", "PLI auto",
-        ],
+    # ── Automobiles ───────────────────────────────────────────────────────────
+    "Autos": {
+        "Maruti Suzuki":    ["Maruti", "MARUTI"],
+        "Tata Motors":      ["Tata Motors", "TATAMOTORS"],
+        "M&M":              ["Mahindra", "M&M", "MAHINDRA"],
+        "Bajaj Auto":       ["Bajaj Auto", "BAJAJAUTO"],
+        "Hero MotoCorp":    ["Hero MotoCorp", "HEROMOTOCO"],
+        "Eicher Motors":    ["Eicher", "EICHERMOT"],
+        "TVS Motor":        ["TVS Motor", "TVSMOTOR"],
+        "Ashok Leyland":    ["Ashok Leyland", "ASHOKLEY"],
+        "Bosch":            ["Bosch", "BOSCHLTD"],
+        "Bharat Forge":     ["Bharat Forge", "BHARATFORG"],
+        "Apollo Tyres":     ["Apollo Tyre", "APOLLOTYRE"],
+        "MRF":              ["MRF"],
+        "Motherson":        ["Motherson", "MOTHERSON"],
+        "Samvardhana":      ["Samvardhana Motherson"],
     },
-    {
-        "name": "FMCG & Consumer",
-        "weight": "~8%",
-        "color": "#e91e63",
-        "stocks": [
-            "HUL", "Hindustan Unilever", "ITC", "Nestle", "NESTLEIND",
-            "Britannia", "BRITANNIA", "Dabur", "DABUR", "Marico", "MARICO",
-            "Godrej Consumer", "GODREJCP", "Emami", "EMAMILTD", "Colgate", "COLPAL",
-            "United Spirits", "Tata Consumer", "TATACONSUM",
-            "Avenue Supermarts", "DMART", "Varun Beverages", "VBL",
-            "Patanjali Foods", "PATANJALI", "Zomato", "ZOMATO", "Swiggy", "SWIGGY",
-        ],
-        "keywords": [
-            "FMCG", "consumer goods", "retail", "rural demand", "urban consumption",
-            "food inflation", "packaged food", "Nifty FMCG", "QSR",
-            "quick service restaurant", "food delivery", "e-commerce",
-        ],
+    # ── E-Commerce & Consumer Tech ────────────────────────────────────────────
+    "E-Commerce": {
+        "Zomato":           ["Zomato", "ZOMATO"],
+        "Swiggy":           ["Swiggy", "SWIGGY"],
+        "Nykaa":            ["Nykaa", "FSN"],
+        "PolicyBazaar":     ["PolicyBazaar", "PB Fintech", "PBFINTECH"],
+        "Paytm":            ["Paytm", "One97", "PAYTM"],
+        "Delhivery":        ["Delhivery", "DELHIVERY"],
+        "Honasa":           ["Honasa", "Mamaearth", "HONASA"],
+        "Ola Electric":     ["Ola Electric", "OLAELEC"],
+        "Firstcry":         ["Firstcry", "Brainbees", "BRAINBEES"],
+        "Indiamart":        ["Indiamart", "INDIAMART"],
+        "Info Edge":        ["Naukri", "Info Edge", "NAUKRI"],
+        "D-Mart":           ["D-Mart", "DMart", "Avenue Supermarts", "DMART"],
+        "Trent":            ["Trent", "Westside", "TRENT"],
+        "Reliance Retail":  ["Reliance Retail"],
     },
-    {
-        "name": "Healthcare & Pharma",
-        "weight": "~5%",
-        "color": "#00838f",
-        "stocks": [
-            "Sun Pharma", "SUNPHARMA", "Dr Reddy", "DRREDDY", "Cipla", "CIPLA",
-            "Divi's Laboratories", "DIVISLAB", "Aurobindo", "AUROPHARMA",
-            "Lupin", "LUPIN", "Torrent Pharma", "TORNTPHARM",
-            "Apollo Hospitals", "APOLLOHOSP", "Fortis Healthcare", "FORTIS",
-            "Max Healthcare", "MAXHEALTH", "Alkem", "ALKEM",
-            "Mankind Pharma", "MANKIND", "Gland Pharma", "GLAND",
-            "Biocon", "BIOCON", "Natco Pharma", "NATCOPHARM",
-        ],
-        "keywords": [
-            "pharma", "healthcare", "drug", "USFDA", "FDA", "ANDA",
-            "clinical trial", "biosimilar", "generic drug", "hospital",
-            "medical", "Nifty Pharma", "health ministry", "API",
-        ],
+    # ── Materials (Metals, Chemicals, Cement) ─────────────────────────────────
+    "Materials": {
+        "Tata Steel":       ["Tata Steel", "TATASTEEL"],
+        "JSW Steel":        ["JSW Steel", "JSWSTEEL"],
+        "Hindalco":         ["Hindalco", "HINDALCO"],
+        "Vedanta":          ["Vedanta", "VEDL"],
+        "SAIL":             ["SAIL", "Steel Authority"],
+        "NMDC":             ["NMDC"],
+        "Coal India":       ["Coal India", "COALINDIA"],
+        "JSPL":             ["JSPL", "Jindal Steel", "Jindal Power"],
+        "Hind Zinc":        ["Hindustan Zinc", "HINDZINC"],
+        "Natl Aluminium":   ["National Aluminium", "NATIONALUM"],
+        "APL Apollo":       ["APL Apollo", "APLAPOLLO"],
+        "UltraTech":        ["UltraTech", "ULTRACEMCO"],
+        "Shree Cement":     ["Shree Cement", "SHREECEMC"],
+        "Ambuja":           ["Ambuja Cement", "AMBUJACEM"],
+        "ACC":              ["ACC Cement", "ACC"],
+        "Pidilite":         ["Pidilite", "PIDILITIND"],
+        "Asian Paints":     ["Asian Paints", "ASIANPAINT"],
+        "Berger Paints":    ["Berger Paint", "BERGEPAINT"],
+        "SRF":              ["SRF", "SRFLTD"],
+        "PI Industries":    ["PI Industries", "PIIND"],
+        "Coromandel":       ["Coromandel", "COROMANDEL"],
+        "UPL":              ["UPL", "UPLLIMITED"],
     },
-    {
-        "name": "Metals & Mining",
-        "weight": "~6%",
-        "color": "#5d4037",
-        "stocks": [
-            "Tata Steel", "TATASTEEL", "JSW Steel", "JSWSTEEL",
-            "Hindalco", "HINDALCO", "Vedanta", "VEDL", "SAIL",
-            "NMDC", "Coal India", "COALINDIA", "JSPL", "Jindal Steel",
-            "National Aluminium", "NATIONALUM", "Hindustan Zinc", "HINDZINC",
-            "APL Apollo Tubes", "APLAPOLLO", "Welspun Corp", "WELCORP",
-        ],
-        "keywords": [
-            "steel", "aluminum", "aluminium", "copper", "zinc", "iron ore",
-            "coal", "metal", "mining", "commodity", "Nifty Metal",
-            "LME", "scrap", "coking coal",
-        ],
+    # ── Industrials & Infra ───────────────────────────────────────────────────
+    "Industrials": {
+        "L&T":              ["Larsen", "L&T", "LT "],
+        "Siemens":          ["Siemens", "SIEMENS"],
+        "ABB India":        ["ABB India", "ABB"],
+        "BEL":              ["Bharat Electronics", "BEL"],
+        "HAL":              ["HAL", "Hindustan Aeronautics"],
+        "BHEL":             ["BHEL", "Bharat Heavy"],
+        "Cochin Ship":      ["Cochin Shipyard", "COCHINSHIP"],
+        "Power Grid":       ["Power Grid", "POWERGRID"],
+        "NTPC":             ["NTPC"],
+        "Adani Ports":      ["Adani Ports", "ADANIPORTS"],
+        "Adani Enterprises":["Adani Enterprises", "ADANIENT"],
+        "Adani Green":      ["Adani Green", "ADANIGREEN"],
+        "Tata Power":       ["Tata Power", "TATAPOWER"],
+        "CONCOR":           ["Container Corp", "CONCOR"],
+        "KEC Intl":         ["KEC International", "KECL"],
+        "Cummins":          ["Cummins India", "CUMMINSIND"],
+        "Thermax":          ["Thermax", "THERMAX"],
+        "Data Patterns":    ["Data Patterns", "DATAPATTNS"],
+        "RVNL":             ["RVNL", "Rail Vikas"],
+        "IRFC":             ["IRFC", "Indian Railway Finance"],
+        "GMR Airports":     ["GMR", "GMRAIRPORT"],
+        "Reliance Infra":   ["Reliance Infra", "RELINFRA"],
+        "IRB Infra":        ["IRB Infra", "IRB"],
     },
-    {
-        "name": "Capital Goods & Defence",
-        "weight": "~5%",
-        "color": "#37474f",
-        "stocks": [
-            "L&T", "Larsen & Toubro", "LT", "Siemens", "SIEMENS",
-            "ABB India", "ABB", "Bharat Electronics", "BEL",
-            "BHEL", "HAL", "Hindustan Aeronautics", "Cochin Shipyard", "COCHINSHIP",
-            "Power Grid", "POWERGRID", "NTPC", "Adani Ports", "ADANIPORTS",
-            "Container Corp", "CONCOR", "IRB Infra", "IRB",
-            "KEC International", "KECL", "Cummins", "CUMMINSIND",
-            "Thermax", "THERMAX", "Data Patterns", "DATAPATTNS",
-        ],
-        "keywords": [
-            "infrastructure", "capital goods", "defence", "defense", "power",
-            "electricity grid", "PLI scheme", "manufacturing", "Make in India",
-            "order book", "Nifty Infra", "capex", "EPC", "shipbuilding",
-        ],
-    },
-    {
-        "name": "Telecom & Media",
-        "weight": "~3%",
-        "color": "#283593",
-        "stocks": [
-            "Bharti Airtel", "BHARTIARTL", "Reliance Jio", "BSNL",
-            "Vodafone Idea", "IDEA", "Indus Towers", "INDUSTOWER",
-            "Tata Communications", "TATACOMM", "Zee Entertainment", "ZEEL",
-            "Sun TV Network", "SUNTV", "PVR INOX", "PVRINOX",
-        ],
-        "keywords": [
-            "telecom", "5G", "spectrum auction", "ARPU", "subscriber",
-            "broadband", "OTT", "streaming", "media", "Nifty Telecom",
-            "AGR", "TRAI",
-        ],
-    },
-    {
-        "name": "Real Estate & REITs",
-        "weight": "~2%",
-        "color": "#c62828",
-        "stocks": [
-            "DLF", "Godrej Properties", "GODREJPROP", "Prestige Estates", "PRESTIGE",
-            "Oberoi Realty", "OBEROIRLTY", "Phoenix Mills", "PHOENIXLTD",
-            "Brigade Enterprises", "BRIGADE", "Sobha", "SOBHA",
-            "Embassy REIT", "Mindspace REIT", "Nexus Select", "NEXUS",
-            "Macrotech", "LODHA", "Signature Global", "SIGNATURE",
-        ],
-        "keywords": [
-            "real estate", "realty", "housing", "property market", "REIT",
-            "residential project", "commercial property", "Nifty Realty",
-            "home loan", "affordable housing", "RERA", "stamp duty",
-        ],
-    },
-]
+}
 
+# Flat map: search_term → (sector, display_label)
+_TERM_MAP: dict[str, tuple[str, str]] = {}
+for _sector, _stocks in STOCKS.items():
+    for _label, _terms in _stocks.items():
+        for _t in _terms:
+            _TERM_MAP[_t.lower()] = (_sector, _label)
+
+# ── Macro keywords ────────────────────────────────────────────────────────────
 MACRO_KEYWORDS = [
     "RBI", "Reserve Bank of India", "rupee", "INR", "USD/INR", "forex reserve",
     "GDP", "inflation", "CPI", "WPI", "IIP", "PMI", "trade deficit",
-    "current account deficit", "fiscal deficit", "Union Budget", "GST collection",
+    "current account", "fiscal deficit", "Union Budget", "GST collection",
     "trade deal", "FTA", "free trade agreement", "tariff", "WTO", "IMF", "World Bank",
-    "geopolitics", "sanctions", "war", "ceasefire", "conflict",
+    "geopolitics", "sanctions", "ceasefire", "conflict",
     "US-India", "China-India", "Pakistan", "border tension", "LAC",
     "Nifty 50", "Sensex", "NSE", "BSE", "FII", "FPI", "DII", "FDI",
     "repo rate", "MPC", "monetary policy", "rate cut", "rate hike",
     "OPEC", "US Fed", "Federal Reserve", "dollar index", "DXY",
+    "war", "ceasefire", "peace deal", "export ban", "import duty",
 ]
 
+# Sector-level keywords (fallback when no stock name matched)
+SECTOR_KEYWORDS = {
+    "Banking":      ["bank", "banking", "NBFC", "insurance", "credit", "loan", "NPA",
+                     "fintech", "mutual fund", "AMC", "Nifty Bank", "repo rate",
+                     "interest rate", "financial services", "microfinance", "MFI"],
+    "IT":           ["IT sector", "software", "technology", "digital", "AI", "cloud",
+                     "outsourcing", "NASSCOM", "SaaS", "Nifty IT", "data center",
+                     "cybersecurity", "artificial intelligence"],
+    "Telecoms":     ["telecom", "5G", "spectrum", "ARPU", "subscriber",
+                     "broadband", "Nifty Telecom", "AGR", "TRAI"],
+    "Autos":        ["automobile", "EV", "electric vehicle", "vehicle sales",
+                     "auto sector", "passenger vehicle", "two-wheeler",
+                     "commercial vehicle", "Nifty Auto", "car sales"],
+    "E-Commerce":   ["e-commerce", "ecommerce", "online retail", "food delivery",
+                     "quick commerce", "q-commerce", "OTT", "streaming",
+                     "digital payments", "UPI", "fintech platform"],
+    "Materials":    ["steel", "aluminum", "aluminium", "copper", "zinc", "iron ore",
+                     "coal", "metal", "mining", "commodity", "Nifty Metal",
+                     "cement", "paints", "chemicals", "agrochemicals"],
+    "Industrials":  ["infrastructure", "capital goods", "defence", "defense",
+                     "power sector", "electricity", "PLI scheme", "Make in India",
+                     "order book", "Nifty Infra", "capex", "EPC", "shipbuilding",
+                     "railways", "airport", "logistics"],
+}
+
 RSS_FEEDS = [
-    # Economic Times
     "https://economictimes.indiatimes.com/markets/stocks/news/rssfeeds/2146842.cms",
     "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
     "https://economictimes.indiatimes.com/economy/rssfeeds/1373380680.cms",
     "https://economictimes.indiatimes.com/rssfeedstopstories.cms",
-    # Business Standard
     "https://www.business-standard.com/rss/markets-106.rss",
     "https://www.business-standard.com/rss/economy-policy-102.rss",
     "https://www.business-standard.com/rss/finance-113.rss",
-    # Moneycontrol
     "https://www.moneycontrol.com/rss/MCtopnews.xml",
     "https://www.moneycontrol.com/rss/marketreports.xml",
-    # LiveMint
     "https://www.livemint.com/rss/markets",
     "https://www.livemint.com/rss/economy",
     "https://www.livemint.com/rss/companies",
 ]
 
+SECTOR_COLORS = {
+    "Banking":     "#1a73e8",
+    "IT":          "#0f9d58",
+    "Telecoms":    "#283593",
+    "Autos":       "#7b1fa2",
+    "E-Commerce":  "#e91e63",
+    "Materials":   "#5d4037",
+    "Industrials": "#37474f",
+}
+
 # ── Helpers ───────────────────────────────────────────────────────────────────
 
-def text_matches(text: str, terms: list[str]) -> bool:
-    text_lower = text.lower()
-    return any(t.lower() in text_lower for t in terms)
-
-
-def classify_item(title: str, summary: str) -> list[str]:
-    """Return list of sector names this item belongs to (may be multiple)."""
-    combined = f"{title} {summary}"
-    matched = []
-    for sector in SECTORS:
-        if text_matches(combined, sector["stocks"]) or text_matches(combined, sector["keywords"]):
-            matched.append(sector["name"])
-    return matched
-
-
-def is_macro(title: str, summary: str) -> bool:
-    return text_matches(f"{title} {summary}", MACRO_KEYWORDS)
+def strip_html(text: str) -> str:
+    return re.sub(r"<[^>]+>", "", text or "").strip()
 
 
 def parse_date(entry) -> datetime | None:
     for attr in ("published_parsed", "updated_parsed"):
         val = getattr(entry, attr, None)
         if val:
-            import time
             return datetime(*val[:6], tzinfo=timezone.utc)
-    # try string parse
     for attr in ("published", "updated"):
         val = getattr(entry, attr, None)
         if val:
@@ -263,53 +244,79 @@ def parse_date(entry) -> datetime | None:
     return None
 
 
-def strip_html(text: str) -> str:
-    return re.sub(r"<[^>]+>", "", text or "").strip()
+def tag_item(title: str, summary: str) -> tuple[set[str], set[str]]:
+    """Return (matched_sectors, matched_stock_labels)."""
+    combined = f"{title} {summary}".lower()
+    matched_sectors: set[str] = set()
+    matched_stocks: set[str] = set()
 
+    # Stock-level matching (most precise)
+    for term, (sector, label) in _TERM_MAP.items():
+        if term in combined:
+            matched_sectors.add(sector)
+            matched_stocks.add(label)
+
+    # Sector keyword fallback
+    for sector, kws in SECTOR_KEYWORDS.items():
+        if any(kw.lower() in combined for kw in kws):
+            matched_sectors.add(sector)
+
+    return matched_sectors, matched_stocks
+
+
+def is_macro(title: str, summary: str) -> bool:
+    combined = f"{title} {summary}".lower()
+    return any(kw.lower() in combined for kw in MACRO_KEYWORDS)
+
+
+# ── Fetch ─────────────────────────────────────────────────────────────────────
 
 def fetch_all_news(hours_back: int = 24) -> dict:
-    """Fetch RSS feeds and return categorised news dict."""
     cutoff = datetime.now(timezone.utc) - timedelta(hours=hours_back)
-    seen_titles: set[str] = set()
+    seen: set[str] = set()
 
     macro_items: list[dict] = []
-    sector_items: dict[str, list[dict]] = {s["name"]: [] for s in SECTORS}
-    uncategorised: list[dict] = []
+    sector_items: dict[str, list[dict]] = {s: [] for s in STOCKS}
 
     for url in RSS_FEEDS:
         try:
             feed = feedparser.parse(url)
         except Exception as e:
-            print(f"Warning: failed to fetch {url}: {e}", file=sys.stderr)
+            print(f"Warning: failed {url}: {e}", file=sys.stderr)
             continue
 
         for entry in feed.entries:
             title = strip_html(entry.get("title", "")).strip()
-            if not title or title in seen_titles:
+            if not title or title in seen:
                 continue
-
             pub = parse_date(entry)
             if pub and pub < cutoff:
                 continue
+            seen.add(title)
 
-            seen_titles.add(title)
-            link = entry.get("link", "#")
+            link    = entry.get("link", "#")
             summary = strip_html(entry.get("summary", ""))[:300]
             pub_str = pub.astimezone(IST).strftime("%d %b %H:%M IST") if pub else ""
 
-            item = {"title": title, "link": link, "summary": summary, "pub": pub_str, "pub_dt": pub}
+            sectors, stocks = tag_item(title, summary)
+            macro           = is_macro(title, summary)
 
-            sectors_matched = classify_item(title, summary)
-            macro = is_macro(title, summary)
+            item = {
+                "title":   title,
+                "link":    link,
+                "summary": summary,
+                "pub":     pub_str,
+                "pub_dt":  pub,
+                "stocks":  sorted(stocks),   # stock tags
+                "sectors": sorted(sectors),  # sector tags
+            }
 
             if macro:
                 macro_items.append(item)
-            for sec in sectors_matched:
-                sector_items[sec].append(item)
-            if not macro and not sectors_matched:
-                uncategorised.append(item)
+            for sec in sectors:
+                if sec in sector_items:
+                    sector_items[sec].append(item)
 
-    # sort each bucket newest-first
     def sort_key(i):
         return i["pub_dt"] or datetime.min.replace(tzinfo=timezone.utc)
 
@@ -317,21 +324,43 @@ def fetch_all_news(hours_back: int = 24) -> dict:
     for k in sector_items:
         sector_items[k].sort(key=sort_key, reverse=True)
 
-    return {"macro": macro_items, "sectors": sector_items, "uncategorised": uncategorised}
+    return {"macro": macro_items, "sectors": sector_items}
 
 
-# ── HTML generation ───────────────────────────────────────────────────────────
+# ── HTML ──────────────────────────────────────────────────────────────────────
 
 def item_html(item: dict) -> str:
-    title = item["title"].replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+    title   = item["title"].replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
     summary = item["summary"].replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
-    pub = item["pub"]
-    link = item["link"].replace('"', "%22")
+    link    = item["link"].replace('"', "%22")
+    pub     = item["pub"]
+
+    # Stock tags
+    stock_tags = ""
+    if item["stocks"]:
+        tags = "".join(
+            f'<span class="tag tag-stock">{s.replace("&","&amp;")}</span>'
+            for s in item["stocks"]
+        )
+        stock_tags = f'<div class="tags">{tags}</div>'
+
+    # Sector tags (only shown in macro section where sector context is useful)
+    sector_tags = ""
+    if item.get("_show_sector_tags") and item["sectors"]:
+        tags = "".join(
+            f'<span class="tag tag-sector" style="border-color:{SECTOR_COLORS.get(s,"#888")}">{s}</span>'
+            for s in item["sectors"]
+        )
+        sector_tags = f'<div class="tags">{tags}</div>'
+
     return f"""
     <article class="news-item">
       <a href="{link}" target="_blank" rel="noopener noreferrer" class="news-title">{title}</a>
       {f'<p class="news-summary">{summary}</p>' if summary else ''}
-      {f'<span class="news-time">{pub}</span>' if pub else ''}
+      <div class="news-footer">
+        {f'<span class="news-time">{pub}</span>' if pub else ''}
+        {stock_tags}{sector_tags}
+      </div>
     </article>"""
 
 
@@ -339,27 +368,35 @@ def generate_html(data: dict, generated_at: datetime) -> str:
     now_ist = generated_at.astimezone(IST).strftime("%d %b %Y, %H:%M IST")
     now_syd = generated_at.astimezone(SYDNEY).strftime("%d %b %Y, %H:%M AEST")
 
-    macro_html = "".join(item_html(i) for i in data["macro"][:20]) or "<p class='empty'>No macro news in last 24h.</p>"
+    # Macro section — show sector tags so reader sees which sectors are in play
+    for item in data["macro"]:
+        item["_show_sector_tags"] = True
+    macro_html = (
+        "".join(item_html(i) for i in data["macro"][:25])
+        or "<p class='empty'>No macro news in last 24h.</p>"
+    )
 
+    # Sector sections
     sector_blocks = ""
-    for sector in SECTORS:
-        items = data["sectors"].get(sector["name"], [])
+    for sec_name, color in SECTOR_COLORS.items():
+        items = data["sectors"].get(sec_name, [])
         if not items:
             continue
-        items_html = "".join(item_html(i) for i in items[:12])
+        items_html = "".join(item_html(i) for i in items[:15])
+        count = len(items)
         sector_blocks += f"""
-    <section class="sector-card" id="{sector['name'].replace(' ', '-').lower()}">
-      <div class="sector-header" style="border-left: 4px solid {sector['color']}">
-        <span class="sector-name">{sector['name']}</span>
-        <span class="sector-badge">{sector['weight']} of Nifty&nbsp;50</span>
-        <span class="sector-count">{len(items)} stories</span>
+    <section class="sector-card" id="{sec_name.lower()}">
+      <div class="sector-header" style="border-left:4px solid {color}">
+        <span class="sector-name">{sec_name}</span>
+        <span class="sector-count">{count} {"story" if count==1 else "stories"}</span>
       </div>
       <div class="news-list">{items_html}</div>
     </section>"""
 
     nav_items = "".join(
-        f'<a href="#{s["name"].replace(" ", "-").lower()}" style="border-color:{s["color"]}">{s["name"]}</a>'
-        for s in SECTORS if data["sectors"].get(s["name"])
+        f'<a href="#{s.lower()}" style="border-color:{c}">{s}</a>'
+        for s, c in SECTOR_COLORS.items()
+        if data["sectors"].get(s)
     )
 
     return f"""<!DOCTYPE html>
@@ -370,166 +407,64 @@ def generate_html(data: dict, generated_at: datetime) -> str:
   <title>India Market Digest</title>
   <style>
     :root {{
-      --bg: #0f1117;
-      --surface: #1a1d27;
-      --surface2: #22263a;
-      --text: #e8eaf0;
-      --muted: #8892a4;
-      --accent: #ff6b35;
-      --macro-color: #ffd700;
-      --border: #2a2f42;
-      --link: #64b5f6;
-      --link-hover: #90caf9;
+      --bg:#0f1117; --surface:#1a1d27; --surface2:#22263a;
+      --text:#e8eaf0; --muted:#8892a4; --border:#2a2f42;
+      --link:#64b5f6; --link-hover:#90caf9;
+      --accent:#ff6b35; --macro:#ffd700;
     }}
-    * {{ box-sizing: border-box; margin: 0; padding: 0; }}
-    body {{
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-      background: var(--bg);
-      color: var(--text);
-      font-size: 14px;
-      line-height: 1.6;
-    }}
-    header {{
-      background: var(--surface);
-      border-bottom: 1px solid var(--border);
-      padding: 16px 24px;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      flex-wrap: wrap;
-      gap: 8px;
-      position: sticky;
-      top: 0;
-      z-index: 100;
-    }}
-    .logo {{
-      font-size: 20px;
-      font-weight: 700;
-      color: var(--accent);
-      letter-spacing: -0.5px;
-    }}
-    .logo span {{ color: var(--text); }}
-    .updated {{
-      color: var(--muted);
-      font-size: 12px;
-    }}
-    .container {{ max-width: 1200px; margin: 0 auto; padding: 20px 16px; }}
+    *{{box-sizing:border-box;margin:0;padding:0;}}
+    body{{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
+          background:var(--bg);color:var(--text);font-size:14px;line-height:1.6;}}
+    header{{background:var(--surface);border-bottom:1px solid var(--border);
+            padding:14px 24px;display:flex;align-items:center;
+            justify-content:space-between;flex-wrap:wrap;gap:8px;
+            position:sticky;top:0;z-index:100;}}
+    .logo{{font-size:20px;font-weight:700;color:var(--accent);letter-spacing:-0.5px;}}
+    .logo span{{color:var(--text);}}
+    .updated{{color:var(--muted);font-size:12px;}}
+    .container{{max-width:1200px;margin:0 auto;padding:20px 16px;}}
 
-    /* Nav */
-    .sector-nav {{
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px;
-      margin-bottom: 24px;
-      padding: 16px;
-      background: var(--surface);
-      border-radius: 8px;
-      border: 1px solid var(--border);
-    }}
-    .sector-nav a {{
-      color: var(--text);
-      text-decoration: none;
-      font-size: 12px;
-      padding: 4px 10px;
-      border-radius: 4px;
-      border: 1px solid;
-      opacity: 0.8;
-      transition: opacity 0.15s;
-    }}
-    .sector-nav a:hover {{ opacity: 1; background: var(--surface2); }}
+    .sector-nav{{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:24px;
+                 padding:14px;background:var(--surface);border-radius:8px;
+                 border:1px solid var(--border);}}
+    .sector-nav a{{color:var(--text);text-decoration:none;font-size:12px;
+                   padding:4px 10px;border-radius:4px;border:1px solid;
+                   opacity:.8;transition:opacity .15s;}}
+    .sector-nav a:hover{{opacity:1;background:var(--surface2);}}
 
-    /* Macro section */
-    .macro-section {{
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-top: 3px solid var(--macro-color);
-      border-radius: 8px;
-      padding: 20px;
-      margin-bottom: 24px;
-    }}
-    .macro-title {{
-      font-size: 16px;
-      font-weight: 700;
-      color: var(--macro-color);
-      margin-bottom: 16px;
-      display: flex;
-      align-items: center;
-      gap: 8px;
-    }}
-    .macro-title::before {{ content: "◆"; font-size: 10px; }}
+    .macro-section{{background:var(--surface);border:1px solid var(--border);
+                    border-top:3px solid var(--macro);border-radius:8px;
+                    padding:20px;margin-bottom:24px;}}
+    .macro-title{{font-size:16px;font-weight:700;color:var(--macro);
+                  margin-bottom:16px;display:flex;align-items:center;gap:8px;}}
+    .macro-title::before{{content:"◆";font-size:10px;}}
 
-    /* Sector cards */
-    .sector-card {{
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: 8px;
-      padding: 20px;
-      margin-bottom: 20px;
-    }}
-    .sector-header {{
-      display: flex;
-      align-items: baseline;
-      gap: 12px;
-      margin-bottom: 16px;
-      padding-left: 12px;
-      flex-wrap: wrap;
-    }}
-    .sector-name {{
-      font-size: 16px;
-      font-weight: 700;
-    }}
-    .sector-badge {{
-      font-size: 11px;
-      color: var(--muted);
-      background: var(--surface2);
-      padding: 2px 8px;
-      border-radius: 10px;
-    }}
-    .sector-count {{
-      font-size: 11px;
-      color: var(--muted);
-      margin-left: auto;
-    }}
+    .sector-card{{background:var(--surface);border:1px solid var(--border);
+                  border-radius:8px;padding:20px;margin-bottom:20px;}}
+    .sector-header{{display:flex;align-items:baseline;gap:12px;
+                    margin-bottom:16px;padding-left:12px;flex-wrap:wrap;}}
+    .sector-name{{font-size:16px;font-weight:700;}}
+    .sector-count{{font-size:11px;color:var(--muted);margin-left:auto;}}
 
-    /* News items */
-    .news-list {{ display: flex; flex-direction: column; gap: 12px; }}
-    .news-item {{
-      padding: 12px;
-      background: var(--surface2);
-      border-radius: 6px;
-      border: 1px solid var(--border);
-      transition: border-color 0.15s;
-    }}
-    .news-item:hover {{ border-color: #3a4060; }}
-    .news-title {{
-      color: var(--link);
-      text-decoration: none;
-      font-weight: 500;
-      font-size: 13.5px;
-      display: block;
-      margin-bottom: 4px;
-      line-height: 1.4;
-    }}
-    .news-title:hover {{ color: var(--link-hover); text-decoration: underline; }}
-    .news-summary {{
-      color: var(--muted);
-      font-size: 12px;
-      margin-bottom: 4px;
-    }}
-    .news-time {{
-      font-size: 11px;
-      color: #5a6480;
-    }}
-    .empty {{ color: var(--muted); font-style: italic; font-size: 13px; }}
+    .news-list{{display:flex;flex-direction:column;gap:10px;}}
+    .news-item{{padding:12px;background:var(--surface2);border-radius:6px;
+                border:1px solid var(--border);transition:border-color .15s;}}
+    .news-item:hover{{border-color:#3a4060;}}
+    .news-title{{color:var(--link);text-decoration:none;font-weight:500;
+                 font-size:13.5px;display:block;margin-bottom:4px;line-height:1.4;}}
+    .news-title:hover{{color:var(--link-hover);text-decoration:underline;}}
+    .news-summary{{color:var(--muted);font-size:12px;margin-bottom:6px;}}
+    .news-footer{{display:flex;align-items:center;flex-wrap:wrap;gap:6px;margin-top:6px;}}
+    .news-time{{font-size:11px;color:#5a6480;margin-right:4px;}}
 
-    footer {{
-      text-align: center;
-      color: var(--muted);
-      font-size: 11px;
-      padding: 32px 16px;
-      border-top: 1px solid var(--border);
-      margin-top: 40px;
-    }}
+    .tags{{display:flex;flex-wrap:wrap;gap:4px;}}
+    .tag{{font-size:11px;padding:2px 7px;border-radius:10px;font-weight:500;white-space:nowrap;}}
+    .tag-stock{{background:#1e2a3a;color:#90caf9;border:1px solid #2a4060;}}
+    .tag-sector{{background:transparent;color:var(--muted);border:1px solid;}}
+
+    .empty{{color:var(--muted);font-style:italic;font-size:13px;}}
+    footer{{text-align:center;color:var(--muted);font-size:11px;
+            padding:32px 16px;border-top:1px solid var(--border);margin-top:40px;}}
   </style>
 </head>
 <body>
@@ -538,8 +473,8 @@ def generate_html(data: dict, generated_at: datetime) -> str:
     <div class="updated">Updated {now_syd} &nbsp;·&nbsp; {now_ist}</div>
   </header>
   <div class="container">
-    <nav class="sector-nav" aria-label="Jump to sector">
-      <a href="#macro" style="border-color:#ffd700">Macro</a>
+    <nav class="sector-nav">
+      <a href="#macro" style="border-color:var(--macro)">Macro</a>
       {nav_items}
     </nav>
 
@@ -551,29 +486,29 @@ def generate_html(data: dict, generated_at: datetime) -> str:
     {sector_blocks}
   </div>
   <footer>
-    India Market Digest · F&amp;O stocks only · News since last NSE close · Auto-updated 10am AEST daily<br/>
+    India Market Digest · F&amp;O stocks · News since last NSE close · Auto-updated 10am AEST daily<br/>
     Sources: Economic Times · Business Standard · Moneycontrol · LiveMint
   </footer>
 </body>
 </html>"""
 
 
-# ── Entry point ───────────────────────────────────────────────────────────────
+# ── Main ──────────────────────────────────────────────────────────────────────
 
 def main():
-    print("Fetching news feeds...", file=sys.stderr)
+    print("Fetching news…", file=sys.stderr)
     data = fetch_all_news(hours_back=24)
     print(f"  Macro: {len(data['macro'])} items", file=sys.stderr)
-    for s in SECTORS:
-        n = len(data["sectors"].get(s["name"], []))
+    for sec in STOCKS:
+        n = len(data["sectors"].get(sec, []))
         if n:
-            print(f"  {s['name']}: {n} items", file=sys.stderr)
+            print(f"  {sec}: {n} items", file=sys.stderr)
 
     html = generate_html(data, datetime.now(timezone.utc))
-    out = Path("docs/index.html")
+    out  = Path("docs/index.html")
     out.parent.mkdir(exist_ok=True)
     out.write_text(html, encoding="utf-8")
-    print(f"Written to {out}", file=sys.stderr)
+    print(f"Written → {out}", file=sys.stderr)
 
 
 if __name__ == "__main__":
