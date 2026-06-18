@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh --version)",
+      "Bash(git --version)",
+      "PowerShell(gh --version)",
+      "PowerShell(python --version)",
+      "PowerShell($env:PATH = [System.Environment]::GetEnvironmentVariable\\(\"PATH\",\"Machine\"\\) + \";\" + [System.Environment]::GetEnvironmentVariable\\(\"PATH\",\"User\"\\); gh --version)",
+      "PowerShell(Get-ChildItem \"C:\\\\Program Files\\\\GitHub CLI\" -ErrorAction SilentlyContinue; Get-ChildItem \"$env:LOCALAPPDATA\\\\Programs\\\\GitHub CLI\" -ErrorAction SilentlyContinue)",
+      "PowerShell(Invoke-WebRequest -Uri \"https://github.com/cli/cli/releases/download/v2.94.0/gh_2.94.0_windows_amd64.zip\" -OutFile \"$env:TEMP\\\\gh.zip\" -UseBasicParsing; Expand-Archive \"$env:TEMP\\\\gh.zip\" -DestinationPath \"$env:TEMP\\\\gh_cli\" -Force; & \"$env:TEMP\\\\gh_cli\\\\gh_2.94.0_windows_amd64\\\\bin\\\\gh.exe\" --version)"
+    ]
+  }
+}

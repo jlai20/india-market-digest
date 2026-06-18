@@ -1,0 +1,38 @@
+name: Update India Market Digest
+
+on:
+  schedule:
+    # 10:00 AM AEST (UTC+10) = 00:00 UTC  [winter]
+    # 10:00 AM AEDT (UTC+11) = 23:00 UTC  [summer — runs at 9am AEST instead]
+    # Primary trigger: midnight UTC (10am AEST)
+    - cron: "0 0 * * 1-6"   # Mon–Sat (covers Mon–Fri market days + Saturday morning catchup)
+    # Secondary: 23:00 UTC for AEDT season
+    - cron: "0 23 * * 0-5"  # Sun–Fri at 23:00 UTC
+  workflow_dispatch:         # allow manual runs
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate news digest
+        run: python fetch_news.py
+
+      - name: Commit & push updated digest
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/index.html
+          git diff --cached --quiet || git commit -m "chore: update digest $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
