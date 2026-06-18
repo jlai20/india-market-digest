@@ -226,7 +226,7 @@ SENTIMENT_STYLE = {
 }
 
 STORE_PATH = Path("data/news_store.json")
-STORE_DAYS = 90   # keep 90 days of history
+STORE_DAYS = None  # keep everything — full historical depository
 BATCH_SIZE = 8    # items per Claude call
 
 
@@ -287,12 +287,6 @@ def load_store() -> dict:
 
 def save_store(store: dict) -> None:
     STORE_PATH.parent.mkdir(exist_ok=True)
-    # Prune items older than STORE_DAYS
-    cutoff = (datetime.now(timezone.utc) - timedelta(days=STORE_DAYS)).isoformat()
-    store["items"] = {
-        k: v for k, v in store["items"].items()
-        if v.get("pub_dt", "9") >= cutoff
-    }
     STORE_PATH.write_text(json.dumps(store, indent=2, ensure_ascii=False), encoding="utf-8")
 
 
