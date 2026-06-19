@@ -7758,6 +7758,85 @@
           "RBL Bank": "positive"
         }
       }
+    },
+    "e24b8610528e5b79": {
+      "id": "e24b8610528e5b79",
+      "title": "Quote of the day by Charlie Munger: \"I figure that I want to swim as well as I can against the tides. I’m not trying to predict the tides\"",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-charlie-munger-i-figure-that-i-want-to-swim-as-well-as-i-can-against-the-tides-im-not-trying-to-predict-the-tides/articleshow/131847169.cms",
+      "summary": "Charlie Munger’s quote on swimming against market “tides” highlights his belief that investors should not try to predict markets but instead focus on improving judgement and discipline. His philosophy emphasises long-term thinking, strong fundamentals and emotional control, reinforcing that successful investing is built on preparation rather than prediction.",
+      "pub": "19 Jun 18:10 IST",
+      "pub_dt": "2026-06-19T12:40:00+00:00",
+      "sectors": [
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "BEL",
+        "L&T",
+        "Mphasis"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Charlie Munger's quote on investment philosophy is motivational commentary without concrete catalysts or operational impacts. While the philosophy aligns with fundamentals-driven investing (relevant to BEL's defence growth story and L&T's infrastructure positioning), the quote itself does not provide new information that would move earnings expectations or valuations for the tagged stocks.",
+        "stocks": {
+          "BEL": "neutral",
+          "L&T": "neutral",
+          "Mphasis": "neutral"
+        }
+      }
+    },
+    "46a3529d34410a0c": {
+      "id": "46a3529d34410a0c",
+      "title": "EPFO: When can you get 8.25% EPF interest?",
+      "link": "https://economictimes.indiatimes.com/wealth/save/epfo-when-can-you-get-8-25-epf-interest-amount-in-your-provident-fund-account/articleshow/131859470.cms",
+      "summary": "",
+      "pub": "19 Jun 18:17 IST",
+      "pub_dt": "2026-06-19T12:47:26+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "EPFO interest rate discussion is macro-level policy commentary with no direct impact on equity valuations or earnings. While relevant to household savings behavior and consumer spending patterns, it lacks specificity on timing, implementation, or linkage to any particular stock sector.",
+        "stocks": {}
+      }
+    },
+    "69d69ee9f7aa5978": {
+      "id": "69d69ee9f7aa5978",
+      "title": "Ambani says Reliance succession plan near completion",
+      "link": "https://economictimes.indiatimes.com/news/company/corporate-trends/ambani-says-reliance-succession-plan-near-completion-as-children-take-over-day-to-day-operations/articleshow/131859376.cms",
+      "summary": "",
+      "pub": "19 Jun 18:09 IST",
+      "pub_dt": "2026-06-19T12:39:35+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Reliance's succession plan completion is a governance milestone with positive long-term implications for organizational continuity and shareholder confidence, but the headline provides no quantitative guidance on operational performance, capex plans, or earnings trajectory. Impact remains forward-looking and contingent on execution details.",
+        "stocks": {}
+      }
+    },
+    "37029b54c2007bad": {
+      "id": "37029b54c2007bad",
+      "title": "US-Iran deal under immediate strain",
+      "link": "https://economictimes.indiatimes.com/news/defence/us-iran-deal-under-immediate-strain-as-fighting-flares-in-lebanon/articleshow/131859031.cms",
+      "summary": "Geneva: Deadly exchanges between Israel and Hezbollah in Lebanon put a newly signed deal to end the Middle East war under further strain on Friday, after the postponement of planned US-Iran talks in Switzerland.The delay came as Tehran's top negotiator warned it would not bend on its red lines and that its finger was still \"on the trigger\", even as shipping appeared to pick up in the Strait of Hor",
+      "pub": "19 Jun 17:46 IST",
+      "pub_dt": "2026-06-19T12:16:19+00:00",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "US-Iran deal strain due to Israel-Hezbollah escalation signals renewed geopolitical risk and supply disruption concerns in the Middle East. This pressures oil prices upward (inverse to recent slide below $80), increases volatility in IT spending, telecom capex decisions, and auto sector input costs, creating macro headwinds for these sectors.",
+        "stocks": {}
+      }
     }
   }
 }
