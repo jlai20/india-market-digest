@@ -13080,6 +13080,290 @@
         "reasoning": "Nestle India's special dividend and stock price appreciation reflect capital management, but commentary on food inflation reshaping consumption indicates demand softness in packaged foods. Growth outlook remains uncertain despite shareholder-friendly capital allocation.",
         "stocks": {}
       }
+    },
+    "9349b11a2c4c3147": {
+      "id": "9349b11a2c4c3147",
+      "title": "Govt raises onion procurement price by 13% as buffer stock buying struggles",
+      "link": "https://economictimes.indiatimes.com/news/economy/agriculture/govt-raises-onion-procurement-price-by-13-as-buffer-stock-buying-struggles/articleshow/132177889.cms",
+      "summary": "Government hikes onion procurement price by 13% to Rs 2,125/quintal, effective July 4, 2026, to boost buffer stock purchases amid a slow start. This is the fifth increase this season, with only 2,000 tonnes procured so far. Despite production parity, seasonal price rises are expected, though overall availability remains stable. Speculative buying is noted due to delayed monsoons, while exports fac",
+      "pub": "04 Jul 14:12 IST",
+      "pub_dt": "2026-07-04T08:42:01+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Government onion procurement price hike is a supply-side management measure with no direct impact on equity stocks. While it may moderate food inflation marginally, this is a sector-level commodity issue unrelated to listed equities.",
+        "stocks": {}
+      }
+    },
+    "4a8f358ec5fdc5d3": {
+      "id": "4a8f358ec5fdc5d3",
+      "title": "Adani QIP sells like hotcake, raises ₹15,000 cr",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/healthy-appetite-adani-enterprises-qip-gets-nearly-4x-bids/articleshow/132174746.cms",
+      "summary": "",
+      "pub": "04 Jul 10:01 IST",
+      "pub_dt": "2026-07-04T04:31:16+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Adani QIP raising ₹15,000 cr at strong demand indicates positive investor sentiment and capital availability for growth initiatives. This strengthens balance sheet and provides war chest for acquisitions/expansion, supporting valuation multiples.",
+        "stocks": {}
+      }
+    },
+    "9da727ec14b6f9bb": {
+      "id": "9da727ec14b6f9bb",
+      "title": "Fresh jolt for TMC: Bengal chief Chandrima quits",
+      "link": "https://economictimes.indiatimes.com/news/politics-and-nation/fresh-jolt-for-tmc-as-bengal-chief-chandrima-bhattacharya-quits-all-party-posts/articleshow/132178148.cms",
+      "summary": "",
+      "pub": "04 Jul 14:25 IST",
+      "pub_dt": "2026-07-04T08:55:41+00:00",
+      "sectors": [
+        "Industrials"
+      ],
+      "stocks": [
+        "L&T"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Political developments in West Bengal (TMC chief resignation) are governance-level events without direct operational or financial impact on L&T's businesses. L&T's diversified portfolio across infrastructure, defense, and industrial segments insulates it from state-level political noise.",
+        "stocks": {
+          "L&T": "neutral"
+        }
+      }
+    },
+    "a45dc7496f9d3f08": {
+      "id": "a45dc7496f9d3f08",
+      "title": "Umar Khalid, Sharjeel Imam bail order reserved",
+      "link": "https://economictimes.indiatimes.com/news/india/2020-delhi-riots-court-reserves-order-on-bail-of-student-activists-umar-khalid-sharjeel-imam/articleshow/132177910.cms",
+      "summary": "",
+      "pub": "04 Jul 14:14 IST",
+      "pub_dt": "2026-07-04T08:44:30+00:00",
+      "sectors": [
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "HAL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Bail order hearing for Umar Khalid and Sharjeel Imam is a legal/political development with no relevance to HAL's core defense manufacturing and aerospace operations. Recent history shows macro factors (bonds, CBAM) have minimal direct impact on HAL's business.",
+        "stocks": {
+          "HAL": "neutral"
+        }
+      }
+    },
+    "bfb8a85cbd103aa4": {
+      "id": "bfb8a85cbd103aa4",
+      "title": "FD rate up to 8.3% for senior citizens",
+      "link": "https://economictimes.indiatimes.com/wealth/invest/fd-rate-up-to-8-3-for-senior-citizens-investing-for-three-years-know-list-of-banks/articleshow/132177794.cms",
+      "summary": "",
+      "pub": "04 Jul 14:20 IST",
+      "pub_dt": "2026-07-04T08:50:50+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Higher FD rates (up to 8.3% for senior citizens) increase cost of funds for banks and reduce relative attractiveness of equity investments, creating headwind for equity valuations. This is a continuation of RBI's liquidity tightening cycle affecting cost of capital.",
+        "stocks": {}
+      }
+    },
+    "488fe6c95d03361f": {
+      "id": "488fe6c95d03361f",
+      "title": "Delhi rains: IMD issues yellow alert",
+      "link": "https://economictimes.indiatimes.com/news/india/yellow-alert-in-delhi-thunderstorms-rain-to-continue-till-july-9-says-imd/articleshow/132177798.cms",
+      "summary": "",
+      "pub": "04 Jul 14:12 IST",
+      "pub_dt": "2026-07-04T08:42:54+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Delhi weather alerts (yellow alert for rains) are localized meteorological events with minimal impact on listed equities. Monsoon-related news becomes material only at scale (sector-wide crop/demand impact) or for weather-dependent sectors.",
+        "stocks": {}
+      }
+    },
+    "0e76ca5554a8374b": {
+      "id": "0e76ca5554a8374b",
+      "title": "Banks' loan spree outpaces deposits",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indias-banks-are-handing-out-more-loans-but-deposits-arent-keeping-up/articleshow/132177579.cms",
+      "summary": "",
+      "pub": "04 Jul 13:55 IST",
+      "pub_dt": "2026-07-04T08:25:44+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Loan growth outpacing deposit growth indicates either strong credit demand (positive for bank earnings) or deposit mobilization challenges (negative for NIM sustainability). This presents a mixed picture dependent on whether the divergence persists and RBI's regulatory response.",
+        "stocks": {}
+      }
+    },
+    "0a37890037a80627": {
+      "id": "0a37890037a80627",
+      "title": "IMD issues red alert for heavy rains in Bengal",
+      "link": "https://economictimes.indiatimes.com/news/india/west-bengal-rains-imd-issues-red-alert-for-heavy-rains-as-low-pressure-develops-over-bay-of-bengal/articleshow/132177445.cms",
+      "summary": "",
+      "pub": "04 Jul 13:30 IST",
+      "pub_dt": "2026-07-04T08:00:35+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Red alert for heavy rains in Bengal poses operational risks for manufacturing, logistics, and infrastructure sectors with significant exposure to the region. This could impact project timelines, supply chains, and working capital cycles for affected companies.",
+        "stocks": {}
+      }
+    },
+    "cf2a3c8b8946fc91": {
+      "id": "cf2a3c8b8946fc91",
+      "title": "This 'Ugly Indian' changed how India cleans streets",
+      "link": "https://economictimes.indiatimes.com/news/new-updates/i-once-coached-rahul-dravid-meet-arun-pai-the-ugly-indian-founder-who-spent-24-hours-staring-at-a-garbage-dump-and-changed-how-india-cleans-its-streets/articleshow/132177475.cms",
+      "summary": "",
+      "pub": "04 Jul 13:55 IST",
+      "pub_dt": "2026-07-04T08:25:39+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Street cleaning initiatives, while socially important, lack direct financial impact on listed equities. This is a grassroots social movement without earnings or valuation implications for any public companies.",
+        "stocks": {}
+      }
+    },
+    "1fa569b19ca2c06c": {
+      "id": "1fa569b19ca2c06c",
+      "title": "Viral smile triggers row for Mumbai BJP chief",
+      "link": "https://economictimes.indiatimes.com/news/politics-and-nation/smile-amid-monsoon-deaths-mumbais-bjp-chief-ameet-satam-faces-backlash/articleshow/132177031.cms",
+      "summary": "",
+      "pub": "04 Jul 13:23 IST",
+      "pub_dt": "2026-07-04T07:53:14+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "A political controversy involving a BJP official's viral image has no material bearing on IT sector fundamentals, earnings, or competitive dynamics. This is a political/social news item disconnected from business operations.",
+        "stocks": {}
+      }
+    },
+    "f79fd18b7a312f9e": {
+      "id": "f79fd18b7a312f9e",
+      "title": "India's oil, petrochem industry gets a major boost",
+      "link": "https://economictimes.indiatimes.com/news/india/pm-modi-unveilsindias-first-integrated-refinery-cum-petrochemical-complex-with-9-mmtpa-capacity-hpcl-development-projects-rajasthan-jaipur-metro-rail-solar-energy/articleshow/132176585.cms",
+      "summary": "",
+      "pub": "04 Jul 13:20 IST",
+      "pub_dt": "2026-07-04T07:50:06+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "A boost to India's oil and petrochemical industry supports earnings growth and margin expansion for integrated players. This reflects positive commodity/energy sector momentum with potential tailwinds for refining and petrochemical margins.",
+        "stocks": {}
+      }
+    },
+    "303fc2455ba4606d": {
+      "id": "303fc2455ba4606d",
+      "title": "Markets may consolidate; micro, small and mid-caps could lead alpha generation, says Quant Mutual Fund",
+      "link": "https://economictimes.indiatimes.com/mf/analysis/markets-may-consolidate-micro-small-and-mid-caps-could-lead-alpha-generation-says-quant-mutual-fund/articleshow/132177947.cms",
+      "summary": "India's equity markets may be entering a phase of consolidation over a period of time after a strong rally, but opportunities for generating alpha are likely to remain in the broader market, according to Quant Mutual Fund. While large-cap oriented indices are expected to participate in the country's long-term economic expansion, the fund house believes micro-, small- and mid-cap stocks could be be",
+      "pub": "04 Jul 14:22 IST",
+      "pub_dt": "2026-07-04T08:52:13+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT",
+        "Industrials",
+        "Materials"
+      ],
+      "stocks": [
+        "ACC",
+        "BEL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "The commentary suggests large-cap consolidation with alpha opportunities in micro/small/mid-caps. For ACC (materials) and BEL (industrials/defense), recent context shows mixed signals: India-Peru FTA delays hurt materials exporters, but India-Israel BIA and analyst rebalancing toward metals/industrials provide some support. ACC faces EU CBAM compliance headwinds while BEL operates in less cyclical defense segment.",
+        "stocks": {
+          "ACC": "mixed",
+          "BEL": "neutral"
+        }
+      }
+    },
+    "1cb6c486f66399fc": {
+      "id": "1cb6c486f66399fc",
+      "title": "11 equity mutual funds deliver over 25% in 3 months. Do you own any?",
+      "link": "https://economictimes.indiatimes.com/mf/analysis/11-equity-mutual-funds-deliver-over-25-in-3-months-do-you-own-any/slideshow/132177862.cms",
+      "summary": "",
+      "pub": "04 Jul 14:07 IST",
+      "pub_dt": "2026-07-04T08:37:44+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Strong mutual fund performance (>25% in 3 months) in the banking sector indicates investor confidence and bullish sentiment. This reflects strong earnings momentum and valuation expansion in banking stocks, suggesting sustained growth prospects.",
+        "stocks": {}
+      }
+    },
+    "3c25e3324e7ed01a": {
+      "id": "3c25e3324e7ed01a",
+      "title": "Yes Bank Q1 business update is out; shares to be in focus on Monday: Check details",
+      "link": "https://www.livemint.com/market/stock-market-news/yes-bank-q1-business-update-is-out-yes-bank-share-price-to-be-in-focus-on-monday-check-details-11783152374971.html",
+      "summary": "Yes Bank shares declined 2% in a week but gained 6% in a month and 13% in 2026, closing at  ₹24.39. CASA deposits rose 14.3% YoY, while the bank's board approved a proposal to raise  ₹16,000 crore through equity and debt issuances, pending approvals.",
+      "pub": "04 Jul 13:51 IST",
+      "pub_dt": "2026-07-04T08:21:53+00:00",
+      "sectors": [
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Yes Bank's Q1 business update shows positive momentum: CASA deposits +14.3% YoY demonstrates strong liability growth and deposit quality improvement, while ₹16,000 crore capital raise enables growth and strengthens balance sheet. Recent share price gains (6% monthly, 13% in 2026) reflect market confidence in turnaround trajectory.",
+        "stocks": {}
+      }
+    },
+    "d0007dc50f5bebba": {
+      "id": "d0007dc50f5bebba",
+      "title": "India-Israel Bilateral Investment Agreement comes into effect to boost cross-border investments",
+      "link": "https://www.livemint.com/economy/indiaisrael-bilateral-investment-agreement-comes-into-effect-to-boost-cross-border-investments-11783149691955.html",
+      "summary": "The Bilateral Investment Agreement (BIA) between India and Israel has come into force today, 04 July 2026, marking a new phase in economic ties between the two countries.",
+      "pub": "04 Jul 13:44 IST",
+      "pub_dt": "2026-07-04T08:14:56+00:00",
+      "sectors": [
+        "Telecoms"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "The India-Israel Bilateral Investment Agreement coming into force provides policy certainty and reduces regulatory friction for cross-border investments. This creates long-term growth opportunities for telecom and technology companies with Israel exposure or partnerships, improving capital deployment prospects.",
+        "stocks": {}
+      }
     }
   }
 }
