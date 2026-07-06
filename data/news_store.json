@@ -16922,6 +16922,315 @@
         "reasoning": "Government deadline extension for WhatsApp on username security is a regulatory/compliance procedural matter. While it addresses data privacy concerns, it does not materially alter Meta's (or any Indian listed tech company's) revenue model, margins, or competitive positioning.",
         "stocks": {}
       }
+    },
+    "d16cee9dad7ae5cf": {
+      "id": "d16cee9dad7ae5cf",
+      "title": "Trump rings Wall Street's opening bells as he ties his presidency to stock market gains",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/trump-rings-wall-streets-opening-bells-as-he-ties-his-presidency-to-stock-market-gains/articleshow/132218009.cms",
+      "summary": "President Trump symbolically opened the stock market from the Oval Office, linking his presidency to market gains amid rising inflation. Despite claims of record-setting markets, only 33% approve of his economic leadership. The initiative promotes \"Trump Accounts\" for children's investments, highlighting that many families lack direct stock exposure, a benefit often seen in wealthier households. I",
+      "pub": "06 Jul 19:22 IST",
+      "pub_dt": "2026-07-06T13:52:32+00:00",
+      "sectors": [
+        "IT",
+        "Industrials",
+        "Materials"
+      ],
+      "stocks": [
+        "ACC",
+        "BEL"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Trump's symbolic market opening and promotion of retail investment accessibility is macro-positive sentiment but lacks direct earnings impact on ACC or BEL. Recent history shows BEL benefiting from ₹52,000 crore defence procurement (positive), while ACC faces monsoon-related inflation headwinds (negative), creating offsetting dynamics.",
+        "stocks": {
+          "ACC": "neutral",
+          "BEL": "neutral"
+        }
+      }
+    },
+    "ac152dc6fdb2d366": {
+      "id": "ac152dc6fdb2d366",
+      "title": "India's office leasing hits record as multinationals expand despite global uncertainty",
+      "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/indias-office-leasing-hits-record-as-multinationals-expand-despite-global-uncertainty/articleshow/132217778.cms",
+      "summary": "In the first half of 2026, India's office market saw unprecedented growth, with a staggering 45.5 million square feet leased. This remarkable rise was propelled by multinational firms, especially those enhancing their Global Capability Centres, contributing to 43% of total leasing. Despite global challenges, India stands out as an attractive locale owing to its talent pool, cost benefits, and prop",
+      "pub": "06 Jul 19:14 IST",
+      "pub_dt": "2026-07-06T13:44:06+00:00",
+      "sectors": [
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "HAL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Record 45.5 million sq ft office leasing driven by multinational GCC expansion directly benefits IT services real estate demand and talent retention, supporting HAL's allied sectors. However, this is primarily an IT/corporate real estate story; HAL's defence business is insulated but benefits from broader economic optimism. Recent ₹52,000 crore defence procurement approval remains the primary positive catalyst.",
+        "stocks": {
+          "HAL": "neutral"
+        }
+      }
+    },
+    "06f56a22f3c74281": {
+      "id": "06f56a22f3c74281",
+      "title": "US stocks today: US stocks open higher as chip shares recover",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-open-higher-as-chip-shares-recover/articleshow/132217728.cms",
+      "summary": "Wall Street opened mixed on Monday as chip stocks rebounded, extending last week’s rally. While the Nasdaq and S&amp;P 500 gained at the open, the Dow slipped slightly. Investors are now focused on upcoming Federal Reserve minutes and the start of the second-quarter earnings season for further market direction.",
+      "pub": "06 Jul 19:07 IST",
+      "pub_dt": "2026-07-06T13:37:30+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "US chip sector recovery is positive for global semiconductor demand but lacks direct linkage to Indian equities without specific stock tagging. This is a US-centric market technical rebound with no earnings implications for India-listed companies.",
+        "stocks": {}
+      }
+    },
+    "fb7d80634d0aa806": {
+      "id": "fb7d80634d0aa806",
+      "title": "Corporate Paper issuances touch 5-yr high at Rs 2.53 lakh crore in June",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/corporate-paper-issuances-touch-5-yr-high-at-rs-2-53-lakh-crore-in-june/articleshow/132217371.cms",
+      "summary": "Indian companies significantly boosted their fundraising via commercial papers in June, reaching a near five-year high. This surge, driven by attractive pricing, seasonal needs, and debt refinancing, saw Rs 2.53 lakh crore raised. Experts note a shift from costlier bank loans to cheaper short-term market funding, supported by ample investor demand and a stable liquidity environment. The Reserve Ba",
+      "pub": "06 Jul 18:36 IST",
+      "pub_dt": "2026-07-06T13:06:57+00:00",
+      "sectors": [
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Record Rs 2.53 lakh crore corporate paper issuance at 5-yr high signals strong corporate confidence, ample liquidity, and lower borrowing costs as companies shift from expensive bank loans to market funding. This eases refinancing burden and supports capex cycles for Indian corporates broadly.",
+        "stocks": {}
+      }
+    },
+    "db495cf30a42fab5": {
+      "id": "db495cf30a42fab5",
+      "title": "Rentomojo gets Sebi's approval to float IPO",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/rentomojo-gets-sebis-approval-to-float-ipo/articleshow/132217322.cms",
+      "summary": "Rentomojo, an innovative online rental platform specializing in furniture and appliances, has received approval from Sebi for its Initial Public Offering (IPO). Aiming to raise up to Rs 150 crore through new equity and an Offer for Sale by current shareholders, the proceeds will support loan repayments, warehouse rentals, and overall business operations. With a strong subscriber base and diverse p",
+      "pub": "06 Jul 18:33 IST",
+      "pub_dt": "2026-07-06T13:03:44+00:00",
+      "sectors": [
+        "Banking",
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Rentomojo's Sebi IPO approval is positive for the rental platform's growth prospects and fundraising, but lacks direct impact on broader market or earnings of existing listed companies. This is a sector-neutral new market entrant event.",
+        "stocks": {}
+      }
+    },
+    "27a097ee8cb231e5": {
+      "id": "27a097ee8cb231e5",
+      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: US stocks open higher as chip shares recover",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-earnings-forecast-micron-western-digital-seagate-stock-price-news-6-july-2026/liveblog/132216513.cms",
+      "summary": "",
+      "pub": "06 Jul 17:43 IST",
+      "pub_dt": "2026-07-06T12:13:17+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Duplicate headline with no substantive content or stock-specific information provided.",
+        "stocks": {}
+      }
+    },
+    "3e729924b3bfc782": {
+      "id": "3e729924b3bfc782",
+      "title": "The mental health crisis tea garden executives have long faced, now a study explores it",
+      "link": "https://economictimes.indiatimes.com/news/economy/agriculture/the-mental-health-crisis-tea-garden-executives-have-long-faced-now-a-study-explores-it/articleshow/132217890.cms",
+      "summary": "A groundbreaking doctoral study by Dr. Pransu Raj Kaushik, awarded by Dibrugarh University, has illuminated the critical yet overlooked issue of workplace stress and mental health among tea garden executives. The research, a comparative analysis involving NETA member companies and BCPL, offers vital insights for improving employee well-being and productivity within the tea sector.",
+      "pub": "06 Jul 19:20 IST",
+      "pub_dt": "2026-07-06T13:50:16+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Academic study on tea garden executive mental health is a social/HR issue with no direct earnings, margin, or valuation impact on listed equity markets.",
+        "stocks": {}
+      }
+    },
+    "4b2d4cb857dc74cf": {
+      "id": "4b2d4cb857dc74cf",
+      "title": "Manipur militants kill 2 Assam Rifles soldiers",
+      "link": "https://economictimes.indiatimes.com/news/defence/two-assam-rifles-soldiers-killed-several-injured-in-ambush-by-militants-in-manipur/articleshow/132217911.cms",
+      "summary": "",
+      "pub": "06 Jul 19:21 IST",
+      "pub_dt": "2026-07-06T13:51:10+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Security incident in Manipur is a geopolitical/law-and-order event with no direct bearing on corporate earnings, margins, or equity valuations.",
+        "stocks": {}
+      }
+    },
+    "7a41cf261897f937": {
+      "id": "7a41cf261897f937",
+      "title": "India T20I squad for Zimbabwe: Samson dropped",
+      "link": "https://economictimes.indiatimes.com/news/sports/cricket/india-t20i-squad-for-zimbabwe-announced-vaibhav-sooryavanshi-included-check-full-team-schedule-and-key-updates/articleshow/132217823.cms",
+      "summary": "",
+      "pub": "06 Jul 19:13 IST",
+      "pub_dt": "2026-07-06T13:43:37+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Cricket squad selection changes have no direct impact on equity markets or earnings of publicly traded companies. This is a sports governance event with no financial implications.",
+        "stocks": {}
+      }
+    },
+    "dd995bed32fc6192": {
+      "id": "dd995bed32fc6192",
+      "title": "Saudi makes Aug crude oil cheaper for Asian buyers",
+      "link": "https://economictimes.indiatimes.com/news/international/business/saudi-arabia-makes-august-crude-oil-cheaper-for-asian-buyers/articleshow/132217402.cms",
+      "summary": "",
+      "pub": "06 Jul 18:44 IST",
+      "pub_dt": "2026-07-06T13:14:11+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Saudi crude price cuts signal global oversupply and weakening demand, creating disinflationary pressure. This reduces upstream energy company margins and capital investment returns, though benefits downstream consumers and import-dependent economies like India.",
+        "stocks": {}
+      }
+    },
+    "1e3b9a82c5997e37": {
+      "id": "1e3b9a82c5997e37",
+      "title": "Air India lists six A319 aircraft for sale",
+      "link": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/air-india-lists-six-a319-aircraft-for-sale-through-skytech-aic/articleshow/132217217.cms",
+      "summary": "Air India has appointed Skytech-AIC to sell six Airbus A319 aircraft as the Tata Group-owned carrier continues to rationalise its fleet, the UK-based aircraft marketing and asset management firm said Monday. The aircraft, built between 2003 and 2006, are available for immediate sale and will be offered without their CFM56-5 engines, according to an announcement by Skytech-AIC.The six narrowbody ai",
+      "pub": "06 Jul 18:34 IST",
+      "pub_dt": "2026-07-06T13:04:55+00:00",
+      "sectors": [
+        "IT",
+        "Industrials",
+        "Materials"
+      ],
+      "stocks": [
+        "ACC",
+        "IRB Infra",
+        "L&T"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Air India's fleet rationalization (selling six A319 aircraft from 2003-2006) reflects operational optimization but also signals underutilization of older capacity. This is moderately positive for Air India's cost structure but has no direct earnings impact on ACC, IRB Infra, or L&T unless they are involved in aircraft leasing/financing arrangements.",
+        "stocks": {
+          "ACC": "neutral",
+          "IRB Infra": "neutral",
+          "L&T": "neutral"
+        }
+      }
+    },
+    "637c8da823d95d30": {
+      "id": "637c8da823d95d30",
+      "title": "Wall Street edges higher as chip stocks rebound",
+      "link": "https://www.livemint.com/market/stock-market-news/wall-street-edges-higher-as-chip-stocks-rebound-11783345550088.html",
+      "summary": "As of 9:35 a.m. Eastern Time, the S&amp;amp;P 500 rose 0.4%, the Nasdaq Composite gained 0.8%, and the Dow Jones Industrial Average was up or 0.2%",
+      "pub": "06 Jul 19:32 IST",
+      "pub_dt": "2026-07-06T14:02:22+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "US chip stock rebound signals improved semiconductor demand outlook and potential easing of supply chain constraints. This supports global tech capex cycles and benefits Indian IT service providers through higher client spending and project volumes.",
+        "stocks": {}
+      }
+    },
+    "c1297965f4946d82": {
+      "id": "c1297965f4946d82",
+      "title": "Saudi Arabia cuts oil prices for Asia customers by $11 a barrel in biggest reduction in 26 years",
+      "link": "https://www.livemint.com/economy/saudi-arabia-aramco-cuts-oil-prices-for-asia-customers-by-11-a-barrel-in-biggest-reduction-in-26-years-11783345319084.html",
+      "summary": "Saudi Arabia cut the price of its main crude grade for customers in Asia in August by the most in at least 26 years, as a surge of global supply heightens competition for buyers.",
+      "pub": "06 Jul 19:20 IST",
+      "pub_dt": "2026-07-06T13:50:33+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Saudi's $11/barrel price cut (largest in 26 years) indicates severe global oil oversupply and demand destruction concerns. This creates sustained pressure on crude prices, benefiting India's import bill and inflation dynamics but signaling recessionary risks in commodity-dependent economies.",
+        "stocks": {}
+      }
+    },
+    "49613344bbfb600a": {
+      "id": "49613344bbfb600a",
+      "title": "Prayagraj records over 20% unemployment rate among 46 surveyed cities with 10 lakh+ population: Report",
+      "link": "https://www.livemint.com/economy/prayagraj-up-patna-bihar-records-over-20-pc-unemployment-rate-46-cities-surveyed-10-lakh-population-urban-india-report-11783341319515.html",
+      "summary": "Prayagraj and Patna recorded over 20% unemployment rates among 46 major cities, while Ahmedabad and Kolkata had the lowest at 2.5%. The average unemployment rate stands at 6.8%.",
+      "pub": "06 Jul 19:09 IST",
+      "pub_dt": "2026-07-06T13:39:48+00:00",
+      "sectors": [
+        "Telecoms"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "20%+ unemployment in Prayagraj reflects weak labor market conditions and reduced consumer purchasing power in key urban centers. This dampens domestic consumption, impacting telecom subscriber growth, ARPU expansion, and discretionary service demand in these regions.",
+        "stocks": {}
+      }
+    },
+    "0e66ffbf12b401f6": {
+      "id": "0e66ffbf12b401f6",
+      "title": "Microsoft Layoffs: Xbox cuts 4,800 jobs and plans to spin off four gaming studios",
+      "link": "https://www.livemint.com/companies/news/microsoft-cuts-4-800-jobs-as-xbox-unit-downsizes-and-plans-to-spin-off-four-gaming-studios-11783342793362.html",
+      "summary": "The ongoing restructuring at Microsoft is set to impact hundreds of developers across some of the gaming industry's most respected mid-tier studios.",
+      "pub": "06 Jul 19:24 IST",
+      "pub_dt": "2026-07-06T13:54:10+00:00",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Microsoft's Xbox gaming division layoffs are company-specific restructuring actions with no direct impact on Indian auto sector equities. This reflects global gaming industry consolidation rather than macro automotive demand or component sourcing trends.",
+        "stocks": {}
+      }
+    },
+    "987d54e928f9c955": {
+      "id": "987d54e928f9c955",
+      "title": "India office market defies global turmoil with GCC-led leasing",
+      "link": "https://www.livemint.com/companies/news/india-office-market-defies-global-turmoil-with-gcc-led-leasing-11783167834495.html",
+      "summary": "The office market logged record H1 2026 leasing of 45.5 million sq ft, led by global capability centres and flex space operators even as geopolitical tensions weighed on sentiment. GCCs alone accounted for 43% of demand, with CBRE expecting them to drive over 40% of full-year absorption.",
+      "pub": "06 Jul 18:48 IST",
+      "pub_dt": "2026-07-06T13:18:03+00:00",
+      "sectors": [
+        "Autos",
+        "Materials"
+      ],
+      "stocks": [
+        "ACC"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Record H1 2026 office leasing of 45.5 million sq ft, with GCCs driving 43% of demand, signals strong real estate demand and economic growth momentum in India. This benefits materials/construction companies through increased real estate development activity and ACC benefits from cement demand for office construction projects.",
+        "stocks": {
+          "ACC": "positive"
+        }
+      }
     }
   }
 }
