@@ -20723,6 +20723,148 @@
         "reasoning": "The 6,400 job cuts represent <3% of Microsoft's 228,000 headcount and are strategically focused on Xbox/gaming divisions being spun off. This is a structural reorganization rather than distress-driven layoff, likely to improve operational efficiency and unlock value in gaming assets, with neutral-to-positive implications for core earnings despite near-term severance costs.",
         "stocks": {}
       }
+    },
+    "5bf4af926b70bcf1": {
+      "id": "5bf4af926b70bcf1",
+      "title": "Market wrap: Sensex drops 104 points, Nifty closes below 24,400 as market snap 4-day gaining streak",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-over-150-points-nifty-above-24450-as-market-extends-gains-for-5th-consecutive-day/articleshow/132209592.cms",
+      "summary": "Indian stock markets closed lower on Tuesday, ending a four-day gain. Weak global cues and rising oil prices impacted trading sentiment negatively. Foreign investors remained net buyers, providing some support to the market. IT stocks surged significantly, while broader markets experienced declines. Analysts anticipate an uptrend driven by economic growth and favorable interest rates.",
+      "pub": "07 Jul 09:28 IST",
+      "pub_dt": "2026-07-07T03:58:47+00:00",
+      "sectors": [
+        "Banking",
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "BEL"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Market decline ending a 4-day streak is a technical reversal, not a fundamental shift. While weak global cues and rising oil prices are headwinds, foreign buying support and IT sector strength suggest mixed sentiment. For BEL specifically, recent defence procurement tailwinds (₹52,000 crore DAC approval) remain intact despite broader market weakness.",
+        "stocks": {
+          "BEL": "neutral"
+        }
+      }
+    },
+    "02b1055bce39ea6d": {
+      "id": "02b1055bce39ea6d",
+      "title": "FIFA World Cup drives prediction market to record high; sports volumes may hit $740 billion by 2030, says Binance Research",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fifa-world-cup-drives-prediction-market-to-record-high-sports-volumes-may-hit-740-billion-by-2030-says-binance-research/articleshow/132237106.cms",
+      "summary": "The 2026 FIFA World Cup became the largest prediction market event, generating over $5.4 billion in trading volume. Expanded participation, lower-cost markets and AI-driven innovations are accelerating adoption, with annual sports prediction market volumes projected to reach up to $923 billion by 2030.",
+      "pub": "07 Jul 16:00 IST",
+      "pub_dt": "2026-07-07T10:30:19+00:00",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Materials"
+      ],
+      "stocks": [
+        "ACC"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "FIFA World Cup prediction market growth is a macro trend for global gaming/fintech ecosystems but has no direct bearing on ACC's cement business, automotive supply, or materials operations. The $923B projection by 2030 reflects crypto/betting sector expansion, not construction demand or ACC's core earnings drivers.",
+        "stocks": {
+          "ACC": "neutral"
+        }
+      }
+    },
+    "8d9770c2feac4c7e": {
+      "id": "8d9770c2feac4c7e",
+      "title": "Rupee closes at 94.96 vs USD, logs best day in three weeks on NDF dollar sales, bailing shorts",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-closes-at-94-96-vs-usd-logs-best-day-in-three-weeks-on-ndf-dollar-sales-bailing-shorts/articleshow/132237076.cms",
+      "summary": "On Tuesday, the Indian rupee experienced its most significant one-day increase in three weeks, driven by heightened dollar selling activity within the non-deliverable forward market. This prompted traders to adjust their positions, marking a reversal of the prior trend in forward market premiums. Additionally, other Asian currencies showed resilience against the dollar as investors forecast a redu",
+      "pub": "07 Jul 15:57 IST",
+      "pub_dt": "2026-07-07T10:27:53+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Rupee strengthening 3-week best (94.96 vs USD) on NDF dollar selling is positive for Indian IT and auto exporters, improving rupee-denominated earnings conversion and competitiveness. Currency appreciation reduces import costs for manufacturing sectors and supports margin expansion amid moderating oil prices.",
+        "stocks": {}
+      }
+    },
+    "b507e3d300f06ddd": {
+      "id": "b507e3d300f06ddd",
+      "title": "E20 fuel smooth for bikes, bumpy for some cars",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/e20-fuel-may-affect-turbocharged-engines-damage-rubber-fuel-system-parts-in-older-vehicles-no-issues-found-in-two-wheelers-arai-report/articleshow/132230693.cms",
+      "summary": "",
+      "pub": "07 Jul 10:53 IST",
+      "pub_dt": "2026-07-07T05:23:16+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "E20 fuel regulatory update is a sector-wide technical compliance matter. Mixed impact across auto OEMs depending on vehicle architecture compatibility—no earnings/margin shift evident from the summary.",
+        "stocks": {}
+      }
+    },
+    "d023078bf0bb2b8a": {
+      "id": "d023078bf0bb2b8a",
+      "title": "Former Afghanistan pacer Shapoor Zadran dies",
+      "link": "https://economictimes.indiatimes.com/news/sports/cricket/former-afghanistan-pacer-shapoor-zadran-dies-at-38-after-prolonged-illness/articleshow/132237166.cms",
+      "summary": "",
+      "pub": "07 Jul 16:05 IST",
+      "pub_dt": "2026-07-07T10:35:58+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Death of cricket personality is a non-business news item with no linkage to equity markets or corporate earnings.",
+        "stocks": {}
+      }
+    },
+    "59355e1e1486148e": {
+      "id": "59355e1e1486148e",
+      "title": "Swiggy soars 7% as foreign ownership falls below 50%",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/swiggy-shares-jump-7-as-foreign-ownership-falls-below-50-what-this-means-quick-commerce-giant/articleshow/132236330.cms",
+      "summary": "",
+      "pub": "07 Jul 15:26 IST",
+      "pub_dt": "2026-07-07T09:56:21+00:00",
+      "sectors": [
+        "E-Commerce",
+        "Industrials"
+      ],
+      "stocks": [
+        "BEL",
+        "Swiggy"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Swiggy's foreign ownership falling below 50% removes regulatory overhang on Instamart's direct inventory ownership model, unlocking operational flexibility and margin expansion potential. This directly unblocks growth strategy for the quick-commerce segment. BEL unaffected.",
+        "stocks": {
+          "BEL": "neutral",
+          "Swiggy": "positive"
+        }
+      }
+    },
+    "d0e48075d6211b93": {
+      "id": "d0e48075d6211b93",
+      "title": "Gold price down over 30% from record high. Is this correction the start of a bear market?",
+      "link": "https://www.livemint.com/market/commodities/gold-price-prediction-gold-price-down-over-30-from-record-high-is-this-correction-the-start-of-a-bear-market-11783420997055.html",
+      "summary": "Markets anticipate another interest rate hike this year, though Fed projections are mixed. Gold prices have fallen over 30%, reflecting a shift in focus from safe-haven demand to interest rates and economic conditions.&amp;nbsp;",
+      "pub": "07 Jul 16:44 IST",
+      "pub_dt": "2026-07-07T11:14:33+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Gold's 30% correction from record highs reflects Fed rate hike expectations, which creates headwinds for rate-sensitive sectors (banking, realty) but supports rupee strength and forex inflows. Mixed macro signal: tighter monetary policy globally vs. local currency tailwinds for exporters.",
+        "stocks": {}
+      }
     }
   }
 }
