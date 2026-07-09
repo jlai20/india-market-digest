@@ -29039,6 +29039,986 @@
         "reasoning": "MobiKwik CFO's call for MDR (Merchant Discount Rate) on UPI transactions highlights structural margin pressure on fintech/payment firms in India's zero-fee UPI ecosystem. This signals ongoing regulatory and business model headwinds for payment processors and fintechs, with revenue visibility constrained unless MDR is implemented.",
         "stocks": {}
       }
+    },
+    "2749ceaf6cccb59f": {
+      "id": "2749ceaf6cccb59f",
+      "title": "TCS announces interim dividend of Rs 12 per share. Check record date",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/tcs-announces-interim-dividend-of-rs-12-per-share-check-record-date/articleshow/132284195.cms",
+      "summary": "Tata Consultancy Services announced an interim dividend of Rs 12 per share for shareholders. The IT major reported a 5% year-on-year profit increase for the first quarter. Its revenue from operations also saw a significant 14% rise during the same period.",
+      "pub": "09 Jul 16:20 IST",
+      "pub_dt": "2026-07-09T10:50:56+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [
+        "TCS"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "While 14% revenue growth and 5% YoY profit increase with Rs 12/share dividend signal operational improvement, the 3% QoQ profit decline and modest 5% YoY growth relative to Nifty's 10% guidance indicate continued structural underperformance. The dividend demonstrates management confidence but doesn't fully offset near-term headwinds from three consecutive quarters of sequential revenue weakness and AI-driven pricing pressures.",
+        "stocks": {
+          "TCS": "mixed"
+        }
+      }
+    },
+    "e2352327503e9737": {
+      "id": "e2352327503e9737",
+      "title": "TCS Q1 Results Live Updates: Tata Consultancy Services Q1 profit rises 5% YoY, revenue jumps 14%. Board declares dividend at Rs 12/share",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/tcs-q1-results-live-tata-consultancy-services-q1-fy27-revenue-earning-profit-loss-bonus-shares-date-time-9-july-2026/liveblog/132279413.cms",
+      "summary": "",
+      "pub": "09 Jul 12:16 IST",
+      "pub_dt": "2026-07-09T06:46:30+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [
+        "TCS"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "The 14% revenue growth and 5% profit increase represent stronger operational performance than anticipated, but the 3% sequential profit decline suggests margin pressure persists despite topline recovery. The Rs 12/share dividend provides shareholder returns but underscores management must balance capital returns with addressing structural challenges from AI disruption and competitive pricing erosion.",
+        "stocks": {
+          "TCS": "mixed"
+        }
+      }
+    },
+    "fd1fab94fc0d920d": {
+      "id": "fd1fab94fc0d920d",
+      "title": "RBI intervention, oil price dip help rupee edge modestly higher",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-intervention-oil-price-dip-help-rupee-edge-modestly-higher/articleshow/132283770.cms",
+      "summary": "The Indian rupee closed stronger on Thursday, supported by central bank intervention. Lower oil prices also helped soothe Indian equities and bonds during trading. Asian currencies were mostly firmer, while the dollar index hovered near the 101 mark. Volatility expectations for the rupee increased slightly after recent Middle East fighting. Policymakers' steps to shore up dollar flows tempered dep",
+      "pub": "09 Jul 15:57 IST",
+      "pub_dt": "2026-07-09T10:27:46+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "RBI intervention and lower oil prices provide near-term currency and inflation relief, supporting banking sector sentiment through improved credit demand dynamics. However, this is a macro-level item with no direct earnings impact on specific stocks and represents continuation of existing RBI policy rather than a new development.",
+        "stocks": {}
+      }
+    },
+    "707f438a97699ce6": {
+      "id": "707f438a97699ce6",
+      "title": "Indian Railways launches first MEMU train in Northeast, boosting Tripura-Assam connectivity",
+      "link": "https://economictimes.indiatimes.com/news/economy/infrastructure/indian-railways-launches-first-memu-train-in-northeast-boosting-tripura-assam-connectivity/videoshow/132284990.cms",
+      "summary": "",
+      "pub": "09 Jul 16:43 IST",
+      "pub_dt": "2026-07-09T11:13:12+00:00",
+      "sectors": [
+        "IT",
+        "Industrials",
+        "Telecoms"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Railway infrastructure development has long-term positive implications for industrial logistics and economic growth, but the news lacks specificity on company-level impact or near-term earnings catalysts. This is a government capex announcement without clear commercial benefits to identified stocks.",
+        "stocks": {}
+      }
+    },
+    "b77a5c49bc9547b7": {
+      "id": "b77a5c49bc9547b7",
+      "title": "Claiming 80G? Check new ITR disclosure",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/income-tax-2026-claiming-section-80g-tax-deduction-you-must-report-these-additional-details-when-filing-your-itr-for-ay-2026-2027/articleshow/132284802.cms",
+      "summary": "",
+      "pub": "09 Jul 16:46 IST",
+      "pub_dt": "2026-07-09T11:16:38+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "This is a routine tax compliance disclosure with no direct impact on corporate earnings, margins, or valuation. It represents administrative guidance rather than a material business development.",
+        "stocks": {}
+      }
+    },
+    "2abe56f2da198f18": {
+      "id": "2abe56f2da198f18",
+      "title": "Dairy Queen franchisee locations closed in US",
+      "link": "https://economictimes.indiatimes.com/news/new-updates/dairy-queen-franchisee-locations-closed-in-us-multiple-dairy-queen-locations-shut-down-in-these-places-heres-what-customers-should-know/articleshow/132284921.cms",
+      "summary": "",
+      "pub": "09 Jul 16:44 IST",
+      "pub_dt": "2026-07-09T11:14:04+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "The closure of US Dairy Queen franchisee locations is a foreign franchise matter with no direct relevance to Indian equities. This represents localized operational news without macro or sectoral implications for Indian stocks.",
+        "stocks": {}
+      }
+    },
+    "cae57a9550765844": {
+      "id": "cae57a9550765844",
+      "title": "Trump's meddling with top spy agency risks survival",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/donald-trumps-meddling-with-top-spy-agency-threatens-americas-survival/articleshow/132283451.cms",
+      "summary": "",
+      "pub": "09 Jul 16:18 IST",
+      "pub_dt": "2026-07-09T10:48:51+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "US political commentary on intelligence agency governance has no direct bearing on Indian equity valuations, earnings, or regulatory environment. This represents geopolitical commentary without Indian market relevance.",
+        "stocks": {}
+      }
+    },
+    "fb5dda9403246ba6": {
+      "id": "fb5dda9403246ba6",
+      "title": "Wayanad: The hills are alive, but have a warning",
+      "link": "https://economictimes.indiatimes.com/news/india/why-keralas-wayanad-keeps-getting-hit-by-landslides-explained/articleshow/132283868.cms",
+      "summary": "",
+      "pub": "09 Jul 16:27 IST",
+      "pub_dt": "2026-07-09T10:57:00+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "This appears to be environmental or regional reporting with no apparent linkage to corporate earnings, sector dynamics, or Indian equity valuations. The headline provides insufficient context for investment analysis.",
+        "stocks": {}
+      }
+    },
+    "28ce8c8c3a6c073b": {
+      "id": "28ce8c8c3a6c073b",
+      "title": "Army speeds up one-way attack drones procurement",
+      "link": "https://economictimes.indiatimes.com/news/defence/army-speeds-up-one-way-attack-drones-procurement-tata-emerges-as-lowest-bidder-for-rs-1500-crore-contract/articleshow/132271899.cms",
+      "summary": "",
+      "pub": "09 Jul 00:44 IST",
+      "pub_dt": "2026-07-08T19:14:05+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Defence procurement acceleration is sector-positive for growth but lacks stock-specific earnings impact. Without identified beneficiary companies, the news remains at macro/sector level without direct valuation implications for any particular equity.",
+        "stocks": {}
+      }
+    },
+    "3071ff9d2579465e": {
+      "id": "3071ff9d2579465e",
+      "title": "Grey mkt gives SBI Funds' ₹11,693 cr IPO a thumbs up",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/sbi-funds-management-ipo-gmp-and-other-key-details-investors-should-know-about-rs-11693-crore-offer/articleshow/132279959.cms",
+      "summary": "",
+      "pub": "09 Jul 12:45 IST",
+      "pub_dt": "2026-07-09T07:15:39+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [
+        "SBI"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "SBI Funds Management IPO at 13% grey market premium signals strong investor demand and validates the business model. As parent shareholder, SBI unlocks ~₹7,365 crore in cash proceeds, improving capital position and demonstrating significant value creation on its ₹15 paise historical investment—a continuation of the positive IPO narrative from recent days.",
+        "stocks": {
+          "SBI": "positive"
+        }
+      }
+    },
+    "1bc859eb2e1a5ead": {
+      "id": "1bc859eb2e1a5ead",
+      "title": "Novo's wonder pills regain weight as generics lag",
+      "link": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/wegovy-ozempic-regain-weight-as-indian-generics-fall-behind/articleshow/132271934.cms",
+      "summary": "",
+      "pub": "09 Jul 00:43 IST",
+      "pub_dt": "2026-07-08T19:13:56+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Sector-level pharmaceutical news on generic drug lag lacks direct earnings or margin impact without identifying specific company beneficiaries. Without tagged stocks, valuation implications cannot be assessed.",
+        "stocks": {}
+      }
+    },
+    "cce51f5496005405": {
+      "id": "cce51f5496005405",
+      "title": "NASA spots mangrove comeback; will it last?",
+      "link": "https://economictimes.indiatimes.com/news/new-updates/nasa-satellite-study-finds-earths-mangrove-forests-are-making-an-unexpected-comeback-after-decades-of-decline-but-scientists-warn-the-good-news-may-not-last-forever/articleshow/132284021.cms",
+      "summary": "",
+      "pub": "09 Jul 16:08 IST",
+      "pub_dt": "2026-07-09T10:38:56+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Environmental/ecological news on mangrove restoration lacks direct corporate earnings, margin, or competitive dynamics implications. No stock-specific or sector-specific financial impact is discernible.",
+        "stocks": {}
+      }
+    },
+    "b22a5cdfafa10b04": {
+      "id": "b22a5cdfafa10b04",
+      "title": "'Grow more, achieve more': Modi at Melbourne event",
+      "link": "https://economictimes.indiatimes.com/news/india/pm-modi-announces-indias-6g-push-grow-more-achieve-more-in-melbourne/articleshow/132283750.cms",
+      "summary": "",
+      "pub": "09 Jul 15:55 IST",
+      "pub_dt": "2026-07-09T10:25:27+00:00",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Macro/political statement on growth ambitions lacks concrete policy announcements, regulatory changes, or sector-specific catalysts. No direct earnings, valuation, or competitive implications for auto sector without granular details.",
+        "stocks": {}
+      }
+    },
+    "044ace2d359433a6": {
+      "id": "044ace2d359433a6",
+      "title": "FSSAI grills 3 food brands for misleading labels",
+      "link": "https://economictimes.indiatimes.com/news/new-updates/health-claims-or-sweet-lies-fssai-grills-three-food-brands-including-lotte-india-ferns-n-petals-over-misleading-food-labels/articleshow/132283375.cms",
+      "summary": "",
+      "pub": "09 Jul 15:57 IST",
+      "pub_dt": "2026-07-09T10:27:23+00:00",
+      "sectors": [
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "BEL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "FSSAI regulatory action against food brands for misleading labels creates compliance risk and potential brand/reputation damage. Though BEL is tagged, it operates in defence/IT and is unrelated to food regulation; the news reflects broader regulatory tightening but has no direct impact on BEL's defence contracts or IT operations.",
+        "stocks": {
+          "BEL": "neutral"
+        }
+      }
+    },
+    "80359b2d8eb0b7b9": {
+      "id": "80359b2d8eb0b7b9",
+      "title": "TCS Q1 Results: Board declares an interim dividend of  ₹12 per share. Details here",
+      "link": "https://www.livemint.com/market/stock-market-news/tcs-q1-results-board-declares-an-interim-dividend-of-rs-12-per-share-details-here-11783593131509.html",
+      "summary": "Tata Consultancy Services announced an interim dividend of  ₹12 per share while releasing its June quarter results, as recommended by its Board of Directors.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [
+        "TCS"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "TCS interim dividend of ₹12/share signals management confidence and capital returns to shareholders (positive). However, this is overshadowed by underlying structural headwinds: 5% YoY profit growth is below Nifty's 10% earnings growth guidance, and 3% QoQ profit decline suggests near-term momentum weakness despite 14% YoY revenue growth—indicating mid-cycle deceleration.",
+        "stocks": {
+          "TCS": "mixed"
+        }
+      }
+    },
+    "5ebe3655c784a886": {
+      "id": "5ebe3655c784a886",
+      "title": "TCS Q1 results: Profit climbs 5% YoY to  ₹13,349 crore. Key highlights from June quarter earnings",
+      "link": "https://www.livemint.com/market/stock-market-news/tcs-q1-results-profit-climbs-5-yoy-to-13-349-crore-dividend-and-other-key-highlights-from-june-quarter-earnings-11783590884923.html",
+      "summary": "TCS Q1 results: TCS reported an almost 5% YoY rise in its consolidated net profit for Q1FY27 to  ₹13,349 crore. Revenue from operations for the quarter rose by 14% YoY to  ₹72,275 crore.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [
+        "TCS"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "TCS delivered 14% YoY revenue growth and 5% YoY net profit growth to ₹13,349 crore, demonstrating operational resilience (positive for earnings growth). However, 5% profit growth significantly lags Nifty's 10% guidance and reflects structurally weak margins and AI-driven pricing pressure. The 3% QoQ profit decline indicates sequential deceleration and continuation of revenue stagnation trend seen in recent quarters.",
+        "stocks": {
+          "TCS": "mixed"
+        }
+      }
+    },
+    "75ebbe7e9d4e5a23": {
+      "id": "75ebbe7e9d4e5a23",
+      "title": "Indiabulls share price hits 5% upper circuit following stock market rebound",
+      "link": "https://www.livemint.com/market/stock-market-news/indiabulls-share-price-hits-5-upper-circuit-following-stock-market-rebound-11783590248592.html",
+      "summary": "Indiabulls shares saw a 5% increase amid a market rebound, closing at  ₹29.61. The company reported a consolidated net profit of  ₹194.26 crore for Q1 FY26, reversing last year's losses. Its total income more than doubled, reflecting strong performance in the housing market.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Indiabulls reversed prior losses with consolidated net profit of ₹194.26 crore in Q1 FY26 and doubled total income, signaling strong earnings recovery and housing market strength that should support valuation re-rating.",
+        "stocks": {}
+      }
+    },
+    "aa0c4370ed64afb2": {
+      "id": "aa0c4370ed64afb2",
+      "title": "Top Gainers &amp; Losers on 9 July: Kalyan Jewellers, Swiggy, Kaynes Tech, Anant Raj, Thermax among top gainers",
+      "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-9-july-kalyan-jewellers-swiggy-kaynes-tech-anant-raj-thermax-among-top-gainers-11783590015758.html",
+      "summary": "The Indian stock market showed a modest recovery on July 9, with major indices ending slightly higher after a significant decline. Positive momentum early on faded as investors took profits, resulting in the Nifty 50 rising 0.34% and the Sensex up 0.31%. The broader market performed better.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "E-Commerce",
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "Swiggy",
+        "Thermax"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Swiggy continues benefiting from removal of foreign ownership regulatory constraint below 50%, enabling Instamart direct inventory operations, but faces competitive pressure from Rapido's 82M MAU vs Swiggy's 67M, indicating market share vulnerability despite positive regulatory clarity. Thermax gained on broad market recovery but no fundamental catalysts mentioned.",
+        "stocks": {
+          "Swiggy": "mixed",
+          "Thermax": "neutral"
+        }
+      }
+    },
+    "d90f5156d4019aae": {
+      "id": "d90f5156d4019aae",
+      "title": "Stock market today: Sensex gains over 200 points, Nifty 50 ends above 23,950; investors earn  ₹5 lakh crore in a day",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-sensex-gains-over-200-points-nifty-50-ends-above-27-750-investors-earn-5-lakh-crore-in-a-day-11783591115477.html",
+      "summary": "The Sensex ended 238 points, or 0.31%, higher at 76,741.82, while the Nifty 50 ended at 23,962.80, up 81 points, or 0.34%. Investors earned more than  ₹5 lakh crore in a single session.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Broad market recovery with Sensex +0.31% and Nifty +0.34% reflects modest profit-taking after prior declines, creating wealth but without company-specific earnings or growth catalysts—continuation of range-bound market behavior.",
+        "stocks": {}
+      }
+    },
+    "593c310c959dd332": {
+      "id": "593c310c959dd332",
+      "title": "Gold retailers navigate a tough first quarter on duty hikes, adhik maas",
+      "link": "https://www.livemint.com/market/commodities/gold-retailers-tough-first-quarter-duty-hikes-adhik-maas-gold-prices-gold-import-duty-titan-kalyan-jewellers-senco-11783579575356.html",
+      "summary": "While international gold prices cooled, an import duty hike and the Prime Minister's call to avoid gold purchases hurt the sector.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Gold retail sector faces headwinds from import duty hikes and regulatory discouragement (adhik maas), directly pressuring margins and demand despite international gold price cooling—structural margin compression expected.",
+        "stocks": {}
+      }
+    },
+    "9f10aa085a6ff063": {
+      "id": "9f10aa085a6ff063",
+      "title": "IPO GMPs: Kusumgar IPO vs Laser Power IPO; here's what GMP hints",
+      "link": "https://www.livemint.com/market/ipo/ipo-gmps-kusumgar-ipo-gmp-vs-laser-power-ipo-gmp-heres-what-gmp-hints-11783585511269.html",
+      "summary": "The IPO market shows mixed results, with Laser Power struggling while Kusumgar attracts strong investor interest. Analysts have mixed recommendations, with Kusumgar favoured for quick gains, while Laser Power is seen as promising due to profitability and order book.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "IPO market shows mixed sentiment with Kusumgar attracting strong interest while Laser Power struggles despite profitability, reflecting typical IPO volatility without clear sector-wide impact on listed companies.",
+        "stocks": {}
+      }
+    },
+    "824ebc8cad9cd53b": {
+      "id": "824ebc8cad9cd53b",
+      "title": "Phoenix Mills’ growth hinges on more than retail consumption",
+      "link": "https://www.livemint.com/market/mark-to-market/phoenix-mills-growth-hinges-on-more-than-retail-consumption-malls-rental-income-gla-11783584368509.html",
+      "summary": "Phoenix Mills' stock rose 5% after retail consumption beat estimates for a third straight quarter, but rental income continues to lag because most contracts are fixed and high-growth categories carry low revenue shares.&amp;nbsp;",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Phoenix Mills' 5% gain on beat in retail consumption is offset by structural headwind in rental income due to fixed-rate contracts and low revenue contribution from high-growth categories—near-term positive masked by medium-term margin constraints.",
+        "stocks": {}
+      }
+    },
+    "02c32596f4e026b0": {
+      "id": "02c32596f4e026b0",
+      "title": "Syrma SGS to Kaynes Tech: EMS stocks jump up to 7.5% as Centre waives customs duty on key electronic components",
+      "link": "https://www.livemint.com/market/stock-market-news/syrma-sgs-to-kaynes-tech-ems-stocks-jump-up-to-7-5-as-centre-waives-customs-duty-on-key-electronic-components-11783587314816.html",
+      "summary": "The government's waiver of basic customs duty on electronics manufacturing components until 2029 led to sharp stock gains for companies like Kaynes Technology. This initiative aims to enhance domestic production of electronics and support India's goal of becoming a global manufacturing hub.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Government's customs duty waiver on electronics components until 2029 directly reduces input costs and improves margins for EMS manufacturers, supporting earnings growth and domestic production competitiveness as India targets global manufacturing hub status.",
+        "stocks": {}
+      }
+    },
+    "b9fda9f9df429944": {
+      "id": "b9fda9f9df429944",
+      "title": "Penny stock under  ₹10: NBFC share jumps 7% from intraday low after this AI update",
+      "link": "https://www.livemint.com/market/stock-market-news/penny-stock-under-10-nbfc-share-golden-legand-leasing-and-finance-jumps-7-from-intraday-low-after-this-ai-update-11783586284881.html",
+      "summary": "Penny stock Golden Legand opened at  ₹9.46 apiece today, as compared to previous close of  ₹9.27 on Wednesday. The stock touched an intraday low of  ₹9.11 on 9 July.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Penny stock movement from intraday low without substantial earnings catalyst or fundamental detail provided—appears driven by technical/sentiment factors rather than value-accretive developments.",
+        "stocks": {}
+      }
+    },
+    "26338c807af13291": {
+      "id": "26338c807af13291",
+      "title": "Small-cap NBFC stock Aye Finance rises over 4%, jumps more than 60% in 3 months; do you own?",
+      "link": "https://www.livemint.com/market/stock-market-news/smallcap-nbfc-stock-aye-finance-rises-over-4-jumps-more-than-60-in-3-months-do-you-own-11783586857468.html",
+      "summary": "Aye Finance shares have surged 63% in the last three months. The stock hit a 52-week high of  ₹184.60 on 2 July after hitting a 52-week low of  ₹88.40 on 2 April this year.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "While Aye Finance's 63% surge in 3 months reflects strong momentum, this is a price action observation without fundamental earnings or margin drivers disclosed. The move appears momentum-driven rather than based on disclosed business catalysts or sector tailwinds.",
+        "stocks": {}
+      }
+    },
+    "597056b39f4d2ae5": {
+      "id": "597056b39f4d2ae5",
+      "title": "ITC Hotels to Apollo Tyres, Astral: 10 mid- and small-cap stock picks by ICICI Securities for up to 41% upside potential",
+      "link": "https://www.livemint.com/market/stock-market-news/itc-hotels-to-apollo-tyres-astral-10-mid-and-small-cap-stock-picks-by-icici-securities-for-up-to-41-upside-potential-11783583724817.html",
+      "summary": "ICICI Securities projects Narayana Hrudayalaya's target price at  ₹2,310, indicating an 18% upside from the CMP of  ₹1,962, driven by a  ₹3,000 crore capital expenditure and revenue growth from its UK operations.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [
+        "Apollo Tyres"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "ICICI Securities' recommendation and upside target for Apollo Tyres is mentioned only in passing within a broader 10-stock list. The headline focuses on Narayana Hrudayalaya's capex and UK growth, not Apollo Tyres fundamentals. No specific earnings or margin impact is articulated for Apollo Tyres.",
+        "stocks": {
+          "Apollo Tyres": "neutral"
+        }
+      }
+    },
+    "6d5471b32a85527b": {
+      "id": "6d5471b32a85527b",
+      "title": "SBI Funds Management IPO: SBI likely to earn  ₹7,365 crore from share sale; Should you buy the PSU stock?",
+      "link": "https://www.livemint.com/market/stock-market-news/sbi-funds-management-ipo-sbi-likely-to-earn-rs-7-365-crore-from-share-sale-should-you-buy-the-psu-stock-11783585872101.html",
+      "summary": "SBI Funds Management IPO price band is fixed at  ₹545 -  ₹574 per share. The company aims to raise  ₹11,692.91 crore through a book-built issue that is entirely an offer for sale (OFS) of 20.37 crore equity shares by existing promoters, State Bank of India (SBI) and Amundi India Holding.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "Banking",
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "L&T",
+        "SBI"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "SBI's stake sale in SBI Funds Management at ₹545-574 unlocks significant shareholder value (~₹7,365 crore proceeds), representing a 382,567% return on SBI's original ₹15 paise investment. Recent history shows consistent positive sentiment around the IPO, validating valuation and providing a one-time cash generation opportunity for the parent, though this is non-recurring.",
+        "stocks": {
+          "SBI": "positive",
+          "L&T": "neutral"
+        }
+      }
+    },
+    "b4c69633391d864b": {
+      "id": "b4c69633391d864b",
+      "title": "Private banks poised for a rally? Experts bullish on these banking heavyweights",
+      "link": "https://www.livemint.com/market/stock-market-news/private-banks-poised-for-a-comeback-experts-bullish-on-hdfc-bank-icici-bank-indusind-bank-11783581994100.html",
+      "summary": "With strong asset quality and growth rates, experts suggest a potentially fruitful investment landscape. Key players, including HDFC and ICICI Bank, are indicating robust operational performance. Is it time to invest in private banks again?",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "Banking",
+        "IT"
+      ],
+      "stocks": [
+        "ICICI Bank"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Expert bullishness on private banks citing strong asset quality and growth rates, combined with recent positive earnings updates from HDFC Bank (15% advance growth, 14.7% deposit growth) and ICICI Bank's strategic acquisition in renewable infrastructure, suggests sustained earnings momentum. Aligned with broader positive analyst commentary from Motilal Oswal ahead of Q1 results.",
+        "stocks": {
+          "ICICI Bank": "positive"
+        }
+      }
+    },
+    "1a27877ea2774113": {
+      "id": "1a27877ea2774113",
+      "title": "Multibagger small cap stock Cupid share price rebounds 10% after biggest single-day fall in six months",
+      "link": "https://www.livemint.com/market/stock-market-news/multibagger-small-cap-stock-cupid-share-price-rebounds-10-after-biggest-single-day-fall-in-six-months-11783583359875.html",
+      "summary": "Cupid Limited anticipates Q1 revenue over  ₹150 crore, buoyed by a strong FY27 start. Stock has delivered impressive returns, rising 899% in the past year. The company increases FY27 revenue guidance to  ₹660 crore, citing a robust business model.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "Autos",
+        "E-Commerce"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Cupid Limited's 899% returns over past year coupled with raised FY27 revenue guidance to ₹660 crore (from ₹150 crore Q1 run-rate) indicates strong momentum continuation. The robust business model and double-digit growth outlook support positive earnings trajectory, though valuation at such heights carries inherent risk.",
+        "stocks": {}
+      }
+    },
+    "da4eb5b95faada86": {
+      "id": "da4eb5b95faada86",
+      "title": "India's premium over EMs is shrinking, but still above 2021 level. What it means?",
+      "link": "https://www.livemint.com/market/stock-market-news/indias-premium-over-ems-is-shrinking-but-above-2021-level-equities-fpis-volatility-stocks-msci-11783575263456.html",
+      "summary": "India's valuation premium over emerging markets has cooled sharply but remains above 2021 levels. Analysts differ on how much this narrowing improves India's case, especially with FPIs still underweight and fresh Iran-related volatility clouding the near term.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "India's valuation premium compression versus emerging markets could imply either rational repricing (negative for India valuations near-term) or attractive entry point if fundamentals remain intact. FPI underweight positioning and Iran-related geopolitical volatility present near-term headwinds, though longer-term India growth narrative remains intact.",
+        "stocks": {}
+      }
+    },
+    "5b36a3fe4b5b2225": {
+      "id": "5b36a3fe4b5b2225",
+      "title": "Uno Minda’s passenger vehicle seating systems push adds a new growth engine",
+      "link": "https://www.livemint.com/market/mark-to-market/uno-minda-share-price-passenger-vehicle-seating-systems-auto-component-india-11783580104452.html",
+      "summary": "Investors will track if passenger vehicle seating could gain scale similar to Uno’s castings or lighting businesses that contributed 19% and 22%, respectively, to FY26 revenues.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Uno Minda's expansion into passenger vehicle seating systems is a potential long-term growth avenue, but lacks concrete revenue contribution metrics or financial targets. The statement is prospective/aspirational ('investors will track') without confirmed scale or margin profile comparable to existing castings (19%) and lighting (22%) segments.",
+        "stocks": {}
+      }
+    },
+    "db90f4e845442225": {
+      "id": "db90f4e845442225",
+      "title": "US-Iran war: Did Donald Trump deliberately choose the NATO Summit to reject the ceasefire deal?",
+      "link": "https://www.livemint.com/market/stock-market-news/usiran-war-news-did-donald-trump-deliberately-choose-the-nato-summit-2026-to-reject-the-ceasefire-deal-11783578922579.html",
+      "summary": "US-Iran war: Leveraging the NATO Summit, Trump signalled the US's intent to maintain a strong influence over Middle Eastern affairs while urging EU nations to align with American interests",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "US-Iran geopolitical tensions and Trump's NATO Summit posturing are macro-level geopolitical events. While these create volatility around oil prices and defense spending, the article lacks specific linkage to Indian equity fundamentals, corporate earnings, or sector-specific impacts.",
+        "stocks": {}
+      }
+    },
+    "1a406d6524f415be": {
+      "id": "1a406d6524f415be",
+      "title": "Nifty 50 companies set for strongest revenue growth in 3 years, but margins to come under pressure",
+      "link": "https://www.livemint.com/market/nifty-50-companies-revenue-growth-margin-squeeze-high-input-costs-muted-profit-growth-bfsi-metals-mining-11783576044752.html",
+      "summary": "The top-line growth is expected to be driven largely by higher commodity prices, selective price hikes and a favourable base, but higher input costs are set to squeeze margins and keep profit growth muted.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "Autos",
+        "Materials"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Strong revenue growth of expected 3-year highs will be offset by margin compression from higher input costs, resulting in muted profit growth. This creates a divergence between topline expansion and bottom-line profitability.",
+        "stocks": {}
+      }
+    },
+    "dc9b5fcdcd103b06": {
+      "id": "dc9b5fcdcd103b06",
+      "title": "Stocks to buy: Nagaraj Shetti recommends Avantel, Jtekt India shares to buy in the short-term",
+      "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-nagaraj-shetti-recommends-avantel-jtekt-india-shares-to-buy-in-the-shortterm-11783577121332.html",
+      "summary": "The Indian stock market had a positive turn on July 9, with Sensex and Nifty 50 both up 0.7%. Broad-based buying occurred, with realty and healthcare leading the gains. Despite geopolitical tensions affecting market sentiment, Nifty 50 showed resilience by bouncing back significantly.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "This is a generic market sentiment piece highlighting sectoral strength (realty, healthcare) with no fundamental analysis or specific earnings impact mentioned. The recommendation lacks substantive catalysts beyond technical momentum.",
+        "stocks": {}
+      }
+    },
+    "a7de67ab12c8c7ef": {
+      "id": "a7de67ab12c8c7ef",
+      "title": "FII selling eases after $60 billion exodus. Is the tide finally turning for Indian stock markets?",
+      "link": "https://www.livemint.com/market/stock-market-news/fii-selling-eases-after-60-billion-exodus-is-the-tide-finally-turning-for-indian-stock-markets-11783577533094.html",
+      "summary": "After $60 billion in FII outflows since September 2024, signs of easing selling emerge as outflows slowed post-US-Iran ceasefire. Indian equities have been volatile, but improving macros and attractive valuations may prompt a shift in FII sentiment.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Easing FII selling pressure after a $60 billion exodus, combined with improving macroeconomic conditions and attractive valuations, signals potential reversal of foreign investor outflows that have weighed on Indian equities since September 2024.",
+        "stocks": {}
+      }
+    },
+    "ed7747bffc1a8ccc": {
+      "id": "ed7747bffc1a8ccc",
+      "title": "Godrej Consumer shares climb 2% as ICICI Securities upgrades the stock to a buy, raises target price",
+      "link": "https://www.livemint.com/market/stock-market-news/godrej-consmer-produucts-shares-climb-2-as-icici-securities-upgrades-the-stock-to-a-buy-raise-target-price-11783576715341.html",
+      "summary": "ICICI Securities upgraded Godrej Consumer Products to 'buy', raising the target price to  ₹1,300. With expectations for double-digit growth and a recovery in key markets, investor interest surges.&amp;nbsp;",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "ICICI Securities upgrade to 'buy' with higher target price of ₹1,300, coupled with expectations for double-digit growth and market recovery, provides upside catalysts for earnings expansion and multiple re-rating.",
+        "stocks": {}
+      }
+    },
+    "8a61e79c42980acf": {
+      "id": "8a61e79c42980acf",
+      "title": "TCS Q1 Results 2026 LIVE: Net profit jumps 5%, revenue rises 14%; declares interim dividend of  ₹12",
+      "link": "https://www.livemint.com/market/stock-market-news/tcs-q1-results-2026-live-tcs-share-price-tcs-dividend-tcs-revenue-tcs-profit-ai-it-sector-earnings-9-july-2026-11783577214574.html",
+      "summary": "TCS Q1 Results 2026 LIVE: The country's largest IT services company reported a consolidated net profit of  ₹13,349 crore for Q1 FY27. Revenue from operations rose 14% YoY to  ₹72,275 crore during the quarter, up from  ₹63,437 crore a year ago.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [
+        "TCS"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "TCS delivered 5% net profit YoY growth and 14% revenue growth with an interim dividend of ₹12/share, signaling management confidence and shareholder returns. While profit growth is modest relative to sector guidance, this reverses months of negative sentiment around AI-driven headwinds and sequential revenue declines.",
+        "stocks": {
+          "TCS": "positive"
+        }
+      }
+    },
+    "8525552755cef86c": {
+      "id": "8525552755cef86c",
+      "title": "Small-cap stock under  ₹50 Elitecon International retraces after jumping 9% following stock market rebound. Do you own?",
+      "link": "https://www.livemint.com/market/stock-market-news/smallcap-stock-under-50-elitecon-international-retraces-after-jumping-9-following-stock-market-rebound-do-you-own-11783574770726.html",
+      "summary": "Elitecon International share price trend has remained under pressure amid weak market sentiments. The small-cap stock has slipped 10.24% in a week and 11.16% in a month.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Elitecon International has declined 10.24% weekly and 11.16% monthly amid weak market sentiment, indicating deteriorating investor confidence and poor technical momentum with no offsetting fundamental catalyst.",
+        "stocks": {}
+      }
+    },
+    "407a8ebbc19c4a1e": {
+      "id": "407a8ebbc19c4a1e",
+      "title": "PC Jeweller share price jumps over 13% after it repays outstanding debt to 2 lenders. Do you own?",
+      "link": "https://www.livemint.com/market/stock-market-news/multibagger-stock-pc-jeweller-share-price-jumps-over-13-after-it-repays-outstanding-debt-to-2-lenders-do-you-own-11783575160462.html",
+      "summary": "PC Jeweller has repaid all its debt owed to two lenders from its consortium of 14 banks, taking another step towards its target of becoming debt-free during the current quarter.&amp;nbsp;",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "PC Jeweller's repayment of debt to 2 lenders represents tangible progress toward debt-free status by end of quarter, reducing financial distress and improving credit profile. This addresses previously elevated solvency risk.",
+        "stocks": {}
+      }
+    },
+    "e422223f7ba1591e": {
+      "id": "e422223f7ba1591e",
+      "title": "US-Iran war: BPCL, GAIL to HPCL — oil and gas stocks rise despite soaring crude oil prices",
+      "link": "https://www.livemint.com/market/stock-market-news/usiran-war-bpcl-gail-to-hpcl-oil-and-gas-stocks-rise-despite-soaring-crude-oil-prices-11783575583919.html",
+      "summary": "With the US-Iran war disrupting global energy supplies and keeping crude oil prices elevated and volatile, oil and gas companies are expected to report a mixed performance for the first quarter of FY27.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "While elevated crude oil prices and supply disruptions benefit upstream margins, they increase refining costs and downstream profitability pressures. Oil and gas stocks face mixed Q1 FY27 performance with offsetting tailwinds and headwinds.",
+        "stocks": {}
+      }
+    },
+    "2f7a9483399e19b5": {
+      "id": "2f7a9483399e19b5",
+      "title": "Oyo IPO: Zostel seeks SEBI review of updated DRHP over litigation disclosures, says report",
+      "link": "https://www.livemint.com/market/ipo/oyo-ipo-zostel-seeks-sebi-review-of-updated-drhp-over-litigation-disclosures-says-report-11783572676730.html",
+      "summary": "Zostel has urged SEBI to review Oravel Stays' IPO disclosures, alleging they misrepresent an ongoing legal dispute and impact equity claims. The firm argues comprehensive disclosures are necessary due to potential effects on Oyo's valuation and risk assessment before the IPO can proceed.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Zostel's litigation disclosure challenge is a procedural matter that may delay Oyo's IPO but does not directly impact operational earnings or margins. The dispute's materiality for valuation depends on SEBI's assessment, making the ultimate outcome uncertain at this stage.",
+        "stocks": {}
+      }
+    },
+    "8d99dce00cd2199a": {
+      "id": "8d99dce00cd2199a",
+      "title": "Multibagger small-cap stock hits 5% upper circuit for second day after Vijay Kedia raises stake",
+      "link": "https://www.livemint.com/market/stock-market-news/multibagger-smallcap-stock-iware-supplychain-services-hits-5-upper-circuit-for-second-day-as-vijay-kedia-raises-stake-11783572254577.html",
+      "summary": "Vijay Kedia’s firm Kedia Securities bought 2.32 lakh shares of Iware Supplychain Services at  ₹348.25 apiece and another 2.67 lakh shares at  ₹348.85 per share. In total, Kedia Securities acquired 4.99 lakh equity shares of the company, representing 4.3% stake worth  ₹17.44 crore.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Vijay Kedia's 4.3% stake acquisition and the stock hitting upper circuit for two consecutive days signals strong investor confidence and potential undervaluation. This suggests positive sentiment on growth prospects or turnaround potential for Iware Supplychain Services.",
+        "stocks": {}
+      }
+    },
+    "a2e70dc95174b060": {
+      "id": "a2e70dc95174b060",
+      "title": "Stocks to buy or sell: Osho Krishan of Angel One suggests buying LIC, Titan Company shares on 9 July",
+      "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-or-sell-osho-krishan-of-angel-one-suggests-buying-lic-titan-company-shares-on-9-july-11783570625424.html",
+      "summary": "Indian indices Sensex and Nifty 50 opened higher, recovering some losses amid Middle East tensions. Nifty 50 rose 0.43% to 23,986.80, while BSE Sensex gained 0.41% to 76,832.34. Market breadth was positive, with 15 of 16 sectors in the green.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "This is a generic market commentary with analyst recommendations lacking company-specific catalysts or earnings impact data. The mention of LIC and Titan Company is superficial without substantive reasoning tied to fundamentals.",
+        "stocks": {}
+      }
+    },
+    "03e612d985293ab7": {
+      "id": "03e612d985293ab7",
+      "title": "Tata Steel share price dips nearly 1% after Q1FY27 business update; details here",
+      "link": "https://www.livemint.com/market/stock-market-news/tata-steel-share-price-dips-nearly-1-after-q1fy27-business-update-details-here-11783571353429.html",
+      "summary": "Tata Steel shares hit their 52-week high of  ₹224.40 on 15 May this year after hitting a 52-week low of  ₹152.55 on 1 August last year. Over the last one year, the metal stock has gained 18% compared to an 8% fall in the benchmark Sensex.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "IT",
+        "Materials"
+      ],
+      "stocks": [
+        "Tata Steel"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "The 1% share price decline following Q1FY27 business update, combined with recent Dutch pollution violations and criminal summoning, creates a dual headwind. Environmental/regulatory risks could inflate compliance costs and impact operations, while disappointing operational metrics suggest earnings pressure ahead.",
+        "stocks": {
+          "Tata Steel": "negative"
+        }
+      }
+    },
+    "53681b8178b3e3a3": {
+      "id": "53681b8178b3e3a3",
+      "title": "Kalyan Jewellers share price hits 10% upper circuit, up for second straight session after strong Q1 business update",
+      "link": "https://www.livemint.com/market/stock-market-news/kalyan-jewellers-share-price-hits-10-upper-circuit-up-for-second-straight-session-after-strong-q1-business-update-11783570083500.html",
+      "summary": "Kalyan Jewellers shares hit a 10% upper circuit at  ₹411.75 on July 9, gaining 16% over two sessions. Q1FY27 revenue soared by 38% YoY, driven by strong domestic and international demand, with additional growth from the digital platform Candere and new showroom launches.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Strong Q1FY27 revenue growth of 38% YoY, driven by robust domestic/international demand and digital platform growth, directly expands earnings and margins. The 16% two-session stock surge reflects justified enthusiasm on accelerating top-line momentum and showroom expansion strategy.",
+        "stocks": {}
+      }
+    },
+    "26eb807fc71cb501": {
+      "id": "26eb807fc71cb501",
+      "title": "Laser Power &amp; Infra IPO Day 1: Issue booked 8% so far. GMP hints 7% listing gain. Apply or not?",
+      "link": "https://www.livemint.com/market/ipo/laser-power-infra-ipo-gmp-laser-power-infra-ipo-review-laser-power-infra-ipo-subscription-laser-ipo-11783567567399.html",
+      "summary": "The Laser Power &amp;amp; Infra IPO opens on 9 July and closes on 13 July, with a price band of  ₹205-214 per share. The company aims to raise  ₹742 crore and has a healthy order book, making it a favourable investment option.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "IPO launch with modest 8% booking and 7% GMP indicates lukewarm investor demand. While the healthy order book is positive, the muted subscription pace suggests limited near-term upside and valuation concerns relative to fundamentals.",
+        "stocks": {}
+      }
+    },
+    "c264bf3f09bd939d": {
+      "id": "c264bf3f09bd939d",
+      "title": "Happy Steels IPO opens today; GMP, subscriptions status, other key details of SME IPO",
+      "link": "https://www.livemint.com/market/ipo/happy-steels-ipo-opens-today-gmp-subscriptions-status-other-key-details-of-sme-ipo-11783569014468.html",
+      "summary": "Happy Steels IPO price band is set at  ₹62 to  ₹66 per share, and the IPO lot size is 2,000 shares. The company aims to raise  ₹25 crore from the book-building issue, which is entirely a fresh issue of 37.88 equity shares.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "IT",
+        "Materials"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "SME IPO with limited detail on competitive positioning, margins, or growth drivers. At ₹25 crore raise size, this is a micro-cap play with insufficient information to assess fundamental quality or earnings trajectory.",
+        "stocks": {}
+      }
+    },
+    "7f03eb9766d9fa8a": {
+      "id": "7f03eb9766d9fa8a",
+      "title": "TCS share price falls 2% ahead of Q1 results 2026. Should you buy or sell?",
+      "link": "https://www.livemint.com/market/stock-market-news/tcs-share-price-falls-2-ahead-of-q1-results-2026-should-you-buy-or-sell-11783567871199.html",
+      "summary": "Ahead of the announcement, the TCS share price fell as much as 1.87% to  ₹2,017.50 per share on the NSE on Thursday, 9 July.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "IT",
+        "Materials"
+      ],
+      "stocks": [
+        "TCS"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "TCS delivered 5% YoY net profit growth and 14% revenue growth with a ₹12/share dividend, but 3% QoQ profit decline and flat sequential revenue reveal persistent structural headwinds. The stock's 2% pre-result decline reflects justified caution despite dividend support, as earnings growth lags Nifty guidance and AI disruption risks persist.",
+        "stocks": {
+          "TCS": "mixed"
+        }
+      }
+    },
+    "882882f89f2c2551": {
+      "id": "882882f89f2c2551",
+      "title": "Gold, silver prices decline on MCX as US-Iran tensions fuel Fed rate hike expectations",
+      "link": "https://www.livemint.com/market/commodities/gold-silver-prices-decline-on-mcx-as-us-iran-tensions-fuel-fed-rate-hike-expectations-11783568204102.html",
+      "summary": "MCX gold August futures declined 0.30% to  ₹1,43,275, while MCX silver September futures dropped 0.76% to  ₹2,21,749 per in morning trade.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Gold and silver price declines are sector-level commodity movements driven by macro factors (Fed rate expectations). No specific stocks tagged, so this is informational only without direct equity impact to analyse.",
+        "stocks": {}
+      }
+    },
+    "5d6ae4049865183c": {
+      "id": "5d6ae4049865183c",
+      "title": "Air India Chairman N Chandrasekaran forms interim committee to address challenges as new CEO search continues",
+      "link": "https://www.livemint.com/companies/news/air-india-chairman-n-chandrasekaran-interim-committee-address-challenge-finance-safety-ceo-search-campbell-wilson-resign-11783592344770.html",
+      "summary": "Air India Chairman N Chandrasekaran has formed an interim committee, comprising himself and senior executives from Air India including former top aviation ministry official Pradeep Singh Kharola, to manage the airline while searching for a new CEO.",
+      "pub": "09 Jul 16:42 IST",
+      "pub_dt": "2026-07-09T11:12:22+00:00",
+      "sectors": [
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "HAL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Air India's interim committee formation under N Chandrasekaran is an internal governance/management transition measure while searching for a permanent CEO. This is a routine administrative action with no direct impact on HAL's earnings, margins, or competitive position. HAL's recent positive momentum from ₹52,000 crore defence procurement remains unaffected by Air India's leadership changes.",
+        "stocks": {
+          "HAL": "neutral"
+        }
+      }
     }
   }
 }
