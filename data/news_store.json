@@ -36455,6 +36455,54 @@
         "reasoning": "Private equity investment in restaurant operators reflects sector confidence but represents a micro-level capital allocation decision without direct impact on publicly traded stocks. This is a continuation of PE interest in high-growth consumption segments but lacks specific financial or operational implications for listed entities.",
         "stocks": {}
       }
+    },
+    "1947d28f9fff7db0": {
+      "id": "1947d28f9fff7db0",
+      "title": "Engine damage fears over ethanol are myths: GEMA",
+      "link": "https://economictimes.indiatimes.com/industry/renewables/govts-ethanol-policy-backed-by-4-years-of-research-engine-damage-fears-are-myths-grain-ethanol-manufacturers-association/articleshow/132315682.cms",
+      "summary": "",
+      "pub": "10 Jul 21:13 IST",
+      "pub_dt": "2026-07-10T15:43:55+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "GEMA's statement dispelling ethanol engine damage concerns is supportive for fuel additive adoption and ethanol blending policies, but lacks specific financial impact on listed companies without tagged stocks. This is sector-level commentary that could benefit fuel retailers and refiners long-term, but no direct earnings catalyst identified.",
+        "stocks": {}
+      }
+    },
+    "a43b4274d7b518a3": {
+      "id": "a43b4274d7b518a3",
+      "title": "Modi, Albanese unveil sports strategy plan",
+      "link": "https://economictimes.indiatimes.com/news/india/modi-albanese-unveil-sports-strategy-australia-backs-indias-2036-olympic-bid/articleshow/132318745.cms",
+      "summary": "",
+      "pub": "10 Jul 23:47 IST",
+      "pub_dt": "2026-07-10T18:17:31+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Modi-Albanese sports strategy plan is geopolitical in nature with potential long-term infrastructure and sports industry benefits, but lacks concrete financial details or timeline. Without tagged stocks, the impact on Indian equities cannot be quantified or directly assessed.",
+        "stocks": {}
+      }
+    },
+    "a48c92769d938c8c": {
+      "id": "a48c92769d938c8c",
+      "title": "Sinner beats Novak Djokovic in Wimbledon semis",
+      "link": "https://economictimes.indiatimes.com/news/sports/tennis/clinical-jannik-sinner-demolishes-novak-djokovic-in-semi-final/articleshow/132318224.cms",
+      "summary": "",
+      "pub": "10 Jul 23:26 IST",
+      "pub_dt": "2026-07-10T17:56:04+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Tennis match result is a sports entertainment event with no direct linkage to Indian equity earnings, margins, or growth. This is non-material news from a financial markets perspective.",
+        "stocks": {}
+      }
     }
   }
 }
