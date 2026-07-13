@@ -39989,6 +39989,342 @@
           "HDFC Bank": "neutral"
         }
       }
+    },
+    "84f52a8aadf91905": {
+      "id": "84f52a8aadf91905",
+      "title": "ICICI Prudential AMC Q1 Results: Net profit rises 23% YoY to Rs 965 crore; revenue up 18%",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/icici-prudential-amc-q1-results-net-profit-rises-23-yoy-to-rs-965-crore-revenue-up-18/articleshow/132365298.cms",
+      "summary": "ICICI Prudential AMC Q1 Results: Revenue from operations, meanwhile, increased 18% YoY to Rs 1,564 crore.",
+      "pub": "13 Jul 16:48 IST",
+      "pub_dt": "2026-07-13T11:18:32+00:00",
+      "sectors": [
+        "Autos",
+        "Banking"
+      ],
+      "stocks": [
+        "ICICI Pru Life"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "ICICI Prudential AMC delivered strong Q1 earnings growth with net profit rising 23% YoY and revenue up 18%, demonstrating robust AUM growth and margin expansion in the asset management business. This represents a positive continuation of recent momentum and validates the company's growth trajectory amid improving market conditions.",
+        "stocks": {
+          "ICICI Pru Life": "positive"
+        }
+      }
+    },
+    "ee9abc16c3a66759": {
+      "id": "ee9abc16c3a66759",
+      "title": "Can SBI Funds’ Rs 9,813 crore mega IPO revive a dry stock market? CEO makes bold prediction",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/can-sbi-funds-rs-9813-crore-mega-ipo-revive-a-dry-stock-market-ceo-makes-bold-prediction/articleshow/132364883.cms",
+      "summary": "SBI Funds Management expects its Rs 9,813 crore IPO to revive investor confidence and boost India's primary market. CEO Debasish Mishra said attractive pricing, strong governance and industry growth prospects could encourage fresh investments and pave the way for more quality listings.",
+      "pub": "13 Jul 16:28 IST",
+      "pub_dt": "2026-07-13T10:58:43+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT"
+      ],
+      "stocks": [
+        "SBI"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "SBI's successful Rs 9,813 crore SBI Funds IPO unlocks approximately Rs 7,365 crore in shareholder value through stake monetization at the upper price band. Strong anchor book participation and 13-15% grey market premium signal robust investor demand, providing direct earnings accretion to SBI's consolidated balance sheet.",
+        "stocks": {
+          "SBI": "positive"
+        }
+      }
+    },
+    "c4bd362d199e8cf9": {
+      "id": "c4bd362d199e8cf9",
+      "title": "Oil pangs resurface for rupee, options market gauge signals bearish bias",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/oil-pangs-resurface-for-rupee-options-market-gauge-signals-bearish-bias/articleshow/132364812.cms",
+      "summary": "On Monday, the Indian rupee fell to its lowest level in over a month, driven down by rising oil prices amid escalating tensions between the US and Iran. Despite the currency's decline, traders observed that the central bank's potential intervention helped mitigate further losses. Additionally, India's merchandise trade deficit saw a notable increase in June, raising concerns about persistent infla",
+      "pub": "13 Jul 16:26 IST",
+      "pub_dt": "2026-07-13T10:56:03+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT"
+      ],
+      "stocks": [
+        "Persistent"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Rising oil prices amid US-Iran tensions and elevated merchandise trade deficit create negative headwinds for IT services companies like Persistent through currency depreciation pressure (rupee weakness), elevated input costs, and reduced discretionary spending by clients. This reverses the recent positive momentum and signals macro deterioration.",
+        "stocks": {
+          "Persistent": "negative"
+        }
+      }
+    },
+    "7f3a6fac652f985b": {
+      "id": "7f3a6fac652f985b",
+      "title": "SBI Funds reduces IPO size to Rs 9,813 crore after pre-offer placement. Will it impact listing gains?",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/sbi-funds-reduces-ipo-size-to-rs-9812-crore-after-pre-offer-placement-will-it-impact-listing-gains/articleshow/132361142.cms",
+      "summary": "SBI Funds Management has cut its IPO size to Rs 9,813 crore from Rs 11,693 crore after raising Rs 1,655 crore through a pre-IPO placement with 30 anchor investors. The IPO, entirely an offer-for-sale by SBI and Amundi India Holding, will open on July 14. SBI sold 1.42% stake at Rs 574 per share, the upper price band.",
+      "pub": "13 Jul 13:57 IST",
+      "pub_dt": "2026-07-13T08:27:52+00:00",
+      "sectors": [
+        "Banking",
+        "IT",
+        "Materials"
+      ],
+      "stocks": [
+        "SBI"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "SBI successfully monetized 1.42% of SBI Funds Management at Rs 574/share (upper price band) through pre-IPO placement, securing Rs 7,365 crore in shareholder value despite the IPO size reduction. Strong anchor investor participation confirms robust valuation and unlocks capital for SBI's balance sheet without diluting parent stake significantly.",
+        "stocks": {
+          "SBI": "positive"
+        }
+      }
+    },
+    "4ee346479fc7b100": {
+      "id": "4ee346479fc7b100",
+      "title": "Rajnath Singh, Nitin Gadkari inaugurate Lucknow-Kanpur Expressway in UP",
+      "link": "https://economictimes.indiatimes.com/news/economy/infrastructure/rajnath-singh-nitin-gadkari-inaugurate-lucknow-kanpur-expressway-in-up/articleshow/132365100.cms",
+      "summary": "Union ministers and Uttar Pradesh Chief Minister inaugurated the Lucknow-Kanpur Expressway. This new six-lane access-controlled highway cost Rs 4,200 crore to build. The project is expected to cut travel time between the two cities to just 40 minutes. It features an Intelligent Traffic Management System for enhanced safety and efficiency. The expressway will boost regional development and create n",
+      "pub": "13 Jul 16:36 IST",
+      "pub_dt": "2026-07-13T11:06:23+00:00",
+      "sectors": [
+        "Autos",
+        "Materials"
+      ],
+      "stocks": [
+        "ACC"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "The Lucknow-Kanpur Expressway inauguration represents a Rs 4,200 crore infrastructure investment that drives cement demand through ongoing construction and maintenance. Infrastructure spending acceleration supports ACC's volume growth and pricing power in the medium term, aligning with long-term structural GDP growth trends.",
+        "stocks": {
+          "ACC": "positive"
+        }
+      }
+    },
+    "6d910deefae3d666": {
+      "id": "6d910deefae3d666",
+      "title": "Builder must repair structural or quality issues if..",
+      "link": "https://economictimes.indiatimes.com/wealth/legal/will/bought-a-new-apartment-but-facing-structural-workmanship-or-quality-issues-builders-must-repair-it-within-30-days-if-know-your-rights-under-rera/articleshow/132365415.cms",
+      "summary": "",
+      "pub": "13 Jul 17:00 IST",
+      "pub_dt": "2026-07-13T11:30:26+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Generic real estate/construction regulatory article with no specific company impact or sector implications.",
+        "stocks": {}
+      }
+    },
+    "f30906ef8e30c973": {
+      "id": "f30906ef8e30c973",
+      "title": "Delhi renames Mahila Scheme to Lakshmi Yojana",
+      "link": "https://economictimes.indiatimes.com/news/india/delhi-govt-renames-mahila-samriddhi-yojana-as-delhi-lakshmi-yojana-plans-raksha-bandhan-rollout/articleshow/132365419.cms",
+      "summary": "",
+      "pub": "13 Jul 16:55 IST",
+      "pub_dt": "2026-07-13T11:25:55+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Government welfare scheme rename has no direct impact on publicly listed equities or financial markets.",
+        "stocks": {}
+      }
+    },
+    "99932b5dea591c92": {
+      "id": "99932b5dea591c92",
+      "title": "Jeff Bezos began Amazon in a borrowed SUV",
+      "link": "https://economictimes.indiatimes.com/news/new-updates/jeff-bezos-quit-a-million-dollar-wall-street-job-while-ex-wife-mackenzie-scott-drove-the-borrowed-chevy-where-amazons-first-business-plan-was-written/articleshow/132364894.cms",
+      "summary": "",
+      "pub": "13 Jul 16:54 IST",
+      "pub_dt": "2026-07-13T11:24:51+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Biographical/historical content about Amazon's founding has no direct implications for current Indian equity valuations or earnings.",
+        "stocks": {}
+      }
+    },
+    "47a1faf848efe29b": {
+      "id": "47a1faf848efe29b",
+      "title": "Sexual abuse case: SC issues notice to Revanna",
+      "link": "https://economictimes.indiatimes.com/news/politics-and-nation/sexual-abuse-case-supreme-court-orders-notice-to-jds-leader-revanna/articleshow/132364053.cms",
+      "summary": "",
+      "pub": "13 Jul 16:13 IST",
+      "pub_dt": "2026-07-13T10:43:47+00:00",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Sexual abuse case against a political figure has no direct operational, earnings, or regulatory impact on auto sector companies. This is a personal/political matter unrelated to automotive business fundamentals.",
+        "stocks": {}
+      }
+    },
+    "0f54e217acce5523": {
+      "id": "0f54e217acce5523",
+      "title": "Prashant Kishor submits Bankipur bypoll nomination",
+      "link": "https://economictimes.indiatimes.com/news/politics-and-nation/prashant-kishor-files-nomination-for-bankipur-bypoll-takes-on-bjps-neeraj-kumar-sinha/articleshow/132363085.cms",
+      "summary": "",
+      "pub": "13 Jul 15:29 IST",
+      "pub_dt": "2026-07-13T09:59:47+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Political bypolls nomination is a macro political event with no direct impact on banking sector fundamentals, earnings, margins, or regulatory framework for financial institutions.",
+        "stocks": {}
+      }
+    },
+    "27dc02bec153d1b2": {
+      "id": "27dc02bec153d1b2",
+      "title": "Ram Temple to get CEO, entry deadline Jul 18",
+      "link": "https://economictimes.indiatimes.com/news/india/ram-mandir-trust-invites-applications-for-first-ceo-post-july-18-deadline-announced/articleshow/132363630.cms",
+      "summary": "",
+      "pub": "13 Jul 15:50 IST",
+      "pub_dt": "2026-07-13T10:20:49+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Ram Temple administrative restructuring (hiring a CEO) is a governance matter with no relevance to listed company earnings, valuations, or sector-level business dynamics.",
+        "stocks": {}
+      }
+    },
+    "3f7d8feb6e13de01": {
+      "id": "3f7d8feb6e13de01",
+      "title": "Delhi electricity bill to rise again",
+      "link": "https://economictimes.indiatimes.com/news/india/delhi-electricity-bill-to-rise-again-discoms-get-nod-for-fresh-power-surcharge-check-bses-tata-power-new-rates/articleshow/132362715.cms",
+      "summary": "",
+      "pub": "13 Jul 16:44 IST",
+      "pub_dt": "2026-07-13T11:14:36+00:00",
+      "sectors": [
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Rising Delhi electricity bills increase operating costs for IT and Industrial companies operating in the region, directly pressuring margins and reducing profitability. This continuation of tariff increases creates sustained headwinds for cost-sensitive sectors.",
+        "stocks": {}
+      }
+    },
+    "8d034e005056a7bc": {
+      "id": "8d034e005056a7bc",
+      "title": "SpiceJet to pay Rs 140 cr in KAL Airways dispute",
+      "link": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/spicejet-ajay-singh-undertake-to-pay-rs-140-crore-in-kal-airways-dispute/articleshow/132363563.cms",
+      "summary": "",
+      "pub": "13 Jul 15:51 IST",
+      "pub_dt": "2026-07-13T10:21:45+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "SpiceJet's ₹140 crore payment obligation in the KAL Airways dispute directly reduces cash flow and earnings, representing a material financial liability that weakens the airline's balance sheet and profitability.",
+        "stocks": {}
+      }
+    },
+    "c792604dad1b5ab4": {
+      "id": "c792604dad1b5ab4",
+      "title": "FIIs pour over $1 billion into Indian stocks",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-pour-over-1-billion-into-indian-stocks-biggest-weekly-buying-since-june-2025/articleshow/132359912.cms",
+      "summary": "Foreign investors poured more than $1 billion into Indian equities last week, with Goldman Sachs Group Inc. predicting further inflows as a stable currency and improved earnings expectations prompt funds to add to their holdings.Global funds were net buyers of $1.3 billion of Indian equities in the four days through July 9, set to be the biggest weekly purchase since at least June last year, accor",
+      "pub": "13 Jul 12:54 IST",
+      "pub_dt": "2026-07-13T07:24:56+00:00",
+      "sectors": [
+        "Materials"
+      ],
+      "stocks": [
+        "ACC"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "FII inflows of $1.3 billion (largest weekly purchase since June 2023) signal renewed foreign investor confidence in Indian equities driven by stable currency and earnings recovery expectations. This broad-based capital inflow supports valuation expansion and improves sentiment for quality companies like ACC in the materials sector.",
+        "stocks": {
+          "ACC": "positive"
+        }
+      }
+    },
+    "e26bc5cbef41df85": {
+      "id": "e26bc5cbef41df85",
+      "title": "ICICI Pru AMC Q1 results: Profit jumps 23% YoY to  ₹964.63 crore, revenue rises 17.5%",
+      "link": "https://www.livemint.com/market/stock-market-news/icici-pru-amc-q1-results-profit-jumps-23-yoy-to-964-63-crore-11783927529619.html",
+      "summary": "ICICI Pru AMC Q1 results: ICICI Prudential Asset Management Company reported a 23% year-on-year rise in its profit to  ₹964.63 crore for Q1FY27. Revenue from operations rose by 17.55% YoY to  ₹1,564.22 crore.",
+      "pub": "13 Jul 16:28 IST",
+      "pub_dt": "2026-07-13T10:58:03+00:00",
+      "sectors": [
+        "Autos",
+        "Banking"
+      ],
+      "stocks": [
+        "ICICI Pru Life"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "ICICI Pru AMC's 23% profit growth and 17.5% revenue growth demonstrate strong operational momentum and improved asset management performance. This earnings beat with double-digit growth in both top-line and bottom-line is a continuation of positive momentum and directly accretive to parent company ICICI Pru Life's consolidated earnings.",
+        "stocks": {
+          "ICICI Pru Life": "positive"
+        }
+      }
+    },
+    "53d61d01a0c6b9cf": {
+      "id": "53d61d01a0c6b9cf",
+      "title": "India's merchandise exports up 15.5% in June; engineering goods, petroleum and electronics lead growth",
+      "link": "https://www.livemint.com/economy/india-merchandise-exports-june-trade-data-deficit-engineering-petroleum-electronics-11783928921581.html",
+      "summary": "India’s merchandise exports rose 15.5% to $40.4 billion in June, led by engineering goods, petroleum products and electronics. But imports grew even faster, widening the merchandise trade deficit to $30.4 billion.",
+      "pub": "13 Jul 16:14 IST",
+      "pub_dt": "2026-07-13T10:44:02+00:00",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "India's 15.5% export growth is positive for engineering goods and electronics sectors, but faster import growth widening the trade deficit to $30.4 billion signals rising input costs and potentially increased competitive pressure. For auto sector specifically, this mixed trade dynamics creates both opportunities (export growth) and challenges (rising input inflation).",
+        "stocks": {}
+      }
+    },
+    "8e88fbde795e8a05": {
+      "id": "8e88fbde795e8a05",
+      "title": "SC asks Baba Kalyani and Sugandha Hiremath to settle disputes via mediation",
+      "link": "https://www.livemint.com/companies/news/baba-kalyani-sugandha-hiremath-disputes-via-mediation-bharat-forge-11783940743762.html",
+      "summary": "The Supreme Court appointed former Supreme Court judge Justice L Nageswara Rao as the mediator in the case and urged the two parties to make one last attempt to bury the hatchet amicably.",
+      "pub": "13 Jul 17:02 IST",
+      "pub_dt": "2026-07-13T11:32:46+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Supreme Court mediation intervention in a personal/corporate dispute between Baba Kalyani and Sugandha Hiremath is a procedural development with no direct impact on earnings, margins, or growth prospects. Resolution through mediation could reduce uncertainty, but the absence of tagged stocks and lack of sector-specific implications limits material impact assessment.",
+        "stocks": {}
+      }
     }
   }
 }
