@@ -43912,6 +43912,577 @@
         "reasoning": "Mylan's block deal to sell 92 million Biocon shares (up to $363 million) is a portfolio rebalancing and partial exit following biosimilar asset integrations. While it represents a financial exit decision, the transaction does not materially impact Biocon's operational fundamentals, earnings capacity, or competitive positioning in biosimilars.",
         "stocks": {}
       }
+    },
+    "5ae97aa73989d0ac": {
+      "id": "5ae97aa73989d0ac",
+      "title": "Cupid shares jump 5%, multibagger stock turns Rs 1 lakh investment into Rs 87 lakh in just 3 years",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/cupid-shares-jump-5-multibagger-stock-turns-rs-1-lakh-investment-into-rs-87-lakh-in-just-3-years/articleshow/132384038.cms",
+      "summary": "Cupid shares have delivered substantial investor returns, reaching 8,700% over three years.  The company manufactures condoms and IVD kits, operating a facility near Nashik.  Strong revenue and profit growth are supported by exports and portfolio expansion.",
+      "pub": "14 Jul 12:44 IST",
+      "pub_dt": "2026-07-14T07:14:56+00:00",
+      "sectors": [
+        "Autos",
+        "E-Commerce"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Cupid's 8,700% three-year return reflects strong execution in high-growth segments (condoms, IVD kits) with robust revenue and profit expansion supported by exports and portfolio diversification. The continuation of multibagger returns suggests sustained earnings growth and margin expansion from operational leverage.",
+        "stocks": {}
+      }
+    },
+    "6572e6b23c0ecfbc": {
+      "id": "6572e6b23c0ecfbc",
+      "title": "HCL Tech’s Rs 3,500 crore AI data centre foray: A new growth engine or capital-intensive diversion?",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/hcl-techs-rs-3500-crore-ai-data-centre-foray-a-new-growth-engine-or-capital-intensive-diversion/articleshow/132383949.cms",
+      "summary": "HCL Technologies is investing up to Rs 3,500 crore in AI data centres to build a full-stack AI ecosystem spanning infrastructure, compute and managed services. While the phased investment could create a new growth engine, investors will closely watch capital deployment, returns and demand visibility before assigning meaningful value to the venture.",
+      "pub": "14 Jul 12:40 IST",
+      "pub_dt": "2026-07-14T07:10:34+00:00",
+      "sectors": [
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "HCL Tech"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "HCL Tech's Rs 3,500 crore AI data centre investment signals strategic confidence in AI infrastructure opportunity and aligns with sector tailwinds (post-TCS Q1 rally, ISO AI certification leadership). However, the capital-intensive shift reverses the asset-light model and introduces execution risk—investors will scrutinize ROI visibility and time-to-profitability before assigning meaningful valuation uplift, especially given recent post-earnings 3% decline despite strong Q1 fundamentals.",
+        "stocks": {
+          "HCL Tech": "mixed"
+        }
+      }
+    },
+    "0c22a9f36440d441": {
+      "id": "0c22a9f36440d441",
+      "title": "Ashish Kacholia exits, Madhusudan Kela trims stake in smallcap NBFC stock that's up over 50% in 2026",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ashish-kacholia-exits-madhusudan-kela-trims-stake-in-smallcap-nbfc-stock-thats-up-over-50-in-2026/articleshow/132383509.cms",
+      "summary": "Prominent investors Ashish Kacholia and Madhusudan Kela have reduced their stakes in SG Finserve. This move follows a substantial 52% share price increase since the year began. Kacholia's holding dropped below the disclosure threshold, indicating a likely exit from the company. Kela also marginally decreased his investment in the non-banking financial firm. SG Finserve reported strong loan book gr",
+      "pub": "14 Jul 12:32 IST",
+      "pub_dt": "2026-07-14T07:02:39+00:00",
+      "sectors": [
+        "Banking",
+        "Industrials"
+      ],
+      "stocks": [
+        "BEL"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Ashish Kacholia's exit and Madhusudan Kela's stake reduction signal weakening conviction from sophisticated investors despite SG Finserve's 52% YTD rally. The exit at peak valuation suggests concerns about valuation sustainability, competitive positioning in the NBFC space, or near-term earnings headwinds that may not be priced in by retail momentum traders.",
+        "stocks": {}
+      }
+    },
+    "1ce2aeca857918cf": {
+      "id": "1ce2aeca857918cf",
+      "title": "Vijay Kedia’s new smallcap bet revealed; FIIs raise stake, stock up 15% in one month",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/vijay-kedias-new-smallcap-bet-revealed-fiis-raise-stake-stock-up-15-in-one-month/articleshow/132382896.cms",
+      "summary": "Kedia Securities, backed by ace investor Vijay Kedia, acquired a fresh 1.45% stake in smallcap engineering firm Eimco Elecon during the June 2026 quarter. The stock has gained nearly 15% in the past month, while improving FII participation, strong fundamentals and a constructive technical setup continue to keep it on investors' radar.",
+      "pub": "14 Jul 11:57 IST",
+      "pub_dt": "2026-07-14T06:27:22+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Vijay Kedia's fresh 1.45% stake acquisition in Eimco Elecon and improving FII participation validate strong fundamentals and technical setup in this smallcap engineering play. The 15% one-month rally coupled with insider accumulation indicates earnings growth visibility and potential margin expansion, characteristic of Kedia's high-conviction contrarian picks.",
+        "stocks": {}
+      }
+    },
+    "b890d2ea6e1bb195": {
+      "id": "b890d2ea6e1bb195",
+      "title": "SBI Funds Management IPO GMP Live: SBI Funds Management issue subscribed 25% so far; GMP steady at 15%. Should you subscribe?",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/sbi-funds-management-ipo-live-updates-sbi-funds-gmp-listing-date-expert-review-subscription-status-stock-market-news/liveblog/132379748.cms",
+      "summary": "",
+      "pub": "14 Jul 08:27 IST",
+      "pub_dt": "2026-07-14T02:57:58+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [
+        "SBI"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "SBI Funds Management IPO is unlocking ~Rs 7,365 crore in shareholder value for SBI through successful stake monetization at strong valuation (Rs 574 upper band, 18% GMP). The 25% subscription level and 15% steady GMP despite lower overall IPO market momentum validate investor appetite, supporting SBI parent's balance sheet deleveraging and capital redeployment for growth.",
+        "stocks": {
+          "SBI": "positive"
+        }
+      }
+    },
+    "f98d317eca58c246": {
+      "id": "f98d317eca58c246",
+      "title": "Divis Labs Share Price Live Updates: Divis Labs enjoys a strong performance in today's trading session",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-stock-price-today-live-14-jul-2026/liveblog/132379429.cms",
+      "summary": "",
+      "pub": "14 Jul 08:03 IST",
+      "pub_dt": "2026-07-14T02:33:32+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "The headline provides no material information—it merely states Divis Labs is performing well in today's session without specific earnings, margin, growth, or strategic catalysts. Without context on the driver of 'strong performance,' no valuation or earnings impact can be assessed.",
+        "stocks": {}
+      }
+    },
+    "13f2b9f4e00badf6": {
+      "id": "13f2b9f4e00badf6",
+      "title": "Sun Pharma Share Price Live Updates: Sun Pharma's Current Price and Performance Metrics",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-share-price-today-live-updates-14-jul-2026/liveblog/132379417.cms",
+      "summary": "",
+      "pub": "14 Jul 08:03 IST",
+      "pub_dt": "2026-07-14T02:33:12+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "The headline is a generic price/performance update with no material news content—no earnings announcement, guidance change, regulatory action, or strategic development disclosed. Cannot assess earnings or valuation impact without substantive information.",
+        "stocks": {}
+      }
+    },
+    "186508203cb47aac": {
+      "id": "186508203cb47aac",
+      "title": "ONGC Share Price Live Updates: ONGC's Current Trading Status",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ongc-share-price-live-updates-14-jul-2026/liveblog/132379407.cms",
+      "summary": "",
+      "pub": "14 Jul 08:02 IST",
+      "pub_dt": "2026-07-14T02:32:56+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "The headline is a generic trading update with no material information—no earnings, guidance, regulatory, or strategic catalysts disclosed. ONGC's trading status alone has no impact on fundamentals, margins, or valuations without context on underlying business drivers.",
+        "stocks": {}
+      }
+    },
+    "419f8a5ce5c08542": {
+      "id": "419f8a5ce5c08542",
+      "title": "Asian Paints Share Price Live Updates: Asian Paints shows slight price movement",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/asian-paints-stock-price-today-live-14-jul-2026/liveblog/132379400.cms",
+      "summary": "",
+      "pub": "14 Jul 08:02 IST",
+      "pub_dt": "2026-07-14T02:32:40+00:00",
+      "sectors": [
+        "IT",
+        "Materials"
+      ],
+      "stocks": [
+        "Asian Paints"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Routine price movement update with no new catalysts, earnings drivers, or business developments. Recent history confirms continuation of neutral sentiment with only board meeting announcements for Q1 results review.",
+        "stocks": {
+          "Asian Paints": "neutral"
+        }
+      }
+    },
+    "b7cd9f0532b2046c": {
+      "id": "b7cd9f0532b2046c",
+      "title": "Grasim Inds Share Price Live Updates: Grasim Industries stock price declines amid market volatility",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/grasim-inds-share-price-today-live-updates-14-jul-2026/liveblog/132379387.cms",
+      "summary": "",
+      "pub": "14 Jul 08:02 IST",
+      "pub_dt": "2026-07-14T02:32:19+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Generic market volatility update with no company-specific catalysts, operational news, or earnings impact disclosed. Without substantive information on business fundamentals or market drivers, sentiment remains neutral.",
+        "stocks": {}
+      }
+    },
+    "a90bc7971708c867": {
+      "id": "a90bc7971708c867",
+      "title": "Adani Ports SEZ Share Price Live Updates: Adani Ports SEZ enjoys a positive trading session",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ports-sez-share-price-today-live-14-jul-2026/liveblog/132379380.cms",
+      "summary": "",
+      "pub": "14 Jul 08:02 IST",
+      "pub_dt": "2026-07-14T02:32:03+00:00",
+      "sectors": [
+        "Industrials"
+      ],
+      "stocks": [
+        "Adani Ports"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Positive trading session described but lacks substantive catalysts or earnings-relevant information. Recent history shows mixed momentum with technical weakness earlier, making this appear sentiment-driven rather than fundamentals-driven.",
+        "stocks": {
+          "Adani Ports": "neutral"
+        }
+      }
+    },
+    "fb0c91527b9ce788": {
+      "id": "fb0c91527b9ce788",
+      "title": "Eicher Motors Share Price Live Updates: Eicher Motors Stock Update",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-share-price-live-14-jul-2026/liveblog/132379378.cms",
+      "summary": "",
+      "pub": "14 Jul 08:02 IST",
+      "pub_dt": "2026-07-14T02:32:03+00:00",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [
+        "Eicher Motors"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Routine stock price update with no new business developments, earnings drivers, or market catalysts disclosed. Continuation of neutral price movement updates seen in recent history.",
+        "stocks": {
+          "Eicher Motors": "neutral"
+        }
+      }
+    },
+    "ee74fcaea11d627d": {
+      "id": "ee74fcaea11d627d",
+      "title": "ICICI Bank Share Price Live Updates: ICICI Bank's Price Movement Today",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-live-14-jul-2026/liveblog/132379369.cms",
+      "summary": "",
+      "pub": "14 Jul 08:01 IST",
+      "pub_dt": "2026-07-14T02:31:43+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [
+        "ICICI Bank"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "ICICI Bank benefits from sustained positive momentum including analyst buy recommendations, strong Q1 business updates across the banking sector (advance growth 15%+, deposit growth 14%+), and infrastructure finance acquisition expanding earnings sources.",
+        "stocks": {
+          "ICICI Bank": "positive"
+        }
+      }
+    },
+    "1c133fc28fbc3545": {
+      "id": "1c133fc28fbc3545",
+      "title": "Britannia Share Price Live Updates: Market Analysis of Britannia",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/britannia-share-price-live-updates-14-jul-2026/liveblog/132379367.cms",
+      "summary": "",
+      "pub": "14 Jul 08:01 IST",
+      "pub_dt": "2026-07-14T02:31:43+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Generic market analysis update with no company-specific news, catalysts, or earnings impact. Lack of substantive information prevents sentiment determination.",
+        "stocks": {}
+      }
+    },
+    "6a59ecd278a27c5d": {
+      "id": "6a59ecd278a27c5d",
+      "title": "M&amp;M Share Price Live Updates: Market Movement: M&amp;M's Current Price Analysis",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/mm-share-price-live-14-jul-2026/liveblog/132379355.cms",
+      "summary": "",
+      "pub": "14 Jul 08:01 IST",
+      "pub_dt": "2026-07-14T02:31:25+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Generic price analysis update with no company-specific news or catalysts disclosed. Insufficient information to assess impact on earnings or valuation.",
+        "stocks": {}
+      }
+    },
+    "e76f77f3640b25e2": {
+      "id": "e76f77f3640b25e2",
+      "title": "Oracle shares under pressure: What's driving the recent selloff?",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/oracle-shares-under-pressure-whats-driving-the-recent-selloff/slideshow/132383693.cms",
+      "summary": "",
+      "pub": "14 Jul 12:29 IST",
+      "pub_dt": "2026-07-14T06:59:48+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "International stock news with no relevance to Indian equity markets or tagged Indian stocks. Not applicable to the Indian equity analysis mandate.",
+        "stocks": {}
+      }
+    },
+    "71ccf01312d3f67d": {
+      "id": "71ccf01312d3f67d",
+      "title": "Global Market: UK bond yields hit one-month high as Middle East tensions boost rate-hike expectations",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-uk-bond-yields-hit-one-month-high-as-middle-east-tensions-boost-rate-hike-expectations/articleshow/132383109.cms",
+      "summary": "Middle East tensions are driving oil prices higher and impacting global energy supplies. This surge in oil prices is fueling inflation concerns and influencing monetary policy expectations. Investors now anticipate the Bank of England will maintain elevated interest rates for a longer duration. Higher bond yields signal increased borrowing costs for businesses and individuals. Market sentiment fac",
+      "pub": "14 Jul 12:04 IST",
+      "pub_dt": "2026-07-14T06:34:18+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Higher UK bond yields and elevated interest rate expectations increase borrowing costs for businesses globally, including Indian corporates and IT services firms. Rising oil prices from Middle East tensions fuel inflation concerns, pressuring margins for energy-intensive sectors like Autos and impacting IT services through rupee depreciation and input cost pressures.",
+        "stocks": {}
+      }
+    },
+    "e3719e74f7a5e831": {
+      "id": "e3719e74f7a5e831",
+      "title": "Global Market: UK's Rachel Reeves defends fiscal record ahead of leadership change; investors eye policy continuity",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-uks-rachel-reeves-defends-fiscal-record-ahead-of-leadership-change-investors-eye-policy-continuity/articleshow/132383005.cms",
+      "summary": "Britain's Finance Minister Rachel Reeves defended her economic record ahead of an expected Labour leadership transition, while investors assessed whether the incoming government would retain fiscal discipline amid slowing growth, persistent inflation and rising geopolitical risks.",
+      "pub": "14 Jul 12:00 IST",
+      "pub_dt": "2026-07-14T06:30:55+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [
+        "Persistent"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Policy continuity under Labour leadership is neutral for business operations, but recent history shows persistent headwinds: elevated global rates, oil price spikes, and rising geopolitical risks create negative pressure on IT services (Persistent) through rupee weakness and cost inflation, offsetting any positive sentiment from fiscal stability.",
+        "stocks": {
+          "Persistent": "negative"
+        }
+      }
+    },
+    "11487a608ce8cf65": {
+      "id": "11487a608ce8cf65",
+      "title": "Why SanDisk stock plunged despite Wall Street's bullish outlook",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-sandisk-stock-plunged-despite-wall-streets-bullish-outlook/slideshow/132383373.cms",
+      "summary": "SanDisk shares tumbled over 12% amid profit-booking and weakness in semiconductor stocks. Despite the decline, analysts remain bullish, citing strong AI-driven storage demand, favorable NAND market trends, and long-term growth potential.",
+      "pub": "14 Jul 11:54 IST",
+      "pub_dt": "2026-07-14T06:24:48+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "SanDisk's 12% decline reflects short-term profit-booking rather than fundamental deterioration. Analyst bullishness on AI-driven storage demand and NAND market trends suggests the weakness is a temporary correction, not indicative of earnings or competitive headwinds for semiconductor-linked Indian IT stocks.",
+        "stocks": {}
+      }
+    },
+    "113350611564d627": {
+      "id": "113350611564d627",
+      "title": "WPI inflation quickens to 9.87% in June from 9.68% in May",
+      "link": "https://economictimes.indiatimes.com/news/economy/indicators/wpi-inflation-quickens-to-9-87-in-june-from-9-68-in-may/articleshow/132383131.cms",
+      "summary": "India's wholesale inflation rose to 9.87 percent in June. This figure exceeded economists' earlier projections for the month. Higher prices for food and mineral oils drove the wholesale price increase. Inflation in primary articles accelerated significantly after May's figures. Fuel and power inflation eased, while manufactured goods prices remained steady.",
+      "pub": "14 Jul 12:13 IST",
+      "pub_dt": "2026-07-14T06:43:07+00:00",
+      "sectors": [
+        "IT",
+        "Materials"
+      ],
+      "stocks": [
+        "ACC"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "WPI inflation acceleration to 9.87% (driven by food and mineral oils) directly pressures ACC's input costs, particularly cement production which relies on energy and raw materials. Rising wholesale inflation signals persistent cost pressures ahead, likely to compress margins unless pricing power improves, amid weak cement demand environment.",
+        "stocks": {
+          "ACC": "negative"
+        }
+      }
+    },
+    "37c70a66f62d342e": {
+      "id": "37c70a66f62d342e",
+      "title": "Born at IIT, battery tech finds China's gap",
+      "link": "https://economictimes.indiatimes.com/industry/renewables/born-at-iit-this-battery-tech-targets-a-market-china-doesnt-dominateyet/articleshow/132381450.cms",
+      "summary": "",
+      "pub": "14 Jul 11:51 IST",
+      "pub_dt": "2026-07-14T06:21:44+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Incomplete news item with no summary provided; insufficient information to assess impact on stocks or sectors.",
+        "stocks": {}
+      }
+    },
+    "72e1b185077c4c5b": {
+      "id": "72e1b185077c4c5b",
+      "title": "India floats Rs 15K-cr stratospheric airship project",
+      "link": "https://economictimes.indiatimes.com/news/defence/india-floats-stratospheric-airship-project-invites-private-players/articleshow/132375036.cms",
+      "summary": "",
+      "pub": "14 Jul 00:03 IST",
+      "pub_dt": "2026-07-13T18:33:16+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Rs 15,000 crore stratospheric airship project is a long-term infrastructure initiative with uncertain near-term earnings impact. IT sector involvement remains speculative without clarity on implementation timeline, budget allocation, or which specific companies benefit.",
+        "stocks": {}
+      }
+    },
+    "536aa9b53c88ff93": {
+      "id": "536aa9b53c88ff93",
+      "title": "India supports UN membership for Palestine: MEA",
+      "link": "https://economictimes.indiatimes.com/news/india/india-advocates-for-palestines-un-membership-and-two-state-solution-at-donor-group-meeting/articleshow/132382936.cms",
+      "summary": "",
+      "pub": "14 Jul 12:04 IST",
+      "pub_dt": "2026-07-14T06:34:03+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "India's UN position on Palestine membership is a geopolitical/diplomatic statement with no direct impact on corporate earnings, margins, or competitive dynamics for Indian equities.",
+        "stocks": {}
+      }
+    },
+    "272706bfaf39d8ed": {
+      "id": "272706bfaf39d8ed",
+      "title": "CBSE issues clarification on third-language row",
+      "link": "https://economictimes.indiatimes.com/industry/services/education/cbse-clarifies-r3-rule-class-10-students-of-2027-28-batch-must-clear-school-based-third-language-assessment-for-pass-certificate/articleshow/132382867.cms",
+      "summary": "",
+      "pub": "14 Jul 11:58 IST",
+      "pub_dt": "2026-07-14T06:28:33+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "CBSE's clarification on third-language education policy is an administrative/regulatory matter with no direct implications for equity valuations, earnings, or sector-specific competitive dynamics.",
+        "stocks": {}
+      }
+    },
+    "99779c6be205664c": {
+      "id": "99779c6be205664c",
+      "title": "BJP's Ramachandra Gowda passes away at 88",
+      "link": "https://economictimes.indiatimes.com/news/politics-and-nation/former-karnataka-minister-ramachandra-gowda-passes-away-at-88/articleshow/132382881.cms",
+      "summary": "",
+      "pub": "14 Jul 11:55 IST",
+      "pub_dt": "2026-07-14T06:25:59+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Political figure's death is a macro/governance event with no direct impact on corporate earnings, margins, or specific stock valuations. While BJP leadership changes can influence policy direction, this particular event lacks direct linkage to equity market fundamentals.",
+        "stocks": {}
+      }
+    },
+    "e39eb02e1658d8c3": {
+      "id": "e39eb02e1658d8c3",
+      "title": "Saudi warns visitors against visa overstays",
+      "link": "https://economictimes.indiatimes.com/nri/visit/saudi-arabia-warns-visitors-against-visa-overstays-violators-face-fines-imprisonment-and-deportation/articleshow/132383119.cms",
+      "summary": "Saudi Arabia has warned foreign visitors to leave the Kingdom before their entry visas expire, saying those who overstay could face fines of up to SR50,000, imprisonment for up to six months, deportation and possible re-entry bans, depending on the violation. The warning comes as Saudi authorities continue nationwide enforcement campaigns targeting violations of residency, labour and border securi",
+      "pub": "14 Jul 12:16 IST",
+      "pub_dt": "2026-07-14T06:46:19+00:00",
+      "sectors": [
+        "IT",
+        "Materials"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Saudi visa overstay penalties targeting foreign workers create compliance risks for Indian IT and Materials sector companies operating in the Kingdom. Increased enforcement could disrupt project timelines, raise operational costs for on-site deployments, and trigger employee relocation expenses, directly pressuring margins for IT services and materials exporters dependent on Saudi operations.",
+        "stocks": {}
+      }
+    },
+    "156faa2191145183": {
+      "id": "156faa2191145183",
+      "title": "Laser Power &amp; Infra IPO allotment in focus today; latest GMP, 6 steps to check status",
+      "link": "https://www.livemint.com/market/ipo/laser-power-ipo-gmp-laser-power-ipo-allotment-date-laser-power-infra-ipo-allotment-date-laser-power-infra-11784010765466.html",
+      "summary": "The Laser Power &amp;amp; Infra IPO share allotment will be finalized today. Investors can check their allotment status on MUFG Intime's portal. Refunds for those not allotted will begin on 15 July, while shares for successful applicants will be credited to demat accounts on the same day.",
+      "pub": "14 Jul 12:41 IST",
+      "pub_dt": "2026-07-14T07:11:51+00:00",
+      "sectors": [
+        "Banking",
+        "E-Commerce",
+        "Materials"
+      ],
+      "stocks": [
+        "ACC"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "The Laser Power & Infra IPO allotment is an operational procedural update with no direct earnings or valuation impact on ACC. While recent history shows mixed macro sentiment (inflation pressure, FII inflows, capex cycle strength), this specific news item is administrative and doesn't alter fundamentals.",
+        "stocks": {
+          "ACC": "neutral"
+        }
+      }
+    },
+    "224d39842f5d1172": {
+      "id": "224d39842f5d1172",
+      "title": "Nifty 50 Trading Strategy: Analysts recommend Bull Call Spread options strategy for 21 July expiry",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-trading-strategy-analysts-recommend-bull-call-spread-options-strategy-for-21-july-expiry-11784011569302.html",
+      "summary": "Nifty 50 Trading Strategy: Axis Securities has recommended a Bull Call Spread strategy for Nifty options contracts expiring on 21 July 2026, expecting a moderately bullish view.",
+      "pub": "14 Jul 12:27 IST",
+      "pub_dt": "2026-07-14T06:57:24+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Nifty 50 options trading strategy recommendation is a technical/tactical guidance with no direct impact on underlying corporate earnings, growth, or margins. Bull Call Spreads reflect analyst sentiment but don't alter fundamental valuation drivers or competitive dynamics.",
+        "stocks": {}
+      }
+    },
+    "963f81ddd765427c": {
+      "id": "963f81ddd765427c",
+      "title": "PC Jeweller share price in focus after the multibagger stock announces board meeting to consider QIP; check date",
+      "link": "https://www.livemint.com/market/stock-market-news/pc-jeweller-share-price-in-focus-after-the-multibagger-stock-announces-board-meeting-to-consider-qip-check-date-11784010090380.html",
+      "summary": "PC Jeweller's Board will meet on July 16, 2026, to discuss a QIP proposal aimed at funding business growth and strategic initiatives, while completing debt repayments. The meeting will also cover the appointment of necessary advisors and seeking shareholder approvals as required by law.",
+      "pub": "14 Jul 12:06 IST",
+      "pub_dt": "2026-07-14T06:36:30+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "PC Jeweller's QIP announcement signals management confidence in growth prospects and strategic initiatives while enabling debt repayment, improving financial health and leverage ratios. QIP capital infusion supports expansion without diluting existing shareholders significantly, supporting long-term earnings growth and valuation re-rating.",
+        "stocks": {}
+      }
+    },
+    "746827df391ac8f4": {
+      "id": "746827df391ac8f4",
+      "title": "SBI Funds Management IPO Day 1: Issue booked 34% so far. GMP hints 17% listing pop. Apply or not?",
+      "link": "https://www.livemint.com/market/ipo/sbi-funds-management-ipo-gmp-sbi-funds-management-ipo-review-sbi-funds-management-ipo-details-sbi-funds-ipo-gmp-sbi-11783995671693.html",
+      "summary": "SBI Funds Management's  ₹9,795-crore IPO opened on 14 July and will close on 16 July, with shares priced between  ₹545-574. The company raised  ₹2,663 crore from anchor investors, reserving 50% for QIBs and offering a discount to employees.",
+      "pub": "14 Jul 08:32 IST",
+      "pub_dt": "2026-07-14T03:02:33+00:00",
+      "sectors": [
+        "Banking",
+        "IT"
+      ],
+      "stocks": [
+        "SBI"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "SBI Funds Management IPO Day 1 showing 34% booking with 17% GMP indicates strong investor demand and validates the IPO pricing. For SBI parent, this unlocks ~₹7,365 crore in shareholder value through successful stake monetization while maintaining operational control, directly boosting SBI's capital position and strengthening balance sheet metrics. Strong anchor book backing (marquee investors like BlackRock, Goldman) signals institutional confidence.",
+        "stocks": {
+          "SBI": "positive"
+        }
+      }
     }
   }
 }
