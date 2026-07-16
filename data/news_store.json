@@ -53254,6 +53254,175 @@
         "reasoning": "The report highlights structural growth in Indian biotech (2.1x investment rise, 1,500 to 2,400 startups) which is positive for the sector's long-term development. However, without tagged Indian biotech/pharma companies, this is a macro sector trend observation with no direct impact on listed equity valuations.",
         "stocks": {}
       }
+    },
+    "14d6b7bb48432a79": {
+      "id": "14d6b7bb48432a79",
+      "title": "Q1 Results Earnings Live Updates: Wipro, Tech Mahindra, Jio Financial among 41 firms to report June quarter earnings today",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/q1-results-today-live-updates-wipro-tech-mahindra-bhel-jio-finances-quarter-1-results-earnings-2026-share-price-updates/liveblog/132432215.cms",
+      "summary": "",
+      "pub": "16 Jul 12:38 IST",
+      "pub_dt": "2026-07-16T07:08:08+00:00",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [
+        "M&M",
+        "Reliance Jio",
+        "Tech Mahindra",
+        "Wipro"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Q1 earnings day presents divergent outlooks across tagged stocks. Wipro faces sequential revenue decline and margin pressure from wage inflation amid weakening global IT demand (IBM's 25% crash signals demand weakness), while Tech Mahindra shows double-digit profit growth expectations but muted revenue growth. Jio Financial's IPO-linked CEO transition creates near-term execution risk despite steady subscriber growth. Mixed earnings outcomes will likely drive stock-specific volatility rather than sector-wide movement.",
+        "stocks": {
+          "Wipro": "negative",
+          "Tech Mahindra": "mixed",
+          "Jio Financial": "neutral",
+          "M&M": "neutral"
+        }
+      }
+    },
+    "7a8233b3aaa9f6fb": {
+      "id": "7a8233b3aaa9f6fb",
+      "title": "RIL Share Price Live Updates: RIL's Current Trading Status",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ril-share-price-today-live-updates-16-jul-2026/liveblog/132428582.cms",
+      "summary": "",
+      "pub": "16 Jul 08:42 IST",
+      "pub_dt": "2026-07-16T03:12:40+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "This is a routine price update headline without substantive news, catalysts, or fundamental information. No new developments or earnings catalysts are disclosed.",
+        "stocks": {}
+      }
+    },
+    "68ff571b1d9a7c54": {
+      "id": "68ff571b1d9a7c54",
+      "title": "Modi to flag off first hydrogen train on Friday",
+      "link": "https://economictimes.indiatimes.com/industry/renewables/pm-modi-to-flag-off-indias-first-hydrogen-train-on-friday/articleshow/132432107.cms",
+      "summary": "",
+      "pub": "16 Jul 12:34 IST",
+      "pub_dt": "2026-07-16T07:04:55+00:00",
+      "sectors": [
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Hydrogen train flagoff is a policy/infrastructure milestone with no direct link to the tagged IT/Telecom sectors' earnings, margins, or competitive dynamics. Long-term sectoral implications are unclear and distant.",
+        "stocks": {}
+      }
+    },
+    "3e0c642986042ca5": {
+      "id": "3e0c642986042ca5",
+      "title": "Yamuna flow low despite Hathnikund surge",
+      "link": "https://economictimes.indiatimes.com/news/india/higher-monsoon-inflows-at-hathnikund-fail-to-boost-yamunas-flow-experts-warn-of-ecological-impact/articleshow/132432042.cms",
+      "summary": "",
+      "pub": "16 Jul 12:29 IST",
+      "pub_dt": "2026-07-16T06:59:16+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Water flow issues lack direct impact on listed equities in any major sector. This is a localized environmental/infrastructure issue without earnings or valuation implications.",
+        "stocks": {}
+      }
+    },
+    "6bf4a3fc24ab68f9": {
+      "id": "6bf4a3fc24ab68f9",
+      "title": "Wangchuk loses over 9 kg after 19 days of strike",
+      "link": "https://economictimes.indiatimes.com/news/india/sonam-wangchuk-hunger-strike-19-days-loses-over-9-kg/articleshow/132431951.cms",
+      "summary": "",
+      "pub": "16 Jul 12:26 IST",
+      "pub_dt": "2026-07-16T06:56:17+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Personal news unrelated to equity markets or corporate earnings. No impact on any listed company's operations or financials.",
+        "stocks": {}
+      }
+    },
+    "212bc2720839b89c": {
+      "id": "212bc2720839b89c",
+      "title": "China's oil fortress will reshape the global order",
+      "link": "https://economictimes.indiatimes.com/news/international/business/chinas-oil-fortress-will-reshape-the-global-order/articleshow/132431879.cms",
+      "summary": "",
+      "pub": "16 Jul 12:21 IST",
+      "pub_dt": "2026-07-16T06:51:18+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Geopolitical/macro commentary on oil reserves has indirect macro linkages but no specific impact on identified Indian equities' earnings, margins, or growth trajectories.",
+        "stocks": {}
+      }
+    },
+    "275a5a726659f240": {
+      "id": "275a5a726659f240",
+      "title": "Delhi to fine upto ₹5K for officials delaying work",
+      "link": "https://economictimes.indiatimes.com/news/new-updates/delhi-proposes-rs-5000-fine-for-officials-delaying-public-services-new-bill-proposes-to-raise-daily-penalty-from-rs-10-to-rs-250/articleshow/132431385.cms",
+      "summary": "",
+      "pub": "16 Jul 12:19 IST",
+      "pub_dt": "2026-07-16T06:49:10+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Regulatory fine policy for government officials has no direct bearing on listed company earnings, margins, or competitive dynamics.",
+        "stocks": {}
+      }
+    },
+    "2c780d95880e9c7a": {
+      "id": "2c780d95880e9c7a",
+      "title": "1% TCS on car purchase: Forgot claiming your money?",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/tcs-refund-on-car-purchase-itr-filing-2026-did-you-claim-a-minimum-rs-10000-income-tax-refund-for-your-car-bought-in-fy26-heres-how-to-claim-your-1-tcs-now/articleshow/132407844.cms",
+      "summary": "",
+      "pub": "15 Jul 16:18 IST",
+      "pub_dt": "2026-07-15T10:48:40+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [
+        "TCS"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "The headline suggests TCS corporate card cashback/loyalty program issues, indicating potential reputational or customer service concerns. While this appears ancillary to core IT services, it signals operational execution challenges that could undermine customer satisfaction and employee benefits perception.",
+        "stocks": {
+          "TCS": "negative"
+        }
+      }
+    },
+    "576290ebff02a385": {
+      "id": "576290ebff02a385",
+      "title": "RBI proposes stricter data norms",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-proposes-stricter-data-governance-framework-for-banks-nbfcs-seeks-feedback-by-aug-17/articleshow/132432196.cms",
+      "summary": "New Delhi: The Reserve Bank of India (RBI) has proposed a comprehensive data governance framework requiring banks, non-banking financial companies (NBFCs) and other regulated entities to strengthen data risk management as part of their overall risk management systems.It says \"Data has increasingly emerged as a critical organisational asset for Regulated Entities (REs), underpinning business operat",
+      "pub": "16 Jul 12:38 IST",
+      "pub_dt": "2026-07-16T07:08:57+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Stricter data governance norms will increase compliance costs and operational expenses for banks and NBFCs in the short term, pressuring margins. However, stronger data risk management reduces systemic risks and potential regulatory penalties, benefiting long-term stability and valuation. Impact varies by entity size—larger banks with established frameworks face lower incremental costs.",
+        "stocks": {}
+      }
     }
   }
 }
