@@ -64529,6 +64529,482 @@
         "reasoning": "Leadership transition at UTI AMC with new CEO taking charge is a strategic development, but without disclosed business metrics, market share gains, or earnings catalysts, this represents organizational change rather than a material valuation inflection. The turnaround narrative requires execution evidence to be assessed as positive.",
         "stocks": {}
       }
+    },
+    "ed3880beadc7a494": {
+      "id": "ed3880beadc7a494",
+      "title": "Emmvee Photovoltaic among 5 stocks closed below VWAP, signalling bearish shift",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/emmvee-photovoltaic-among-5-stocks-closed-below-vwap-signalling-bearish-shift/slideshow/132505113.cms",
+      "summary": "On July 17, five stocks in the Nifty500 pack closed more than 1.5% below their Volume Weighted Average Price (VWAP), according to StockEdge's technical scan data. A move below the VWAP is considered a bearish technical signal, indicating increasing selling pressure and the potential for further downside in the near term.",
+      "pub": "20 Jul 08:46 IST",
+      "pub_dt": "2026-07-20T03:16:28+00:00",
+      "sectors": [
+        "IT",
+        "Industrials",
+        "Materials"
+      ],
+      "stocks": [
+        "ACC",
+        "BEL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Five Nifty500 stocks closing >1.5% below VWAP signals bearish technical deterioration with increasing selling pressure. Recent history shows mixed fundamentals (JSW Steel strong, Reliance Retail weak), but VWAP breakdown indicates near-term downside risk and potential further margin erosion.",
+        "stocks": {
+          "ACC": "negative",
+          "BEL": "negative"
+        }
+      }
+    },
+    "81429c24db04d5ec": {
+      "id": "81429c24db04d5ec",
+      "title": "M&amp;M Share Price Live Updates: M&amp;M posts a 1.36% return in one month",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/mm-stock-price-livestock-price-today-live-updates-20-jul-2026/liveblog/132504933.cms",
+      "summary": "",
+      "pub": "20 Jul 08:36 IST",
+      "pub_dt": "2026-07-20T03:06:18+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "M&M's 1.36% one-month return is a routine price performance update with no material news, catalysts, or operational developments disclosed. This is a mechanical performance tracker without earnings, margin, or growth implications.",
+        "stocks": {}
+      }
+    },
+    "10662cb9029a9d1a": {
+      "id": "10662cb9029a9d1a",
+      "title": "Coal India Share Price Live Updates: Coal India  Previous Day Close",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/coal-india-ltd-stock-price-today-live-20-jul-2026/liveblog/132504921.cms",
+      "summary": "",
+      "pub": "20 Jul 08:35 IST",
+      "pub_dt": "2026-07-20T03:05:42+00:00",
+      "sectors": [
+        "Autos",
+        "Materials"
+      ],
+      "stocks": [
+        "Coal India"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Coal India previous day close is a routine price tracking update with no substantive operational, earnings, or regulatory news. Recent history shows only mechanical price/volatility updates with one positive Karlapat bauxite bidding event unrelated to Coal India's core business.",
+        "stocks": {
+          "Coal India": "neutral"
+        }
+      }
+    },
+    "2fdf38aef2a49329": {
+      "id": "2fdf38aef2a49329",
+      "title": "Federal Bank among 5 stocks closed above VWAP, signalling bullish shift",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/federal-bank-among-5-stocks-closed-above-vwap-signalling-bullish-shift/slideshow/132504968.cms",
+      "summary": "On July 17, five stocks in the Nifty500 pack rallied more than 1.5% above their Volume Weighted Average Price (VWAP), according to StockEdge's technical scan data. Trading above the VWAP is widely regarded as a bullish technical signal, reflecting strong buying interest and indicating the potential for further upside.",
+      "pub": "20 Jul 08:35 IST",
+      "pub_dt": "2026-07-20T03:05:10+00:00",
+      "sectors": [
+        "Banking",
+        "Materials"
+      ],
+      "stocks": [
+        "ACC",
+        "Federal Bank"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Five Nifty500 stocks rallying >1.5% above VWAP signals bullish technical breakout with strong buying interest. Federal Bank's recent 36.5% YoY profit growth (+26% NII) validates strong earnings momentum, supporting upside potential from improved fundamentals and positive technical setup.",
+        "stocks": {
+          "ACC": "neutral",
+          "Federal Bank": "positive"
+        }
+      }
+    },
+    "b07c6ad2978bab79": {
+      "id": "b07c6ad2978bab79",
+      "title": "Jio Financial Services among 6 stocks showing bullish RSI upswing",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-financial-services-among-6-stocks-showing-bullish-rsi-upswing/slideshow/132504884.cms",
+      "summary": "Six stocks in the Nifty500 segment that gained over 2.5% featured in the RSI Trending Up scan on July 17 after showing improving momentum. The RSI moved above the 50 mark from lower levels, signalling strengthening price action, improving sentiment and potential short-term buying opportunities for traders tracking bullish technical setups.",
+      "pub": "20 Jul 08:30 IST",
+      "pub_dt": "2026-07-20T03:00:19+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [
+        "Reliance Jio"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Jio Financial Services showing bullish RSI upswing (RSI >50, +2.5% gain) reflects strengthening momentum post-stellar Q1 results (155% YoY profit growth to ₹830 crore). While parent RIL faces 22% profit decline, Jio's standalone operational strength and pre-IPO positioning drive near-term upside for the financial services arm.",
+        "stocks": {
+          "Reliance Jio": "positive"
+        }
+      }
+    },
+    "ea3763aecef52cde": {
+      "id": "ea3763aecef52cde",
+      "title": "Asian Paints Share Price Live Updates: Asian Paints shows stability with a low beta.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/asian-paints-stock-price-livestock-price-today-live-updates-20-jul-2026/liveblog/132504786.cms",
+      "summary": "",
+      "pub": "20 Jul 08:26 IST",
+      "pub_dt": "2026-07-20T02:56:36+00:00",
+      "sectors": [
+        "IT",
+        "Materials"
+      ],
+      "stocks": [
+        "Asian Paints"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Asian Paints' low beta and stability indicator is a mechanical risk characteristic update with no substantive operational catalysts. Recent history shows only routine board meeting announcements for Q1 results with no disclosed earnings surprises, margin drivers, or competitive developments.",
+        "stocks": {
+          "Asian Paints": "neutral"
+        }
+      }
+    },
+    "246fd37e175d5f40": {
+      "id": "246fd37e175d5f40",
+      "title": "Bharti Airtel Share Price Live Updates: Analyzing Bharti Airtel's Beta",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bharti-airtel-stock-price-livestock-price-today-live-updates-20-jul-2026/liveblog/132504689.cms",
+      "summary": "",
+      "pub": "20 Jul 08:16 IST",
+      "pub_dt": "2026-07-20T02:46:41+00:00",
+      "sectors": [
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [
+        "Bharti Airtel"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Bharti Airtel's beta analysis masks conflicting fundamentals: record ₹24/share dividend (highest-ever) demonstrates strong free cash flow, but telecom tariff sustainability concerns and diversification into financial services/data centres suggest uncertain near-term earnings growth. Recent history shows both positive dividend signals and mixed expansion strategy execution.",
+        "stocks": {
+          "Bharti Airtel": "mixed"
+        }
+      }
+    },
+    "0eb7f9ff2eb3570b": {
+      "id": "0eb7f9ff2eb3570b",
+      "title": "Infosys Share Price Live Updates: Infosys's low beta signals cautious trading",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/infosys-stock-price-live-updates-20-jul-2026/liveblog/132504684.cms",
+      "summary": "",
+      "pub": "20 Jul 08:16 IST",
+      "pub_dt": "2026-07-20T02:46:19+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [
+        "Infosys"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Infosys's low beta signals cautious trading amid persistent structural headwinds: IBM's 25% crash triggering negative spillover, up to 35,000 job losses in India, and weak IT sector guidance from AI disruption. While recent Q1 rallies (+3-6%) exist, these are tactical bounces against unfavorable medium-term earnings and margin compression trajectory.",
+        "stocks": {
+          "Infosys": "negative"
+        }
+      }
+    },
+    "c5ca4a05d9bc0431": {
+      "id": "c5ca4a05d9bc0431",
+      "title": "LTIMindtree Share Price Live Updates: LTIMindtree's monthly return indicates growth",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ltimindtree-share-price-live-updates-20-jul-2026/liveblog/132504677.cms",
+      "summary": "",
+      "pub": "20 Jul 08:15 IST",
+      "pub_dt": "2026-07-20T02:45:43+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [
+        "LTIMindtree"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Item provides only a generic headline about monthly returns indicating growth with no substantive news catalyst, earnings data, or fundamental information. Recent history shows consistent price-update-only headlines with no material catalysts driving LTIMindtree valuation.",
+        "stocks": {
+          "LTIMindtree": "neutral"
+        }
+      }
+    },
+    "513d3e5fd2587ed3": {
+      "id": "513d3e5fd2587ed3",
+      "title": "Tata Steel Share Price Live Updates: Tata Steel's beta indicates market resilience",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-steel-share-price-live-updates-20-jul-2026/liveblog/132504666.cms",
+      "summary": "",
+      "pub": "20 Jul 08:15 IST",
+      "pub_dt": "2026-07-20T02:45:09+00:00",
+      "sectors": [
+        "Materials"
+      ],
+      "stocks": [
+        "Tata Steel"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Despite the headline's reference to beta/market resilience, recent history shows persistent negative momentum from Dutch prosecutors' criminal pollution violation summons against Tata Steel Netherlands, which carries significant regulatory and ESG risk. The Q1 FY27 business update disappointment compounds concerns on earnings trajectory.",
+        "stocks": {
+          "Tata Steel": "negative"
+        }
+      }
+    },
+    "d4bd600bb14dc014": {
+      "id": "d4bd600bb14dc014",
+      "title": "HCL Tech Share Price Live Updates: HCL Tech's beta indicates a cautious investment profile",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hcl-tech-share-price-today-live-updates-20-jul-2026/liveblog/132504641.cms",
+      "summary": "",
+      "pub": "20 Jul 08:11 IST",
+      "pub_dt": "2026-07-20T02:41:38+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [
+        "HCL Tech"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "HCL Tech delivered strong Q1 results (20% profit growth, 14% revenue growth) and signed a ₹3,500 crore AI data centre deal plus a 7-year Guardian Life Insurance contract, supporting growth trajectory. However, post-earnings 3% stock decline and IBM's weakness-driven selloff suggest near-term profit-taking despite fundamentals remaining solid.",
+        "stocks": {
+          "HCL Tech": "mixed"
+        }
+      }
+    },
+    "160cbc09cc2c95db": {
+      "id": "160cbc09cc2c95db",
+      "title": "Apollo Hospital Share Price Live Updates: Apollo Hospital's beta analysis",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-stock-price-today-live-20-jul-2026/liveblog/132504635.cms",
+      "summary": "",
+      "pub": "20 Jul 08:11 IST",
+      "pub_dt": "2026-07-20T02:41:20+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Item is a generic beta/valuation analysis headline with no substantive news, earnings catalysts, or fundamental information provided. No recent history available to assess trend or competitive dynamics.",
+        "stocks": {}
+      }
+    },
+    "87fa70758edaae55": {
+      "id": "87fa70758edaae55",
+      "title": "Hero MotoCorp Share Price Live Updates: Hero MotoCorp's beta suggests significant market sensitivity",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hero-motocorp-stock-price-livestock-price-today-live-updates-20-jul-2026/liveblog/132504610.cms",
+      "summary": "",
+      "pub": "20 Jul 08:10 IST",
+      "pub_dt": "2026-07-20T02:40:05+00:00",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [
+        "Hero MotoCorp"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Hero MotoCorp faces negative headwind from emerging CAFE norm compliance costs (impacting two-wheeler manufacturing margins by 2028), partially offset by positive strategic confidence signaled through ₹1,000 crore Ather Energy investment and dividend payout. Recent 92% Zero Motorcycles markdown signals execution risk in EV ventures.",
+        "stocks": {
+          "Hero MotoCorp": "mixed"
+        }
+      }
+    },
+    "ce3f7b2ed44be2d1": {
+      "id": "ce3f7b2ed44be2d1",
+      "title": "Power Grid Share Price Live Updates: Power Grid's beta suggests market resilience",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/power-grid-share-price-today-live-20-jul-2026/liveblog/132504534.cms",
+      "summary": "",
+      "pub": "20 Jul 08:01 IST",
+      "pub_dt": "2026-07-20T02:31:34+00:00",
+      "sectors": [
+        "Industrials"
+      ],
+      "stocks": [
+        "Power Grid"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Power Grid secured 80 billion yen JBIC soft-loan financing for strategic Khavda-Nagpur HVDC project, de-risking capex and validating rising power demand thesis. Goldman Sachs bullish Nifty target and positive macro stance support long-term utility growth; recent price decline may present accumulation opportunity.",
+        "stocks": {
+          "Power Grid": "positive"
+        }
+      }
+    },
+    "4e0a1b18fc61cecd": {
+      "id": "4e0a1b18fc61cecd",
+      "title": "L&amp;T Share Price Live Updates: L&amp;T's beta value points to increased market fluctuations.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/lt-share-price-live-updates-20-jul-2026/liveblog/132504512.cms",
+      "summary": "",
+      "pub": "20 Jul 08:00 IST",
+      "pub_dt": "2026-07-20T02:30:41+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Item is a generic beta/market fluctuation headline with no substantive news, earnings data, or catalysts provided. No recent history available to assess trend or fundamental drivers.",
+        "stocks": {}
+      }
+    },
+    "740fc147d0eefa64": {
+      "id": "740fc147d0eefa64",
+      "title": "SBI Share Price Live Updates: SBI's beta reflects its risk profile",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-share-price-live-updates-20-jul-2026/liveblog/132504504.cms",
+      "summary": "",
+      "pub": "20 Jul 08:00 IST",
+      "pub_dt": "2026-07-20T02:30:23+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [
+        "SBI"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "SBI Funds Management IPO successfully unlocked ~₹7,365 crore in shareholder value with exceptional 5.44x subscription on Day 3 and 16% GMP listing gains, demonstrating strong investor demand and capital efficiency. CEO's growth priorities to double AUM validate long-term earnings expansion; IPO completion strengthens SBI's asset management business and fee-generating capacity.",
+        "stocks": {
+          "SBI": "positive"
+        }
+      }
+    },
+    "33e713338d5a25f8": {
+      "id": "33e713338d5a25f8",
+      "title": "RIL Share Price Live Updates: RIL Volume Performance",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ril-stock-price-live-updates-20-jul-2026/liveblog/132504496.cms",
+      "summary": "",
+      "pub": "20 Jul 08:00 IST",
+      "pub_dt": "2026-07-20T02:30:06+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Item is a routine volume/price update with no new fundamental information or catalysts disclosed. Cannot assess earnings, margin, or competitive impact from generic market data.",
+        "stocks": {}
+      }
+    },
+    "ec8aab39e8fd2d49": {
+      "id": "ec8aab39e8fd2d49",
+      "title": "A yo-yo monsoon is threatening India's crops and the power grid",
+      "link": "https://economictimes.indiatimes.com/news/economy/agriculture/a-yo-yo-monsoon-is-threatening-indias-crops-and-the-power-grid/articleshow/132504906.cms",
+      "summary": "India's monsoon rainfall is becoming more erratic due to El Niño and global warming, with the shift threatening agricultural output and straining the nation's power grids.  Dry spells and sudden downpours have disrupted summer crop sowing and rural incomes.  Urban areas are seeing increased power demand for cooling during monsoon pauses.",
+      "pub": "20 Jul 08:44 IST",
+      "pub_dt": "2026-07-20T03:14:49+00:00",
+      "sectors": [
+        "IT",
+        "Industrials",
+        "Telecoms"
+      ],
+      "stocks": [
+        "Power Grid"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Erratic monsoon threatens near-term power demand (negative for grid stability/capex efficiency) but creates structural case for grid infrastructure investment. Power Grid recently secured JBIC financing for Khavda-Nagpur HVDC project; increased grid stress validates long-term capex demand, supporting earnings growth trajectory despite near-term operational challenges.",
+        "stocks": {
+          "Power Grid": "mixed"
+        }
+      }
+    },
+    "5e25bd5c80f52568": {
+      "id": "5e25bd5c80f52568",
+      "title": "A yo-yo monsoon threatens crops, power grid",
+      "link": "https://economictimes.indiatimes.com/news/economy/agriculture/a-yo-yo-monsoon-is-threatening-indias-crops-and-the-power-grid/articleshow/132504906.cms",
+      "summary": "An intensifying El Niño and global warming are driving a shift in India’s monsoon rainfall, creating more erratic weather patterns that threaten to dent agricultural output and strain power grids.This year’s monsoon opened with India’s fifth-driest June on record and rainfall almost 40% below normal levels, followed by a sudden deluge early this month — when about a month’s worth of precipitation ",
+      "pub": "20 Jul 08:44 IST",
+      "pub_dt": "2026-07-20T03:14:49+00:00",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Industrials",
+        "Telecoms"
+      ],
+      "stocks": [
+        "BEL",
+        "Power Grid"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Erratic monsoon with 40% below-normal June rainfall and sudden downpours creates dual headwinds: agricultural output disruption reduces rural incomes (negative for agri-exposed sectors) and power grid strain increases capex/operational pressures. BEL's recent history shows it trades below book value reflecting weak near-term earnings amid cyclical business pressure, making it vulnerable to macro headwinds. Power Grid faces grid stability challenges despite long-term growth drivers.",
+        "stocks": {
+          "BEL": "negative",
+          "Power Grid": "negative"
+        }
+      }
+    },
+    "1475c76ddff7b0e7": {
+      "id": "1475c76ddff7b0e7",
+      "title": "US stock market to Kospi: Here’s world equity heatmap you should know before opening of the Indian stock market today",
+      "link": "https://www.livemint.com/market/stock-market-news/us-stock-market-to-kospi-here-s-world-equity-heatmap-you-should-know-before-opening-of-the-indian-stock-market-today-11784516208452.html",
+      "summary": "Global market cues remain mostly weak. Asian markets traded lower as the escalating US-Iran war in the Middle East dented sentiment, while the US stock market slipped last week amid selloff in chip stocks.",
+      "pub": "20 Jul 08:38 IST",
+      "pub_dt": "2026-07-20T03:08:40+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Escalating US-Iran tensions in Middle East elevate geopolitical risk premiums and crude oil prices. IT sector specifically exposed via elevated energy costs and potential demand destruction. This represents a macro headwind continuation from recent semiconductor selloff and global market weakness.",
+        "stocks": {}
+      }
+    },
+    "cb1b7d66267af31a": {
+      "id": "cb1b7d66267af31a",
+      "title": "Indo-MIM IPO: Price band set at  ₹461-485 per share; check key dates, issue details",
+      "link": "https://www.livemint.com/market/ipo/indomim-ipo-price-band-set-at-rs-461-485-per-share-check-key-dates-issue-details-11784515607262.html",
+      "summary": "The Indo-MIM IPO, scheduled for July 23-27, features a price band of  ₹461-485 per share and aims to raise  ₹500 crore. The company intends to use the funds for debt repayment and corporate purposes, with allocations allocated to different investor categories.",
+      "pub": "20 Jul 08:38 IST",
+      "pub_dt": "2026-07-20T03:08:15+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "IPO announcement with standard subscription details provides no insight into market demand, post-listing valuation, or sector tailwinds. Routine capital-raising activity without fundamental implications until subscription/listing outcome materializes.",
+        "stocks": {}
+      }
+    },
+    "91592dfff03a8b6d": {
+      "id": "91592dfff03a8b6d",
+      "title": "Q1 results 2026: Paytm to UltraTech Cement among companies to declare Q1 results today; full list here",
+      "link": "https://www.livemint.com/market/stock-market-news/q1-results-2026-paytm-to-ultratech-cement-among-companies-to-declare-q1-results-today-full-list-here-11784515018189.html",
+      "summary": "Q1 results 2026: One 97 Communications Paytm, UltraTech Cement, Indian Overseas Bank, Bluestone Jewellery and Lifestyle are among the companies to declare their Q1 results FY27 today.",
+      "pub": "20 Jul 08:23 IST",
+      "pub_dt": "2026-07-20T02:53:58+00:00",
+      "sectors": [
+        "Banking",
+        "E-Commerce",
+        "Materials"
+      ],
+      "stocks": [
+        "Paytm",
+        "UltraTech"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Q1 results day for Paytm and UltraTech creates near-term earnings visibility. Paytm's first-ever bonus issue (announced July 16) signals management confidence following maiden full-year profit in FY26, supporting positive momentum; however, recent history shows mixed sentiment with Q1 earnings typically creating volatility. UltraTech faces cement sector cyclicality amid erratic monsoon disrupting demand patterns. Results will clarify FY27 guidance and margin trajectory.",
+        "stocks": {
+          "Paytm": "mixed",
+          "UltraTech": "mixed"
+        }
+      }
     }
   }
 }
