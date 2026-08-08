@@ -104198,6 +104198,231 @@
         "reasoning": "FAA inspection directive impacts Boeing's operations and aircraft delivery timelines, but has minimal direct bearing on Indian IT sector stocks as it affects aerospace OEM supply chains rather than software/services. Indian IT exposure to Boeing is indirect and immaterial to overall earnings.",
         "stocks": {}
       }
+    },
+    "545459888a51bcc2": {
+      "id": "545459888a51bcc2",
+      "title": "Code Name Silver: Indian spy who played five sides",
+      "link": "https://economictimes.indiatimes.com/news/india/independence-day-2026-code-name-silver-the-indian-spy-who-played-5-sides-in-world-war-ii/articleshow/133037966.cms",
+      "summary": "",
+      "pub": "07 Aug 21:37 IST",
+      "pub_dt": "2026-08-07T16:07:15+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Geopolitical/intelligence news with no direct corporate impact on Indian equities. No earnings, margins, or competitive implications for listed companies.",
+        "stocks": {}
+      }
+    },
+    "ddd1c70287fd0b23": {
+      "id": "ddd1c70287fd0b23",
+      "title": "Trump expresses optimism about lower fuel prices",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/trump-expresses-optimism-about-lower-fuel-prices-as-us-iran-move-closer-to-potential-deal-on-strait-of-hormuz/articleshow/133044831.cms",
+      "summary": "",
+      "pub": "08 Aug 06:39 IST",
+      "pub_dt": "2026-08-08T01:09:27+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Lower fuel prices benefit downstream sectors (auto, logistics, airlines, FMCG) through improved margins and reduced input costs. This supports earnings expansion and consumption, particularly in a macro environment sensitive to energy costs.",
+        "stocks": {}
+      }
+    },
+    "6ac3383bc448ee41": {
+      "id": "6ac3383bc448ee41",
+      "title": "Trump admin to back 3 mineral projects in financing",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/trump-administration-to-back-three-mineral-projects-with-58-million-in-financing/articleshow/133044814.cms",
+      "summary": "",
+      "pub": "08 Aug 06:31 IST",
+      "pub_dt": "2026-08-08T01:01:52+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "US backing for mineral projects supports global demand for commodities and mining-related infrastructure. Indian mining and mineral-linked companies could benefit from increased commodity prices and project activity.",
+        "stocks": {}
+      }
+    },
+    "97a6caf0ecd55d4e": {
+      "id": "97a6caf0ecd55d4e",
+      "title": "Iran and Oman deal on Strait of Hormuz soon?",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/us-official-we-expect-a-deal-soon-between-iran-and-oman-on-strait-of-hormuz/articleshow/133041684.cms",
+      "summary": "",
+      "pub": "08 Aug 00:52 IST",
+      "pub_dt": "2026-08-07T19:22:51+00:00",
+      "sectors": [
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Iran-Oman deal on Strait of Hormuz could stabilize oil prices and reduce geopolitical risk premium. Positive for Indian IT/Telecom exposure in Middle East; however, lower oil volatility may reduce trading upside but stabilizes cost environment.",
+        "stocks": {}
+      }
+    },
+    "83a0475d0bf63621": {
+      "id": "83a0475d0bf63621",
+      "title": "Russian strikes kill three in Kyiv region",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/russian-strikes-kill-three-in-kyiv-region-military-official/articleshow/133044807.cms",
+      "summary": "",
+      "pub": "08 Aug 06:27 IST",
+      "pub_dt": "2026-08-08T00:57:41+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Russia-Ukraine conflict continuation is a geopolitical backdrop already priced in. No direct impact on Indian equity valuations or earnings unless IT/software exports to Russia are material (which are limited post-sanctions).",
+        "stocks": {}
+      }
+    },
+    "6eec396a6c9e61fe": {
+      "id": "6eec396a6c9e61fe",
+      "title": "Germany out, India in? France’s 6th-gen jet shifts",
+      "link": "https://economictimes.indiatimes.com/news/defence/india-begins-efforts-to-join-french-led-sixth-generation-fighter-jet-programme/articleshow/133041513.cms",
+      "summary": "",
+      "pub": "08 Aug 00:42 IST",
+      "pub_dt": "2026-08-07T19:12:20+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "India gaining role in France's 6th-gen fighter jet programme signals defense manufacturing opportunity and strengthens India's aerospace/defense sector positioning. Positive for domestic defense PSUs and private contractors; boosts long-term capex and growth visibility.",
+        "stocks": {}
+      }
+    },
+    "bf7752708dd3c0a6": {
+      "id": "bf7752708dd3c0a6",
+      "title": "Uttarakhand bans substandard dairy products",
+      "link": "https://economictimes.indiatimes.com/news/india/uttarakhand-bans-manufacture-sale-of-substandard-dairy-products/articleshow/133044756.cms",
+      "summary": "",
+      "pub": "08 Aug 06:13 IST",
+      "pub_dt": "2026-08-08T00:43:05+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Uttarakhand banning substandard dairy products implies tighter quality/regulatory compliance in dairy sector. This increases compliance costs and supply-chain pressure for mid-tier dairy players; benefits only organized, high-quality producers with stronger margins.",
+        "stocks": {}
+      }
+    },
+    "9511deaecf7c3569": {
+      "id": "9511deaecf7c3569",
+      "title": "Spain to impose border checks on Italy travellers",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/spain-to-establish-border-controls-on-travellers-from-italy-amid-migration-dispute/articleshow/133044747.cms",
+      "summary": "",
+      "pub": "08 Aug 06:09 IST",
+      "pub_dt": "2026-08-08T00:39:49+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Spain-Italy border checks are intra-EU trade friction with minimal direct impact on Indian equities. IT/BPO sector exposure to European clients is diversified; no material earnings or competitive shift expected.",
+        "stocks": {}
+      }
+    },
+    "3a53ca1db415a03b": {
+      "id": "3a53ca1db415a03b",
+      "title": "LIC weighs plans to invest in health, fintech",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/insure/lic-weighing-plans-to-invest-in-health-insurance-fintechr-doraiswamy-md-lic/articleshow/133041897.cms",
+      "summary": "The Centre raised Rs 31,552 crore in an offer for sale (OFS) at Life Insurance Corp of India, which MD R Doraiswamy attributes to growing investor trust in the insurance behemoth. Doraiswamy tells Shilpy Sinha that LIC will now focus on meeting market expectations, expanding distribution, improving margins and evaluating opportunities in health insurance and fintech, while maintaining its leadersh",
+      "pub": "08 Aug 05:30 IST",
+      "pub_dt": "2026-08-08T00:00:00+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "LIC's successful capital raise signals strong investor confidence and provides capital for growth initiatives. Expansion into health insurance and fintech, combined with margin improvement focus, could drive earnings growth and diversification beyond traditional life insurance, supporting higher valuations.",
+        "stocks": {}
+      }
+    },
+    "7e2ee5597046cd4b": {
+      "id": "7e2ee5597046cd4b",
+      "title": "What are the pros and cons of investing in Ather Energy?",
+      "link": "https://www.livemint.com/market/stock-market-news/ather-energy-share-price-ather-energy-stock-analysis-11786106371536.html",
+      "summary": "Strong quarterly results, vertical integration, and an aggressive expansion strategy make a compelling growth story for Ather Energy, though rich valuations and potential commodity margin pressure warrant caution.",
+      "pub": "08 Aug 07:00 IST",
+      "pub_dt": "2026-08-08T01:30:53+00:00",
+      "sectors": [
+        "Materials"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Strong quarterly results and vertical integration support growth narrative and potential margin expansion, but rich valuations and commodity price exposure create downside risks. Current valuation may already price in significant growth, limiting upside while leaving exposure to cost inflation.",
+        "stocks": {}
+      }
+    },
+    "34234f46818fab5b": {
+      "id": "34234f46818fab5b",
+      "title": "₹71 to  ₹820: Multibagger stock turns  ₹1 lakh into  ₹11.5 lakh in five years. Do you own?",
+      "link": "https://www.livemint.com/market/stock-market-news/rs-71-to-rs-820-multibagger-penny-stock-turns-rs-1-lakh-into-rs-11-5-lakh-in-five-years-do-you-own-11786106275728.html",
+      "summary": "ICE Make Refrigeration's stock soared 3,096% over five years, significantly increasing investor wealth. With retail investors owning 24% of the firm, the growth underscores the potential of carefully chosen stocks in the Indian market.",
+      "pub": "07 Aug 18:33 IST",
+      "pub_dt": "2026-08-07T13:03:04+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "This is a backward-looking retrospective on past performance rather than forward-looking analysis. The historical multibagger returns do not provide actionable insights on current earnings trajectory, competitive position, or future growth catalysts for investment decision-making.",
+        "stocks": {}
+      }
+    },
+    "b69452bba576494d": {
+      "id": "b69452bba576494d",
+      "title": "The week in charts: Policy pause, moderating activity, dollar inflows",
+      "link": "https://www.livemint.com/economy/the-week-in-charts-policy-pause-moderating-activity-dollar-inflows-11786001789804.html",
+      "summary": "In this weekly Plain Facts compilation, we present to you data-based insights, with easy-to-read charts, to help you delve deeper into the stories reported by Mint in the week gone by.",
+      "pub": "08 Aug 07:00 IST",
+      "pub_dt": "2026-08-08T01:30:53+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "This is a macro-economic data compilation covering policy, activity levels, and capital flows with no specific company impacts identified. While useful for understanding broader market context, it lacks direct implications for individual stock earnings, growth, or valuations.",
+        "stocks": {}
+      }
+    },
+    "e8158506b1b115ba": {
+      "id": "e8158506b1b115ba",
+      "title": "Centre plans incentives for wider adoption of induction cookstoves",
+      "link": "https://www.livemint.com/economy/india-new-scheme-subsidies-customs-duty-greater-adoption-induction-cookstoves-11786095562455.html",
+      "summary": "Policymakers see induction cookstoves as a way to reduce exposure to global LPG supply disruptions for its 340 million consumers. They also estimate that induction cooking costs about a third less than conventional cooking methods.",
+      "pub": "08 Aug 05:30 IST",
+      "pub_dt": "2026-08-08T00:00:32+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Government incentive push for induction cookstoves represents a structural policy tailwind that reduces commodity exposure and lowers consumer costs, potentially driving demand. This creates a favorable macro environment for manufacturers and retailers of induction cooking equipment, though benefits depend on incentive magnitude and implementation timeline.",
+        "stocks": {}
+      }
     }
   }
 }
