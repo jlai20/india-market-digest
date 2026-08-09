@@ -104423,6 +104423,1613 @@
         "reasoning": "Government incentive push for induction cookstoves represents a structural policy tailwind that reduces commodity exposure and lowers consumer costs, potentially driving demand. This creates a favorable macro environment for manufacturers and retailers of induction cooking equipment, though benefits depend on incentive magnitude and implementation timeline.",
         "stocks": {}
       }
+    },
+    "faa5e4f3dc738aba": {
+      "id": "faa5e4f3dc738aba",
+      "title": "World Bank's IFC, HDFC AMC invest in Molbio Diagnostics' Rs 281 crore IPO anchor round",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/world-banks-ifc-hdfc-amc-invest-in-molbio-diagnostics-rs-281-crore-ipo-anchor-round/articleshow/133065702.cms",
+      "summary": "Molbio Diagnostics raised Rs 281 crore from anchor investors, including World Bank Group's IFC and HDFC Mutual Fund, ahead of its Rs 940 crore IPO opening on August 10. The Goa-based unicorn also saw Rs 160 crore in secondary deals, with major brokerages recommending a Subscribe rating for the issue.",
+      "pub": "09 Aug 15:33 IST",
+      "pub_dt": "2026-08-09T10:03:51+00:00",
+      "sectors": [
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Molbio Diagnostics' IPO anchor round success with strong investor backing (IFC, HDFC MF) is positive for the company, but no tagged stocks are directly involved. The news is sector-level (diagnostics/healthcare) with no specific equity impact on the Banking or IT sectors mentioned.",
+        "stocks": {}
+      }
+    },
+    "fccf2f427276a769": {
+      "id": "fccf2f427276a769",
+      "title": "Market Trading Guide: Jindal Saw among 2 stock recommendations for Monday",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-jindal-saw-among-2-stock-recommendations-for-monday/slideshow/133065621.cms",
+      "summary": "Domestic earnings have largely met or beaten expectations, supporting sector-specific optimism.",
+      "pub": "09 Aug 15:18 IST",
+      "pub_dt": "2026-08-09T09:48:58+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Generic market recommendation for Jindal Saw with no context on earnings drivers, valuation, or stock-specific catalysts. The statement about domestic earnings beating expectations is macro-positive but lacks conviction for stock-level impact assessment.",
+        "stocks": {}
+      }
+    },
+    "3ce27260e1c5c3ef": {
+      "id": "3ce27260e1c5c3ef",
+      "title": "Ahead of Market: 10 things that will decide D-Street action on Monday",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-drops-456-points-nifty-falls-65-as-closing-auction-session-creates-divergence/articleshow/133065105.cms",
+      "summary": "Indian benchmark indices closed lower on Friday as closing auction sessions caused divergence between Sensex and Nifty. While Sensex fell 456 points, Nifty dropped 65 points. Market sentiment remained cautious amid Middle East tensions and crude oil volatility, though strong SBI earnings provided underlying banking sector support.",
+      "pub": "09 Aug 15:05 IST",
+      "pub_dt": "2026-08-09T09:35:18+00:00",
+      "sectors": [
+        "Banking",
+        "IT"
+      ],
+      "stocks": [
+        "SBI"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "SBI's strong Q1 earnings (10% profit growth, 15% NII expansion, 19% advance growth) beating estimates with improved asset quality and maintained 14-15% FY27 guidance provide earnings momentum. Recent positive trend continues with heavy volume rallies, offsetting broader market caution from geopolitical tensions.",
+        "stocks": {
+          "SBI": "positive"
+        }
+      }
+    },
+    "b644155ef8eaecee": {
+      "id": "b644155ef8eaecee",
+      "title": "9 Nifty 500 stocks with up to 50% upside potential: Do you own any?",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/9-nifty-500-stocks-with-up-to-50-upside-potential-do-you-own-any/slideshow/133064784.cms",
+      "summary": "Consensus analyst estimates from Trendlyne highlight nine Nifty 500 stocks offering up to 50% upside potential over the next 12 months. Prominent picks covered by multiple analysts include Inox Wind, Aditya Birla Fashion, Lemon Tree Hotels, HDFC Bank, NCC, and HDFC Life, supported by Strong Buy and Buy ratings.",
+      "pub": "09 Aug 14:17 IST",
+      "pub_dt": "2026-08-09T08:47:50+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [
+        "HDFC Bank",
+        "HDFC Life"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "While analyst consensus highlights 50% upside potential for HDFC Bank and HDFC Life, recent history shows significant headwinds: HDFC Bank's Q1 profit growth disappointed (5%), CEO/CFO regulatory penalties signal governance lapses, lending rate cuts pressure margins, and Jefferies exit signals loss of confidence. HDFC Life faces premium valuation concerns despite Q1 strength.",
+        "stocks": {
+          "HDFC Bank": "negative",
+          "HDFC Life": "neutral"
+        }
+      }
+    },
+    "e23fea4e2fb0e36d": {
+      "id": "e23fea4e2fb0e36d",
+      "title": "14 penny stocks plunge up to 85% in 6 months. Are you holding any?",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/14-penny-stocks-plunge-up-to-85-in-6-months-are-you-holding-any/slideshow/133064275.cms",
+      "summary": "While penny stocks often attract investors with their low entry prices and potential for quick gains, they carry substantial risks. Low liquidity, high volatility and limited transparency can make them vulnerable to manipulation and sudden price drops.",
+      "pub": "09 Aug 13:30 IST",
+      "pub_dt": "2026-08-09T08:00:10+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Penny stocks plunging up to 85% in 6 months reflects systemic risks: low liquidity, high volatility, limited transparency, and manipulation vulnerability. This is a cautionary trend highlighting structural weaknesses in micro-cap segments rather than company-specific issues.",
+        "stocks": {}
+      }
+    },
+    "25770d391fa80b14": {
+      "id": "25770d391fa80b14",
+      "title": "Q1 Results Tracker: Tata Motors, Vodafone Idea among 2,045 companies set to announce earnings this week",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/q1-results-tracker-tata-motors-vodafone-idea-among-2045-companies-set-to-announce-earnings-this-week/articleshow/133062827.cms",
+      "summary": "Goldman Sachs expects the Nifty 50 to rebound to 26,500 by June 2027, above its current record high, as India’s macro backdrop improves. Lower commodity prices, a stable currency, resilient domestic growth and better earnings prospects are supporting its bullish view. The brokerage expects a shift towards value stocks, with large caps and banks benefiting as foreign outflows reverse.",
+      "pub": "09 Aug 11:21 IST",
+      "pub_dt": "2026-08-09T05:51:01+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "Materials",
+        "Telecoms"
+      ],
+      "stocks": [
+        "Tata Motors",
+        "Vodafone Idea"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Goldman Sachs' bullish Nifty outlook (26,500 by June 2027) on macro tailwinds (lower commodities, stable currency, resilient growth) is positive. However, Tata Motors faces Iveco deal delays to end-2026 offsetting strong CV momentum (37% July sales growth), while Vodafone Idea requires periodic tariff hikes for 5G sustainability, signaling structural profitability pressures despite Supreme Court spectrum relief.",
+        "stocks": {
+          "Tata Motors": "mixed",
+          "Vodafone Idea": "negative"
+        }
+      }
+    },
+    "a66b915e224a2a80": {
+      "id": "a66b915e224a2a80",
+      "title": "India stages a comeback as AI trade gets crowded: What fund flows reveal",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ai-trade-gets-crowded-as-india-stages-a-comeback-what-fund-flows-reveal/articleshow/133062811.cms",
+      "summary": "As global investors crowd into AI-linked markets in South Korea and Taiwan, India is re-emerging as an anti-AI portfolio diversifier. Moderating long-only fund redemptions, $3.6 billion in recent foreign inflows, strong domestic SIP contributions, and potential $25 billion reallocation from underweight EM funds are supporting Indian equities' relative resilience.",
+      "pub": "09 Aug 11:18 IST",
+      "pub_dt": "2026-08-09T05:48:46+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "India's re-emergence as anti-AI portfolio diversifier with $3.6 billion recent foreign inflows, moderating redemptions, and $25 billion potential EM reallocation signals shift from crowded AI markets. Strong domestic SIP contributions and relative resilience support Indian equities' near-term momentum.",
+        "stocks": {}
+      }
+    },
+    "14ccd04b96d91335": {
+      "id": "14ccd04b96d91335",
+      "title": "Dividend alert: Jio Financial, Power Grid, HPCL among 90 stocks turning ex-dividend this week",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/dividend-alert-jio-financial-power-grid-hpcl-among-nearly-90-stocks-turning-ex-record-date-this-week/articleshow/133062498.cms",
+      "summary": "Nearly 90 companies, including Jio Financial Services, Power Grid Corporation, HPCL, and Hindustan Aeronautics, will turn ex-dividend between August 10 and August 14. Investors holding these shares in their demat accounts on the respective record dates will be eligible to receive the announced corporate dividend payouts.",
+      "pub": "09 Aug 10:34 IST",
+      "pub_dt": "2026-08-09T05:04:41+00:00",
+      "sectors": [
+        "Banking",
+        "Industrials",
+        "Materials",
+        "Telecoms"
+      ],
+      "stocks": [
+        "ACC",
+        "HAL",
+        "Power Grid",
+        "Reliance Jio"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Dividend ex-date announcements for 90 stocks including Power Grid, HPCL, HAL, and ACC are routine corporate actions reflecting capital return policies. While positive for dividend yield, this is a technical event with no impact on earnings power, margins, or growth trajectory of underlying businesses.",
+        "stocks": {
+          "ACC": "neutral",
+          "HAL": "neutral",
+          "Power Grid": "neutral",
+          "Reliance Jio": "neutral"
+        }
+      }
+    },
+    "04881d40e4126e15": {
+      "id": "04881d40e4126e15",
+      "title": "Mcap of four of top-10 most valued firms jumps Rs 1.43 lakh cr; State Bank biggest winner",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-four-of-top-10-most-valued-firms-jumps-rs-1-43-lakh-cr-state-bank-biggest-winner/articleshow/133062390.cms",
+      "summary": "In a notable surge, four leading Indian corporations experienced an impressive rise in market valuations, totaling Rs 1.43 lakh crore. The State Bank of India led the charge, boosting its valuation by Rs 63,922 crore. Other notable gainers included Reliance Industries, TCS, and Larsen &amp; Toubro, while LIC, Bajaj Finance, and HDFC Bank suffered significant losses in their valuations.",
+      "pub": "09 Aug 10:21 IST",
+      "pub_dt": "2026-08-09T04:51:35+00:00",
+      "sectors": [
+        "Banking",
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "Bajaj Finance",
+        "HDFC Bank",
+        "L&T",
+        "SBI",
+        "TCS"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "SBI's strong Q1 results (10% profit growth, 15% NII expansion) and Rs 63,922 cr mcap gain are positive, supported by maintained 14-15% FY27 guidance. However, HDFC Bank faces headwinds from rate cuts and Jefferies' exit signal, while Bajaj Finance declined 5% on RBI's NBFC lending restrictions. TCS and L&T gains offset banking sector weakness, creating divergent momentum.",
+        "stocks": {
+          "SBI": "positive",
+          "HDFC Bank": "negative",
+          "Bajaj Finance": "negative",
+          "TCS": "positive",
+          "L&T": "positive"
+        }
+      }
+    },
+    "abf5e220727ca685": {
+      "id": "abf5e220727ca685",
+      "title": "Foreign investors continue buying spree; pour Rs 12,921 cr in first week of Aug",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/foreign-investors-continue-buying-spree-pour-rs-12921-cr-in-first-week-of-aug/articleshow/133062370.cms",
+      "summary": "In early August, Foreign Portfolio Investors poured Rs 12,921 crore into Indian equities, building on their notable investments from July. This surge indicates improved investor sentiment and favorable macroeconomic conditions. Furthermore, foreign investors have displayed interest in India's debt market, resulting in additional inflows. However, it’s worth noting that despite these recent inflows",
+      "pub": "09 Aug 10:18 IST",
+      "pub_dt": "2026-08-09T04:48:25+00:00",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "FPI inflows of Rs 12,921 cr in early August signal improved investor sentiment and favorable macro conditions. Continued buying spree demonstrates confidence in Indian equity valuations despite global headwinds, supporting broader market appreciation and reducing currency depreciation risk.",
+        "stocks": {}
+      }
+    },
+    "021f4df02e5bb781": {
+      "id": "021f4df02e5bb781",
+      "title": "Will Nifty, Sensex extend losses on Monday? Middle East tensions, Q1 results and 3 other factors to steer D-St this week",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/will-nifty-sensex-extend-losses-on-monday-middle-east-tension-q1-results-3-other-factors-to-drive-mood-next-week/articleshow/133061939.cms",
+      "summary": "Indian stock markets ended lower as benchmark indices Sensex and Nifty diverged. Investors face crucial triggers next week, including over 2,000 Q1 earnings announcements, crude oil price movements amid Middle East geopolitical tensions, US nonfarm payroll data influencing Federal Reserve interest rate policy, and ongoing foreign institutional investment trends.",
+      "pub": "09 Aug 09:20 IST",
+      "pub_dt": "2026-08-09T03:50:58+00:00",
+      "sectors": [
+        "Banking",
+        "Materials"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Over 2,000 Q1 earnings announcements provide upside catalysts, but macro headwinds (Middle East tensions elevating crude oil volatility, US rate policy uncertainty) create near-term volatility. Market already closed lower with diverging indices, suggesting profit-booking pressure offsetting positive earnings surprises.",
+        "stocks": {}
+      }
+    },
+    "73f01479d05f0b68": {
+      "id": "73f01479d05f0b68",
+      "title": "Is 'Trumpflation' real? Why Wall Street fears this could be a reason for stock market crash",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/is-trumpflation-real-why-wall-street-fears-this-could-be-a-reason-for-stock-market-crash/articleshow/133066108.cms",
+      "summary": "Wall Street's record rally faces a new test as 'Trumpflation' concerns grow alongside AI-driven pricing pressures. Sticky core PCE inflation at 3.3% and rising Treasury yields raise fears that the Federal Reserve could hold interest rates higher for longer or hike rates, threatening high equity valuations.",
+      "pub": "09 Aug 16:15 IST",
+      "pub_dt": "2026-08-09T10:45:38+00:00",
+      "sectors": [
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Sticky core PCE inflation at 3.3% and rising Treasury yields threaten Fed's pause-and-cut narrative, potentially keeping rates higher for longer. This creates valuation compression risk for high-multiple Indian IT and growth stocks, while benefiting rate-sensitive banking valuations remains uncertain amid global uncertainty.",
+        "stocks": {}
+      }
+    },
+    "338bf02be7e05ed2": {
+      "id": "338bf02be7e05ed2",
+      "title": "GMPs indicate 15 IPOs opening or listing this week could offer investors up to 37% returns",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/gmps-indicate-15-ipos-opening-or-listing-this-week-could-offer-investors-up-to-37-returns/slideshow/133064592.cms",
+      "summary": "The IPO market is set for a busy week, with 15 mainboard and SME issues either opening or set to list.",
+      "pub": "09 Aug 14:07 IST",
+      "pub_dt": "2026-08-09T08:37:27+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "IPO market activity with potential 37% returns indicates strong primary market appetite and liquidity conditions. 15 issues opening/listing demonstrates investor confidence in new company valuations and capital formation momentum, supporting broader market sentiment despite volatility.",
+        "stocks": {}
+      }
+    },
+    "696048b258586182": {
+      "id": "696048b258586182",
+      "title": "$20 billion bet: Where is Warren Buffett's successor spending Berkshire's cash pile after 14 quarters?",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/20-billion-bet-where-is-warren-buffetts-successor-spending-berkshires-cash-pile-after-14-quarters/articleshow/133063236.cms",
+      "summary": "Berkshire Hathaway became a net buyer of equities for the first time in 14 quarters under new CEO Greg Abel, spending nearly $20 billion on net stock purchases and $4.5 billion on share buybacks in Q2. Alphabet entered its top five holdings alongside Apple, American Express, Coca-Cola and Bank of America.",
+      "pub": "09 Aug 11:48 IST",
+      "pub_dt": "2026-08-09T06:18:35+00:00",
+      "sectors": [
+        "Banking",
+        "Industrials"
+      ],
+      "stocks": [
+        "BEL"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Berkshire's $20 billion equity deployment and 16% operating earnings growth signal global capital confidence, but BEL's recent technical weakness (below 200-DMA on Aug 5) contradicts macro tailwinds. Global AI concerns (Alphabet investment) and profit-booking headwinds offset positive capex trends for Indian defense stocks.",
+        "stocks": {
+          "BEL": "neutral"
+        }
+      }
+    },
+    "b90ae524ecded2ff": {
+      "id": "b90ae524ecded2ff",
+      "title": "Rs 7,681 crore IPO rush: Shiprocket, Milky Mist among 9 issues to hit the market",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/rs-7681-crore-ipo-rush-next-week-shiprocket-milky-mist-among-9-issues-to-hit-the-market/articleshow/133063172.cms",
+      "summary": "India’s primary market is set for a busy week, with nine companies aiming to raise a combined Rs 7,681 crore through IPOs across the mainboard and SME segments. Key issues include Dhoot Transmission, Shiprocket, Milky Mist Dairy Food and Molbio Diagnostics. The IPOs will open between August 10 and 12, while eight companies that launched last week are set to list.",
+      "pub": "09 Aug 11:43 IST",
+      "pub_dt": "2026-08-09T06:13:34+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Rs 7,681 crore IPO rush with 9 companies across mainboard and SME segments indicates robust primary market appetite and capital formation momentum. Strong IPO pipeline with meaningful issue sizes demonstrates investor confidence in equity valuations and company fundamentals despite macro volatility.",
+        "stocks": {}
+      }
+    },
+    "3c779b0f9b2da477": {
+      "id": "3c779b0f9b2da477",
+      "title": "Berkshire Hathaway spends down cash pile under CEO Greg Abel",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/berkshire-hathaway-spends-down-cash-pile-under-ceo-greg-abel/articleshow/133062858.cms",
+      "summary": "Berkshire Hathaway reduced its cash hoard to $365.5 billion in Q2, as CEO Greg Abel deployed capital into $4.5 billion of stock buybacks and nearly $20 billion in equities, including investments in Alphabet and Taylor Morrison. Operating earnings rose 16% to nearly $13 billion despite lower insurance underwriting profits.",
+      "pub": "09 Aug 11:24 IST",
+      "pub_dt": "2026-08-09T05:54:10+00:00",
+      "sectors": [
+        "Banking",
+        "Industrials"
+      ],
+      "stocks": [
+        "BEL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Berkshire's reduced cash hoard ($365.5B) and $20B equity deployment reflect global capital reallocation toward Alphabet and equities, but lack direct operational impact on BEL. Technical headwinds and global profit-booking sentiment offset positive macro capital deployment trends for Indian industrial stocks.",
+        "stocks": {
+          "BEL": "neutral"
+        }
+      }
+    },
+    "d3e59563c2e84dd2": {
+      "id": "d3e59563c2e84dd2",
+      "title": "After 50 years, Child Welfare Programme set for makeover",
+      "link": "https://economictimes.indiatimes.com/news/economy/policy/after-50-years-child-welfare-programme-set-for-makeover/articleshow/133074546.cms",
+      "summary": "The government plans to revamp the five-decade-old Integrated Child Development Services programme by upgrading Anganwadi centres, strengthening nutrition delivery and empowering frontline workers. The proposed changes also include better remuneration and social security coverage for Anganwadi workers.",
+      "pub": "10 Aug 00:36 IST",
+      "pub_dt": "2026-08-09T19:06:38+00:00",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "ICDS program revamp focuses on social welfare and nutrition delivery with no direct earnings impact on listed companies. Better Anganwadi worker remuneration increases government expenditure but does not directly affect private sector equities in the auto sector.",
+        "stocks": {}
+      }
+    },
+    "87912751b2ecc091": {
+      "id": "87912751b2ecc091",
+      "title": "India can diversify exports away from US if 100% tariffs imposed, has $200 bn market in 15 other countries: Economist SP Sharma",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-can-diversify-exports-away-from-us-if-100-tariffs-imposed-has-200-bn-market-in-15-other-countries-economist-sp-sharma/articleshow/133068310.cms",
+      "summary": "India could diversify exports if the US imposes steep tariffs linked to Russian crude purchases, economist SP Sharma said. He estimates a $200-billion opportunity across 15 alternative markets for products India currently exports to the US, including Europe and West Asia.",
+      "pub": "09 Aug 18:47 IST",
+      "pub_dt": "2026-08-09T13:17:32+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Export diversification away from the US reduces tariff risk for Indian IT and software service exporters. A $200 billion opportunity across 15 alternative markets (Europe, West Asia) provides growth runway if US tariff threats materialize, improving medium-term earnings visibility.",
+        "stocks": {}
+      }
+    },
+    "e4bc779ed138ab87": {
+      "id": "e4bc779ed138ab87",
+      "title": "Govt considering raising CCEA approval threshold for FDI proposals to Rs 15,000 crore: Sources",
+      "link": "https://economictimes.indiatimes.com/news/economy/policy/govt-considering-raising-ccea-approval-threshold-for-fdi-proposals-to-rs-15000-crore-sources/articleshow/133064833.cms",
+      "summary": "The government is considering raising the FDI approval threshold for proposals requiring CCEA clearance to Rs 15,000 crore from Rs 5,000 crore, in a move aimed at improving ease of doing business. It is also weighing easier downstream investment norms to boost foreign inflows, job creation and investment, sources said.",
+      "pub": "09 Aug 14:32 IST",
+      "pub_dt": "2026-08-09T09:02:34+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Raising FDI approval threshold from Rs 5,000 cr to Rs 15,000 cr and easing downstream investment norms directly improves ease of doing business and attracts foreign capital inflows. This supports GDP growth, job creation, and valuations for IT and export-oriented sectors benefiting from increased FDI.",
+        "stocks": {}
+      }
+    },
+    "14a24dda0b221886": {
+      "id": "14a24dda0b221886",
+      "title": "Households in India, other Asia-Pacific regions highly vulnerable to El Nino-driven price shocks: S&amp;P",
+      "link": "https://economictimes.indiatimes.com/news/economy/indicators/households-in-india-other-asia-pacific-regions-highly-vulnerable-to-el-nino-driven-price-shocks-sp/articleshow/133062727.cms",
+      "summary": "Asia-Pacific economies face rising prices and weather shocks from El Nino.  Reduced rainfall and climate disruption will affect agricultural output and food inflation.  Countries are strengthening food reserves and water management to mitigate these impacts.  India holds significant food grain buffers to manage potential food shocks.  Proactive policies will limit damage from the developing El Nin",
+      "pub": "09 Aug 11:14 IST",
+      "pub_dt": "2026-08-09T05:44:44+00:00",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "El Niño-driven reduced rainfall and weather shocks will disrupt agricultural output and drive food inflation across Asia-Pacific, directly pressuring consumer purchasing power and household margins. While India's food grain buffers provide some mitigation, sustained food price shocks will dampen discretionary spending in autos, IT services, and telecom sectors.",
+        "stocks": {}
+      }
+    },
+    "995520e8cd2b7988": {
+      "id": "995520e8cd2b7988",
+      "title": "Manav Sardana buys Dahlias penthouse for Rs 271 cr",
+      "link": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/entrepreneur-manav-sardana-buys-dlf-the-dahlias-penthouse-in-gurugram-for-record-rs-271-crore/articleshow/133074531.cms",
+      "summary": "",
+      "pub": "10 Aug 00:47 IST",
+      "pub_dt": "2026-08-09T19:17:47+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Real estate transaction by a private individual has no direct impact on listed company earnings, margins, or growth. This is a sector-level micro event with no systemic implications.",
+        "stocks": {}
+      }
+    },
+    "ef893cb9ab96fce8": {
+      "id": "ef893cb9ab96fce8",
+      "title": "Govt taps inputs from PSBs to lure foreign capital",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/govt-taps-inputs-from-public-sector-banks-to-lure-foreign-capital/articleshow/133074157.cms",
+      "summary": "",
+      "pub": "10 Aug 00:26 IST",
+      "pub_dt": "2026-08-09T18:56:01+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Government engagement with Public Sector Banks on foreign capital attraction is a policy initiative with unclear direct impact on specific listed equities. Macro-level FDI strategy has broad implications but lacks concrete execution details or earnings visibility.",
+        "stocks": {}
+      }
+    },
+    "9224bf434c850b78": {
+      "id": "9224bf434c850b78",
+      "title": "HAL revives Su-30MKI production at Nashik",
+      "link": "https://economictimes.indiatimes.com/news/defence/hal-revives-su-30mki-production-at-nashik/articleshow/133073821.cms",
+      "summary": "",
+      "pub": "10 Aug 00:06 IST",
+      "pub_dt": "2026-08-09T18:36:22+00:00",
+      "sectors": [
+        "Autos",
+        "Industrials"
+      ],
+      "stocks": [
+        "HAL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "HAL's revival of Su-30MKI production at Nashik signals sustained defense procurement demand and capacity expansion, supporting order book conversion and revenue growth. This continuation of defense modernization spending directly benefits HAL's earnings and operating leverage in the aerospace/defense segment.",
+        "stocks": {
+          "HAL": "positive"
+        }
+      }
+    },
+    "a6666e6045d3cef6": {
+      "id": "a6666e6045d3cef6",
+      "title": "AI experts may join Territorial Army soon",
+      "link": "https://economictimes.indiatimes.com/news/defence/ai-information-warfare-cyber-experts-could-join-territorial-army-soon/articleshow/133073547.cms",
+      "summary": "",
+      "pub": "09 Aug 23:54 IST",
+      "pub_dt": "2026-08-09T18:24:51+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Recruitment of AI experts into the Territorial Army is a defense/HR policy initiative with no direct earnings impact on IT companies. While it reflects government AI capability building, it does not translate to near-term revenue or margin drivers for listed IT sector equities.",
+        "stocks": {}
+      }
+    },
+    "c0ae34336842797f": {
+      "id": "c0ae34336842797f",
+      "title": "Spider-Man emerges top Hollywood grosser in India",
+      "link": "https://economictimes.indiatimes.com/industry/media/entertainment/spider-man-swings-past-avatar-to-emerge-top-hollywood-grosser-in-india/articleshow/133073302.cms",
+      "summary": "",
+      "pub": "09 Aug 23:40 IST",
+      "pub_dt": "2026-08-09T18:10:22+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Spider-Man box office success in India is positive for cinema exhibition and ancillary entertainment sectors, but without tagged stocks or sector-level impact quantifiable, this remains a sector-level sentiment indicator with no direct earnings impact on tracked companies.",
+        "stocks": {}
+      }
+    },
+    "1de60405ff061bd1": {
+      "id": "1de60405ff061bd1",
+      "title": "Jharkhand govt holds 3rd round of talks with students",
+      "link": "https://economictimes.indiatimes.com/news/india/jharkhand-govt-holds-third-round-of-talks-with-students-cm-announces-samvad-platform/articleshow/133073641.cms",
+      "summary": "",
+      "pub": "10 Aug 00:09 IST",
+      "pub_dt": "2026-08-09T18:39:48+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Student protests and government negotiations in Jharkhand are political/social matters with no clear direct linkage to equity valuations or corporate earnings unless they escalate to disrupt economic activity or specific sectors.",
+        "stocks": {}
+      }
+    },
+    "a1d6c0d14003c2fb": {
+      "id": "a1d6c0d14003c2fb",
+      "title": "J&amp;K police attaches Rs 70L property, scans 26 sites",
+      "link": "https://economictimes.indiatimes.com/news/india/jk-police-attaches-rs-70-lakh-property-searches-26-sites/articleshow/133073656.cms",
+      "summary": "",
+      "pub": "10 Aug 00:01 IST",
+      "pub_dt": "2026-08-09T18:31:19+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Property attachment by J&K police is a regional law enforcement action with no identifiable impact on listed equities or macroeconomic trends absent additional context on which entities or sectors are affected.",
+        "stocks": {}
+      }
+    },
+    "3a177ed4fe6e2c66": {
+      "id": "3a177ed4fe6e2c66",
+      "title": "ED files PMLA chargesheets against Anil Ambani cos",
+      "link": "https://economictimes.indiatimes.com/news/india/ed-files-chargesheets-in-2-pmla-cases-against-anil-ambani-group-companies-ex-executives/articleshow/133073666.cms",
+      "summary": "",
+      "pub": "09 Aug 23:56 IST",
+      "pub_dt": "2026-08-09T18:26:46+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "ED filing PMLA chargesheets against Anil Ambani companies signals serious regulatory and legal headwinds; this creates reputational risk, potential asset freezes, and earnings uncertainty for Reliance Group entities, impacting investor confidence and valuations.",
+        "stocks": {}
+      }
+    },
+    "2ce562d98060dcef": {
+      "id": "2ce562d98060dcef",
+      "title": "Assam flood toll reaches 100 with 2 more deaths",
+      "link": "https://economictimes.indiatimes.com/news/india/assam-flood-toll-reaches-100-with-two-more-deaths-nearly-1-4-lakh-people-affected/articleshow/133070954.cms",
+      "summary": "",
+      "pub": "09 Aug 21:51 IST",
+      "pub_dt": "2026-08-09T16:21:16+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Natural disaster (Assam floods) causing 100+ deaths is humanitarian crisis but without specific corporate exposure details or supply-chain disruption data, near-term equity impact is not quantifiable beyond sentiment.",
+        "stocks": {}
+      }
+    },
+    "59369c3f4c0de349": {
+      "id": "59369c3f4c0de349",
+      "title": "Australia top WTC table, India eye revival",
+      "link": "https://economictimes.indiatimes.com/news/sports/cricket/australia-lead-wtc-standings-as-india-look-to-revive-campaign-against-sri-lanka/articleshow/133070243.cms",
+      "summary": "",
+      "pub": "09 Aug 21:14 IST",
+      "pub_dt": "2026-08-09T15:44:16+00:00",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Cricket World Test Championship standings are sports/entertainment news with no direct bearing on auto sector fundamentals, earnings, or macro trends despite the sector tag appearing unrelated to headline content.",
+        "stocks": {}
+      }
+    },
+    "01087fc768f49964": {
+      "id": "01087fc768f49964",
+      "title": "Govt extends ED Director Navin's tenure by 1 yr",
+      "link": "https://economictimes.indiatimes.com/news/india/govt-extends-ed-director-rahul-navins-tenure-beyond-august-13/articleshow/133070165.cms",
+      "summary": "",
+      "pub": "09 Aug 21:07 IST",
+      "pub_dt": "2026-08-09T15:37:14+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Tenure extension of ED Director is a personnel decision; while it signals continuity in enforcement, without specific anti-corruption or regulatory targeting details, this has minimal direct impact on equity valuations.",
+        "stocks": {}
+      }
+    },
+    "be309935b592fa8f": {
+      "id": "be309935b592fa8f",
+      "title": "Uncertainty over bills as Cong vows to resist",
+      "link": "https://economictimes.indiatimes.com/news/politics-and-nation/uncertainty-over-key-bills-as-congress-vows-to-resist-monsoon-session-heading-for-washout/articleshow/133069587.cms",
+      "summary": "",
+      "pub": "09 Aug 20:24 IST",
+      "pub_dt": "2026-08-09T14:54:16+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Congressional resistance to bills creates policy uncertainty that could negatively impact IT sector growth if bills involve taxation, compliance, or regulatory changes; however, without bill specifics, impact magnitude is unclear and could be neutral if resistance succeeds in blocking unfavorable legislation.",
+        "stocks": {}
+      }
+    },
+    "546ef9591d082916": {
+      "id": "546ef9591d082916",
+      "title": "Sarfaraz to be in India’s Test squad for SL series",
+      "link": "https://economictimes.indiatimes.com/news/sports/cricket/sarfaraz-khan-replaces-injured-sai-sudharsan-in-indias-test-squad-for-sri-lanka-series/articleshow/133069357.cms",
+      "summary": "",
+      "pub": "09 Aug 20:05 IST",
+      "pub_dt": "2026-08-09T14:35:22+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Cricket selection news has no direct impact on equity markets or corporate earnings. This is purely sports-related content with no financial implications for any listed companies.",
+        "stocks": {}
+      }
+    },
+    "347547930b74b4d8": {
+      "id": "347547930b74b4d8",
+      "title": "Iranian Prez meets Supreme Leader Khamenei",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/us-iran-war-iranian-president-pezeshkian-recently-met-supreme-leader-khamenei-state-media-says/articleshow/133067939.cms",
+      "summary": "",
+      "pub": "09 Aug 18:23 IST",
+      "pub_dt": "2026-08-09T12:53:20+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Diplomatic meeting between Iranian officials is geopolitical news with potential macro implications for oil prices, but no direct impact on specific Indian equities without clarity on outcomes or India's involvement.",
+        "stocks": {}
+      }
+    },
+    "f412597a1003ba9b": {
+      "id": "f412597a1003ba9b",
+      "title": "WB govt, Tata group discuss fresh investment",
+      "link": "https://economictimes.indiatimes.com/news/india/west-bengal-government-in-talks-with-tata-group-for-fresh-investments-industry-minister-tapas-roy/articleshow/133067718.cms",
+      "summary": "",
+      "pub": "09 Aug 18:01 IST",
+      "pub_dt": "2026-08-09T12:31:09+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Fresh investment discussions between West Bengal government and Tata Group suggest potential capital deployment in the state, which could support growth in Tata subsidiaries' operations and regional economic development; however, lack of specific details limits impact assessment.",
+        "stocks": {}
+      }
+    },
+    "ad9c569fcec24b2c": {
+      "id": "ad9c569fcec24b2c",
+      "title": "BCCI CoE flags IPL injury pressure on players",
+      "link": "https://economictimes.indiatimes.com/news/sports/cricket/players-play-through-injuries-during-ipl-due-to-franchise-financial-pressures-then-are-dumped-onto-unsuspecting-coe-physios-bcci-coe-source/articleshow/133067628.cms",
+      "summary": "",
+      "pub": "09 Aug 17:54 IST",
+      "pub_dt": "2026-08-09T12:24:43+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "BCCI flagging IPL injury concerns is an operational/governance matter for cricket boards with no direct earnings impact on listed companies. This does not affect financial performance or valuations of equity-listed entities.",
+        "stocks": {}
+      }
+    },
+    "7c6579886af9f1a4": {
+      "id": "7c6579886af9f1a4",
+      "title": "Jindal’s ₹40,000 crore steel bet needs a home",
+      "link": "https://economictimes.indiatimes.com/industry/indl-goods/svs/steel/jindal-stainless-scouting-maharashtra-site-for-rs-40000-crore-plant/articleshow/133062761.cms",
+      "summary": "",
+      "pub": "09 Aug 11:11 IST",
+      "pub_dt": "2026-08-09T05:41:45+00:00",
+      "sectors": [
+        "Materials"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Jindal's ₹40,000 crore steel investment signals bullish expansion plans and potential earnings growth, but the headline's phrase 'needs a home' suggests delays or uncertainty in project execution, which could pressure near-term profitability and capital efficiency.",
+        "stocks": {}
+      }
+    },
+    "c9ce7f31912e5edd": {
+      "id": "c9ce7f31912e5edd",
+      "title": "Mamata’s car hit by mud, stones amid ‘chor’ slogans",
+      "link": "https://economictimes.indiatimes.com/news/politics-and-nation/mamata-banerjee-faces-protest-in-bengal-mud-smeared-stones-hit-car-amid-chor-slogans/articleshow/133065806.cms",
+      "summary": "",
+      "pub": "09 Aug 15:46 IST",
+      "pub_dt": "2026-08-09T10:16:31+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Political incident involving West Bengal's Chief Minister has no direct impact on corporate earnings, margins, or equity valuations. This is domestic political news unrelated to business fundamentals.",
+        "stocks": {}
+      }
+    },
+    "12f61879e0b8bb44": {
+      "id": "12f61879e0b8bb44",
+      "title": "Air India turbulence captain may have failed dope test",
+      "link": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/air-indias-phuket-delhi-turbulence-hit-flight-captain-may-have-failed-dope-test/articleshow/133062855.cms",
+      "summary": "",
+      "pub": "09 Aug 11:40 IST",
+      "pub_dt": "2026-08-09T06:10:24+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Individual personnel incident at Air India (doping allegation) is a compliance/HR matter with negligible impact on airline operations or financial performance. The IT sector tag appears misaligned with the news content.",
+        "stocks": {}
+      }
+    },
+    "8d53e3e8b4fbdc72": {
+      "id": "8d53e3e8b4fbdc72",
+      "title": "After ethanol in petrol, it’s now Bio-CNG’s turn",
+      "link": "https://economictimes.indiatimes.com/news/new-updates/after-ethanol-in-petrol-its-now-bio-cngs-turn-govts-rs-23731-crore-push-could-change-what-powers-your-cng-car-in-the-years-ahead/articleshow/133065262.cms",
+      "summary": "",
+      "pub": "09 Aug 15:39 IST",
+      "pub_dt": "2026-08-09T10:09:04+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Bio-CNG adoption following ethanol-in-petrol policy represents a macro shift toward renewable energy in transportation, potentially benefiting renewable fuel producers and creating long-term tailwinds for clean energy-related investments, though immediate earnings impact is indirect.",
+        "stocks": {}
+      }
+    },
+    "54812061a8dc424f": {
+      "id": "54812061a8dc424f",
+      "title": "When British built a 4K-km wall across India for tax",
+      "link": "https://economictimes.indiatimes.com/news/india/independence-day-2026-when-the-british-built-a-4000-km-wall-across-india-to-extort-tax/articleshow/133064483.cms",
+      "summary": "",
+      "pub": "09 Aug 14:46 IST",
+      "pub_dt": "2026-08-09T09:16:28+00:00",
+      "sectors": [
+        "Industrials"
+      ],
+      "stocks": [
+        "L&T"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Historical article about British tax walls with no operational relevance to L&T's current business. Recent history shows L&T facing infrastructure sector headwinds (NCLT rejections, credit stress) and macro concerns (geopolitical risks), making this a contextual curiosity with no earnings impact.",
+        "stocks": {
+          "L&T": "neutral"
+        }
+      }
+    },
+    "b7c99aa463e274a4": {
+      "id": "b7c99aa463e274a4",
+      "title": "India’s education spending falls below UNESCO norm",
+      "link": "https://economictimes.indiatimes.com/news/india/indias-education-spending-share-drops-below-unescos-15-standard/articleshow/133064507.cms",
+      "summary": "",
+      "pub": "09 Aug 14:21 IST",
+      "pub_dt": "2026-08-09T08:51:22+00:00",
+      "sectors": [
+        "Industrials"
+      ],
+      "stocks": [
+        "BEL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "India's education spending falling below UNESCO norms signals potential long-term demand headwind for defence and industrial sectors. For BEL, this reflects government budget constraints that may constrain capital expenditure on defence modernization, impacting growth visibility despite near-term oil price tailwinds.",
+        "stocks": {
+          "BEL": "negative"
+        }
+      }
+    },
+    "23653df7bc8f7630": {
+      "id": "23653df7bc8f7630",
+      "title": "Bihar govt announces education, exam reforms",
+      "link": "https://economictimes.indiatimes.com/news/india/bihar-government-announces-measures-to-strengthen-education-system-examination-reforms/articleshow/133064651.cms",
+      "summary": "",
+      "pub": "09 Aug 14:33 IST",
+      "pub_dt": "2026-08-09T09:03:36+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Bihar education and exam reforms are state-level policy initiatives with no direct impact on listed companies' earnings or valuations. This is a structural/long-term macro development without immediate operational consequences.",
+        "stocks": {}
+      }
+    },
+    "edecc348439e4c68": {
+      "id": "edecc348439e4c68",
+      "title": "India’s spaceport might get a private-sector pilot",
+      "link": "https://economictimes.indiatimes.com/news/science/in-space-moves-to-hand-over-isros-new-rs-986-crore-small-rocket-launch-complex-to-private-sector/articleshow/133064804.cms",
+      "summary": "",
+      "pub": "09 Aug 14:30 IST",
+      "pub_dt": "2026-08-09T09:00:11+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Private-sector pilot for India's spaceport signals regulatory opening for commercial space activities, potentially unlocking new revenue streams and capex opportunities in aerospace/defence sectors. This reverses historical government monopoly and is structurally positive for sector growth.",
+        "stocks": {}
+      }
+    },
+    "1b53af30bed5544c": {
+      "id": "1b53af30bed5544c",
+      "title": "Eight parties to form Nepal’s Progressive Front",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/eight-parties-unite-to-form-nepals-progressive-front/articleshow/133064523.cms",
+      "summary": "",
+      "pub": "09 Aug 14:14 IST",
+      "pub_dt": "2026-08-09T08:44:41+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Nepal's political coalition formation is a macro/geopolitical development with no direct operational impact on Indian listed equities. Regional political stability may have long-term implications but no immediate earnings relevance.",
+        "stocks": {}
+      }
+    },
+    "e27ce05a178b6c9e": {
+      "id": "e27ce05a178b6c9e",
+      "title": "Air India cautions against pilot test speculation",
+      "link": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/air-india-says-not-in-position-to-comment-on-screening-test-results-on-pilot-of-phuket-delhi-flight/articleshow/133064175.cms",
+      "summary": "",
+      "pub": "09 Aug 14:12 IST",
+      "pub_dt": "2026-08-09T08:42:23+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Air India's caution against pilot test speculation is a corporate governance/communication matter with no operational earnings impact. The airline sector context suggests regulatory prudence without fundamental business implications.",
+        "stocks": {}
+      }
+    },
+    "06f687dad0bb4c7c": {
+      "id": "06f687dad0bb4c7c",
+      "title": "Iran says Hormuz shut until US ‘corrects’ its conduct",
+      "link": "https://economictimes.indiatimes.com/news/defence/iran-says-hormuz-wont-reopen-until-us-corrects-its-behavior-uae-ship-targeted-and-other-middle-east-news/articleshow/133062017.cms",
+      "summary": "",
+      "pub": "09 Aug 09:29 IST",
+      "pub_dt": "2026-08-09T03:59:39+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Iran's threat to shut Hormuz strait until US policy changes represents acute geopolitical risk escalation, elevating oil price volatility and regional supply disruption risks. This is a near-term negative macro shock for capital-intensive Indian sectors dependent on stable energy costs.",
+        "stocks": {}
+      }
+    },
+    "972bab8f5da84e1c": {
+      "id": "972bab8f5da84e1c",
+      "title": "‘Kitna deti hai?’ no longer cuts it for car buyers",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/kitna-deti-hai-is-no-longer-enough-as-indian-car-buyers-start-doing-the-maths-beyond-mileage-and-emi/articleshow/133056667.cms",
+      "summary": "",
+      "pub": "09 Aug 05:30 IST",
+      "pub_dt": "2026-08-09T00:00:00+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Article on evolving car buyer preferences ('fuel efficiency no longer primary driver') reflects long-term consumer behaviour shifts but lacks specific company earnings or competitive impact data. This is a sector-trend observation without quantified valuation consequences.",
+        "stocks": {}
+      }
+    },
+    "3feb928c5c196f97": {
+      "id": "3feb928c5c196f97",
+      "title": "'US Senate vote puts India’s Russian crude at risk'",
+      "link": "https://economictimes.indiatimes.com/industry/energy/oil-gas/us-senate-russia-sanctions-vote-raises-risk-for-indian-crude-supplies-says-kpler/articleshow/133063930.cms",
+      "summary": "",
+      "pub": "09 Aug 13:04 IST",
+      "pub_dt": "2026-08-09T07:34:25+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "US sanctions on Russian crude could disrupt India's import strategy and increase energy costs. This threatens refiner margins and overall energy security, potentially raising input costs for downstream industries.",
+        "stocks": {}
+      }
+    },
+    "076736c2b0da657f": {
+      "id": "076736c2b0da657f",
+      "title": "GOBARdhan can cut gas imports by $5 bn: IBA",
+      "link": "https://economictimes.indiatimes.com/industry/energy/oil-gas/gobardhan-scheme-can-help-reduce-gas-imports-by-5-billion-says-iba/articleshow/133063175.cms",
+      "summary": "",
+      "pub": "09 Aug 11:43 IST",
+      "pub_dt": "2026-08-09T06:13:54+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "GOBARdhan initiative reducing gas imports by $5 bn signals energy independence potential and cost savings. This benefits renewable energy and biogas sectors while improving India's macro fiscal position.",
+        "stocks": {}
+      }
+    },
+    "aca4406863c0f510": {
+      "id": "aca4406863c0f510",
+      "title": "Khamenei's video appears amid health rumours",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/iran-releases-video-of-mojtaba-khamenei-after-reports-of-critical-health/articleshow/133061239.cms",
+      "summary": "",
+      "pub": "09 Aug 06:35 IST",
+      "pub_dt": "2026-08-09T01:05:52+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Iranian leadership health rumors have geopolitical implications but no direct bearing on Indian equity valuations unless crude/Iran trade disruption occurs. Sentiment impact is minimal without concrete policy changes.",
+        "stocks": {}
+      }
+    },
+    "2e485f287dcd9cf7": {
+      "id": "2e485f287dcd9cf7",
+      "title": "India’s unlikely edge over Dragon? Its seafarers",
+      "link": "https://economictimes.indiatimes.com/news/india/india-sails-past-china-with-27-more-officers-steering-the-worlds-ships/articleshow/133057760.cms",
+      "summary": "",
+      "pub": "09 Aug 05:30 IST",
+      "pub_dt": "2026-08-09T00:00:00+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "India's maritime workforce advantage is a structural competitive strength but does not directly impact near-term stock valuations. Benefits would be long-term and sector-specific to shipping/logistics.",
+        "stocks": {}
+      }
+    },
+    "191ba4e2de00f8ef": {
+      "id": "191ba4e2de00f8ef",
+      "title": "The man who drew the India-Pakistan border",
+      "link": "https://economictimes.indiatimes.com/news/new-updates/independence-day-2026-radcliffe-line-1947-79-years-ago-a-man-who-had-never-visited-india-knew-little-about-its-complex-landscape-drew-a-line-that-divided-india-and-pakistan/articleshow/133062780.cms",
+      "summary": "",
+      "pub": "09 Aug 11:30 IST",
+      "pub_dt": "2026-08-09T06:00:51+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Historical narrative on India-Pakistan border has no direct impact on current equity valuations or corporate earnings. Purely informational content.",
+        "stocks": {}
+      }
+    },
+    "a4ec7c52a2e36ebe": {
+      "id": "a4ec7c52a2e36ebe",
+      "title": "Knot possible: Art imagines India's queer unions",
+      "link": "https://economictimes.indiatimes.com/news/india/knot-possible-even-as-law-denies-same-sex-couples-the-right-to-marry-in-india-art-is-imagining-and-celebrating-such-unions/articleshow/133062315.cms",
+      "summary": "",
+      "pub": "09 Aug 10:11 IST",
+      "pub_dt": "2026-08-09T04:41:27+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Social policy discussion on queer unions is a cultural topic with no material impact on Indian equity markets or corporate earnings in the near term.",
+        "stocks": {}
+      }
+    },
+    "4a7a9e9d05544be8": {
+      "id": "4a7a9e9d05544be8",
+      "title": "Owaisi flags BLOs refusing T'gana SIR forms",
+      "link": "https://economictimes.indiatimes.com/news/politics-and-nation/telangana-sir-aimim-chief-owaisi-claims-blos-refusing-enumeration-forms-on-aug-9-10-seeks-eci-intervention/articleshow/133061895.cms",
+      "summary": "",
+      "pub": "09 Aug 09:14 IST",
+      "pub_dt": "2026-08-09T03:44:38+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Administrative issue regarding election forms in Telangana has no direct material impact on IT sector stocks. Operational disruptions are localized and temporary.",
+        "stocks": {}
+      }
+    },
+    "25bc6b3e295ba0ea": {
+      "id": "25bc6b3e295ba0ea",
+      "title": "Nashik hit by 4.3-magnitude earthquake",
+      "link": "https://economictimes.indiatimes.com/news/india/nashik-hit-by-4-3-magnitude-quake-tremors-trigger-cracks-in-houses/articleshow/133061881.cms",
+      "summary": "",
+      "pub": "09 Aug 09:10 IST",
+      "pub_dt": "2026-08-09T03:40:51+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "A 4.3-magnitude earthquake in Nashik is minor seismic activity with limited infrastructure damage expected. No material impact on equity valuations unless targeted asset damage occurs.",
+        "stocks": {}
+      }
+    },
+    "84bb24c7b83a3786": {
+      "id": "84bb24c7b83a3786",
+      "title": "The hidden cost of Afghanistan’s gold rush",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/afghanistans-gold-rush-leaves-a-trail-of-dust-damage-and-lost-farmland/articleshow/133061838.cms",
+      "summary": "",
+      "pub": "09 Aug 09:02 IST",
+      "pub_dt": "2026-08-09T03:32:57+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Sector-level news on Afghanistan's gold reserves has no direct impact on tagged Indian equities. Geopolitical/commodity supply dynamics lack specificity for earnings or margin impact assessment.",
+        "stocks": {}
+      }
+    },
+    "6fc5fd7c75de3b59": {
+      "id": "6fc5fd7c75de3b59",
+      "title": "Coal stocks at power plants may fall 20%",
+      "link": "https://economictimes.indiatimes.com/industry/energy/power/coal-stocks-at-power-plants-may-fall-20-by-sept-end/articleshow/133074578.cms",
+      "summary": "New Delhi: Coal stocks at power plants are expected to fall to 24-30 million tonnes (mt) by the end of September from about 37 mt currently, amid lower seasonal dispatch, higher demand during a deficient monsoon and above-normal temperatures, people familiar with the matter said.Coal supplies to thermal power plants have picked up in recent months, even as stocks at generating units have declined ",
+      "pub": "10 Aug 00:39 IST",
+      "pub_dt": "2026-08-09T19:09:00+00:00",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Materials"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Coal stock depletion to 24-30 mt by end-September signals potential power supply constraints, which could pressure thermal generation capacity and indirectly raise input costs for power-dependent sectors (Autos, Materials). Higher demand amid deficient monsoon and above-normal temperatures may tighten energy availability.",
+        "stocks": {}
+      }
+    },
+    "2c0040aa1dfc9106": {
+      "id": "2c0040aa1dfc9106",
+      "title": "China Shock 2.0 reshuffles winners and losers: Manishi Raychaudhuri",
+      "link": "https://www.livemint.com/market/china-shock-2-0-reshuffles-winners-and-losers-manishi-raychaudhuri-11786316493048.html",
+      "summary": "CHINA-EXPORTS/ (ROI, COLUMN, GRAPHICS, PIX):ROI-China Shock 2.0 reshuffles winners and losers: Manishi Raychaudhuri",
+      "pub": "10 Aug 04:31 IST",
+      "pub_dt": "2026-08-09T23:01:32+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "High-level commentary on China export dynamics and competitive reshuffling lacks quantified impact on specific Indian sectors or stocks. Requires granular analysis of which sectors benefit vs. lose from China trade normalization.",
+        "stocks": {}
+      }
+    },
+    "d759b8342ec4843c": {
+      "id": "d759b8342ec4843c",
+      "title": "Australian Wheat Crop Rebounds at Crucial Time for Global Supply",
+      "link": "https://www.livemint.com/market/australian-wheat-crop-rebounds-at-crucial-time-for-global-supply-11786312660735.html",
+      "summary": "Prospects for Australia’s upcoming wheat crop are turning more optimistic, helping to buffer an increasingly grim global supply outlook for the grain.",
+      "pub": "10 Aug 03:27 IST",
+      "pub_dt": "2026-08-09T21:57:40+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Australian wheat crop recovery is a global commodity supply-side development with no direct earnings linkage to Indian IT sector stocks tagged. Commodity price stabilization may marginally reduce input cost volatility but lacks material operational impact.",
+        "stocks": {}
+      }
+    },
+    "67c12b87722320a6": {
+      "id": "67c12b87722320a6",
+      "title": "Aussie-Yen Is Set to Approach Three-Decade High, Analysts Say",
+      "link": "https://www.livemint.com/market/aussieyen-is-set-to-approach-three-decade-high-analysts-say-11786311200825.html",
+      "summary": "The Australian dollar is poised to climb back toward a 35-year high against the yen as the impact of Tokyo’s currency intervention fades and the Reserve Bank of Australia’s hawkish stance bolsters the exchange rate, according to strategists.",
+      "pub": "10 Aug 03:03 IST",
+      "pub_dt": "2026-08-09T21:33:20+00:00",
+      "sectors": [
+        "Banking",
+        "IT",
+        "Materials"
+      ],
+      "stocks": [
+        "ACC"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "AUD-JPY currency strength favors ACC's export competitiveness (cement/materials have pricing power in non-INR markets) but contradicts recent negative sentiment from banking sector fraud and retail demand weakness. Recent history shows mixed sector headwinds (luxury slowdown, import dependence, inflation pressure) offsetting currency tailwinds.",
+        "stocks": {
+          "ACC": "mixed"
+        }
+      }
+    },
+    "4d64c3f08bdfe2b2": {
+      "id": "4d64c3f08bdfe2b2",
+      "title": "US Markets Week Ahead: Inflation, retail sales, home sales and earnings in focus",
+      "link": "https://www.livemint.com/market/stock-market-news/us-markets-week-ahead-inflation-retail-sales-home-sales-and-earnings-in-focus-11786292217576.html",
+      "summary": "Following unexpectedly weak US nonfarm payrolls data for July, investors will closely watch the latest inflation readings, housing-market figures, retail sales data and consumer sentiment survey for clues about the strength of the US economy and the Federal Reserve’s next monetary policy move",
+      "pub": "09 Aug 23:23 IST",
+      "pub_dt": "2026-08-09T17:53:20+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "US macro data watch (inflation, retail sales, Fed policy) is forward-looking sentiment indicator for global liquidity and IT sector earnings. No direct impact on Indian fundamentals; IT sector earnings visibility depends on dollar strength and US tech spending trends, which remain uncertain.",
+        "stocks": {}
+      }
+    },
+    "e7afe4f7aba76ea8": {
+      "id": "e7afe4f7aba76ea8",
+      "title": "The stock market is finally rising again—and it’s getting cheaper, too",
+      "link": "https://www.livemint.com/market/stock-market-news/the-stock-market-is-finally-rising-again-and-it-s-getting-cheaper-too-11786196595606.html",
+      "summary": "While the S&amp;amp;P 500 is up 22% in the past year, valuations have actually come down.",
+      "pub": "09 Aug 15:46 IST",
+      "pub_dt": "2026-08-09T10:16:23+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "S&P 500 rally (+22% YoY) with simultaneous valuation compression signals improving risk-reward in global equities, which supports positive sentiment for Indian IT exports and FII inflows. Lower US multiples reduce relative valuation pressure on Indian equities.",
+        "stocks": {}
+      }
+    },
+    "4a5ac0b00f0d38a6": {
+      "id": "4a5ac0b00f0d38a6",
+      "title": "Upcoming IPOs: Shiprocket IPO, Dhoot Transmission IPO among new issues to open next week; full list here",
+      "link": "https://www.livemint.com/market/ipo/upcoming-ipos-shiprocket-ipo-dhoot-transmission-ipo-among-new-issues-to-open-next-week-full-list-here-11786259637577.html",
+      "summary": "Upcoming IPOs: The IPOs are scheduled to open between August 10 and 12, while shares of eight companies that opened for subscription last week are set to make their market debut.",
+      "pub": "09 Aug 13:22 IST",
+      "pub_dt": "2026-08-09T07:52:50+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "IPO calendar update (Shiprocket, Dhoot Transmission) is a routine market activity indicator reflecting capital-raising sentiment. No material impact on existing listed company fundamentals or earnings.",
+        "stocks": {}
+      }
+    },
+    "61a1291161bb9a81": {
+      "id": "61a1291161bb9a81",
+      "title": "Defence stock Apollo Micro Systems declares Q1 results 2026. Revenue jumps 88% YoY to  ₹251 crore, PAT up 43%",
+      "link": "https://www.livemint.com/market/stock-market-news/defence-stock-apollo-micro-systems-declares-q1-results-2026-revenue-jumps-88-yoy-to-251-crore-pat-up-43-11786257583850.html",
+      "summary": "Apollo Micro Systems posted a 43% year-on-year increase in net profit to  ₹25.2 crore for Q1 FY27, while revenue from operations jumped 88% to  ₹251.3 crore.",
+      "pub": "09 Aug 12:31 IST",
+      "pub_dt": "2026-08-09T07:01:45+00:00",
+      "sectors": [
+        "Autos",
+        "Industrials"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Apollo Micro Systems delivered exceptional growth with 88% YoY revenue jump to ₹251.3 crore and 43% PAT growth to ₹25.2 crore in Q1 FY27, significantly outpacing earnings growth relative to revenue expansion. This strong operational leverage and robust top-line momentum in the defence sector indicates sustained demand and improving profitability trajectory.",
+        "stocks": {}
+      }
+    },
+    "6b30e3dd71f29951": {
+      "id": "6b30e3dd71f29951",
+      "title": "Q1 results 2026: Vodafone Idea to RVNL among companies to declare Q1 results next week; check full list here",
+      "link": "https://www.livemint.com/market/stock-market-news/q1-results-2026-vodafone-idea-to-rvnl-among-companies-to-declare-q1-results-next-week-check-full-list-here-11786255453945.html",
+      "summary": "Vodafone Idea, Bharat Forge, MRF, Rail Vikas Nigam, Hindustan Aeronautics (HAL), Tata Motors are among the companies to report their Q1 results FY27 next week.",
+      "pub": "09 Aug 12:06 IST",
+      "pub_dt": "2026-08-09T06:36:30+00:00",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Industrials",
+        "Telecoms"
+      ],
+      "stocks": [
+        "Bharat Forge",
+        "HAL",
+        "MRF",
+        "RVNL",
+        "Tata Motors",
+        "Vodafone Idea"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "The upcoming Q1 results from multiple large-cap stocks present both opportunities and risks. Recent history shows HAL gaining on positive sentiment (06 Aug) while Vodafone Idea faces structural profitability pressures requiring tariff hikes (07 Aug). Bharat Forge, MRF, RVNL, and Tata Motors results could swing based on auto sector momentum, but FII exodus in Q1 and weak global equity sentiment provide near-term headwinds despite constructive market structure.",
+        "stocks": {
+          "Bharat Forge": "neutral",
+          "HAL": "positive",
+          "MRF": "neutral",
+          "RVNL": "neutral",
+          "Tata Motors": "neutral",
+          "Vodafone Idea": "negative"
+        }
+      }
+    },
+    "87facb65f2ccdc7c": {
+      "id": "87facb65f2ccdc7c",
+      "title": "Multibagger stock to be in focus on Monday; here's why",
+      "link": "https://www.livemint.com/market/stock-market-news/multibagger-stock-bigbloc-construction-to-be-in-focus-on-monday-heres-why-11786251740187.html",
+      "summary": "On Friday, the multibagger stock ended the session marginally higher, closed 0.43% up at  ₹46.92 apiece.",
+      "pub": "09 Aug 11:32 IST",
+      "pub_dt": "2026-08-09T06:02:13+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "The headline lacks specificity on which stock is referenced or what fundamental catalyst drove the 0.43% move. Without clear identification of the stock or underlying business catalyst, this appears to be momentum-based price action without meaningful earnings or valuation implications.",
+        "stocks": {}
+      }
+    },
+    "d3b16be9fab60aa2": {
+      "id": "d3b16be9fab60aa2",
+      "title": "Stocks to buy: Sun Pharma, BEL among 4 shares Bajaj Broking's expert recommends for next 6 months",
+      "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-sun-pharma-bel-among-4-shares-bajaj-brokings-expert-recommends-for-next-6-months-11786249393533.html",
+      "summary": "Bajaj Broking’s Pabitro Mukherjee believes the broader market structure has turned constructive, with dips likely to attract buying interest. He recommends four top stock picks, hinting at a bullish reversal.&amp;nbsp;",
+      "pub": "09 Aug 11:02 IST",
+      "pub_dt": "2026-08-09T05:32:34+00:00",
+      "sectors": [
+        "Autos",
+        "Industrials"
+      ],
+      "stocks": [
+        "BEL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "BEL appears as a recommended buy despite recent technical weakness (crossed below 200-DMA on 05 Aug, indicating downside reversal trend). While Bajaj Broking's constructive market structure thesis and lower crude oil prices (~$80/bbl) support capital-intensive defence stocks, the divergence between analyst bullish call and bearish technicals suggests near-term execution risk before fundamental recovery.",
+        "stocks": {
+          "BEL": "mixed"
+        }
+      }
+    },
+    "7407d8b7c35f2f44": {
+      "id": "7407d8b7c35f2f44",
+      "title": "Indian stock market: How are Sensex and Nifty 50 likely to perform next week amid ongoing US-Iran war?",
+      "link": "https://www.livemint.com/market/stock-market-news/indian-stock-market-how-are-sensex-and-nifty-50-likely-to-perform-next-week-amid-ongoing-us-iran-war-11786249461743.html",
+      "summary": "Indian stock market: For the week, the Sensex rose 0.52% to end at 78,499.17, while the Nifty gained 0.77% to settle at 24,570.65.",
+      "pub": "09 Aug 10:27 IST",
+      "pub_dt": "2026-08-09T04:57:33+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Macro commentary on Sensex/Nifty performance amid geopolitical tensions lacks specific earnings catalysts or valuation implications. Weekly gains of 0.52-0.77% reflect broad market sentiment rather than fundamental shifts, and ongoing US-Iran war uncertainty presents bidirectional risk without clarity on sectoral impact.",
+        "stocks": {}
+      }
+    },
+    "fc718e8c75103efc": {
+      "id": "fc718e8c75103efc",
+      "title": "Stocks under  ₹100: Sumeet Bagadia recommends three shares to buy on Monday - 10 August 2026",
+      "link": "https://www.livemint.com/market/stock-market-news/stocks-under-rs-100-sumeet-bagadia-recommends-three-shares-to-buy-on-monday-10-august-2026-11786245120795.html",
+      "summary": "The Indian stock ended the week on a positive note on Friday. Check Sumeet Bagadia's outlook for the market in the coming with, along with the three stocks under  ₹100 that he feels are a buy in current situation.",
+      "pub": "09 Aug 09:17 IST",
+      "pub_dt": "2026-08-09T03:47:17+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Generic stock recommendation summary without specific stock identities, valuations, or earnings catalysts. Analyst bullish outlook on sub-₹100 stocks reflects sentiment but lacks fundamental justification for investment decision-making.",
+        "stocks": {}
+      }
+    },
+    "b0a1295ee87845ed": {
+      "id": "b0a1295ee87845ed",
+      "title": "Buy or sell: Ganesh Dongre of Anand Rathi recommends 3 stocks to buy on Monday - 10 August 2026",
+      "link": "https://www.livemint.com/market/stock-market-news/buy-or-sell-ganesh-dongre-of-anand-rathi-recommends-3-stocks-to-buy-on-monday-10-august-2026-11786243110500.html",
+      "summary": "Indian stock market: Amid ongoing Middle East Tension, Ganesh Dongre of Anand Rathi recommends three stocks to buy on Monday. Check top stock picks by the market expert.",
+      "pub": "09 Aug 08:30 IST",
+      "pub_dt": "2026-08-09T03:00:37+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Anand Rathi's three stock recommendations amid Middle East tension lack specific identities and earnings-based rationale. Geopolitical uncertainty presents bidirectional macro risk, but without identification of recommended stocks or their fundamental drivers, this represents sentiment-based advice rather than actionable fundamental analysis.",
+        "stocks": {}
+      }
+    },
+    "42c6af06ae77f787": {
+      "id": "42c6af06ae77f787",
+      "title": "Q1 results FY27 to US-Iran war: Top five triggers that may dictate the Indian stock market this week",
+      "link": "https://www.livemint.com/market/stock-market-news/q1-results-fy27-to-us-iran-war-top-five-triggers-that-may-dictate-the-indian-stock-market-this-week-11786240881737.html",
+      "summary": "Stock market today: Over the week, the Sensex rose 0.52% to 78,499.17, while the Nifty gained 0.77% to finish at 24,570.65. While some of the global triggers continue this week, read on to know what are the fresh factors to watch out for this week.",
+      "pub": "09 Aug 08:03 IST",
+      "pub_dt": "2026-08-09T02:33:14+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Summary of key market triggers (Q1 results, US-Iran war, geopolitical developments) provides macro context but without specific earnings catalysts or valuation implications for individual stocks. The 0.52-0.77% weekly gains reflect broad sentiment neutrality ahead of results season.",
+        "stocks": {}
+      }
+    },
+    "41f0da3c5ad280c5": {
+      "id": "41f0da3c5ad280c5",
+      "title": "Korea Volatility Spike Ebbs as Leveraged Trades Are Flushed Out",
+      "link": "https://www.livemint.com/market/korea-volatility-spike-ebbs-as-leveraged-trades-are-flushed-out-11786234691643.html",
+      "summary": "The most extreme phase of South Korea’s stock-market turmoil may be over after a historic selloff flushed out leveraged positions and regulatory curbs sent trading in some of the riskiest products plunging.",
+      "pub": "09 Aug 05:48 IST",
+      "pub_dt": "2026-08-09T00:18:11+00:00",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "South Korea's stock volatility spike easing is a regional macro development with indirect relevance to Indian auto exporters. While reduced leverage and risk-off sentiment globally could pressure auto demand near-term, the restoration of market stability is not a direct earnings driver for Indian auto stocks.",
+        "stocks": {}
+      }
+    },
+    "43e5d35fd7c0baa5": {
+      "id": "43e5d35fd7c0baa5",
+      "title": "Govt considering raising CCEA approval threshold for FDI proposals to  ₹15,000 cr: Report",
+      "link": "https://www.livemint.com/economy/govt-india-consider-raising-ccea-approval-threshold-fdi-proposals-rs-15000-crore-source-report-foreign-direct-investment-11786284230299.html",
+      "summary": "The government is considering a proposal to raise threshold for foreign direct investment proposals requiring approval from the CCEA to  ₹15,000 crore to improve India's investment climate, as per sources.",
+      "pub": "09 Aug 19:54 IST",
+      "pub_dt": "2026-08-09T14:24:23+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Raising CCEA FDI approval threshold to ₹15,000 crore streamlines large FDI approvals and signals government intent to improve investment climate for high-value projects. This reduces regulatory friction for IT services and tech infrastructure capex, supporting sector growth momentum.",
+        "stocks": {}
+      }
+    },
+    "50978548f5e9e1e7": {
+      "id": "50978548f5e9e1e7",
+      "title": "More than half of India's AI workers expect layoffs soon, but engineers appear to be the least concerned, finds survey",
+      "link": "https://www.livemint.com/economy/more-than-half-of-indias-ai-workers-expect-layoffs-soon-but-engineers-appear-to-be-the-least-concerned-finds-survey-11786248842916.html",
+      "summary": "A survey of 1,552 professionals reveals that more than half of AI and ML workers foresee layoffs within 3-6 months. In contrast, only 24% of engineers anticipate job cuts, suggesting they feel safer despite AI advancement. Details here.&amp;nbsp;",
+      "pub": "09 Aug 10:54 IST",
+      "pub_dt": "2026-08-09T05:24:51+00:00",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Industrials",
+        "Materials"
+      ],
+      "stocks": [
+        "HAL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Survey showing 50%+ of AI/ML workers expect layoffs contradicts the narrative of engineering job security but reflects sector consolidation. For HAL, this signals potential talent market softening in AI roles but strengthens its core defense/aerospace hiring leverage as engineers feel safer in traditional manufacturing-linked sectors.",
+        "stocks": {
+          "HAL": "neutral"
+        }
+      }
+    },
+    "62083afedb7fd371": {
+      "id": "62083afedb7fd371",
+      "title": "Exxon Links New $80 Billion Kazakh Oil Venture to Feud End",
+      "link": "https://www.livemint.com/companies/exxon-links-new-80-billion-kazakh-oil-venture-to-feud-end-11786312972181.html",
+      "summary": "ExxonMobil Holdings Corp. has told Kazakhstan that a potential $80 billion joint investment to expand the Kashagan oil field is contingent on resolving a long-running $150 billion dispute between the government and international companies, according to people familiar with the matter.",
+      "pub": "10 Aug 03:32 IST",
+      "pub_dt": "2026-08-09T22:02:51+00:00",
+      "sectors": [
+        "Materials"
+      ],
+      "stocks": [
+        "ACC"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Exxon's $80 billion Kazakh oil venture conditionality on resolving a $150 billion dispute signals extended geopolitical/regulatory uncertainty in energy projects. For ACC (cement), this reflects broader global capex caution in large resource-dependent infrastructure; combined with recent luxury real estate moderation, near-term construction demand headwinds likely.",
+        "stocks": {
+          "ACC": "negative"
+        }
+      }
+    },
+    "8c8e95d7a80d050a": {
+      "id": "8c8e95d7a80d050a",
+      "title": "Alta Capital-backed Logicap buys Xander's warehousing assets for  ₹1500 crore",
+      "link": "https://www.livemint.com/companies/news/alta-capital-backed-logicap-buys-xanders-warehousing-assets-for-1500-crore-11786246280099.html",
+      "summary": "Four-year-old Logicap has scaled rapidly through ground-up developments and targeted buyouts in retail and manufacturing hubs. The latest purchases swell its portfolio to roughly 25 million sq. ft.",
+      "pub": "09 Aug 21:00 IST",
+      "pub_dt": "2026-08-09T15:30:24+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Logicap's ₹1,500 crore acquisition of Xander's warehousing assets reflects sector consolidation in logistics/manufacturing infrastructure, a positive structural trend. However, this is a PE-backed buyout and lacks direct earnings impact on tagged auto/IT stocks.",
+        "stocks": {}
+      }
+    },
+    "348eb6f701b36f29": {
+      "id": "348eb6f701b36f29",
+      "title": "Mint Explainer | Why Zee’s lawsuits against Blinkit and Nykaa matter",
+      "link": "https://www.livemint.com/companies/news/zee-copyright-lawsuits-blinkit-nykaa-social-media-marketing-content-11786272767633.html",
+      "summary": "Zee Entertainment’s copyright lawsuits against Blinkit and Nykaa could reshape how brands use songs, memes and other copyrighted content in social media marketing.",
+      "pub": "09 Aug 18:10 IST",
+      "pub_dt": "2026-08-09T12:40:00+00:00",
+      "sectors": [
+        "E-Commerce",
+        "IT"
+      ],
+      "stocks": [
+        "Nykaa"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Zee's copyright lawsuits against Blinkit and Nykaa create operational and legal headwinds for social media marketing spend efficiency. For Nykaa, despite strong Q1 results (226% profit growth), the litigation risk adds compliance costs and restricts low-cost content acquisition strategies that supported margin expansion.",
+        "stocks": {
+          "Nykaa": "negative"
+        }
+      }
+    },
+    "b2ffcd54004883ea": {
+      "id": "b2ffcd54004883ea",
+      "title": "After Warren Buffett exit, Greg Abel starts deploying Berkshire Hathaway’s $365.5 billion cash pile",
+      "link": "https://www.livemint.com/companies/news/after-warren-buffett-exit-greg-abel-starts-deploying-berkshire-hathaway-s-365-5-billion-cash-pile-11786273845002.html",
+      "summary": "Berkshire Hathaway reported that it held $365.5 billion in cash and Treasury bills at the end of June, down considerably from $397.4 billion at the end of March",
+      "pub": "09 Aug 17:43 IST",
+      "pub_dt": "2026-08-09T12:13:04+00:00",
+      "sectors": [
+        "Industrials"
+      ],
+      "stocks": [
+        "BEL"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Berkshire's $365.5 billion cash pile and Greg Abel's deployment strategy is a macro signal of US capital availability and appetite for large acquisitions. For BEL (defense), this reflects global M&A activity but has no direct earnings or competitive impact on Indian defense contractors.",
+        "stocks": {
+          "BEL": "neutral"
+        }
+      }
+    },
+    "27f8aaa60ed24a77": {
+      "id": "27f8aaa60ed24a77",
+      "title": "Gaja Capital ramps up deeptech focus as India’s innovation economy takes shape",
+      "link": "https://www.livemint.com/companies/gaja-capital-deeptech-private-equity-pe-sarvam-ai-artificial-intelligence-11786265615055.html",
+      "summary": "Gaja Capital is stepping up its deeptech focus as India’s innovation ecosystem matures, with AI, intelligent manufacturing, defence and quantum technologies emerging as key areas of interest.",
+      "pub": "09 Aug 17:40 IST",
+      "pub_dt": "2026-08-09T12:10:34+00:00",
+      "sectors": [
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Gaja Capital's deeptech focus expansion—particularly in AI, intelligent manufacturing, defense, and quantum—signals maturing India innovation ecosystem and venture capital confidence. This trend supports long-term growth in IT and industrial tech sectors through startup innovation that can drive productivity and export competitiveness.",
+        "stocks": {}
+      }
+    },
+    "1f55e69332514bd9": {
+      "id": "1f55e69332514bd9",
+      "title": "After  ₹646 crore fraud, IDFC First Bank CEO prioritised accountability",
+      "link": "https://www.livemint.com/companies/news/idfc-first-bank-ceo-flew-to-chandigarh-after-rs-646-crore-fraud-11786258436801.html",
+      "summary": "Chief executive V. Vaidyanathan flew to Chandigarh after the fraud surfaced, assured officials of the bank’s commitment to doing the right thing and moved to tighten controls.",
+      "pub": "09 Aug 17:37 IST",
+      "pub_dt": "2026-08-09T12:07:13+00:00",
+      "sectors": [
+        "Banking",
+        "IT",
+        "Materials"
+      ],
+      "stocks": [
+        "ACC"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "₹646 crore fraud at IDFC First Bank signals severe control failures and reputational damage despite CEO's accountability measures. This directly impacts depositor confidence, regulatory scrutiny, and near-term earnings through potential provisions and compliance costs. However, the stock tagged (ACC) is unrelated to banking and appears to be a data error.",
+        "stocks": {}
+      }
+    },
+    "db94e314b34ef1f8": {
+      "id": "db94e314b34ef1f8",
+      "title": "Bill Ackman’s secret to retaining top talent? Millions in stock and summers in Hamptons",
+      "link": "https://www.livemint.com/companies/news/bill-ackman-s-secret-to-retaining-top-talent-millions-in-stock-and-summers-in-hamptons-11786267795622.html",
+      "summary": "Bill Ackman’s hedge fund Pershing Square, which oversees about $35 billion in assets, provides its roughly four dozen employees with a range of attractive workplace benefits. Read on to know more",
+      "pub": "09 Aug 15:57 IST",
+      "pub_dt": "2026-08-09T10:27:18+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Bill Ackman's talent retention strategy is a US hedge fund operational matter with no direct impact on Indian equity earnings, margins, or growth. This is a sector-level piece on compensation practices with no company-specific or India-specific financial implications.",
+        "stocks": {}
+      }
+    },
+    "77f7bd06dea112b9": {
+      "id": "77f7bd06dea112b9",
+      "title": "Wakefit eyes furniture as top business in three years with jumbo stores",
+      "link": "https://www.livemint.com/companies/news/wakefit-jumbo-stores-furniture-business-growth-fy29-11786097216954.html",
+      "summary": "Wakefit is investing roughly  ₹100 crore in each jumbo store while strengthening its manufacturing, supply chain and installation capabilities to support the format, says co-founder and CEO Ankit Garg.",
+      "pub": "09 Aug 10:26 IST",
+      "pub_dt": "2026-08-09T04:56:41+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Wakefit's ₹100 crore per jumbo store capex and push to make furniture the top business within three years signals aggressive growth ambitions and margin expansion through higher-value furniture segments. This represents a strategic pivot toward a more profitable product mix and scale, supporting long-term revenue and EBITDA growth.",
+        "stocks": {}
+      }
+    },
+    "16aad8c7dab9ee27": {
+      "id": "16aad8c7dab9ee27",
+      "title": "L&amp;T Innovation Fund to step up deeptech bets in India",
+      "link": "https://www.livemint.com/companies/news/lt-innovation-fund-india-deeptech-startups-global-funds-11786096568665.html",
+      "summary": "L&amp;amp;T Innovation Fund's interest in Indian deeptech comes as investor appetite for Indian deeptech has strengthened amid government efforts to promote indigenous technologies",
+      "pub": "09 Aug 06:24 IST",
+      "pub_dt": "2026-08-09T00:54:52+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "L&T Innovation Fund's deeptech investment focus reflects sector tailwinds and government support for indigenous tech, but is a venture/fund-level allocation decision rather than a near-term impact on L&T's core operations, earnings, or margins. This is strategic positioning without immediate P&L implications.",
+        "stocks": {}
+      }
+    },
+    "bd337578af583789": {
+      "id": "bd337578af583789",
+      "title": "Puerto Rico Watchdog May Halt Power Deal Over Irregularities",
+      "link": "https://www.livemint.com/companies/puerto-rico-watchdog-may-halt-power-deal-over-irregularities-11786231300943.html",
+      "summary": "Puerto Rico’s federally appointed financial regulator said it may revoke a 400-megawatt emergency power contract valued at as much as $5.9 billion over 10 years after a purported bidder said its company’s name and signature were used without authorization.",
+      "pub": "09 Aug 04:51 IST",
+      "pub_dt": "2026-08-08T23:21:40+00:00",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "HAL",
+        "L&T"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Puerto Rico's potential revocation of a $5.9 billion, 400-megawatt power contract over signature/authorization irregularities creates execution risk and revenue uncertainty for any Indian infrastructure/power contractor involved. If HAL or L&T secured contracts tied to this deal, it signals compliance/contract cancellation risk and direct earnings impact.",
+        "stocks": {
+          "HAL": "negative",
+          "L&T": "negative"
+        }
+      }
     }
   }
 }
