@@ -110550,6 +110550,705 @@
         "reasoning": "ADNOC Gas (UAE-based) profit decline of 52% year-over-year is a negative fundamental result, but the company beat its own guidance suggesting operational management met expectations. No Indian equities are tagged for this international energy sector news.",
         "stocks": {}
       }
+    },
+    "f629bbcbfd8b2518": {
+      "id": "f629bbcbfd8b2518",
+      "title": "Titan's Q1 dials up street optimism",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/titans-q1-dials-up-street-optimism/articleshow/133140122.cms",
+      "summary": "Titan shares surged, topping Nifty gains after stellar June-quarter earnings surpassed expectations. This positive performance has prompted multiple brokerages to revise their price targets upwards, signaling strong investor confidence. With a predominantly bullish outlook from analysts, Titan's stock appears poised for further appreciation.",
+      "pub": "11 Aug 07:05 IST",
+      "pub_dt": "2026-08-11T01:35:27+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Titan's stellar Q1 earnings beat expectations with multiple brokerage price target upgrades, indicating strong revenue growth and margin performance. Bullish analyst sentiment signals sustained earnings momentum and valuation expansion potential.",
+        "stocks": {}
+      }
+    },
+    "3ddbcf4f62caf436": {
+      "id": "3ddbcf4f62caf436",
+      "title": "Rupee falls 11 paise on firm dollar, costlier crude",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/rupee-falls-11-paise-on-firm-dollar-costlier-crude/articleshow/133139976.cms",
+      "summary": "The Indian rupee weakened by 11 paise against the US dollar, closing at ₹95.28. A firming dollar, driven by rising global crude oil prices and ongoing West Asia tensions, pressured the rupee. While RBI intervention offered some support, the market remains watchful of geopolitical uncertainties impacting currency movements.",
+      "pub": "11 Aug 06:19 IST",
+      "pub_dt": "2026-08-11T00:49:30+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Rupee depreciation to ₹95.28 directly pressures IT sector earnings by reducing USD-denominated revenue when converted to INR. Rising crude oil prices and geopolitical tensions create additional macro headwinds for export-dependent sectors.",
+        "stocks": {}
+      }
+    },
+    "69590cce21c75507": {
+      "id": "69590cce21c75507",
+      "title": "BSE to replace Wipro in Nifty 50 index",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bse-to-replace-wipro-in-nifty-50-index/articleshow/133139912.cms",
+      "summary": "In a notable change effective September 30, BSE shares will enter the Nifty 50 index, taking over Wipro's longstanding position since January 2002. This decision comes on the heels of BSE's impressive growth this year, while Wipro's market performance has waned. The adjustments by NSE aim to enhance broader representation across the market indices.",
+      "pub": "11 Aug 06:12 IST",
+      "pub_dt": "2026-08-11T00:42:11+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [
+        "Wipro"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Wipro's replacement in Nifty 50 by BSE represents a structural downgrade in visibility and index tracking demand, following recent Meta engagement cuts (25% reduction = $25M revenue loss). This continuation of negative momentum reflects weakening competitive position and earnings pressure.",
+        "stocks": {
+          "Wipro": "negative"
+        }
+      }
+    },
+    "96683ddf820587a6": {
+      "id": "96683ddf820587a6",
+      "title": "Stocks in news: Wipro, BSE, Vodafone Idea, Hyundai India and Airtel",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-wipro-bse-vodafone-idea-hyundai-india-and-airtel/articleshow/133122847.cms",
+      "summary": "The markets experienced fluctuations as they weighed the prospects of interest rates against concerns over oil prices and geopolitical issues. In notable changes, Wipro will exit the Nifty index, making way for BSE Ltd's entry. Vodafone Idea reported a reduction in first-quarter losses, while Bharti Airtel formed a partnership to enhance digital offerings.",
+      "pub": "11 Aug 06:00 IST",
+      "pub_dt": "2026-08-11T00:30:00+00:00",
+      "sectors": [
+        "Banking",
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [
+        "Bharti Airtel",
+        "Vodafone Idea",
+        "Wipro"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Wipro faces structural headwinds from index exit and AI-driven revenue reduction (Meta cut), directly impacting earnings. Vodafone Idea showed loss reduction and first subscriber gain since 2018, signaling stabilization but ongoing profitability pressures requiring tariff hikes. Bharti Airtel partnership strengthens digital offerings but prior strategic pullback from FWA signals margin pressures.",
+        "stocks": {
+          "Wipro": "negative",
+          "Vodafone Idea": "mixed",
+          "Bharti Airtel": "neutral"
+        }
+      }
+    },
+    "286e3cc8f46803da": {
+      "id": "286e3cc8f46803da",
+      "title": "D-Street poised for a cautious opening as GIFT Nifty signals muted start",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/133120181.cms",
+      "summary": "Opening the week on a cautious note, domestic equities saw the Nifty making slight gains, bolstered by targeted stock purchases as Q1 earnings unfold. This week is expected to carry a positive market trajectory, propelled by earnings trends and sector performance. Investors will keep a keen eye on the durability of earnings recovery and global happenings, particularly the US-Iran dialogues.",
+      "pub": "11 Aug 06:00 IST",
+      "pub_dt": "2026-08-11T00:30:00+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Muted opening and cautious market sentiment amid Q1 earnings season reflects balanced risk-reward. Positive earnings trends offset concerns about oil prices and geopolitical tensions. Lack of specific stock impact makes sector-level assessment neutral despite potential earnings surprises.",
+        "stocks": {}
+      }
+    },
+    "d58fb342dc107368": {
+      "id": "d58fb342dc107368",
+      "title": "Q1 Earnings Scorecard: Strong demand drives revenue, input costs hit profits",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/q1-earnings-scorecard-strong-demand-drives-revenue-input-costs-hit-profits/articleshow/133139903.cms",
+      "summary": "Sustained market demand led to impressive revenue growth in the automotive and consumer goods sectors. In contrast, while the banking sector showed better asset quality, profitability struggled due to margin challenges. Cement companies effectively preserved their margins through strategic cost management amidst rising operational costs. Overall, various sectors experienced notable revenue uplifts",
+      "pub": "11 Aug 05:55 IST",
+      "pub_dt": "2026-08-11T00:25:18+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT",
+        "Industrials",
+        "Materials"
+      ],
+      "stocks": [
+        "HAL",
+        "UPL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Strong automotive and consumer goods revenue growth is positive for demand, but input cost pressures and margin challenges in banking sector create mixed earnings outlook. HAL's Su-30MKI production revival supports defense capex cycle. UPL benefits from cement sector margin preservation but faces broader input cost inflation headwinds.",
+        "stocks": {
+          "HAL": "positive",
+          "UPL": "neutral"
+        }
+      }
+    },
+    "c98e282ae9377cd3": {
+      "id": "c98e282ae9377cd3",
+      "title": "Brokerages raise SBI target price after Q1 earnings beat",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/brokerages-raise-sbi-target-price-after-q1-earnings-beat/articleshow/133139843.cms",
+      "summary": "State Bank of India shares faced a 2.2 percent decline on Monday, despite surpassing analysts' expectations for their June-quarter earnings. Most brokerages expressed continued optimism for the lender, with several firms increasing their target prices while maintaining a positive outlook. The consensus 12-month target price indicates a considerable potential upside from Monday's closing figures.",
+      "pub": "11 Aug 05:38 IST",
+      "pub_dt": "2026-08-11T00:08:35+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT"
+      ],
+      "stocks": [
+        "SBI"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "SBI's strong Q1 beat with 10% profit growth, 15% NII expansion and improved asset quality demonstrates solid fundamentals supporting brokerage PT upgrades. However, 2.2% share decline despite earnings beat suggests profit-taking and market skepticism on valuation, creating mixed near-term price action despite positive earnings trajectory.",
+        "stocks": {
+          "SBI": "mixed"
+        }
+      }
+    },
+    "6fdf49c1ddc7f385": {
+      "id": "6fdf49c1ddc7f385",
+      "title": "Indian equities could hit new highs next year: Aditya Birla MF",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-equities-could-hit-new-highs-next-year-aditya-birla-mf/articleshow/133139818.cms",
+      "summary": "Aditya Birla Sun Life Mutual Fund is optimistic about Indian equities potentially hitting new peaks shortly. This positive outlook is bolstered by robust earnings growth and a stable rupee which are likely to propel market gains. Taking into account the current elevated valuations, a methodical approach to stock selection is vital.",
+      "pub": "11 Aug 05:31 IST",
+      "pub_dt": "2026-08-11T00:01:13+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT",
+        "Materials"
+      ],
+      "stocks": [
+        "ACC"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Aditya Birla MF's optimistic outlook on Indian equities hitting new highs is supported by robust earnings growth and stable rupee, creating favorable backdrop for valuation expansion. Strong fiscal discipline attracting FDI and India-SACU trade pact expansion improve growth prospects. ACC benefits from cement sector margin preservation and trade deal tailwinds, though elevated valuations warrant stock selection discipline.",
+        "stocks": {
+          "ACC": "positive"
+        }
+      }
+    },
+    "73af8c4227e37cd7": {
+      "id": "73af8c4227e37cd7",
+      "title": "India is scanning more and withdrawing less as digital payments take over",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/india-is-scanning-more-and-withdrawing-less-as-digital-payments-take-over/articleshow/133139943.cms",
+      "summary": "India’s payments network is shifting towards software-based channels, with UPI QR codes and online card transactions growing while ATMs and other hardware-based infrastructure stagnate or decline. UPI QR codes rose 16.9% year-on-year to 792.6 million in June.",
+      "pub": "11 Aug 00:54 IST",
+      "pub_dt": "2026-08-10T19:24:29+00:00",
+      "sectors": [
+        "E-Commerce",
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Shift to digital payments (UPI QR codes +16.9% YoY) benefits fintech and payment infrastructure companies through higher transaction volumes and reduced hardware costs. This secular trend supports earnings growth for digital payment processors and reduces capital intensity for traditional banking infrastructure.",
+        "stocks": {}
+      }
+    },
+    "43eeb7cd464824ba": {
+      "id": "43eeb7cd464824ba",
+      "title": "NBFCs outpace banks in June as cards lose some credit",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nbfcs-outpace-banks-in-june-as-cards-lose-some-credit/articleshow/133139938.cms",
+      "summary": "NBFCs outpaced banks in retail lending growth in June, with loans rising over 20% year-on-year compared with 16% for banks. Growth was driven by jewellery and consumer durable loans as banks remained cautious in unsecured and low-ticket lending segments.",
+      "pub": "11 Aug 00:45 IST",
+      "pub_dt": "2026-08-10T19:15:56+00:00",
+      "sectors": [
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "NBFCs outpacing banks (20%+ vs 16% growth) is positive for NBFC earnings expansion, but banks' caution in unsecured lending suggests margin compression and credit quality concerns. The shift indicates competitive pressure on banks in high-margin segments, offsetting some of the sector's growth tailwinds.",
+        "stocks": {}
+      }
+    },
+    "c68b00eb18d4cda7": {
+      "id": "c68b00eb18d4cda7",
+      "title": "Shriram Finance maintains higher highs, trades above key moving averages: Ajit Mishra",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/shriram-finance-maintains-higher-highs-trades-above-key-moving-averages-ajit-mishra/videoshow/133106590.cms",
+      "summary": "",
+      "pub": "11 Aug 07:00 IST",
+      "pub_dt": "2026-08-11T01:30:00+00:00",
+      "sectors": [
+        "Banking",
+        "IT"
+      ],
+      "stocks": [
+        "Shriram Finance"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Shriram Finance trading above key moving averages with sustained higher highs indicates positive technical momentum and investor confidence. Recent history shows participation in strong external borrowing trends ($6B+ in June) and broad market gains, supporting valuation expansion and continued operational strength.",
+        "stocks": {
+          "Shriram Finance": "positive"
+        }
+      }
+    },
+    "fd8459c0240c381b": {
+      "id": "fd8459c0240c381b",
+      "title": "Global Market Today: Asian shares trade lower;  oil holds gains",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-shares-trade-lower-oil-holds-gains/articleshow/133140042.cms",
+      "summary": "Oil prices managed to retain their gains as optimism regarding a deal in the Strait of Hormuz dissipated, sparking renewed fears of inflation. Treasury yields increased, and the yen weakened, undoing some of its recent recovery. Asian stocks and futures suffered slight declines, while Australian bonds dropped before an impending policy decision.",
+      "pub": "11 Aug 06:38 IST",
+      "pub_dt": "2026-08-11T01:08:13+00:00",
+      "sectors": [
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Asian market weakness, rising Treasury yields, and oil-driven inflation fears create headwinds for Indian IT/Telecom sectors through potential FX headwinds and demand softness. Rising yields also increase cost of capital for growth-oriented companies, pressuring valuations.",
+        "stocks": {}
+      }
+    },
+    "964d82b813a39984": {
+      "id": "964d82b813a39984",
+      "title": "Delhi Airport plans Rs 3,500 cr bond sale for debt recast",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/delhi-airport-plans-rs-3500-cr-bond-sale-for-debt-recast/articleshow/133140025.cms",
+      "summary": "Delhi International Airport (DIAL) is embarking on a financial strategy by issuing bonds worth ₹3,550 crore over a 15-year duration, with the primary goal of refinancing existing dollar debt. This initiative is designed to secure long-term funding in rupees while providing greater repayment flexibility. Anticipated to yield a coupon rate near 9.",
+      "pub": "11 Aug 06:37 IST",
+      "pub_dt": "2026-08-11T01:07:06+00:00",
+      "sectors": [
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Delhi Airport's ₹3,550 crore bond issuance for debt refinancing is operationally neutral—it reduces financial leverage and improves repayment flexibility but doesn't directly impact earnings or growth. The transaction is a financial engineering move, not a business improvement.",
+        "stocks": {}
+      }
+    },
+    "83cbd8d0d20f73de": {
+      "id": "83cbd8d0d20f73de",
+      "title": "IPO Rush: 34 companies race to launch issues worth Rs 45,000 crore by September 30",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-rush-34-companies-race-to-launch-issues-worth-rs-45000-crore-by-september-30/articleshow/133139967.cms",
+      "summary": "As September 30 approaches, thirty-four companies are hustling to roll out their initial public offerings to bypass further regulatory hurdles. The goal is to raise around ₹45,000 crore from these offerings. Bankers remain hopeful amidst the market's unpredictable nature and tight timeframe. Additionally, numerous other companies are planning their entries into the public offering landscape in the",
+      "pub": "11 Aug 06:28 IST",
+      "pub_dt": "2026-08-11T00:58:21+00:00",
+      "sectors": [
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "IPO rush of ₹45,000 crore capital raises is positive for banking/advisory fees and demonstrates strong investor appetite, but high supply could pressure valuations and increase dilution for existing public investors. Market timing pressures may force suboptimal pricing for issuers.",
+        "stocks": {}
+      }
+    },
+    "1e27ab6a2a0b091b": {
+      "id": "1e27ab6a2a0b091b",
+      "title": "Bhagwati Products may delay IPO by up to 3 quarters",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/bhagwati-products-may-delay-ipo-by-up-to-3-quarters/articleshow/133139996.cms",
+      "summary": "Bhagwati Products may delay its initial public offering by several quarters. Volatility in memory chip prices hinders production forecasts for electronics manufacturers. The company awaits details of the government's second production-linked incentive scheme. This delay impacts investment plans and capital requirements for the firm. Bhagwati Products is a joint venture between Micromax Informatics",
+      "pub": "11 Aug 06:26 IST",
+      "pub_dt": "2026-08-11T00:56:44+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Bhagwati Products' potential 3-quarter IPO delay reflects deteriorating market conditions and commodity price volatility in semiconductors impacting visibility and capital planning. Delays signal reduced confidence in growth forecasts and may indicate structural headwinds in electronics manufacturing.",
+        "stocks": {}
+      }
+    },
+    "1a7088aa5226d473": {
+      "id": "1a7088aa5226d473",
+      "title": "Can Milky Mist IPO deliver long-term growth for high-risk investors?",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/can-milky-mist-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/133139952.cms",
+      "summary": "Milky Mist Dairy Food plans a significant initial public offering to fund capital expenditure and reduce debt. The company seeks to raise ₹1,428 crore through a fresh issue and ₹125 crore via an offer for sale. Revenue growth has been strong, and profit margins exceed those of industry peers. The dairy producer holds a leading position in the organized paneer and cheese markets.",
+      "pub": "11 Aug 06:08 IST",
+      "pub_dt": "2026-08-11T00:38:15+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Milky Mist's strong revenue growth, above-peer profit margins, and leadership in organized dairy segments (paneer/cheese) support IPO valuation and post-listing performance. Capital raise for debt reduction and capex improves financial structure for a market leader with pricing power in essential consumer goods.",
+        "stocks": {}
+      }
+    },
+    "2cb305bb56b1b67c": {
+      "id": "2cb305bb56b1b67c",
+      "title": "Iran accuses US of being 'addicted' to sanctions",
+      "link": "https://economictimes.indiatimes.com/news/defence/compulsive-addiction-to-sanctions-iran-accuses-us-of-being-incapable-of-pursuing-diplomacy/articleshow/133140158.cms",
+      "summary": "",
+      "pub": "11 Aug 07:11 IST",
+      "pub_dt": "2026-08-11T01:41:25+00:00",
+      "sectors": [
+        "Materials"
+      ],
+      "stocks": [
+        "ACC"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Iran-US sanctions rhetoric has no direct earnings impact on ACC (cement/materials). While geopolitical tensions can affect commodity prices and export competitiveness, recent history shows ACC benefits from trade pact expansions (India-SACU, Indonesia-India) which are more material drivers. This is a macro-level geopolitical statement without concrete policy changes.",
+        "stocks": {
+          "ACC": "neutral"
+        }
+      }
+    },
+    "b74461d41ec86997": {
+      "id": "b74461d41ec86997",
+      "title": "Trump’s ex-lawyer Blanche sworn in as AG",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/todd-blanche-trumps-former-personal-lawyer-sworn-in-as-attorney-general-after-bruising-confirmation-fight/articleshow/133140104.cms",
+      "summary": "",
+      "pub": "11 Aug 06:55 IST",
+      "pub_dt": "2026-08-11T01:25:22+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Trump's ex-lawyer Blanche's swearing-in as AG is a US political event with no direct impact on Indian equity earnings, valuations, or regulatory environment. Without tagged stocks or sector specificity, this is purely a headline event.",
+        "stocks": {}
+      }
+    },
+    "7ad1275907d5d3e0": {
+      "id": "7ad1275907d5d3e0",
+      "title": "Cockroaches shut Blinkit facility in Mumbai",
+      "link": "https://economictimes.indiatimes.com/news/india/fda-finds-roach-infestation-at-blinkit-store-reliance-retail-outlet-under-lens-over-worms-in-sweet/articleshow/133120646.cms",
+      "summary": "",
+      "pub": "10 Aug 22:17 IST",
+      "pub_dt": "2026-08-10T16:47:48+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Cockroach contamination at Blinkit's Mumbai facility is an operational/hygiene issue but lacks direct earnings impact or forward guidance implications. Quick-commerce sector continues to scale; this is an isolated operational incident. No tagged stocks provided.",
+        "stocks": {}
+      }
+    },
+    "e9e54a4dec0998d6": {
+      "id": "e9e54a4dec0998d6",
+      "title": "US court dismisses criminal case against Adani",
+      "link": "https://economictimes.indiatimes.com/news/company/corporate-trends/us-judge-dismisses-criminal-case-against-billionaire-gautam-adani/articleshow/133133256.cms",
+      "summary": "",
+      "pub": "11 Aug 01:02 IST",
+      "pub_dt": "2026-08-10T19:32:35+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "US court dismissal of criminal charges against Adani removes a significant overhang and reputational risk. This reduces legal/regulatory uncertainty that had pressured valuations. However, no stocks are tagged in this item, so impact cannot be quantified to specific equities.",
+        "stocks": {}
+      }
+    },
+    "72ddb28f223c25ec": {
+      "id": "72ddb28f223c25ec",
+      "title": "India flips China’s renaming game in Arunachal",
+      "link": "https://economictimes.indiatimes.com/news/india/china-declares-indias-naming-of-27-arunachal-places-illegal-and-null-amid-ongoing-territorial-dispute/articleshow/133125759.cms",
+      "summary": "",
+      "pub": "10 Aug 23:20 IST",
+      "pub_dt": "2026-08-10T17:50:56+00:00",
+      "sectors": [
+        "Industrials"
+      ],
+      "stocks": [
+        "HAL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "India's geopolitical assertion in Arunachal Pradesh (flipping China's renaming) supports nationalist sentiment and defense spending narratives. HAL directly benefits from increased defense procurement demand (recent Su-30MKI production revival at Nashik signals sustained orders). This validates HAL's FY27 earnings trajectory and capex cycle.",
+        "stocks": {
+          "HAL": "positive"
+        }
+      }
+    },
+    "65e2ea4c97070065": {
+      "id": "65e2ea4c97070065",
+      "title": "Q-commerce on a festive hiring spree",
+      "link": "https://economictimes.indiatimes.com/industry/services/retail/festive-rush-quick-commerce-firms-to-hire-35-40-more-temp-workers-demand-surges-for-tech-savvy-talent/articleshow/133131179.cms",
+      "summary": "",
+      "pub": "11 Aug 05:30 IST",
+      "pub_dt": "2026-08-11T00:00:00+00:00",
+      "sectors": [
+        "E-Commerce"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Q-commerce festive hiring spree is a sector-level growth indicator reflecting strong seasonal demand, but lacks company-specific earnings visibility or margin impact. This is a hiring/headcount story without profitability linkage. No tagged stocks provided.",
+        "stocks": {}
+      }
+    },
+    "c2ef2d0133fc4574": {
+      "id": "c2ef2d0133fc4574",
+      "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 11 August",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-11-august-11786411998562.html",
+      "summary": "The Gift Nifty trends also indicated a negative start for the Indian benchmark index. The Gift Nifty was trading at around 24,616.5, a 43.2-point discount to the Nifty futures’ previous close. On Monday, the Indian stock market ended flat, with the benchmark Nifty 50 closing below 24,600.",
+      "pub": "11 Aug 07:31 IST",
+      "pub_dt": "2026-08-11T02:01:02+00:00",
+      "sectors": [
+        "Autos",
+        "Industrials"
+      ],
+      "stocks": [
+        "BEL"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Gift Nifty trading at 24,616.5 (43.2-point discount to previous close) and Nifty closing below 24,600 signals near-term downside momentum and technical weakness. BEL is already below its 200-DMA (crossed on Aug 5), suggesting continued downtrend. The negative Gift Nifty cue contradicts recent bullish calls and indicates profit-booking headwinds.",
+        "stocks": {
+          "BEL": "negative"
+        }
+      }
+    },
+    "fbb220a4aefe0d40": {
+      "id": "fbb220a4aefe0d40",
+      "title": "Crude oil price rallies for fourth session amid US-Iran war uncertainty; Brent near $87 per barrel",
+      "link": "https://www.livemint.com/market/commodities/crude-oil-price-rallies-for-fourth-session-amid-us-iran-war-uncertainty-brent-near-87-per-barrel-11786412625313.html",
+      "summary": "US-Iran war: Brent crude futures were little changed at $87.81 a barrel, while US West Texas Intermediate (WTI) crude futures remained at $82.20 a barrel.",
+      "pub": "11 Aug 07:23 IST",
+      "pub_dt": "2026-08-11T01:53:21+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Brent crude rallying to $87/barrel on US-Iran war uncertainty creates a dual impact: (1) positive for energy-heavy capital-intensive sectors (defense, industrials) via lower input costs if passed through, (2) negative for oil importers and inflation-sensitive consumer demand. Geopolitical premium is speculative; actual supply disruption impact unclear. No tagged stocks to assess specific exposure.",
+        "stocks": {}
+      }
+    },
+    "b9ca12d9c4c102b1": {
+      "id": "b9ca12d9c4c102b1",
+      "title": "From Gift Nifty to Oil prices, Asian banking stocks rally: 8 key things that changed for Indian stock market overnight",
+      "link": "https://www.livemint.com/market/stock-market-news/from-gift-nifty-to-crude-oil-prices-asian-banking-stocks-8-key-things-that-changed-for-indian-stock-market-overnight-11786410558811.html",
+      "summary": "Gift Nifty was trading around the 24,621.50 level, a discount of nearly 10 points from the Nifty futures’ previous close, indicating a flat start for the Indian stock market indices.",
+      "pub": "11 Aug 07:10 IST",
+      "pub_dt": "2026-08-11T01:40:21+00:00",
+      "sectors": [
+        "Autos",
+        "Banking"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Gift Nifty trading flat with minimal discount suggests market opening neutral; no specific catalysts or earnings impacts mentioned. This is a market-level observation rather than a fundamental shift.",
+        "stocks": {}
+      }
+    },
+    "ad14f98fbeecd4a2": {
+      "id": "ad14f98fbeecd4a2",
+      "title": "AI spending boom isn’t boosting profit margins—at least not yet",
+      "link": "https://www.livemint.com/market/stock-market-news/ai-spending-boom-isn-t-boosting-profit-margins-at-least-not-yet-11786410976923.html",
+      "summary": "Economist Torsten Sløk points out that the AI capex boom is lifting profit margins for the Mag Seven, but not other companies.",
+      "pub": "11 Aug 06:50 IST",
+      "pub_dt": "2026-08-11T01:20:16+00:00",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "AI capex boom benefiting Mag Seven profit margins is positive for IT/tech stocks, but non-Mag Seven companies face margin pressure from similar capex without proportional returns. Indian IT sector exposure mixed depending on competitive positioning.",
+        "stocks": {}
+      }
+    },
+    "6a2f3752121dac10": {
+      "id": "6a2f3752121dac10",
+      "title": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 11 August 2026",
+      "link": "https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-11-august-2026-11786409158221.html",
+      "summary": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five breakout stocks to buy today — Suven Life Sciences, Poly Medicure, Raghav Productivity Enhancers, Steel Strips Wheels, and Brigade Enterprises.",
+      "pub": "11 Aug 06:34 IST",
+      "pub_dt": "2026-08-11T01:04:25+00:00",
+      "sectors": [
+        "Materials"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Analyst recommendations lack quantitative justification or forward guidance; breakout recommendations are tactical trading calls without fundamental earnings/margin implications. Requires deeper analysis of individual company fundamentals.",
+        "stocks": {}
+      }
+    },
+    "1d8fb211e8306a66": {
+      "id": "1d8fb211e8306a66",
+      "title": "Gold Climbs Above $4,400 as Traders Turn Focus to US Inflation",
+      "link": "https://www.livemint.com/market/gold-climbs-above-4-400-as-traders-turn-focus-to-us-inflation-11786410162796.html",
+      "summary": "Gold advanced to a two-month high above $4,400 an ounce ahead of a key US inflation report that could provide fresh clues to the Federal Reserve’s appetite for an interest-rate hike.",
+      "pub": "11 Aug 06:32 IST",
+      "pub_dt": "2026-08-11T01:02:42+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Gold price movements are macro-driven by USD/inflation expectations; while positive for gold miners, no Indian stocks are tagged. Impact is indirect and sentiment-driven rather than earnings-accretive.",
+        "stocks": {}
+      }
+    },
+    "5996341bb15398f0": {
+      "id": "5996341bb15398f0",
+      "title": "Stock recommendations for 11 August from MarketSmith India",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-11-august-from-marketsmith-india-11786365857463.html",
+      "summary": "MarketSmith India reveals its top stock recommendations for today, 11 August. Get expert insights into the best-performing stocks to guide your investment decisions.",
+      "pub": "11 Aug 06:01 IST",
+      "pub_dt": "2026-08-11T00:31:12+00:00",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Generic stock recommendations without specifics or fundamental triggers. Tactical guidance alone does not indicate material earnings or valuation changes.",
+        "stocks": {}
+      }
+    },
+    "9e53674e88c57174": {
+      "id": "9e53674e88c57174",
+      "title": "SAT backlog hits six-year high as old cases pile up",
+      "link": "https://www.livemint.com/market/sat-cases-old-cases-sat-sebi-indian-markets-cases-in-tribunals-11786340926629.html",
+      "summary": "The Securities Appellate Tribunal’s current workload is being driven less by new filings than by cases carried forward from previous years. At the same time, disposals have slowed.",
+      "pub": "11 Aug 06:01 IST",
+      "pub_dt": "2026-08-11T00:31:12+00:00",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "SAT backlog hitting six-year highs with slowing disposals increases regulatory uncertainty and delays for listed companies. Extended appeal timelines create headwinds for businesses facing regulatory actions, impacting investor confidence.",
+        "stocks": {}
+      }
+    },
+    "be92c2305a879fc2": {
+      "id": "be92c2305a879fc2",
+      "title": "Sify Infinit eyes $4 bn fundraise for data centre growth, plan for IPO holds",
+      "link": "https://www.livemint.com/companies/news/sify-infinit-4-bn-fundraise-data-centre-ipo-debt-11786368517718.html",
+      "summary": "The firm plans to fund a 10-20% expansion in data centre capacity through internal cash flows, before tapping debt, listing the subsidiary and follow-on institutional offerings for further growth.",
+      "pub": "11 Aug 06:29 IST",
+      "pub_dt": "2026-08-11T00:59:52+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Sify Infinit's planned 10-20% data centre capacity expansion with phased funding (internal cash flows → debt → listing) signals growth confidence and operational cash generation. Data centre sector tailwinds from AI/cloud demand should support earnings growth.",
+        "stocks": {}
+      }
+    },
+    "600e5feb6ed6bdd2": {
+      "id": "600e5feb6ed6bdd2",
+      "title": "TVS’s Norton sees top-level exit ahead of expansion drive",
+      "link": "https://www.livemint.com/companies/news/tvss-norton-sees-top-level-exit-ahead-of-expansion-drive-11786355387166.html",
+      "summary": "Nevijo Mance, who oversaw Norton’s product and operational functions, has exited as the British premium motorcycle brand prepares to enter India and other key markets.",
+      "pub": "11 Aug 06:00 IST",
+      "pub_dt": "2026-08-11T00:30:12+00:00",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Norton's top-level exit amid expansion is a red flag for execution risk in India entry strategy, offsetting the positive growth narrative. Leadership change creates near-term uncertainty despite long-term market opportunity.",
+        "stocks": {}
+      }
+    },
+    "457ca6ea2f861c5a": {
+      "id": "457ca6ea2f861c5a",
+      "title": "'Faith in truth and fairness unwavering': Gautam Adani reacts to US court dropping criminal charges",
+      "link": "https://www.livemint.com/companies/people/faith-in-truth-and-fairness-unwavering-gautam-adani-reacts-to-us-court-dropping-criminal-charges-11786407477139.html",
+      "summary": "On Monday, Brooklyn-based US District Judge Nicholas Garaufis approved a request made by US federal prosecutors to dismiss the case.",
+      "pub": "11 Aug 05:59 IST",
+      "pub_dt": "2026-08-11T00:29:26+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Dismissal of criminal charges removes significant overhang and reputational risk that had weighed on Adani Group's valuations and financing costs. This should reduce risk premium on group companies and improve investor sentiment, though earnings impact is indirect.",
+        "stocks": {}
+      }
+    },
+    "01b8752dd5790def": {
+      "id": "01b8752dd5790def",
+      "title": "Adani’s new cash cow: A private infra firm buying into group peers",
+      "link": "https://www.livemint.com/news/adanis-new-cash-cow-a-private-infra-firm-buying-into-group-peers-11786261897353.html",
+      "summary": "Adani Group’s infrastructure spending boom has turned privately-held Adani Infra into a massive cash generator. The company's growing investments in the group’s listed firms show how wealth created within the conglomerate is being spent across its businesses.",
+      "pub": "11 Aug 05:45 IST",
+      "pub_dt": "2026-08-11T00:15:51+00:00",
+      "sectors": [
+        "Industrials"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Adani Infra's role as a cash generator deploying capital into listed group peers suggests efficient capital allocation and potential for value creation through equity investments. This indicates strong underlying cash generation and strategic flexibility for the conglomerate.",
+        "stocks": {}
+      }
+    },
+    "b5a1f7996de1da9f": {
+      "id": "b5a1f7996de1da9f",
+      "title": "I Squared-backed Lightstorm raises  ₹2,500 crore debt from IndusInd Bank",
+      "link": "https://www.livemint.com/companies/i-squared-lightstorm-telecom-debt-data-centre-connectivity-11786290634032.html",
+      "summary": "Lightstorm will deploy the capital to construct network infrastructure across India's southern corridor and expand its I-2SEA subsea cable system to Southeast Asia, Japan, and the US.",
+      "pub": "11 Aug 05:45 IST",
+      "pub_dt": "2026-08-11T00:15:31+00:00",
+      "sectors": [
+        "Banking",
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "IndusInd Bank"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "₹2,500 crore debt raise by Lightstorm demonstrates IndusInd Bank's confidence in infrastructure financing and deepens its relationship with a growing telecom/data infrastructure player. This expands the bank's high-yielding infrastructure lending portfolio and establishes a long-term revenue stream.",
+        "stocks": {
+          "IndusInd Bank": "positive"
+        }
+      }
     }
   }
 }
