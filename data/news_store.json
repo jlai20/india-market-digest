@@ -128683,6 +128683,56 @@
         "reasoning": "Aditya Birla Group's brand royalty levy of 0.25% on standalone revenue (capped ₹225 crore, effective June 2026) creates a new cash outflow for group companies, directly compressing net margins and earnings. ₹1,000 crore annual benefit accrues only to the promoter entity, not listed subsidiaries.",
         "stocks": {}
       }
+    },
+    "81427eb995ef845f": {
+      "id": "81427eb995ef845f",
+      "title": "Tata Sons AGM in doubt over quorum issue",
+      "link": "https://economictimes.indiatimes.com/news/company/corporate-trends/tata-sons-tuesday-agm-faces-uncertainty-as-sdtt-flags-lack-of-quorum/articleshow/133249914.cms",
+      "summary": "",
+      "pub": "15 Aug 05:30 IST",
+      "pub_dt": "2026-08-15T00:00:00+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Quorum issues at AGM are procedural/governance concerns that may delay decisions but don't directly impact near-term earnings or operations. Resolution depends on whether critical approvals are pending.",
+        "stocks": {}
+      }
+    },
+    "91b70c8a3ce13b79": {
+      "id": "91b70c8a3ce13b79",
+      "title": "Singapore Stocks’ Record Run Gets ‘Goldilocks’ Boost From Growth",
+      "link": "https://www.livemint.com/market/singapore-stocks-record-run-gets-goldilocks-boost-from-growth-11786753879545.html",
+      "summary": "Singapore’s stocks have outperformed the world over the past month as their traditional strengths of high dividend yields and resilient balance sheets get a lift from a “Goldilocks” economic backdrop.",
+      "pub": "15 Aug 06:01 IST",
+      "pub_dt": "2026-08-15T00:31:19+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Singapore market outperformance is a regional macro observation with no direct impact on Indian equity fundamentals. Relevant only for India-exposed Singapore-listed companies, which are not specified.",
+        "stocks": {}
+      }
+    },
+    "05fb77f1a3e02781": {
+      "id": "05fb77f1a3e02781",
+      "title": "The week in charts: Price pressures, youth unemployment, chairman exit",
+      "link": "https://www.livemint.com/economy/india-inflation-cpi-rbi-natarajan-chandrasekaran-tata-sons-youth-unemployment-fuel-demand-school-enrolment-11786608180840.html",
+      "summary": "In this weekly Plain Facts compilation, we present to you data-based insights, with easy-to-read charts, to help you delve deeper into the stories reported by Mint in the week gone by.",
+      "pub": "15 Aug 06:31 IST",
+      "pub_dt": "2026-08-15T01:01:05+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "A data compilation article covering multiple macro themes (inflation, employment, leadership changes) without specific stock analysis. IT sector price pressures and youth unemployment are sectoral headwinds but lack actionable stock-level insights.",
+        "stocks": {}
+      }
     }
   }
 }
