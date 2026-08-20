@@ -143304,6 +143304,474 @@
         "reasoning": "Indigo Paints' aggressive 25% growth target (nearly 2x industry growth) signals confidence in market share gains, which is positive for revenue trajectory and long-term positioning. However, the explicit prioritization of market share over margins suggests near-term margin compression from elevated marketing spend and category expansion costs, offsetting earnings growth benefits.",
         "stocks": {}
       }
+    },
+    "c6ebc82e04524aa5": {
+      "id": "c6ebc82e04524aa5",
+      "title": "Shiprocket soars 48% on debut, erases valuation cut",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/shiprocket-soars-48-on-debut-erases-valuation-cut/articleshow/133361438.cms",
+      "summary": "Shiprocket shares debuted on Wednesday at a notable premium compared to their IPO price. The e-commerce logistics firm experienced a robust closing surge on the Bombay Stock Exchange. This impressive market entry effectively reversed a previous decline in valuation prior to its public listing. Early backer Bertelsmann benefited greatly, witnessing a remarkable increase in their stake. Investors en",
+      "pub": "20 Aug 06:34 IST",
+      "pub_dt": "2026-08-20T01:04:56+00:00",
+      "sectors": [
+        "Autos",
+        "E-Commerce",
+        "Industrials"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Shiprocket's 48% IPO premium and strong market debut signal robust investor confidence in the e-commerce logistics sector, validating growth prospects as e-commerce penetration deepens. The valuation recovery reverses prior market concerns and benefits early backers, indicating strong fundamentals for logistics-enabled e-commerce growth.",
+        "stocks": {}
+      }
+    },
+    "f4c54c01f8ae2d80": {
+      "id": "f4c54c01f8ae2d80",
+      "title": "Sebi bars two entities for 'manipulating' CAS",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-bars-two-entities-for-manipulating-cas-in-financial-market-oversight/articleshow/133361415.cms",
+      "summary": "Sebi barred Copthall Mauritius Investment and Mansi Share and Stock Broking from securities market access.  The regulator alleged manipulation of the Sensex during the new closing auction session.  Sharp and unusual movements were detected in the index on August 13 expiry day.  These actions aimed to benefit from outstanding Sensex options positions, Sebi stated.  The entities allegedly generated ",
+      "pub": "20 Aug 06:26 IST",
+      "pub_dt": "2026-08-20T00:56:38+00:00",
+      "sectors": [
+        "IT",
+        "Industrials",
+        "Materials"
+      ],
+      "stocks": [
+        "ACC",
+        "HAL"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Sebi's market manipulation bar and disgorgement order signal tightening regulatory oversight, increasing compliance costs and execution risk for industrial/materials companies. This continuation of strict regulatory enforcement (following recent DPR and highway project warnings) creates headwinds for ACC and HAL through increased scrutiny and potential operational constraints.",
+        "stocks": {
+          "ACC": "negative",
+          "HAL": "negative"
+        }
+      }
+    },
+    "f5a13500be4ace6f": {
+      "id": "f5a13500be4ace6f",
+      "title": "Pre-market action: Here's the trade setup for today's session",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/133353748.cms",
+      "summary": "Nifty declined for a seventh session, influenced by elevated crude oil prices. Analysts anticipate continued pressure due to global weakness and geopolitical tensions. The India VIX, a fear gauge, saw a slight decrease to 11.32 levels. Foreign and domestic institutional investors showed net buying activity on Wednesday. The Indian rupee weakened against the dollar but saw central bank intervention",
+      "pub": "20 Aug 06:00 IST",
+      "pub_dt": "2026-08-20T00:30:00+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Nifty's seventh consecutive decline driven by elevated crude oil prices and geopolitical tensions creates near-term margin pressure on energy-intensive autos and IT sectors, but FII/DII net buying and RBI intervention suggest institutional accumulation at lower levels. Macro headwinds clash with valuation support.",
+        "stocks": {}
+      }
+    },
+    "a52584dbda54715c": {
+      "id": "a52584dbda54715c",
+      "title": "Stocks in news: Hyundai Motor India, BSE, HEG, Hexaware Tech and Oil India",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-hyundai-motor-india-bse-heg-hexaware-tech-and-oil-india/articleshow/133353448.cms",
+      "summary": "Indian equity markets extended their losing streak to a seventh consecutive session, with the Nifty50 closing lower at 24,078.30. Key corporate developments are expected to influence Thursday's trade, including Hyundai Motor India's planned price increase, Aditya Infotech's fundraising approval, and BSE's agreement with MSCI for index futures and options. Other companies like HEG, Ceigall India, a",
+      "pub": "20 Aug 06:00 IST",
+      "pub_dt": "2026-08-20T00:30:00+00:00",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Market-level commentary on extended losing streak with sector-specific developments (Hyundai price increase, BSE-MSCI index agreement) lacks material earnings impact. These are largely procedural/tactical moves without clear valuation implications for the broader market.",
+        "stocks": {}
+      }
+    },
+    "75f7a17338ba906a": {
+      "id": "75f7a17338ba906a",
+      "title": "Sebi plans comprehensive review of rules governing SME IPOs",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-review-ipo-rules-to-ease-market-access-for-smes/articleshow/133361290.cms",
+      "summary": "Sebi plans a comprehensive review of IPO rules for small and medium companies.  Market making and underwriting systems are identified as areas needing attention.  A working group has submitted its report on the SME platform to the regulator.  Sebi will soon release a consultation paper regarding the SME platform.  The regulator also aims to support global fund management activities from India.",
+      "pub": "20 Aug 05:56 IST",
+      "pub_dt": "2026-08-20T00:26:40+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Sebi's planned SME IPO review and consultation paper represent regulatory framework improvements rather than immediate operational impacts. Market-making and underwriting system enhancements are administrative refinements with no direct earnings or valuation consequences for listed companies.",
+        "stocks": {}
+      }
+    },
+    "98b8d7c7075b6c27": {
+      "id": "98b8d7c7075b6c27",
+      "title": "Nifty price-to-book ratio hits 6-year low, but market may not be cheap",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-price-to-book-ratio-hits-6-year-low-but-market-may-not-be-cheap/articleshow/133361013.cms",
+      "summary": "The Nifty's price-to-book ratio has slid below three for the first time in six years, showcasing the banking sector's struggles alongside rising book values. With banks and financial services playing a crucial role in the Nifty's composition, the recent consolidation of financials has notably influenced valuation metrics. It is now essential for investors to prioritize earnings growth and future p",
+      "pub": "20 Aug 05:34 IST",
+      "pub_dt": "2026-08-20T00:04:09+00:00",
+      "sectors": [
+        "Banking",
+        "Industrials"
+      ],
+      "stocks": [
+        "BEL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Nifty's price-to-book ratio hitting a 6-year low, driven by banking sector consolidation, signals valuation compression in a core index component. While low P/B may suggest downside support, persistent financial sector weakness and margin pressures (evident in recent bank results and deposit rule changes) indicate structural headwinds for BEL amid deteriorating banking backdrop.",
+        "stocks": {
+          "BEL": "negative"
+        }
+      }
+    },
+    "1cf4d7b7f74c4689": {
+      "id": "1cf4d7b7f74c4689",
+      "title": "No takers: Public sector banks put ₹39,000 cr of bad loans up for sale again",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/no-takers-public-sector-banks-put-39000-cr-of-bad-loans-up-for-sale-again/articleshow/133361262.cms",
+      "summary": "Public sector banks offered many bad loans previously for sale.  Nearly eighty percent of these loans were repeat sale attempts.  Indian Overseas Bank and Indian Bank led these repeated offerings.  Private sector banks showed a sharp contrast with few repeat sales.  This highlights challenges in selling large legacy corporate accounts.",
+      "pub": "20 Aug 00:44 IST",
+      "pub_dt": "2026-08-19T19:14:28+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT",
+        "Industrials",
+        "Materials"
+      ],
+      "stocks": [
+        "ACC",
+        "HAL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Public sector banks' inability to offload ₹39,000 crore in bad loans (80% repeat sales) reveals severe asset quality challenges and capital deployment constraints. This signals weakening credit culture and potential future provisioning pressures for ACC and HAL if exposed to PSU lending, while also reflecting systemic stress in India's banking sector.",
+        "stocks": {
+          "ACC": "negative",
+          "HAL": "negative"
+        }
+      }
+    },
+    "5733f6b9f414b653": {
+      "id": "5733f6b9f414b653",
+      "title": "SC rejects GST department review plea, telecom firms get relief on tower tax credit",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sc-rejects-gst-department-review-plea-telecom-firms-get-relief-on-tower-tax-credit/articleshow/133361313.cms",
+      "summary": "The Supreme Court rejected a review petition from the GST Department.  This decision confirms telecom towers are movable property for tax credit.  Bharti Airtel and Indus Tower received significant relief from this ruling.  The court found no error in its previous order regarding tax eligibility.  This reaffirms the principle of allowing credit for business inputs.",
+      "pub": "19 Aug 21:12 IST",
+      "pub_dt": "2026-08-19T15:42:09+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [
+        "Bharti Airtel"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Supreme Court's confirmation that telecom tower assets qualify for GST tax credit provides immediate operational relief and cash flow improvement for Bharti Airtel, validating input tax recovery claims. This reverses regulatory uncertainty and strengthens Airtel's margin profile while reducing capital deployment friction, contrasting positively with ongoing Jio competitive pressures.",
+        "stocks": {
+          "Bharti Airtel": "positive"
+        }
+      }
+    },
+    "bf80deb117e4a5c5": {
+      "id": "bf80deb117e4a5c5",
+      "title": "RBI deputy governor Murmu calls for focus on meaningful financial inclusion",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-deputy-governor-murmu-calls-for-focus-on-meaningful-financial-inclusion/articleshow/133361306.cms",
+      "summary": "Banks must measure financial inclusion by effective usage and informed decisions.  Technology shifts and consumer behavior necessitate responsive banking systems.  Digital inclusion deepens, and AI helps recognize capability across diverse groups.  Institutions need skilled people to challenge models and oversee external providers.  Prudence requires pooled intelligence and credible alternatives f",
+      "pub": "19 Aug 20:50 IST",
+      "pub_dt": "2026-08-19T15:20:24+00:00",
+      "sectors": [
+        "Banking",
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "HAL"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "RBI's call for meaningful financial inclusion and responsive banking systems is a structural regulatory guidance with no immediate earnings impact. While it emphasizes technology and skilled personnel needs, HAL operates in defence/aerospace and is not directly exposed to retail banking inclusion metrics or consumer banking dynamics.",
+        "stocks": {
+          "HAL": "neutral"
+        }
+      }
+    },
+    "97dcffe9cf09b10b": {
+      "id": "97dcffe9cf09b10b",
+      "title": "Rupee falls to a 3-week low of 95.71, raising financial concerns",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-falls-to-a-3-week-low-of-95-71-raising-financial-concerns/articleshow/133361483.cms",
+      "summary": "The Indian rupee closed at a three-week low of 95.75 on Wednesday. Substantial central bank interventions prevented further losses for the local currency. The RBI has consistently intervened for nine trading sessions, arresting rupee weakness. This action occurred as oil prices continued to soar significantly. Indian equity indices also fell, reflecting the impact of soaring energy costs.",
+      "pub": "20 Aug 06:42 IST",
+      "pub_dt": "2026-08-20T01:12:23+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Rupee depreciation to 3-week lows and RBI interventions signal currency weakness despite central bank support. Rising oil prices and rupee pressure compress margins for import-dependent sectors (autos, materials) and increase input costs. This reverses earlier tailwinds for exporters and IT services noted in recent history.",
+        "stocks": {}
+      }
+    },
+    "0d7e022c5210435a": {
+      "id": "0d7e022c5210435a",
+      "title": "Global Market Today: Asian stocks rise after bond rally, dollar steady",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-after-bond-rally-dollar-steady/articleshow/133361435.cms",
+      "summary": "Asian stocks advanced as the US Treasury announced debt buyback plans. This move eased pressure on the bond market and stabilized the dollar. South Korean shares surged, led by SK Hynix's buyback announcement. Global bonds had experienced a selloff due to inflation and debt concerns. Investors are also reviewing Federal Reserve meeting minutes for inflation outlooks.",
+      "pub": "20 Aug 06:29 IST",
+      "pub_dt": "2026-08-20T00:59:18+00:00",
+      "sectors": [
+        "Autos",
+        "Materials"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "US Treasury debt buyback and bond market relief ease macro headwinds, supporting equity valuations. However, Fed meeting minutes on inflation and persistent dollar stability create mixed signals—material sectors benefit from stable FX but remain vulnerable to inflation/rate concerns.",
+        "stocks": {}
+      }
+    },
+    "658667ed3ab443a0": {
+      "id": "658667ed3ab443a0",
+      "title": "MMTC PAMP calls for better Gold Monetisation Scheme",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/mmtc-pamp-calls-for-better-gold-monetisation-scheme/articleshow/133361223.cms",
+      "summary": "India needs to boost gold recycling to decrease reliance on imports.  A more appealing gold monetization scheme could unlock significant household stocks.  This initiative would also help utilize underused refining capacity across the nation.  Increased recycling can lessen pressure on the current-account deficit by substituting imports.  The country's next gold story should focus on efficient and",
+      "pub": "20 Aug 01:17 IST",
+      "pub_dt": "2026-08-19T19:47:01+00:00",
+      "sectors": [
+        "Materials"
+      ],
+      "stocks": [
+        "ACC"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "MMTC PAMP's plea for improved gold monetization scheme addresses import substitution and CAD reduction—structural benefits but not directly material to ACC's cement earnings. ACC's recent history shows focus on agrochemical data protection and highway/infrastructure projects; gold recycling is a separate policy initiative with indirect CAD benefits only.",
+        "stocks": {
+          "ACC": "neutral"
+        }
+      }
+    },
+    "7374f33037c827fa": {
+      "id": "7374f33037c827fa",
+      "title": "Trump declares economic war on Iran",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/trump-declares-economic-d-day-against-iran-warns-nations-aiding-tehran-of-tremendous-consequences/articleshow/133361344.cms",
+      "summary": "",
+      "pub": "20 Aug 06:08 IST",
+      "pub_dt": "2026-08-20T00:38:36+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Insufficient detail provided in summary to assess economic impact. Geopolitical tensions (Iran sanctions) typically pressure oil and energy-linked equities; however, without specific sector context or stock details, directional impact cannot be determined.",
+        "stocks": {}
+      }
+    },
+    "f30671286cb71890": {
+      "id": "f30671286cb71890",
+      "title": "US may cut key tariffs in Canada deal",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/us-could-cut-key-tariffs-as-part-of-proposed-canada-deal-source-says/articleshow/133361380.cms",
+      "summary": "",
+      "pub": "20 Aug 06:20 IST",
+      "pub_dt": "2026-08-20T00:50:42+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "US tariff cuts in Canada deal signal de-escalation of trade tensions and lower input costs for export-oriented sectors. This supports valuations for IT services, autos, and exporters previously pressured by tariff uncertainty.",
+        "stocks": {}
+      }
+    },
+    "517f251251a55b0e": {
+      "id": "517f251251a55b0e",
+      "title": "Harry, Meghan set to return to UK",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/prince-harry-and-meghan-to-move-back-to-britain-media-reports-say/articleshow/133361367.cms",
+      "summary": "",
+      "pub": "20 Aug 06:15 IST",
+      "pub_dt": "2026-08-20T00:45:18+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Personal news about royals has no bearing on Indian equity markets, corporate earnings, valuations, or sector dynamics.",
+        "stocks": {}
+      }
+    },
+    "42f6bdbce5117679": {
+      "id": "42f6bdbce5117679",
+      "title": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 20 August 2026",
+      "link": "https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-20-august-2026-11787188266727.html",
+      "summary": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five breakout stocks to buy today — Dalmia Bharat Sugar and Industries, Ador Welding, Apollo Pipes, Patel Retail, and Shreeji Shipping Global.",
+      "pub": "20 Aug 07:01 IST",
+      "pub_dt": "2026-08-20T01:31:01+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Analyst recommendation of five breakout stocks (Dalmia Bharat Sugar, Ador Welding, Apollo Pipes, Patel Retail, Shreeji Shipping Global) is a tactical trading call without fundamental earnings or valuation analysis. Lacks specificity on catalysts, growth drivers, or recent history to assess sustained positive impact.",
+        "stocks": {}
+      }
+    },
+    "2ceabd1233d4bf7f": {
+      "id": "2ceabd1233d4bf7f",
+      "title": "Should you buy LG Electronics stock after Its Q1 earnings breakout?",
+      "link": "https://www.livemint.com/market/stock-market-news/lg-electronics-share-price-lg-electronics-stock-11787141531141.html",
+      "summary": "Robust revenue growth, debt-free balance sheets, and aggressive capacity expansion make a compelling case, but steep valuations mean investors need to weigh the risks carefully.",
+      "pub": "20 Aug 07:00 IST",
+      "pub_dt": "2026-08-20T01:30:58+00:00",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Sector-level commentary on earnings quality without specific stock identifiers. While robust growth and debt-free balance sheets are positive, steep valuations create offsetting headwinds that require individual stock analysis to determine investment merit.",
+        "stocks": {}
+      }
+    },
+    "6e31aa450f12ff91": {
+      "id": "6e31aa450f12ff91",
+      "title": "LIC gets RBI approval to raise stake in HDFC Bank from 4% to 10%. Details here",
+      "link": "https://www.livemint.com/market/stock-market-news/lic-gets-rbi-approval-to-increase-hdfc-bank-stake-to-10-from-4-details-here-11787186650756.html",
+      "summary": "LIC held a 4.11% stake in HDFC Bank’s total share capital as of the latest available beneficial position on August 14, 2026.",
+      "pub": "20 Aug 06:39 IST",
+      "pub_dt": "2026-08-20T01:09:43+00:00",
+      "sectors": [
+        "Banking",
+        "IT"
+      ],
+      "stocks": [
+        "HDFC Bank"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "LIC's RBI approval to increase stake from 4% to 10% is constructive for HDFC Bank's governance and provides institutional anchor support, but this is overshadowed by recent negative catalysts: regulatory headwinds, margin pressure from rate cuts, competitive credit card share losses, and high-profile investor exits (Jefferies' Wood). Recent history shows persistent structural challenges dominating positive structural support.",
+        "stocks": {
+          "HDFC Bank": "mixed"
+        }
+      }
+    },
+    "2e1c3f2e62b4c799": {
+      "id": "2e1c3f2e62b4c799",
+      "title": "Raja Venkatraman recommends three stocks for 20 August",
+      "link": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-two-stocks-20-august-petronet-lng-ambuja-cements-nifty-sensex-11787159309418.html",
+      "summary": "Market expert Raja Venkatraman shares his top stock picks for 20 August. Here’s his technical outlook and trade strategy.",
+      "pub": "20 Aug 06:00 IST",
+      "pub_dt": "2026-08-20T00:30:57+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Generic technical analyst recommendation without fundamental earnings, competitive, or regulatory insights. Individual stock pick requires specific catalysts or valuation analysis to assess directional impact.",
+        "stocks": {}
+      }
+    },
+    "622afede3d394827": {
+      "id": "622afede3d394827",
+      "title": "Sebi adjudication proceedings hit a decade low as compliance improves, focus shifts to serious violations",
+      "link": "https://www.livemint.com/market/stock-market-news/sebi-adjudication-proceedings-hit-a-decade-low-as-compliance-improves-focus-shifts-to-serious-violations-11787116364476.html",
+      "summary": "The decline in adjudication proceedings comes as listed companies and market intermediaries have strengthened compliance and internal controls, while Sebi appears to be directing more of its enforcement capacity towards violations that pose &amp;nbsp;risk to investors",
+      "pub": "20 Aug 06:00 IST",
+      "pub_dt": "2026-08-20T00:30:36+00:00",
+      "sectors": [
+        "Materials"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Decade-low adjudication proceedings indicate strengthened compliance culture across listed companies and market intermediaries, reducing regulatory execution risk and associated penalties. This macro compliance improvement supports investor confidence and reduces tail risks for equity markets broadly.",
+        "stocks": {}
+      }
+    },
+    "5cfe6b458993e08e": {
+      "id": "5cfe6b458993e08e",
+      "title": "India to probe manufacturing defects in China's Oppo Reno 5 smartphones following consumer complaints, may order refunds",
+      "link": "https://www.livemint.com/companies/news/india-probe-manufacturing-defects-oppo-reno-5-ccpa-refunds-chinese-smartphones-compensation-exchange-11787137065304.html",
+      "summary": "The department of consumer affairs has been examining complaints registered through the National Consumer Helpline alleging defects in the smartphones including lines appearing on the screen.",
+      "pub": "20 Aug 06:15 IST",
+      "pub_dt": "2026-08-20T00:45:57+00:00",
+      "sectors": [
+        "IT",
+        "Materials"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Consumer Affairs probe into Oppo Reno 5 manufacturing defects is a product-specific quality issue affecting Oppo's brand and warranty costs, but Oppo is not an Indian publicly listed stock and this does not impact Indian equity valuations or competitive dynamics.",
+        "stocks": {}
+      }
+    },
+    "1e29e23dc5742750": {
+      "id": "1e29e23dc5742750",
+      "title": "After years on the fringes, Noel Tata has taken centrestage, and inherited a leaky chalice",
+      "link": "https://www.livemint.com/companies/news/after-years-on-the-fringes-noel-tata-has-taken-centrestage-and-inherited-a-leaky-chalice-11787147167509.html",
+      "summary": "The day Tata Sons failed to hold its AGM, the curtain rose on Noel Tata’s real problems. N. Chandrasekaran leaves behind a more powerful Tata Sons, and a clutch of unfinished mega bets.",
+      "pub": "20 Aug 06:01 IST",
+      "pub_dt": "2026-08-20T00:31:17+00:00",
+      "sectors": [
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "HAL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Leadership transition from N. Chandrasekaran to Noel Tata amid unfinished mega bets and operational challenges ('leaky chalice') creates near-term execution risk and uncertainty around strategic direction, offsetting HAL's recent strong Q1 earnings momentum (15% profit growth, 45% stock rally, new defence orders). Recent history shows HAL positively exposed to defence capex cycle, but broader Tata governance transition adds uncertainty.",
+        "stocks": {
+          "HAL": "mixed"
+        }
+      }
+    },
+    "19689cd4602bcfa7": {
+      "id": "19689cd4602bcfa7",
+      "title": "India Inc’s June quarter earnings beat masks a widening divide",
+      "link": "https://www.livemint.com/companies/india-inc-s-june-quarter-earnings-beat-masks-a-widening-divide-11787131767257.html",
+      "summary": "Corporate India's June-quarter earnings surged on a low base, strong volume and credit growth, and a global commodity upcycle. But smaller companies lagged as weak pricing power and margin pressure weighed on profits.",
+      "pub": "20 Aug 06:00 IST",
+      "pub_dt": "2026-08-20T00:30:17+00:00",
+      "sectors": [
+        "Banking",
+        "Materials"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "While Q1 earnings beat on favorable base and volume/credit growth tailwinds, the widening divide reveals deteriorating profitability for smaller companies due to weak pricing power and margin compression. This signals that macro tailwinds are unevenly distributed, with structural headwinds (input cost inflation, competitive intensity) eroding returns for mid-cap and small-cap participants—a negative reversal from broad-based earnings recovery narrative.",
+        "stocks": {}
+      }
     }
   }
 }
