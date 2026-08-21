@@ -147466,6 +147466,722 @@
         "reasoning": "D2C startup funding bar-raising due to easier brand scaling and quick commerce adoption is a sector-level e-commerce trend reflecting improved market dynamics. Without specific stock tags, this cannot be assessed for individual equity impact, though it signals healthy ecosystem maturation.",
         "stocks": {}
       }
+    },
+    "bef9d11a8d5cb4cc": {
+      "id": "bef9d11a8d5cb4cc",
+      "title": "88% retail investors lost money in F&amp;O trading in FY26: Sebi",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/88-retail-investors-lost-money-in-fo-trading-in-fy26-sebi/articleshow/133390440.cms",
+      "summary": "In FY26, an alarming trend emerged in India's equity derivatives market, with nearly 90% of traders facing financial losses. Retail participation saw an unexpected decline of 18%, marking a significant shift not seen in a decade. Regulatory changes pushed numerous new traders out, leading to a notable concentration in short-dated options, where the highest risks burdened younger investors with sma",
+      "pub": "21 Aug 06:30 IST",
+      "pub_dt": "2026-08-21T01:00:04+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "88% retail F&O loss rate with Rs 91,685 crore aggregate losses signals sustained wealth destruction and eroding retail investor confidence. The 18% YoY decline in active traders represents a structural reversal of the multi-year F&O boom, with negative implications for trading volumes and brokerage commissions.",
+        "stocks": {}
+      }
+    },
+    "ae25a573d8316f62": {
+      "id": "ae25a573d8316f62",
+      "title": "Sebi eases FPI onboarding with digital power of attorney",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-eases-fpi-onboarding-with-digital-power-of-attorney/articleshow/133390422.cms",
+      "summary": "In a progressive move, the capital markets regulator has allowed foreign investors to adopt digital signatures, streamlining the onboarding experience. This change eliminates notarisation and apostillisation for power of attorney documents, thus accelerating onboarding times and enhancing regulatory processes. The goal is to invite more international capital into the Indian market landscape.",
+      "pub": "21 Aug 06:22 IST",
+      "pub_dt": "2026-08-21T00:52:53+00:00",
+      "sectors": [
+        "IT",
+        "Materials"
+      ],
+      "stocks": [
+        "ACC"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Digital power of attorney for FPI onboarding eliminates administrative friction and accelerates foreign capital inflows into Indian markets. Faster FPI onboarding should support broader equity valuations and market liquidity, particularly benefiting large-cap stocks like ACC through improved market depth.",
+        "stocks": {
+          "ACC": "positive"
+        }
+      }
+    },
+    "4400e20537f9ac7b": {
+      "id": "4400e20537f9ac7b",
+      "title": "D-Street set for positive start as GIFT Nifty signals gains",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/133384900.cms",
+      "summary": "Domestic equities rebounded on Thursday, with the Nifty gaining 0.6 percent. Analysts expect Indian equities to remain sideways with a marginal recovery bias. Broader market action and sector-specific opportunities are likely to remain in focus. Foreign portfolio investors net sold shares worth Rs 583 crore. Domestic institutional investors were net buyers at Rs 3,538 crore.",
+      "pub": "21 Aug 06:00 IST",
+      "pub_dt": "2026-08-21T00:30:00+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Nifty's 0.6% rebound ending a downward trend, supported by weakening dollar index and declining US bond yields, signals a shift in sentiment toward emerging markets. Midcap and smallcap outperformance with continued domestic institutional buying (Rs 3,538 crore) suggests improving growth outlook and capital redeployment.",
+        "stocks": {}
+      }
+    },
+    "420d10a4211ac38a": {
+      "id": "420d10a4211ac38a",
+      "title": "Stocks in news: BPCL, HAL, RailTel, Saatvik Green Energy and Samvardhana Motherson",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-bpcl-hal-railtel-saatvik-green-energy-and-samvardhana-motherson/articleshow/133384324.cms",
+      "summary": "Indian equity benchmarks ended a seven-session losing streak on Thursday, August 20. The NSE Nifty50 closed higher, reclaiming its 50-day exponential moving average. Several companies, including BPCL and HAL, announced significant corporate developments. RailTel Corporation received a work order, and Saatvik Green Energy secured a module supply order. Manipal Health Enterprises reported a decline ",
+      "pub": "21 Aug 06:00 IST",
+      "pub_dt": "2026-08-21T00:30:00+00:00",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "HAL",
+        "Motherson"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "HAL benefits from positive sector momentum (autos/industrials seeing FPI inflows per Item 6), but near-term headwinds persist—rising oil prices compress auto margins, and macro tailwinds are fading in H2. Motherson similarly faces margin pressure from elevated commodity costs despite strong technical performance.",
+        "stocks": {
+          "HAL": "mixed",
+          "Motherson": "mixed"
+        }
+      }
+    },
+    "822d4e5d94093440": {
+      "id": "822d4e5d94093440",
+      "title": "Indian equity markets rally nearly 1% as dollar retreats and US bond yields cool",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-equity-markets-rally-nearly-1-as-dollar-retreats-and-us-bond-yields-cool/articleshow/133390323.cms",
+      "summary": "The Indian stock market rebounded on Thursday, marking the end of a downward trend. Major indices Nifty and Sensex enjoyed notable gains, supported by a robust response in midcap and smallcap sectors. A weakening dollar index alongside declining US bond yields positively impacted emerging markets. Nonetheless, bond yields in India increased, influenced by recent hawkish policy discussions.",
+      "pub": "21 Aug 05:55 IST",
+      "pub_dt": "2026-08-21T00:25:48+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Dollar weakness and cooling US bond yields create tailwinds for emerging market equities and rupee stability, supporting earnings visibility for exporters and IT services. The reversal of outflows signals renewed risk appetite toward Indian equities with structural macro support.",
+        "stocks": {}
+      }
+    },
+    "7e5cbfc0a0e89cf8": {
+      "id": "7e5cbfc0a0e89cf8",
+      "title": "FPIs turn bullish on financials, autos and IT in first half of August",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/foreign-investors-continue-to-buy-with-financials-top-the-list/articleshow/133389861.cms",
+      "summary": "Overseas investors showed strong buying in early August, marking four consecutive fortnights of inflows. Financial services and automobiles attracted the highest foreign investment during this period. Broader markets demonstrated resilience, with investors favoring mid-cap names within key sectors. Foreign investors net bought shares worth ₹16,621 crore across sectors during August 1-15. This tren",
+      "pub": "21 Aug 05:46 IST",
+      "pub_dt": "2026-08-21T00:16:28+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "Industrials"
+      ],
+      "stocks": [
+        "HAL"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Strong FPI inflows (Rs 16,621 crore in Aug 1-15) into financials, autos, and IT sectors with four consecutive fortnights of net buying marks a reversal of prior outflow trends. HAL as a PSU in industrials/autos benefits from this FPI bullishness and improving sectoral momentum.",
+        "stocks": {
+          "HAL": "positive"
+        }
+      }
+    },
+    "bfaee64f8e5083dd": {
+      "id": "bfaee64f8e5083dd",
+      "title": "Niva Bupa, Acko General Insurance barred from opening places of biz for 6 months",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/niva-bupa-acko-general-insurance-barred-from-opening-places-of-biz-for-6-months/articleshow/133390233.cms",
+      "summary": "Niva Bupa's allowable expense for FY25 was Rs 2,403.75 crore, while its actual expenses stood at Rs 2,652.12 crore, exceeding the limit by Rs 248.37 crore, according to the regulator's order. Irdai has prescribed limits to ensure insurers control management and operating costs so that a reasonable portion of premiums collected from policyholders is available for providing insurance cover and settl",
+      "pub": "20 Aug 23:43 IST",
+      "pub_dt": "2026-08-20T18:13:01+00:00",
+      "sectors": [
+        "Banking",
+        "IT",
+        "Materials"
+      ],
+      "stocks": [
+        "ACC"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Niva Bupa and Acko's 6-month business expansion bar for cost overruns (Rs 248.37 crore excess in Niva Bupa's case) signals tightening Irdai regulatory oversight on expense ratios. While not directly applicable to ACC (materials), this reflects stricter financial services regulation that may impact overall market sentiment and cost discipline across sectors.",
+        "stocks": {
+          "ACC": "neutral"
+        }
+      }
+    },
+    "16b67139d450bc83": {
+      "id": "16b67139d450bc83",
+      "title": "Rate reset clause in overseas loan pact helps Shriram Finance cut costs",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/rate-reset-clause-in-overseas-loan-pact-helps-shriram-finance-cut-costs/articleshow/133390104.cms",
+      "summary": "The upgrade helped Shriram, in which Japan's Mitsubishi UFJ Financial Group (MUFG) bought a significant stake, save 60-80 basis points on a $1.3-billion syndicated loan. One basis point is a hundredth of a percentage point. Managing director and CEO Parag Sharma expects such clauses to become more prevalent as growing focus on credit ratings is expected to determine the rates at which financiers r",
+      "pub": "20 Aug 23:36 IST",
+      "pub_dt": "2026-08-20T18:06:36+00:00",
+      "sectors": [
+        "Autos",
+        "Banking"
+      ],
+      "stocks": [
+        "Shriram Finance"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Shriram Finance's successful rate reset clause reducing borrowing costs by 60-80 bps on $1.3B syndicated loan through upgraded credit rating improves net interest margins and profitability. The trend of rating-linked rate reductions becoming more prevalent strengthens Shriram's competitive position and future refinancing flexibility.",
+        "stocks": {
+          "Shriram Finance": "positive"
+        }
+      }
+    },
+    "8a27714993ccf13e": {
+      "id": "8a27714993ccf13e",
+      "title": "Local funds' share rises in private credit market: EY report",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/local-funds-share-rises-in-private-credit-market-ey-report/articleshow/133390197.cms",
+      "summary": "Private credit investments were broadly similar to the second half of 2025 levels of $3.4 billion, with refinancing, holding-company funding and acquisition financing serving as key drivers of activity. \"The growing share of domestic capital is one of the most significant developments in India's private credit market,\" Vishal Bansal, partner, debt and special situations, EY India, said.",
+      "pub": "20 Aug 23:18 IST",
+      "pub_dt": "2026-08-20T17:48:51+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "HAL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Growth in India's private credit market with rising domestic capital participation is a structural positive for financial services, but HAL (defense/aerospace) has no direct operational exposure to private credit market dynamics. The news reflects macro credit market trends unrelated to HAL's earnings, margins, or competitive position.",
+        "stocks": {
+          "HAL": "neutral"
+        }
+      }
+    },
+    "1958e97ce40f6c20": {
+      "id": "1958e97ce40f6c20",
+      "title": "Govt reappoints Anand Mahindra to RBI board, names former Isro chief S Somanath as non-official director",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/govt-reappoints-anand-mahindra-to-rbi-board-names-former-isro-chief-s-somanath-as-non-official-director/articleshow/133390156.cms",
+      "summary": "Anand Mahindra has been reappointed to the Reserve Bank of India's central board. Former ISRO Chairman S Somanath also joins the board for a four-year term. Their appointments are effective from August 20, 2026, according to the RBI. Mahindra's reappointment ensures continuity and brings diverse business experience. Somanath's technological expertise will aid the central bank's digital focus.",
+      "pub": "20 Aug 21:50 IST",
+      "pub_dt": "2026-08-20T16:20:04+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT",
+        "Materials"
+      ],
+      "stocks": [
+        "ACC",
+        "M&M"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Anand Mahindra's RBI board reappointment enhances M&M's regulatory influence and visibility at the central banking level, potentially aiding policy advocacy for the auto sector. ACC benefits from Somanath's technological expertise focus, which aligns with digital infrastructure and potential infrastructure spending momentum. Both represent governance/political capital gains that support long-term stakeholder relationships.",
+        "stocks": {
+          "ACC": "positive",
+          "M&M": "positive"
+        }
+      }
+    },
+    "9311e19bbfdf4ceb": {
+      "id": "9311e19bbfdf4ceb",
+      "title": "Treasury heads in buying mode as 5-year yield jumps",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/treasury-heads-in-buying-mode-as-5-year-yield-jumps/articleshow/133390496.cms",
+      "summary": "With government bond yields now at attractive levels, treasury heads are actively thinking about making purchases. After the RBI's FCNR(B) scheme ended, the five-year bond yield closed at 6.52%. Although there's speculation about a delay in renewed buying due to upcoming policy minutes, the banking sector's liquidity remains robust, with funds ready to be invested shortly.",
+      "pub": "21 Aug 06:40 IST",
+      "pub_dt": "2026-08-21T01:10:16+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Rising 5-year bond yields (6.52%) attracting treasury participation is macro-positive for banks' net interest margins (NIM expansion), but the news lacks specificity on which sectors/stocks benefit. The headline signals monetary conditions rather than earnings or competitive dynamics for specific stocks.",
+        "stocks": {}
+      }
+    },
+    "de0bc129d75139ce": {
+      "id": "de0bc129d75139ce",
+      "title": "Global Market Today: Asian stocks follow Wall Street lower, dollar slips",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-follow-wall-street-lower-dollar-slips/articleshow/133390428.cms",
+      "summary": "Asian bonds and equities faced a downturn, reflecting the declines witnessed on Wall Street. An uptick in US Treasury yields dampened investor enthusiasm surrounding debt repurchases. Meanwhile, the yen held steady, suggesting that inflation trends could lead to a rate increase by the Bank of Japan. Bitcoin soared past seventy thousand dollars following discussions with crypto leaders, while techn",
+      "pub": "21 Aug 06:22 IST",
+      "pub_dt": "2026-08-21T00:52:06+00:00",
+      "sectors": [
+        "Autos",
+        "Banking"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Asian equities following Wall Street lower, rising US Treasury yields dampening investor sentiment, and overall downturn signal a near-term headwind for Indian equity valuations. The macro deterioration in global risk appetite creates near-term pressure on Indian equities despite no company-specific fundamental changes.",
+        "stocks": {}
+      }
+    },
+    "f9dcfd469c4f5597": {
+      "id": "f9dcfd469c4f5597",
+      "title": "Bond yields are the 'Elephant in the Room' stock investors are ignoring",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/bond-yields-are-the-elephant-in-the-room-stock-investors-are-ignoring/articleshow/133390377.cms",
+      "summary": "Global fund managers hold the highest equity proportion since late 2021.  Rising bond yields are seen as a significant threat to stock markets.  Stronger earnings expectations and economic outlooks support investor optimism.  The US Treasury's debt buyback plan offered some temporary relief.  Analysts watch the yield curve, finding current conditions favorable for stocks.",
+      "pub": "21 Aug 06:17 IST",
+      "pub_dt": "2026-08-21T00:47:00+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Rising bond yields pose a valuation headwind for equities (multiple compression risk), offsetting stronger earnings expectations and economic outlooks. Fund managers' highest equity allocation since 2021 signals conviction, but the 'elephant in the room' framing highlights significant downside tail risk if yields continue rising. Market sentiment remains constructive but fragile.",
+        "stocks": {}
+      }
+    },
+    "66c03dd4b45824a8": {
+      "id": "66c03dd4b45824a8",
+      "title": "Pre-market action: Here's the trade setup for today's session",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/133384900.cms",
+      "summary": "Domestic equities rebounded on Thursday, with the Nifty gaining 0.6 percent. Analysts expect Indian equities to remain sideways with a marginal recovery bias. Broader market action and sector-specific opportunities are likely to remain in focus. Foreign portfolio investors net sold shares worth Rs 583 crore. Domestic institutional investors were net buyers at Rs 3,538 crore.",
+      "pub": "21 Aug 06:00 IST",
+      "pub_dt": "2026-08-21T00:30:00+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Nifty's modest 0.6% rebound with sideways bias and marginal recovery expectations signal choppy, range-bound market conditions. FPI selling (₹583 crore) offset by DII buying (₹3,538 crore) indicates domestic vs. foreign capital divergence but no clear directional conviction or sector-specific catalysts for earnings impact.",
+        "stocks": {}
+      }
+    },
+    "bfefd9dc4364e1ac": {
+      "id": "bfefd9dc4364e1ac",
+      "title": "Protection, annuity more relevant in insurance products: Sumit Madan, MD &amp; CEO, Axis Max Life",
+      "link": "https://economictimes.indiatimes.com/markets/expert-view/protection-annuity-more-relevant-in-insurance-products-sumit-madan-md-ceo-axis-max-life/articleshow/133390261.cms",
+      "summary": "While things are changing, insurance is still seen as a bit of a savings and tax product. We are focusing on making protection and annuity more relevant across proprietary and partnership channels, where we are looking at growth of 15% or 16%. The discussion is around protection rather than just premium. We've started focusing very sharply on the young Indian middle clas, says Sumit Madan.",
+      "pub": "20 Aug 23:55 IST",
+      "pub_dt": "2026-08-20T18:25:42+00:00",
+      "sectors": [
+        "Autos",
+        "Banking"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Axis Max Life's strategic pivot toward protection and annuity products targeting 15-16% growth in the young Indian middle class reflects industry-wide product mix shift toward higher-margin protection. However, the news is company-specific commentary without broader sector earnings impact or competitive disruption signals.",
+        "stocks": {}
+      }
+    },
+    "158527340a502232": {
+      "id": "158527340a502232",
+      "title": "Aditya Birla Capital to enter gold loan market, target 1,000 branches",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/aditya-birla-capital-to-enter-gold-loan-market-target-1000-branches/articleshow/133390271.cms",
+      "summary": "Aditya Birla Capital will enter India’s competitive gold loan market with 200-300 dedicated branches by March 2027, followed by a target of around 1,000 branches over three years. The move comes after Tata Capital and Godrej Capital entered the segment, as diversified non-bank lenders expand secured lending portfolios.",
+      "pub": "20 Aug 19:15 IST",
+      "pub_dt": "2026-08-20T13:45:25+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Aditya Birla Capital's entry into gold loans with 200-300 branches by FY27 represents portfolio diversification into secured lending, a competitive move following Tata Capital and Godrej Capital. This is an industry consolidation trend in gold loans without material near-term earnings impact or margin headwinds for the broader NBFC sector.",
+        "stocks": {}
+      }
+    },
+    "efe08806c62f0403": {
+      "id": "efe08806c62f0403",
+      "title": "India weighs facilitating European, UK investments via green channel",
+      "link": "https://economictimes.indiatimes.com/news/economy/policy/india-weighs-facilitating-european-uk-investments-via-green-channel/articleshow/133386166.cms",
+      "summary": "India is creating a dedicated channel to ease European and British company investments. This mechanism will offer dedicated support and help investors navigate government approvals. The initiative aims to facilitate capital flow beyond just trade agreements. Senior officials will directly monitor this new investor facilitation process. This move follows recent liberalizations in sectors like insur",
+      "pub": "21 Aug 05:30 IST",
+      "pub_dt": "2026-08-21T00:00:00+00:00",
+      "sectors": [
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Green channel for European/UK investments signals India's openness to foreign capital and regulatory easing, which benefits IT and telecom sectors through increased FDI, technology partnerships, and potential earnings growth from expanded market access and client bases.",
+        "stocks": {}
+      }
+    },
+    "2e80e9e94eba7c68": {
+      "id": "2e80e9e94eba7c68",
+      "title": "Amazon to invest $2 bn in Latin American",
+      "link": "https://economictimes.indiatimes.com/industry/media/entertainment/amazon-to-invest-2-billion-in-latin-american-prime-video-through-2030/articleshow/133390539.cms",
+      "summary": "",
+      "pub": "21 Aug 06:45 IST",
+      "pub_dt": "2026-08-21T01:15:40+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Amazon's Latin American investment is geographically outside India's core market and sectors of primary concern; no direct impact on Indian equity valuations or domestic earnings drivers identified.",
+        "stocks": {}
+      }
+    },
+    "d8ac935b553da78b": {
+      "id": "d8ac935b553da78b",
+      "title": "Teen drops case at heart of social media addiction",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/teen-drops-landmark-social-media-addiction-case-against-meta-google-snap/articleshow/133390526.cms",
+      "summary": "",
+      "pub": "21 Aug 06:42 IST",
+      "pub_dt": "2026-08-21T01:12:14+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Social media litigation dismissal has no direct bearing on Indian equities; regulatory/reputational risks for global platforms may be marginally positive for Indian domestic competitors but impact is indirect and minor.",
+        "stocks": {}
+      }
+    },
+    "d208311e129ada03": {
+      "id": "d208311e129ada03",
+      "title": "US deports 2,300 Mexicans through Guatemala",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/us-sends-2300-deported-mexicans-through-guatemala-testing-mexico-ties/articleshow/133390493.cms",
+      "summary": "",
+      "pub": "21 Aug 06:32 IST",
+      "pub_dt": "2026-08-21T01:02:53+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "US immigration policy toward Mexico/Guatemala has no material impact on Indian equity markets, earnings, or competitive dynamics.",
+        "stocks": {}
+      }
+    },
+    "7195ee65136212cc": {
+      "id": "7195ee65136212cc",
+      "title": "Imran Khan moved to Islamabad hospital",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/jailed-former-pakistan-pm-imran-khan-moved-to-islamabad-hospital-after-supreme-court-order/articleshow/133390438.cms",
+      "summary": "",
+      "pub": "21 Aug 06:24 IST",
+      "pub_dt": "2026-08-21T00:54:42+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Pakistani political developments are not relevant to Indian equity analysis unless they have macro spillover effects on India's geopolitical risk or trade dynamics, which are not evident here.",
+        "stocks": {}
+      }
+    },
+    "52d20b4907ec4b39": {
+      "id": "52d20b4907ec4b39",
+      "title": "US to impose toughest sanctions in history on Iran",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/us-to-impose-toughest-sanctions-in-history-on-iran-scott-bessent-says/articleshow/133390380.cms",
+      "summary": "",
+      "pub": "21 Aug 06:08 IST",
+      "pub_dt": "2026-08-21T00:38:39+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Tougher Iran sanctions may pressure oil prices downward (positive for India's import bill and inflation control) but increase geopolitical risk premium and could disrupt trade/energy markets; net impact depends on implementation severity.",
+        "stocks": {}
+      }
+    },
+    "fb7369f91ea8ff62": {
+      "id": "fb7369f91ea8ff62",
+      "title": "Canada premier calls Trump ‘bad person’",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/canada-premier-calls-trump-bad-person-urges-ottawa-not-to-cave-in-trade-talks/articleshow/133390392.cms",
+      "summary": "",
+      "pub": "21 Aug 06:11 IST",
+      "pub_dt": "2026-08-21T00:41:40+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Canada-US political tensions are not directly material to Indian equity valuations unless they escalate into trade wars affecting India's North American export competitiveness.",
+        "stocks": {}
+      }
+    },
+    "be7395e27b8109df": {
+      "id": "be7395e27b8109df",
+      "title": "India eyes green channel for European investments",
+      "link": "https://economictimes.indiatimes.com/news/economy/policy/india-weighs-facilitating-european-uk-investments-via-green-channel/articleshow/133386166.cms",
+      "summary": "",
+      "pub": "21 Aug 05:30 IST",
+      "pub_dt": "2026-08-21T00:00:00+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Green channel for European investments strengthens India's attractiveness as an investment destination, reducing regulatory friction and improving capital flows; positive for IT and telecom sectors through FDI inflows and partnership expansion.",
+        "stocks": {}
+      }
+    },
+    "267bab8c0fd8ac19": {
+      "id": "267bab8c0fd8ac19",
+      "title": "ET WLF: PM Modi to address global leaders",
+      "link": "https://economictimes.indiatimes.com/news/company/corporate-trends/action-alert-curtains-rise-at-et-wlf-today-pm-modi-to-address-world-leaders-in-delhi/articleshow/133386317.cms",
+      "summary": "",
+      "pub": "21 Aug 05:30 IST",
+      "pub_dt": "2026-08-21T00:00:00+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "PM Modi addressing global leaders is a macro/political event with no direct earnings or valuation impact on specific stocks. Without sector or company focus, this is a generalized news item with no material operational implications.",
+        "stocks": {}
+      }
+    },
+    "24572715a5f7f183": {
+      "id": "24572715a5f7f183",
+      "title": "Canada, US ‘very close’ to trade deal",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/canada-us-very-close-to-trade-deal-as-tariff-deadline-looms/articleshow/133390569.cms",
+      "summary": "Ottawa/Washington: Canada and the United States are \"very close\" to agreeing a trade deal ​that could help reduce months of tariffs ​and counter duties but more work remains to be done, a top Canadian official said ​on Thursday.Dominic LeBlanc, the minister responsible for trade with the U.S., was speaking after he met U.S. Trade Representative Jamieson Greer in Washington.Also Read: Canada premie",
+      "pub": "21 Aug 06:49 IST",
+      "pub_dt": "2026-08-21T01:19:59+00:00",
+      "sectors": [
+        "E-Commerce",
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "A US-Canada trade deal resolution would reduce tariff uncertainty and counter-duties, benefiting E-Commerce, IT, and Telecom sectors through lower input costs and improved cross-border commerce efficiency. This removes a macro headwind that has pressured valuations in these export-oriented sectors.",
+        "stocks": {}
+      }
+    },
+    "dd6ca216f0739aa9": {
+      "id": "dd6ca216f0739aa9",
+      "title": "These three copper stocks are riding India’s energy expansion. Should you invest?",
+      "link": "https://www.livemint.com/market/stock-market-news/best-copper-stocks-india-hindustan-copper-hindalco-vedanta-11787226069485.html",
+      "summary": "Domestic copper demand is surging, driven by EV adoption, renewable power, and massive grid upgrades. Here’s a breakdown of the three key Indian players expanding capacity to capture this growth.",
+      "pub": "21 Aug 07:00 IST",
+      "pub_dt": "2026-08-21T01:30:58+00:00",
+      "sectors": [
+        "Autos",
+        "Materials"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Surging domestic copper demand from EV adoption, renewable energy, and grid upgrades is a structural tailwind for Indian Materials/copper stocks. Capacity expansion by key players will drive revenue and earnings growth, directly benefiting valuations in the materials sector.",
+        "stocks": {}
+      }
+    },
+    "96fae4a78f876f07": {
+      "id": "96fae4a78f876f07",
+      "title": "Stocks to watch: HAL, RailTel, Tata Motors PV among shares in focus today; check list here",
+      "link": "https://www.livemint.com/market/stock-market-news/stocks-to-watch-hal-railtel-tata-motors-pv-among-shares-in-focus-today-check-list-here-11787243365674.html",
+      "summary": "Stock market today: On Thursday, the Nifty 50 ended the session 0.55% higher at 24,211, meanwhile, Sensex gained 0.75% to settle at 77,488.",
+      "pub": "21 Aug 06:58 IST",
+      "pub_dt": "2026-08-21T01:28:01+00:00",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "HAL",
+        "Tata Motors"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "HAL and Tata Motors show divergent trends: Tata Motors' CV segment posted strong 83% YoY growth but recent macro headwinds (H2 earnings fade, oil price pressure) threaten margin expansion. HAL lacks recent directional catalysts. Tata Motors' mixed performance reflects the sector's sensitivity to consumption slowdown vs. strong commercial vehicle demand.",
+        "stocks": {
+          "HAL": "neutral",
+          "Tata Motors": "mixed"
+        }
+      }
+    },
+    "4d22345e5dfbcfb6": {
+      "id": "4d22345e5dfbcfb6",
+      "title": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 21 August 2026",
+      "link": "https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-21-august-2026-11787241979222.html",
+      "summary": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five breakout stocks to buy today — VA Tech Wabag, Acme Solar Holdings, Cartrade Tech, Tamilnad Mercantile Bank, and Innova Captab.",
+      "pub": "21 Aug 06:42 IST",
+      "pub_dt": "2026-08-21T01:12:55+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "This is a generic analyst recommendation article without fundamental news or catalyst. Without specific company-level catalysts, breakout stock picks are purely technical/timing-based with no bearing on earnings, margins, or valuation drivers.",
+        "stocks": {}
+      }
+    },
+    "b00131b52033e127": {
+      "id": "b00131b52033e127",
+      "title": "Gold Set for Third Weekly Gain on US Treasury Buyback Plans",
+      "link": "https://www.livemint.com/market/gold-set-for-third-weekly-gain-on-us-treasury-buyback-plans-11787273040473.html",
+      "summary": "Gold was on track for a third weekly gain after the US Treasury’s unexpected ramp-up in buybacks of long-dated government debt underscored concerns about its burden.",
+      "pub": "21 Aug 06:14 IST",
+      "pub_dt": "2026-08-21T00:44:00+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "US Treasury buyback plans and gold strength are macro/commodity plays unrelated to operational earnings or competitive dynamics of Indian IT stocks. While lower US rates could marginally benefit IT margins via currency tailwinds, this is a secondary and indirect effect.",
+        "stocks": {}
+      }
+    },
+    "19e8ed242dd57e16": {
+      "id": "19e8ed242dd57e16",
+      "title": "Raja Venkatraman recommends three stocks for 21 August",
+      "link": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-21-august-11787228648758.html",
+      "summary": "Market expert Raja Venkatraman shares his top stock picks for 21 August. Here’s his technical outlook and trade strategy.",
+      "pub": "21 Aug 06:00 IST",
+      "pub_dt": "2026-08-21T00:30:38+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Generic technical analyst recommendation with no fundamental news, earnings catalysts, or valuation drivers. This is a timing/sentiment-based call without material impact on earnings or competitive positioning.",
+        "stocks": {}
+      }
+    },
+    "0c3f0dc74c514c56": {
+      "id": "0c3f0dc74c514c56",
+      "title": "Stock recommendations for 21 August from MarketSmith India",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-21-august-from-marketsmith-india-11787226581989.html",
+      "summary": "MarketSmith India reveals its top stock recommendations for today, 21 August. Get expert insights into the best-performing stocks to guide your investment decisions.",
+      "pub": "21 Aug 06:00 IST",
+      "pub_dt": "2026-08-21T00:30:17+00:00",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Generic stock recommendation summary without specific catalysts, earnings drivers, or operational developments. Auto sector recommendations lack fundamental newsflow or valuation triggers to warrant positive/negative directional assessment.",
+        "stocks": {}
+      }
+    },
+    "055e7bc86c17ae14": {
+      "id": "055e7bc86c17ae14",
+      "title": "Hua Hong, Kingboard, Zijin Gold May Join Hong Kong’s Stock Index",
+      "link": "https://www.livemint.com/market/hua-hong-kingboard-zijin-gold-may-join-hong-kong-s-stock-index-11787269994025.html",
+      "summary": "Hang Seng Indexes Co. may add chipmaker Hua Hong Grace Semiconductor Ltd., AI-related firm Kingboard Laminates Holdings Ltd. and miner Zijin Gold International Co. to Hong Kong’s equity benchmark, according to analysts.",
+      "pub": "21 Aug 05:23 IST",
+      "pub_dt": "2026-08-20T23:53:13+00:00",
+      "sectors": [
+        "IT",
+        "Materials"
+      ],
+      "stocks": [
+        "ACC"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Index inclusion of Hong Kong-listed chipmaker, AI, and mining firms is positive for those specific stocks but has no direct operational or earnings impact on ACC, which is a domestic Indian cement company with no exposure to Hong Kong equity benchmark changes.",
+        "stocks": {
+          "ACC": "neutral"
+        }
+      }
+    },
+    "8861ccaaa6d6adea": {
+      "id": "8861ccaaa6d6adea",
+      "title": "EM Currencies Mixed as Treasury Buyback Lift Proves Short-Lived",
+      "link": "https://www.livemint.com/market/em-currencies-mixed-as-treasury-buyback-lift-proves-shortlived-11787269993697.html",
+      "summary": "Emerging-market currencies were mixed on Thursday as the US Treasury’s announcement of increased bond buybacks was seen by many as a “temporary” measure, allowing the dollar to rebound.",
+      "pub": "21 Aug 05:23 IST",
+      "pub_dt": "2026-08-20T23:53:13+00:00",
+      "sectors": [
+        "Materials"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "EM currency weakness from short-lived Treasury buyback relief signals USD strength persistence, which pressures emerging market exporters' earnings in rupee terms and raises import costs for domestic material producers, creating margin headwinds.",
+        "stocks": {}
+      }
+    },
+    "535bdaabbd3cebd5": {
+      "id": "535bdaabbd3cebd5",
+      "title": "Consumers queue up for premium petrol as E20 concerns refuse to die down",
+      "link": "https://www.livemint.com/economy/consumers-queue-up-for-premium-petrol-as-e20-concerns-refuse-to-die-down-11787223782784.html",
+      "summary": "Amid concerns that ethanol-blended E20 petrol could hurt vehicle mileage and engine life, consumers are increasingly trading up to premium, high-octane petrol, driving its share of sales to 12-15% from about 4% in March",
+      "pub": "21 Aug 05:50 IST",
+      "pub_dt": "2026-08-21T00:20:17+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Consumer shift from E20 to premium petrol (12-15% vs 4% in March) indicates acceptance concerns over ethanol blends, benefiting premium fuel sales but potentially constraining broader fuel consumption as E20 adoption targets face headwinds—net impact depends on refiner mix economics.",
+        "stocks": {}
+      }
+    },
+    "1393122e1e91c1d2": {
+      "id": "1393122e1e91c1d2",
+      "title": "IT firms rethink employee pyramids as automation reshapes economics",
+      "link": "https://www.livemint.com/companies/it-firms-rethink-employee-pyramids-as-automation-reshapes-economics-11787218985480.html",
+      "summary": "Since the start of FY27, seven of India's 10 largest IT services firms have announced changes to their organizational structures.",
+      "pub": "21 Aug 06:00 IST",
+      "pub_dt": "2026-08-21T00:30:57+00:00",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Seven of India's top-10 IT services firms restructuring their organizational pyramids amid automation signals compression of mid-tier roles, margin pressure from flattened hierarchies, and reduced bench-building flexibility—a structural headwind to operating leverage in a traditionally high-margin sector.",
+        "stocks": {}
+      }
+    },
+    "f699c81098611038": {
+      "id": "f699c81098611038",
+      "title": "After Ather's gain, Hero's electric CV bet begins to scale",
+      "link": "https://www.livemint.com/companies/news/after-athers-gain-heros-electric-cv-bet-begins-to-scale-11787222464832.html",
+      "summary": "Hero MotoCorp's Euler Motors bet is scaling fast, with sales and revenue more than doubling since the two-wheeler giant became its largest shareholder.",
+      "pub": "21 Aug 06:00 IST",
+      "pub_dt": "2026-08-21T00:30:57+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [
+        "Hero MotoCorp"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Hero MotoCorp's Euler Motors subsidiary scaling with doubled sales and revenue post-equity stake expansion validates Hero's EV strategy execution and diversifies earnings beyond mature two-wheeler segment, supporting long-term growth and valuation re-rating amid strong Q1 momentum (29% profit growth, margin expansion).",
+        "stocks": {
+          "Hero MotoCorp": "positive"
+        }
+      }
     }
   }
 }
