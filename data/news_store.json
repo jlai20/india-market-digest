@@ -151950,6 +151950,59 @@
         "reasoning": "Duplicate announcement of same CEO transition. Leadership reshuffle with internal candidate maintains operational continuity but provides no clarity on strategic initiatives or near-term earnings catalysts.",
         "stocks": {}
       }
+    },
+    "8d0a4845f5eae35c": {
+      "id": "8d0a4845f5eae35c",
+      "title": "Freelancer ITR: 5 things to know before filing",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/freelancers-filing-itr-dont-get-these-5-things-wrong-form-expenses-44ada-foreign-income-and-more/articleshow/133415684.cms",
+      "summary": "",
+      "pub": "22 Aug 06:37 IST",
+      "pub_dt": "2026-08-22T01:07:56+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Generic educational content on freelancer ITR filing requirements with no direct impact on any specific company's earnings, margins, or valuation. This is informational content for taxpayers rather than company-specific news.",
+        "stocks": {}
+      }
+    },
+    "1c445656d50e88de": {
+      "id": "1c445656d50e88de",
+      "title": "The week in charts: Hawkish RBI minutes, drought warning, rural workforce",
+      "link": "https://www.livemint.com/economy/the-week-in-charts-hawkish-rbi-minutes-drought-warning-rural-workforce-11787216573972.html",
+      "summary": "In this weekly Plain Facts compilation, we present to you data-based insights, with easy-to-read charts, to help you delve deeper into the stories reported by Mint in the week gone by.",
+      "pub": "22 Aug 07:00 IST",
+      "pub_dt": "2026-08-22T01:30:40+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Hawkish RBI minutes suggest potential rate hikes or tight monetary policy, which is negative for IT sector earnings (higher borrowing costs, margin pressure) but positive for savers/currency stability. Drought warning is negative for rural-linked sectors. Overall mixed macro headwinds for IT sector without clear direction.",
+        "stocks": {}
+      }
+    },
+    "cb81c7bcd3ec6e73": {
+      "id": "cb81c7bcd3ec6e73",
+      "title": "Amara Raja bets on in-house battery tech, global talent after China deal stalls",
+      "link": "https://www.livemint.com/companies/amara-raja-bets-on-in-house-battery-tech-global-talent-after-china-deal-stalls-gotion-nmc-lfp-evs-11787306595784.html",
+      "summary": "The company had announced a partnership with Gotion in June 2024 to license lithium iron phosphate (LFP) battery technology. LFP and NMC are two cathode chemistries for lithium-ion batteries used in electric vehicles (EVs) and storage systems.",
+      "pub": "22 Aug 06:00 IST",
+      "pub_dt": "2026-08-22T00:30:19+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Amara Raja's stalled China partnership (Gotion deal) to license LFP battery technology represents a setback in EV battery roadmap and delays access to proven Chinese technology. In-house development is positive long-term optionality but increases capex and delays commercialization, pressuring near-term earnings and competitiveness against established battery makers.",
+        "stocks": {}
+      }
     }
   }
 }
