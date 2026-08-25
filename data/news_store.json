@@ -158960,6 +158960,518 @@
         "reasoning": "$700-800 million incremental investment from DP World in India signals confidence in logistics infrastructure growth and containerized trade acceleration. Longer-term contracts improve revenue visibility and cash flow predictability, supporting valuation multiple expansion.",
         "stocks": {}
       }
+    },
+    "c85449b0e8146cc7": {
+      "id": "c85449b0e8146cc7",
+      "title": "Renewable energy project deadlines extended up to four months due to West Asia disruptions",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/renewable-energy-project-deadlines-extended-up-to-four-months-due-to-west-asia-disruptions/articleshow/133485825.cms",
+      "summary": "Renewable energy projects may receive up to four-month deadline extensions.  This relief applies to delays caused by West Asia situation disruptions.  Agencies can allow extensions without penalties for eligible projects.  The provision covers delays occurring on or after February 28, 2026.  This move addresses potential disruptions to contract execution for goods and services.",
+      "pub": "25 Aug 06:32 IST",
+      "pub_dt": "2026-08-25T01:02:39+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Four-month deadline extensions for renewable energy projects reduce execution risk and financial penalties, supporting project completion timelines and cash flow predictability for renewable energy companies. This provides operational relief amid supply chain disruptions from geopolitical tensions.",
+        "stocks": {}
+      }
+    },
+    "e1b7e4cf4c891590": {
+      "id": "e1b7e4cf4c891590",
+      "title": "India’s weight in global emerging-market ETFs rises again",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/indias-weight-in-global-emerging-market-etfs-rebounds-on-stronger-relative-performance/articleshow/133485587.cms",
+      "summary": "India's weight in major global emerging-market ETFs has begun to recover recently. This rise follows a steady decline over the past year, showing improved performance. India's stable market has increased its weight in underlying indices compared to others. South Korea and Taiwan have seen declines amid valuation concerns and market pressures. This shift reflects relative country performance within",
+      "pub": "25 Aug 06:23 IST",
+      "pub_dt": "2026-08-25T00:53:12+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "India's rising weight in global emerging-market ETFs signals improved relative valuation and investor confidence in Indian equities compared to South Korea and Taiwan. This translates to increased foreign portfolio inflows and positive sentiment, particularly benefiting IT and large-cap stocks with high ETF weightings.",
+        "stocks": {}
+      }
+    },
+    "bebbaaf626e435aa": {
+      "id": "bebbaaf626e435aa",
+      "title": "Sebi drops Rs 3,912 crore probe against Max Financial, Axis Bank over disclosure lapses",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-drops-rs-3912-crore-probe-against-max-financial-axis-bank-over-disclosure-lapses/articleshow/133485032.cms",
+      "summary": "Sebi has dropped proceedings against Max Financial and its associates. Allegations of disclosure lapses and a fraudulent scheme were not proven. The market regulator cleared Max Financial founder Analjit Singh and executives. Sebi investigated transactions between Max Financial, Max Life, and Axis entities. The regulator found no evidence of a fraudulent scheme benefiting Axis.",
+      "pub": "25 Aug 06:11 IST",
+      "pub_dt": "2026-08-25T00:41:52+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT"
+      ],
+      "stocks": [
+        "Axis Bank"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Sebi's dismissal of fraud and disclosure lapse charges removes a significant regulatory overhang and reputational risk for Axis Bank. This clearing allows the bank to proceed with strategic initiatives without legal uncertainty and strengthens investor confidence, aligning with Axis Bank's recent positive momentum in capital-raising and corporate wallet expansion.",
+        "stocks": {
+          "Axis Bank": "positive"
+        }
+      }
+    },
+    "bd9ac13e77186057": {
+      "id": "bd9ac13e77186057",
+      "title": "Stocks in news: TCS, ICICI Bank, Hindustan Copper and Piramal Finance",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tcs-icici-bank-hindustan-copper-and-piramal-finance/articleshow/133475143.cms",
+      "summary": "The Indian equity markets experienced a downturn today, with the Nifty50 index finishing slightly above 24,200. Traders brace for heightened volatility amidst forthcoming US sanctions and the impending expiry of monthly futures and options. Key companies, such as Hindustan Copper and Tata Consultancy Services, are capturing market attention due to notable corporate news.",
+      "pub": "25 Aug 06:00 IST",
+      "pub_dt": "2026-08-25T00:30:00+00:00",
+      "sectors": [
+        "Banking",
+        "IT",
+        "Materials"
+      ],
+      "stocks": [
+        "ICICI Bank",
+        "TCS"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "While ICICI Bank continues strong momentum with recent capital raises and Goldman Sachs's positive initiation, TCS faces multiple headwinds including governance uncertainty from N Chandrasekaran's resignation, analyst downgrades on AI concerns, and recent mcap erosion. Recent Porsche deal ($1.45B contract, $373M IT arm acquisition) is positive but offset by structural concerns.",
+        "stocks": {
+          "TCS": "mixed",
+          "ICICI Bank": "positive"
+        }
+      }
+    },
+    "b3582de8163257a4": {
+      "id": "b3582de8163257a4",
+      "title": "Pre-market action: Here's the trade setup for today's session",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/133474754.cms",
+      "summary": "Domestic equities closed mixed on Monday as the Nifty saw a slight decline. Global cues and geopolitical tensions are expected to keep Indian markets subdued. The US Treasury's bond buyback program weakened the dollar and supported precious metals. Foreign portfolio investors were net sellers, while domestic institutional investors bought shares. The Indian rupee pared initial gains, settling lowe",
+      "pub": "25 Aug 06:00 IST",
+      "pub_dt": "2026-08-25T00:30:00+00:00",
+      "sectors": [
+        "IT",
+        "Materials"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Mixed market closure with subdued sentiment driven by geopolitical tensions and FPI selling outweighing DII buying. Weak global cues and rupee depreciation create a risk-off environment that could pressure IT and materials sectors despite some support from precious metals.",
+        "stocks": {}
+      }
+    },
+    "3329a79290c1ed54": {
+      "id": "3329a79290c1ed54",
+      "title": "Rising multiple vehicle loans, bigger ticket sizes raise  risk for lenders",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/rising-multiple-vehicle-loans-bigger-ticket-sizes-raise-lender-risk/articleshow/133484963.cms",
+      "summary": "Vehicle buyers are increasingly taking multiple loans, while the average amount borrowed is also rising, raising potential credit risks for lenders. The trend is most visible in commercial vehicle finance, where borrowers with two or more loans rose to 19.9% in June from 15.7% a year earlier.",
+      "pub": "25 Aug 00:40 IST",
+      "pub_dt": "2026-08-24T19:10:01+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Rising multiple vehicle loans and increasing ticket sizes signal deteriorating credit quality and elevated default risk for auto lenders and NBFCs. This trend—particularly acute in commercial vehicle finance with 19.9% borrowers having multiple loans—raises provisions and potential NPA concerns for banking sector lenders.",
+        "stocks": {}
+      }
+    },
+    "60b4f07232446152": {
+      "id": "60b4f07232446152",
+      "title": "Suzlon plans 1,325 MW wind projects in Andhra Pradesh",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/suzlon-plans-1325-mw-wind-projects-in-andhra-pradesh/articleshow/133484993.cms",
+      "summary": "Suzlon Group is set to launch an impressive 1,325 MW of wind energy projects in Andhra Pradesh, backed by a ₹10,000 crore investment. This venture promises to create about 4,000 direct and indirect jobs. With a vision to integrate an additional 5 GW of renewable energy projects by 2030, Suzlon is reinforcing its commitment to sustainable energy, having already invested ₹12,000 crore in the region ",
+      "pub": "25 Aug 00:33 IST",
+      "pub_dt": "2026-08-24T19:03:37+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Suzlon's ₹10,000 crore investment in 1,325 MW wind projects in Andhra Pradesh, with 5 GW planned by 2030, demonstrates strong execution and renewable energy expansion. This capex deployment drives revenue growth, order book visibility, and positions the company to benefit from India's renewable energy push.",
+        "stocks": {}
+      }
+    },
+    "6678efa784c2e875": {
+      "id": "6678efa784c2e875",
+      "title": "L&amp;T wins ‘ultra-mega’ contract in West Asia worth over ₹15,000 crore",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/lt-wins-ultra-mega-contract-in-west-asia-worth-over-15000-crore/articleshow/133484859.cms",
+      "summary": "Larsen &amp; Toubro (L&amp;T) has won an ultra-mega contract to execute a gas compression project for a major Gulf client, expanding its hydrocarbon infrastructure business. The company classifies orders above ₹15,000 crore as ultra-mega but did not disclose the contract value.",
+      "pub": "25 Aug 00:27 IST",
+      "pub_dt": "2026-08-24T18:57:01+00:00",
+      "sectors": [
+        "Industrials"
+      ],
+      "stocks": [
+        "L&T"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "L&T's ultra-mega contract win (₹15,000+ crore) in West Asia expands its hydrocarbon infrastructure business and order book, providing multi-year revenue visibility. This demonstrates L&T's market leadership in engineering-procurement-construction and validates its strategic focus on mega-projects despite geopolitical uncertainties.",
+        "stocks": {
+          "L&T": "positive"
+        }
+      }
+    },
+    "442c69dbd9123a02": {
+      "id": "442c69dbd9123a02",
+      "title": "InCred hires Avendus wealth experts to launch new platform for ultra-high-net-worth individuals",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/incred-hires-avendus-wealth-experts-to-launch-new-platform-for-ultra-high-net-worth-individuals/articleshow/133485962.cms",
+      "summary": "InCred recently welcomed three senior professionals from the competition, Avendus, to establish a dedicated platform aimed at ultra-high-net-worth individuals. Their wealth division has now achieved assets exceeding one lakh crore. As India's ultra-high-net-worth population continues to surge, this initiative is set to tap into a flourishing segment of wealthy clientele.",
+      "pub": "25 Aug 06:41 IST",
+      "pub_dt": "2026-08-25T01:11:53+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "While InCred's hiring of wealth experts and AUM growth to ₹1 lakh crore is operationally positive for the company, this is a sector-level initiative with no direct impact on tagged stocks (none provided). The news reflects healthy wealth management industry dynamics but lacks specific earnings or valuation implications for measurable equity positions.",
+        "stocks": {}
+      }
+    },
+    "319afcd33e089a61": {
+      "id": "319afcd33e089a61",
+      "title": "Global Market Today: Asian stocks dip after US tech selloff, gold gains",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-dip-after-us-tech-selloff-gold-gains/articleshow/133485763.cms",
+      "summary": "Asian markets followed Wall Street's downward trend as caution in technology stocks seeped into trading. Meanwhile, gold prices soared for the fifth day straight, hitting impressive highs. Investors are on the edge of their seats awaiting Nvidia's earnings announcement, which is expected to sway market sentiment. Federal Reserve Chair Kevin Warsh's upcoming speech also promises insights into the e",
+      "pub": "25 Aug 06:27 IST",
+      "pub_dt": "2026-08-25T00:57:31+00:00",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Materials",
+        "Telecoms"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "US tech selloff and Asian market decline create near-term headwinds for IT and tech-exposed sectors. Uncertainty around Nvidia earnings and Fed commentary add macro volatility, though gold gains signal flight-to-safety which may pressure growth-oriented equities. This is a continuation of recent tech sector weakness.",
+        "stocks": {}
+      }
+    },
+    "b1e80fb9c2b5ba1f": {
+      "id": "b1e80fb9c2b5ba1f",
+      "title": "India Inc’s equity fundraising surges past Rs 1.11 lakh crore on strong inflows in July-August",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/india-incs-equity-fundraising-surges-past-rs-1-11-lakh-crore-on-strong-inflows-in-july-august/articleshow/133485341.cms",
+      "summary": "IPO activity remained particularly strong, garnering more than 40% of the funds raised. So far this month, 20 companies have collected more than ₹20,850 crore, adding on to the ₹28,650 crore raised by 12 companies in July. Listed companies have also stepped up qualified institutional placements (QIP), with four companies raising ₹3,250 crore so far in August, against ₹25,114 crore by eight compani",
+      "pub": "25 Aug 06:06 IST",
+      "pub_dt": "2026-08-25T00:36:44+00:00",
+      "sectors": [
+        "IT",
+        "Materials"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Equity fundraising surge of ₹1.11 lakh crore with strong IPO momentum (40%+ of funds) indicates robust investor appetite and capital availability for growth. This supports expansion and M&A activity for companies in IT and Materials sectors, creating a constructive environment for earnings growth and valuations.",
+        "stocks": {}
+      }
+    },
+    "3ad4d89b47c8ccc7": {
+      "id": "3ad4d89b47c8ccc7",
+      "title": "CapitaLand India Trust shifts debt to rupees as INR falls",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/capitaland-india-trust-shifts-debt-to-rupees-as-inr-falls/articleshow/133485096.cms",
+      "summary": "As of June 2026, CLINT had approximately S$1.7 billion (roughly ₹8,820 crore) of borrowings. As of June, CLINT's assets under management stood at S$3.5 billion.",
+      "pub": "25 Aug 00:55 IST",
+      "pub_dt": "2026-08-24T19:25:24+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "CapitaLand India Trust's debt restructuring from SGD to INR is a treasury/hedging decision to manage currency risk on ₹8,820 crore of borrowings. While prudent, this is a financing optimization move with minimal direct impact on operational earnings or asset quality, reflecting ongoing FX volatility management.",
+        "stocks": {}
+      }
+    },
+    "cf7cb18d0316cffb": {
+      "id": "cf7cb18d0316cffb",
+      "title": "US set for largest mass visa revocation in history",
+      "link": "https://economictimes.indiatimes.com/nri/migrate/us-set-for-largest-mass-visa-revocation-in-history-targeting-up-to-200000-foreigners-officials-say/articleshow/133485842.cms",
+      "summary": "",
+      "pub": "25 Aug 06:30 IST",
+      "pub_dt": "2026-08-25T01:00:00+00:00",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "US mass visa revocation threatens India's IT services exports and mobility-dependent sectors (Autos if export-linked). Reduced work visa availability could constrain onsite staffing for tech companies and reduce offshore arbitrage benefits, creating structural headwinds for IT sector growth and margins.",
+        "stocks": {}
+      }
+    },
+    "59abf1e10ba35975": {
+      "id": "59abf1e10ba35975",
+      "title": "Sebi drops Rs 3,912-cr probe against Max Fin, Axis Bank",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-drops-rs-3912-crore-probe-against-max-financial-axis-bank-over-disclosure-lapses/articleshow/133485032.cms",
+      "summary": "Mumbai: The Securities and Exchange Board of India (Sebi) has dropped proceedings against Max Financial Services, Max Life Insurance Company, Axis Bank and other Axis group entities, concluding that allegations of disclosure lapses and a fraudulent scheme that allegedly caused a ₹3,912-crore loss to Max Financial and its shareholders couldn't be proved. The market regulator has also cleared Max Fi",
+      "pub": "25 Aug 06:11 IST",
+      "pub_dt": "2026-08-25T00:41:52+00:00",
+      "sectors": [
+        "Banking",
+        "IT"
+      ],
+      "stocks": [
+        "Axis Bank"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Sebi's dismissal of fraud and disclosure charges against Axis Bank and Max Financial removes a major regulatory overhang and reputational risk. This clears the path for Axis Bank to operate without compliance uncertainty and strengthens investor confidence, eliminating a material downside risk to the stock's valuation.",
+        "stocks": {
+          "Axis Bank": "positive"
+        }
+      }
+    },
+    "c3ac5eb6b37fce07": {
+      "id": "c3ac5eb6b37fce07",
+      "title": "Trump invested $50,000 in Elon Musk's SpaceX in June? More than 1,000 stock trades in the month: Report",
+      "link": "https://www.livemint.com/market/stock-market-news/trump-invested-50-000-in-elon-musks-spacex-in-june-more-than-1-000-stock-trades-in-the-month-report-11787620059627.html",
+      "summary": "US President Donald Trump bought between $15,001 and $50,000 in shares on June 23, according to a financial disclosure he signed on August 12 and made public on August 22. 2026",
+      "pub": "25 Aug 06:51 IST",
+      "pub_dt": "2026-08-25T01:21:56+00:00",
+      "sectors": [
+        "Materials"
+      ],
+      "stocks": [
+        "ACC"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Trump's personal SpaceX investment ($15-50k in June) is a portfolio diversification move unrelated to ACC's cement/materials operations. While the disclosure noise reflects macro sentiment, it has no direct bearing on ACC's earnings, demand drivers, or competitive position in the materials sector.",
+        "stocks": {
+          "ACC": "neutral"
+        }
+      }
+    },
+    "78c766cfceded6da": {
+      "id": "78c766cfceded6da",
+      "title": "Canadian Dollar Tumbles as Trade Rift Threatens Growth Outlook",
+      "link": "https://www.livemint.com/market/canadian-dollar-tumbles-as-trade-rift-threatens-growth-outlook-11787619491615.html",
+      "summary": "The Canadian dollar was heading for its worst day against the US dollar in more than two months after trade talks between the two countries collapsed.",
+      "pub": "25 Aug 06:28 IST",
+      "pub_dt": "2026-08-25T00:58:11+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Canada-US trade rift collapse threatens growth outlook and signals rising protectionist pressures globally. For India's IT sector (which depends on stable US trade flows and client investments), escalating trade tensions create macro headwinds to demand, especially if US economic slowdown follows trade disruptions.",
+        "stocks": {}
+      }
+    },
+    "9d06854fb16deae3": {
+      "id": "9d06854fb16deae3",
+      "title": "Nifty trapped between key moving averages; will August expiry bring a directional move?",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-trapped-between-key-moving-averages-will-august-expiry-bring-a-directional-move-11787591787999.html",
+      "summary": "The Nifty 50 index opened positively but faced selling pressure, closing down at 24,219.05. The index remains in a sideways trend, with key resistance at 24,300 and support at 24,192",
+      "pub": "25 Aug 06:21 IST",
+      "pub_dt": "2026-08-25T00:51:26+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Index-level technical analysis with no specific earnings or fundamental catalyst. Sideways movement between support and resistance reflects market indecision rather than directional risk to valuations.",
+        "stocks": {}
+      }
+    },
+    "f090e9f5e5c87336": {
+      "id": "f090e9f5e5c87336",
+      "title": "Stock recommendations for 25 August from MarketSmith India",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-25-august-from-marketsmith-india-11787574187641.html",
+      "summary": "MarketSmith India reveals its top stock recommendations for today, 25 August. Get expert insights into the best-performing stocks to guide your investment decisions.",
+      "pub": "25 Aug 06:00 IST",
+      "pub_dt": "2026-08-25T00:30:40+00:00",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Generic recommendation roundup without specific stock picks, earnings catalysts, or fundamental triggers disclosed. Lacks actionable information on valuation or competitive dynamics.",
+        "stocks": {}
+      }
+    },
+    "9eee534aaaf4100b": {
+      "id": "9eee534aaaf4100b",
+      "title": "Raja Venkatraman recommends three stocks for 25 August",
+      "link": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-25-august-11787587016319.html",
+      "summary": "Market expert Raja Venkatraman shares his top stock picks for 25 August. Here’s his technical outlook and trade strategy.",
+      "pub": "25 Aug 06:00 IST",
+      "pub_dt": "2026-08-25T00:30:20+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Analyst technical outlook without disclosed stock picks or fundamental rationale. No earnings impact, margin changes, or strategic catalysts provided.",
+        "stocks": {}
+      }
+    },
+    "382766448a9c38c8": {
+      "id": "382766448a9c38c8",
+      "title": "Gold Holds Near Three-Month High as Traders Weigh Treasury Moves",
+      "link": "https://www.livemint.com/market/gold-holds-near-three-month-high-as-traders-weigh-treasury-moves-11787617195011.html",
+      "summary": "Gold traded near a three-month high, as traders weighed the US Treasury’s next move in the bond market after the surprise intervention that’s revived concerns around fiscal policy.",
+      "pub": "25 Aug 05:49 IST",
+      "pub_dt": "2026-08-25T00:19:54+00:00",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Macro commodity price movement driven by US Treasury policy, not company-specific fundamentals. While gold strength may benefit jewelry sector margins, this is indirect and unquantified.",
+        "stocks": {}
+      }
+    },
+    "b710c4723b1c1ebf": {
+      "id": "b710c4723b1c1ebf",
+      "title": "Shankesh Jewellers IPO to debut today: What GMP signals for investors",
+      "link": "https://www.livemint.com/market/ipo/shankesh-jewellers-ipo-to-debut-today-what-gmp-signals-for-investors-11787588284266.html",
+      "summary": "Shankesh Jewellers shares are set to list on August 25 following a strong IPO response. With a grey market premium of 2.15%, shares may debut around  ₹95. The issue was subscribed 2.80 times, with significant demand from non-institutional investors.",
+      "pub": "25 Aug 05:30 IST",
+      "pub_dt": "2026-08-25T00:00:40+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "IPO listing with modest 2.15% GMP reflects limited upside momentum post-debut. 2.80x subscription shows reasonable but not exceptional investor conviction. No information on earnings visibility or competitive positioning in jewelry retail.",
+        "stocks": {}
+      }
+    },
+    "c2e859ce54233d00": {
+      "id": "c2e859ce54233d00",
+      "title": "Sunshine Pictures IPO listing date today. GMP, experts hint up to 14% listing pop",
+      "link": "https://www.livemint.com/market/ipo/sunshine-pictures-ipo-listing-date-today-gmp-experts-hint-up-to-14-listing-pop-11787567362199.html",
+      "summary": "Sunshine Pictures IPO will be listed today at 10:00 IST, with an estimated share price of  ₹410, 13.89% above the IPO price. The offering was heavily subscribed, reflecting strong investor interest, as analysts predict sustainable growth and profitability for the company.",
+      "pub": "25 Aug 05:26 IST",
+      "pub_dt": "2026-08-24T23:56:13+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Strong 13.89% listing premium with heavy IPO subscription signals robust investor demand and validates business model. Analyst commentary on sustainable growth and profitability suggests positive earnings trajectory and market confidence in execution.",
+        "stocks": {}
+      }
+    },
+    "97d491b6a8387efe": {
+      "id": "97d491b6a8387efe",
+      "title": "Pristyn Care scales back two bets as it refocuses on hospitals",
+      "link": "https://www.livemint.com/companies/news/pristyn-care-scales-back-two-bets-as-it-refocuses-on-hospitals-clinics-diagnostics-medical-management-health-11787555635725.html",
+      "summary": "Pristyn Care is demerging BeatXP and scaling back MedX as it shifts resources towards its own hospitals and seeks to improve cash flows.",
+      "pub": "25 Aug 06:01 IST",
+      "pub_dt": "2026-08-25T00:31:00+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Strategic retreat from two business bets (BeatXP demerger, MedX scaling back) and refocus on hospitals signals prior capital misallocation and execution challenges. This implies margin pressure near-term and suggests management is correcting course after value destruction.",
+        "stocks": {}
+      }
+    },
+    "a02aa3a6787ac687": {
+      "id": "a02aa3a6787ac687",
+      "title": "A $10 billion financial knot awaits Chandrasekaran’s successor",
+      "link": "https://www.livemint.com/companies/a-10-billion-financial-knot-awaits-chandrasekaran-s-successor-11787565128753.html",
+      "summary": "Capital allocation, management bandwidth and attention across new-age and listed businesses will put the next Tata group chairperson’s leadership to the test.",
+      "pub": "25 Aug 06:01 IST",
+      "pub_dt": "2026-08-25T00:31:00+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Leadership transition creates uncertainty around capital allocation and execution across Tata conglomerate's diverse portfolio (new-age vs. listed businesses). While succession risk is concerning, strong corporate governance and established playbook may mitigate downside; no near-term earnings impact quantified.",
+        "stocks": {}
+      }
+    },
+    "06194e81f43b778f": {
+      "id": "06194e81f43b778f",
+      "title": "Nexedge Capital raises $20 mn from Mirae Asset and Elev8 Venture Partners",
+      "link": "https://www.livemint.com/companies/nexedge-capital-raises-20-mn-from-mirae-asset-and-elev8-venture-partners-investment-funding-wealth-management-11787567613924.html",
+      "summary": "Launched in February 2025, Nexedge has been among the fastest-growing wealth-management platforms, scaling to more than $3 billion in assets under management within 18 months across over 1,300 clients. It has onboarded more than 95 senior bankers, with another 50-60 expected to join in 2026.",
+      "pub": "25 Aug 06:00 IST",
+      "pub_dt": "2026-08-25T00:30:20+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Fundraising by a private wealth-management platform indicates sector momentum but has no direct impact on publicly traded Indian equities. The capital infusion supports Nexedge's growth trajectory, but without listed stock exposure in the tagged sectors (Autos, Banking, IT), this is a sector-level observation rather than company-specific catalyst.",
+        "stocks": {}
+      }
+    },
+    "15218e9310669e41": {
+      "id": "15218e9310669e41",
+      "title": "Verlinvest, founder family lap up more of Epigamia, Sauce enters cap table",
+      "link": "https://www.livemint.com/companies/epigamia-verlinvest-sauce-secondary-deal-20-million-11787547229176.html",
+      "summary": "Epigamia’s investors are reshuffling its cap table through a $20 million secondary deal, with Verlinvest and the Mirchandani family raising their stakes and Sauce coming on board, as the profitable dairy and snacking startup aims to double its business every 24-30 months.",
+      "pub": "25 Aug 05:30 IST",
+      "pub_dt": "2026-08-25T00:00:40+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Secondary cap table restructuring at a private dairy/snacking startup reflects investor confidence in unit economics and 24-30 month doubling targets, but remains a private company event. No direct earnings or valuation impact on listed Indian equities in the tagged sectors (Autos, IT).",
+        "stocks": {}
+      }
+    },
+    "0dfdf44aa80fbf21": {
+      "id": "0dfdf44aa80fbf21",
+      "title": "Urban Company turns to luxury brands to premiumize beauty business",
+      "link": "https://www.livemint.com/companies/news/urban-company-premium-beauty-services-get-look-yes-madam-skincare-cosmetics-salon-services-at-home-11787553157596.html",
+      "summary": "It has partnered with the premium Spanish cosmeceutical and skincare brand Casmara, the French skincare and cosmetics brand Remy Laure, the professional skincare brand 03, and the premium Indian body and skincare brand Mintree.",
+      "pub": "25 Aug 05:00 IST",
+      "pub_dt": "2026-08-24T23:30:19+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Urban Company's premium brand partnerships (Casmara, Remy Laure, 03, Mintree) represent a strategic premiumization shift to improve margins and AOV in beauty services, but the company remains unlisted. This reflects sectoral trends in beauty/wellness but has no direct impact on tagged public equities.",
+        "stocks": {}
+      }
     }
   }
 }
