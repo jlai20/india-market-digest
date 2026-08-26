@@ -163553,6 +163553,509 @@
         "reasoning": "Zoho CEO's commentary on corporate culture is editorial/strategic guidance with no quantifiable impact on the company's earnings, margins, or growth trajectory. This is leadership opinion on organizational philosophy rather than material business news.",
         "stocks": {}
       }
+    },
+    "2829e370d515470b": {
+      "id": "2829e370d515470b",
+      "title": "Outward remittances under LRS up at $2.5 billion",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/outward-remittances-under-lrs-up-at-2-5-billion/articleshow/133527045.cms",
+      "summary": "In June, the total outward remittances under the Liberalised Remittance Scheme soared to $2.5 billion. Notably, Indians disbursed $1.3 billion on international travel, reflecting a significant uptick from the previous month. Meanwhile, expenditure on overseas education rose to $96 million. Additionally, remittances for the upkeep of close relatives accounted for $287 million, while investments in ",
+      "pub": "26 Aug 06:43 IST",
+      "pub_dt": "2026-08-26T01:13:33+00:00",
+      "sectors": [
+        "Autos",
+        "Materials"
+      ],
+      "stocks": [
+        "ACC"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "LRS remittance data showing increased international travel and education spending reflects strong consumer sentiment but has no direct earnings impact on ACC, a cement company. The trend indicates robust household savings and discretionary spending but doesn't translate to near-term cement demand acceleration.",
+        "stocks": {
+          "ACC": "neutral"
+        }
+      }
+    },
+    "0522db13873b8282": {
+      "id": "0522db13873b8282",
+      "title": "Axis Bank set to raise $700 million through ECB swap facility",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/axis-bank-set-to-raise-700-million-through-ecb-swap-facility/articleshow/133526983.cms",
+      "summary": "Axis Bank is set to secure seven hundred million dollars through a dedicated external commercial borrowing facility. This loan features two tranches with tenures of three and five years. The arrangement is spearheaded by CTBC Bank from Taiwan and United Overseas Bank from Singapore, with significant contributions from the World Bank's IFC. Additional banks are anticipated to participate as the syn",
+      "pub": "26 Aug 06:33 IST",
+      "pub_dt": "2026-08-26T01:03:39+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT"
+      ],
+      "stocks": [
+        "Axis Bank"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Axis Bank's $700 million ECB facility at competitive rates (building on earlier $300 million raise) strengthens its capital base and liquidity position ahead of growth initiatives. Access to international financing at attractive terms supports capital-light expansion in high-margin corporate wallet services, directly improving ROA/ROAE metrics.",
+        "stocks": {
+          "Axis Bank": "positive"
+        }
+      }
+    },
+    "04d32b482e7220b9": {
+      "id": "04d32b482e7220b9",
+      "title": "Stocks in news: Groww, Tata Motors PV, Cipla, Varun Beverages and Axis Bank",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-groww-tata-motors-pv-cipla-varun-beverages-and-axis-bank/articleshow/133521013.cms",
+      "summary": "The Indian equity market experienced a positive turnaround on Tuesday, August 25, highlighted by the Nifty 50 making a robust recovery. Anticipation builds for Wednesday as Groww gears up for a significant block deal, while Cipla faces new USFDA inspectional observations. In other news, Tata Motors Passenger Vehicles is set to enhance its electric vehicle offerings through a collaboration with Tat",
+      "pub": "26 Aug 06:00 IST",
+      "pub_dt": "2026-08-26T00:30:00+00:00",
+      "sectors": [
+        "Autos",
+        "Banking"
+      ],
+      "stocks": [
+        "Axis Bank",
+        "Tata Motors"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "The news item is primarily about market recovery and Groww's block deal (positive macro backdrop), but Tata Motors' EV collaboration with Tata Power is a positive strategic move for competitive positioning in electrification. However, no specific details on the collaboration impact are provided, limiting conviction on earnings accretion.",
+        "stocks": {
+          "Axis Bank": "positive",
+          "Tata Motors": "mixed"
+        }
+      }
+    },
+    "0ca4c4f26a86a3af": {
+      "id": "0ca4c4f26a86a3af",
+      "title": "D-Street set for a positive start as GIFT Nifty trades firmly higher",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/133520659.cms",
+      "summary": "The Nifty index recovered 0.5 percent, closing at 24,334 after touching a low. Positive global cues and FII buying supported this recovery ahead of expiry. Brent crude oil prices fell 3.2 percent, easing concerns about oil markets. The Indian rupee also strengthened by 24 paise against the US dollar. India VIX, a fear gauge, declined by 3.9 percent to 11.08 levels.",
+      "pub": "26 Aug 06:00 IST",
+      "pub_dt": "2026-08-26T00:30:00+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Positive market setup with Nifty recovery, Brent crude falling 3.2%, and rupee strengthening creates macro tailwinds for all listed companies. Lower oil prices ease inflation concerns and reduce input costs for energy-dependent sectors, supporting margin expansion across the board.",
+        "stocks": {}
+      }
+    },
+    "99e1e12d1f61e4d1": {
+      "id": "99e1e12d1f61e4d1",
+      "title": "Hindustan Copper OFS may not be a big draw for retail investors: Analysts",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/hind-copper-may-not-be-a-big-draw-for-retail-investors/articleshow/133526868.cms",
+      "summary": "Analysts express caution regarding retail investor interest in Hindustan Copper's offer for sale.  A nearly ten percent discount may not attract investors after recent metal stock rallies.  The institutional portion saw strong demand, exceeding shares available on the first day.  Current valuations and limited upside potential raise concerns for potential subscribers.  Investors are advised to see",
+      "pub": "26 Aug 05:58 IST",
+      "pub_dt": "2026-08-26T00:28:50+00:00",
+      "sectors": [
+        "IT",
+        "Materials",
+        "Telecoms"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Hindustan Copper's OFS facing weak retail interest despite institutional demand reflects challenging valuations and limited upside for the stock post recent metal rallies. Weak retail participation signals lower demand than supply, potentially pressuring secondary market performance and capital-raising effectiveness.",
+        "stocks": {}
+      }
+    },
+    "b4a5c8d077b9c9f5": {
+      "id": "b4a5c8d077b9c9f5",
+      "title": "Small- and midcaps shine as blue-chip stocks struggle for momentum",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/small-and-midcaps-shine-as-blue-chip-stocks-struggle-for-momentum/articleshow/133526882.cms",
+      "summary": "Mid- and small-cap stocks have continued to defy index-level inertia amid a rush in primary-market listings. The average advance-to-decline (A/D) ratio - a widely watched indicator of overall market health - in August is up for the fifth consecutive month, its longest winning streak in more than two and a half years, pointing to significant investor interest beyond the typical frontbenchers that p",
+      "pub": "26 Aug 05:55 IST",
+      "pub_dt": "2026-08-26T00:25:15+00:00",
+      "sectors": [
+        "Autos",
+        "Industrials"
+      ],
+      "stocks": [
+        "HAL"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "HAL benefits from the broad-based smallcap/midcap rally and strong defence procurement tailwinds (recent analyst upgrades), but the note warns that 63% of smallcaps are underperforming their benchmark, indicating the rally is unsustainably narrow. HAL's 5-year negative returns suggest valuation catch-up is ongoing but sustainability is questionable.",
+        "stocks": {
+          "HAL": "mixed"
+        }
+      }
+    },
+    "9e31461d6c023fb0": {
+      "id": "9e31461d6c023fb0",
+      "title": "L&amp;T wins ₹5,000-10,000 cr 'major' order to build 3 battery storage projects in Middle East",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/lt-wins-major-middle-east-order-for-6-gwh-battery-storage-projects/articleshow/133526841.cms",
+      "summary": "Larsen &amp; Toubro said its renewables business has won a major order in the Middle East to develop three battery energy storage system projects with a combined capacity of 6 GWh.",
+      "pub": "26 Aug 00:56 IST",
+      "pub_dt": "2026-08-25T19:26:58+00:00",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "L&T"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "L&T's ₹5,000-10,000 crore 'major' order for 3 battery storage projects (6 GWh combined) in Middle East directly strengthens order book visibility and revenue pipeline. Battery energy storage is a high-growth segment globally; this win demonstrates L&T's competitive positioning in renewables and provides multi-year earnings growth visibility.",
+        "stocks": {
+          "L&T": "positive"
+        }
+      }
+    },
+    "fc34d0006df68fa0": {
+      "id": "fc34d0006df68fa0",
+      "title": "Food prices on the rise, domestic demand keeps economy strong",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/food-prices-on-the-rise-domestic-demand-keeps-economy-strong/articleshow/133526830.cms",
+      "summary": "India's economy shows resilience with improved domestic demand and strong economic activity. Food prices have seen a broad-based increase, raising concerns for monetary policymakers. Global economic outlook remains weighed by West Asia conflicts and new US tariffs. High-frequency indicators reflect strong manufacturing and services momentum continuing into July.",
+      "pub": "26 Aug 00:33 IST",
+      "pub_dt": "2026-08-25T19:03:30+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Broad-based food price inflation poses near-term margin headwinds for consumer-facing and industrial companies through higher input costs and wage pressures. However, strong domestic demand and manufacturing momentum provide offsetting growth tailwinds. RBI's policy response to food inflation remains uncertain, creating valuation ambiguity.",
+        "stocks": {}
+      }
+    },
+    "8a54200f1fbe4679": {
+      "id": "8a54200f1fbe4679",
+      "title": "India adds 1.26 million credit cards in July as spending rises; HDFC, SBI  lead the way",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/india-adds-1-26-million-credit-cards-in-july-as-spending-rises-hdfc-sbi-lead-the-way/articleshow/133526854.cms",
+      "summary": "healthy demand Industry card additions rise 11.5% over June; Card spends hold above ₹2 lakh-crore mark; Transaction volumes surge but the value per transaction declines",
+      "pub": "25 Aug 23:46 IST",
+      "pub_dt": "2026-08-25T18:16:55+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [
+        "SBI"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Credit card additions of 1.26M with 11.5% month-on-month growth and sustained spending above ₹2 lakh crore indicates robust consumer demand and rising transaction volumes. For SBI, this translates to higher fee income from card services and improved advances growth, supporting NII expansion and profitability momentum evident in recent Q1 results.",
+        "stocks": {
+          "SBI": "positive"
+        }
+      }
+    },
+    "35a40d2832a93d69": {
+      "id": "35a40d2832a93d69",
+      "title": "Global Market Today: Asian stocks mixed ahead of Nvidia results, oil prices slide",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-mixed-ahead-of-nvidia-results-oil-prices-slide/articleshow/133526965.cms",
+      "summary": "Contracts for the Nasdaq 100 Index dropped 0.3%, and those for the S&amp;P 500 Index edged 0.1% down. MSCI’s Asia Pacific equities gauge was little changed with benchmarks in Japan and South Korea fluctuating between gains and losses.",
+      "pub": "26 Aug 06:25 IST",
+      "pub_dt": "2026-08-26T00:55:28+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Asian market mixed signals with Nasdaq futures down 0.3% and Asia Pacific indices flat ahead of Nvidia earnings lack directional clarity for Indian IT stocks. This represents continuation of global uncertainty rather than a specific impact on Indian IT sector fundamentals.",
+        "stocks": {}
+      }
+    },
+    "2db569e2ac03e4c5": {
+      "id": "2db569e2ac03e4c5",
+      "title": "Rupee  strengthens to 95.41 after oil cools",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-strengthens-to-95-41-after-oil-cools/articleshow/133526951.cms",
+      "summary": "The Indian rupee strengthened significantly on Tuesday, gaining 33 paise. This appreciation occurred as oil prices retreated and the Reserve Bank of India sold dollars. The rupee closed at 95.41, trading between 95.40 and 95.75 during the session. Oil prices fell more than three percent, influenced by US sanctions on Iran. Domestic markets will be closed Wednesday for a holiday.",
+      "pub": "26 Aug 06:21 IST",
+      "pub_dt": "2026-08-26T00:51:05+00:00",
+      "sectors": [
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Rupee strengthening to 95.41 on oil price decline and RBI intervention is positive for import-heavy sectors but neutral for overall market sentiment. This reflects macro stability rather than company-specific earnings impact, though it aids IT exporters marginally through favorable currency tailwinds.",
+        "stocks": {}
+      }
+    },
+    "7d2282974a7c4c17": {
+      "id": "7d2282974a7c4c17",
+      "title": "ESDS to expand data centre operations with Rs 720-cr IPO proceeds",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/esds-to-expand-data-centre-operations-with-of-rs-720-cr-ipo-proceeds/articleshow/133526906.cms",
+      "summary": "ESDS Software Solution is embarking on a ₹720-crore IPO aimed at broadening its data center operations across India and Europe. This strategic move follows a notable partnership for AI cluster deployment powered by NVIDIA GPUs. The investment will not only bolster their infrastructure but also pave the way for new facilities in Kolkata and Sahibabad, positioning ESDS as a trailblazer among India's",
+      "pub": "26 Aug 06:11 IST",
+      "pub_dt": "2026-08-26T00:41:08+00:00",
+      "sectors": [
+        "IT",
+        "Industrials",
+        "Telecoms"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "ESDS' ₹720-crore IPO for data center expansion with NVIDIA GPU partnership indicates growth in AI infrastructure opportunity. However, as a pre-listing entity, this represents sector tailwind for cloud/data center services rather than direct earnings impact on existing listed stocks.",
+        "stocks": {}
+      }
+    },
+    "8d904cdd368cf84e": {
+      "id": "8d904cdd368cf84e",
+      "title": "Pre-market action: Here's the trade setup for today's session",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/133520659.cms",
+      "summary": "The Nifty index recovered 0.5 percent, closing at 24,334 after touching a low. Positive global cues and FII buying supported this recovery ahead of expiry. Brent crude oil prices fell 3.2 percent, easing concerns about oil markets. The Indian rupee also strengthened by 24 paise against the US dollar. India VIX, a fear gauge, declined by 3.9 percent to 11.08 levels.",
+      "pub": "26 Aug 06:00 IST",
+      "pub_dt": "2026-08-26T00:30:00+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Nifty recovery of 0.5% supported by FII buying, falling Brent crude (-3.2%), rupee strength (+24 paise), and VIX compression signal improving risk sentiment. This macro backdrop reduces earnings headwinds from commodity inflation and currency depreciation, supporting broader market recovery continuation.",
+        "stocks": {}
+      }
+    },
+    "0da7fbec9f418df9": {
+      "id": "0da7fbec9f418df9",
+      "title": "Cos down bitter wage pill as gigs turn sweeter",
+      "link": "https://economictimes.indiatimes.com/jobs/fresher/minimum-wage-hikes-add-to-cost-pressures-for-retailers-and-gig-firms-ahead-of-festive-season/articleshow/133523633.cms",
+      "summary": "",
+      "pub": "26 Aug 05:00 IST",
+      "pub_dt": "2026-08-25T23:30:00+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Insufficient headline and summary data provided to assess impact. Generic reference to wage pressures and gig economy dynamics lacks specificity on affected stocks or magnitude of impact.",
+        "stocks": {}
+      }
+    },
+    "04b79ec37742d3aa": {
+      "id": "04b79ec37742d3aa",
+      "title": "Gaja Alternative IPO listing date today. GMP hints up to 12% listing pop",
+      "link": "https://www.livemint.com/market/ipo/gaja-alternative-ipo-listing-date-today-gmp-hints-up-to-12-listing-pop-11787674467068.html",
+      "summary": "Gaja Alternative IPO is set to list today, 26 August, at 10:00 IST on BSE and NSE, with an estimated listing price of  ₹179, reflecting an 11.88% premium. The IPO's grey market premium indicates positive expectations for a robust debut.",
+      "pub": "26 Aug 07:03 IST",
+      "pub_dt": "2026-08-26T01:33:52+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Gaja Alternative IPO listing with 11.88% GMP reflects positive IPO sentiment and investor confidence in capital markets. However, this is a single-stock IPO event without systemic impact on broader market earnings or valuations.",
+        "stocks": {}
+      }
+    },
+    "5b27b3616453d0f7": {
+      "id": "5b27b3616453d0f7",
+      "title": "Nifty outlook for September series: Can the 50-stock index continue its up move?",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-outlook-for-september-series-can-the-50-stock-index-continue-its-up-move-11787676280285.html",
+      "summary": "The Nifty 50 closed higher on August 25, gaining 1.45% despite volatility. Support emerged near the trendline, aided by the Closing Auction Session",
+      "pub": "26 Aug 07:00 IST",
+      "pub_dt": "2026-08-26T01:30:14+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Nifty 50's 1.45% gain on August 25 with technical support holding indicates short-term momentum continuation. This represents normal market dynamics rather than a fundamental shift in earnings outlook or sector-specific catalyst.",
+        "stocks": {}
+      }
+    },
+    "624cff6677061d37": {
+      "id": "624cff6677061d37",
+      "title": "Stock recommendations for 26 August from MarketSmith India",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-26-august-from-marketsmith-india-11787660649278.html",
+      "summary": "MarketSmith India reveals its top stock recommendations for today, 26 August. Get expert insights into the best-performing stocks to guide your investment decisions.",
+      "pub": "26 Aug 06:05 IST",
+      "pub_dt": "2026-08-26T00:35:41+00:00",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Generic sector-level recommendation without specific stock picks or fundamental catalysts. Auto sector faces macro headwinds (crude oil, geopolitical tensions, weak rural demand) but lacks directional clarity.",
+        "stocks": {}
+      }
+    },
+    "b512de19f168bc6a": {
+      "id": "b512de19f168bc6a",
+      "title": "The warning bell that saw 2008 coming is ringing again",
+      "link": "https://www.livemint.com/market/stock-market-news/2008-financial-crisis-pe-ratio-shiller-pe-ratio-cape-sensex-nifty-11787657950534.html",
+      "summary": "This warning has been seen only six times in 145 years. Five ended in tears.",
+      "pub": "26 Aug 06:01 IST",
+      "pub_dt": "2026-08-26T00:31:00+00:00",
+      "sectors": [
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "BEL"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Inverted yield curve warning (seen 6 times in 145 years, 5 ended in recession) signals macro deterioration and potential earnings compression across equities. Recent history shows persistent market weakness, Iran sanctions, and demographic headwinds pressuring sentiment and valuations.",
+        "stocks": {
+          "BEL": "negative"
+        }
+      }
+    },
+    "f2cfa6e26d4f1120": {
+      "id": "f2cfa6e26d4f1120",
+      "title": "Raja Venkatraman recommends three stocks for 26 August",
+      "link": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-26-august-11787669841800.html",
+      "summary": "Market expert Raja Venkatraman shares his top stock picks for 26 August. Here’s his technical outlook and trade strategy.",
+      "pub": "26 Aug 06:00 IST",
+      "pub_dt": "2026-08-26T00:30:40+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Generic technical analyst recommendations without specific stock picks or catalysts. No fundamental impact identifiable.",
+        "stocks": {}
+      }
+    },
+    "d608e0a5ea5e1c4e": {
+      "id": "d608e0a5ea5e1c4e",
+      "title": "Gold Holds Five-Day Gain as Oil Drop Eases Inflation Concerns",
+      "link": "https://www.livemint.com/market/gold-holds-five-day-gain-as-oil-drop-eases-inflation-concerns-11787703222112.html",
+      "summary": "Gold held a five-day gain, with inflation concerns eased by a drop in US Treasury yields and lower oil prices as Iran and Oman discussed ways to reopen the Strait of Hormuz.",
+      "pub": "26 Aug 05:43 IST",
+      "pub_dt": "2026-08-26T00:13:41+00:00",
+      "sectors": [
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Gold strength from easing inflation concerns and lower oil prices is macro-positive but lacks direct earnings impact on IT/Telecom sectors. This reflects risk-off sentiment rather than positive business fundamentals.",
+        "stocks": {}
+      }
+    },
+    "32660d15f7be1d50": {
+      "id": "32660d15f7be1d50",
+      "title": "Gold Edges Up After Four-Day Gain as Traders Eye Treasury Moves",
+      "link": "https://www.livemint.com/market/gold-edges-up-after-four-day-gain-as-traders-eye-treasury-moves-11787699754952.html",
+      "summary": "Gold edged higher as inflation concerns eased, extending a four-day rally sparked by a surprise bond-market intervention that’s revived concerns over US fiscal policy and dollar weakness.",
+      "pub": "26 Aug 04:45 IST",
+      "pub_dt": "2026-08-25T23:15:54+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Gold rally from dollar weakness and fiscal policy concerns is macro-positive for inflation hedges but lacks direct earnings drivers for Auto/IT sectors. Reflects monetary policy uncertainty rather than operational improvements.",
+        "stocks": {}
+      }
+    },
+    "a88d69734968547d": {
+      "id": "a88d69734968547d",
+      "title": "VCs look past payment figures to spot 'dead users' hiding in UPI autoPay metrics",
+      "link": "https://www.livemint.com/economy/vcs-look-past-payment-figures-to-spot-dead-users-hiding-in-upi-autopay-metrics-11787627688438.html",
+      "summary": "As transaction volumes soar, investors are separating payment metrics from actual app usage to weed out dormant subscribers and gauge the true value of startups.",
+      "pub": "26 Aug 06:00 IST",
+      "pub_dt": "2026-08-26T00:30:40+00:00",
+      "sectors": [
+        "E-Commerce",
+        "Telecoms"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "VCs scrutinizing 'dead users' in UPI autoPay metrics signals value destruction risk for fintech/payments startups. This indicates inflated user metrics masking weak engagement, pressuring future monetization and growth narratives for E-Commerce/Telecom platforms.",
+        "stocks": {}
+      }
+    },
+    "bc5174725bb2cac7": {
+      "id": "bc5174725bb2cac7",
+      "title": "Indian IT’s mid-caps are gaining ground in the bank battle",
+      "link": "https://www.livemint.com/companies/news/indian-it-s-mid-caps-are-gaining-ground-in-the-bank-battle-11787665070668.html",
+      "summary": "India’s mid-sized IT firms are outpacing larger rivals in BFSI revenue growth, benefiting from challenger banks, new clients and greater flexibility as large firms face insourcing and vendor consolidation.",
+      "pub": "26 Aug 06:00 IST",
+      "pub_dt": "2026-08-26T00:30:21+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "HAL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Mid-cap IT firms gaining BFSI wallet share (challenger banks, new clients) is earnings-accretive, but HAL faces structural headwinds: 5-year negative returns, infrastructure project cost overruns (₹3.4L cr), and macro uncertainty. Defense tailwinds offset by broader market weakness.",
+        "stocks": {
+          "HAL": "mixed"
+        }
+      }
+    },
+    "265ee0ad4d953b52": {
+      "id": "265ee0ad4d953b52",
+      "title": "Hero opts for an unorthodox strategy for its leadership reset",
+      "link": "https://www.livemint.com/companies/news/hero-opts-for-an-unorthodox-strategy-for-its-leadership-reset-11787646512909.html",
+      "summary": "Hero MotoCorp has executed a major leadership reset by appointing five senior executives from non-two-wheeler backgrounds to steer its shift toward electric vehicles, premium bikes, and global exports.&amp;nbsp;",
+      "pub": "26 Aug 06:00 IST",
+      "pub_dt": "2026-08-26T00:30:20+00:00",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [
+        "Hero MotoCorp"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Hero MotoCorp's leadership reset with external EV/premium/export expertise signals strategic shift capability and execution intent. Builds on recent positive momentum (29% profit growth, 36% revenue surge, Euler Motors scaling) and addresses structural secular shift to EVs and higher-margin products.",
+        "stocks": {
+          "Hero MotoCorp": "positive"
+        }
+      }
+    },
+    "4bdb96a3c723b1eb": {
+      "id": "4bdb96a3c723b1eb",
+      "title": "Shree Naman Group wins bids for JW Marriott Bengaluru, Crowne Plaza Pune at  ₹1,800 crore",
+      "link": "https://www.livemint.com/companies/news/shree-naman-group-wins-bids-for-jw-marriott-bengaluru-crowne-plaza-pune-at-1-800-crore-hospitality-hotels-11787573731516.html",
+      "summary": "Shree Naman Group wins bids for two Advantage Raheja Group properties after a six-month bidding process under the insolvency resolution mechanism.",
+      "pub": "26 Aug 06:00 IST",
+      "pub_dt": "2026-08-26T00:30:20+00:00",
+      "sectors": [
+        "E-Commerce"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Asset acquisition by Shree Naman Group under IBC process is a sectoral event with no direct earnings impact on listed e-commerce stocks. While it signals real estate consolidation, it has no material linkage to e-commerce business models, margins, or growth trajectories of tagged sector companies.",
+        "stocks": {}
+      }
     }
   }
 }
