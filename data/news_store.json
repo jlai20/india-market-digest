@@ -209301,6 +209301,413 @@
         "reasoning": "Newspace Research funding round is a defence-tech startup capital raise with no tagged Indian public equities. While it signals defence-tech sector traction, uneven revenue growth and delayed government payments indicate operational challenges that don't translate to sector-wide impact for listed companies.",
         "stocks": {}
       }
+    },
+    "42283ab4b68e26be": {
+      "id": "42283ab4b68e26be",
+      "title": "Jio IPO: Ambani’s tech titan listing story isn’t yet credible",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-ambanis-tech-titan-ipo-story-isnt-yet-credible/articleshow/133785076.cms",
+      "summary": "Mukesh Ambani is pitching Jio Platforms as more than a telecom company ahead of its IPO, highlighting thousands of patents, AI and proprietary technology. But questions remain over the commercial value of its intellectual property and whether its technology ambitions justify a potential $120-140 billion valuation.",
+      "pub": "05 Sep 08:16 IST",
+      "pub_dt": "2026-09-05T02:46:17+00:00",
+      "sectors": [
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [
+        "Reliance Jio"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "The article raises credibility concerns about Jio Platforms' $120-140 billion valuation, questioning the commercial viability of its IP and technology ambitions. This casts doubt on the premium valuation narrative despite recent SEBI approval, potentially impacting investor sentiment and IPO demand. The skepticism contradicts the recent positive momentum from anchor investor confirmations (Google, Meta) and represents a valuation reality check.",
+        "stocks": {
+          "Reliance Jio": "negative"
+        }
+      }
+    },
+    "8c8031b0a60e45df": {
+      "id": "8c8031b0a60e45df",
+      "title": "Nilgiris tea production hit by severe drought, El Nino conditions; green leaf supply drops sharply",
+      "link": "https://economictimes.indiatimes.com/news/economy/agriculture/nilgiris-tea-production-hit-by-severe-drought-el-nino-conditions-green-leaf-supply-drops-sharply/articleshow/133784988.cms",
+      "summary": "Severe drought conditions in Nilgiris have drastically reduced green tea leaf supply.  Tea factories are experiencing significant revenue losses and production declines.  Small farmers face immense hardship due to crop failure and inadequate prices.  Rainfall deficits have caused a substantial drop in tea productivity across the region.  Government assistance is urgently needed for affected tea gr",
+      "pub": "05 Sep 08:25 IST",
+      "pub_dt": "2026-09-05T02:55:39+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Severe drought and El Niño-induced green leaf supply shortages directly compress tea factory revenues and margins while increasing input costs for tea producers. Production declines and farmer hardship indicate structural supply constraints that will persist until rainfall normalizes, negatively impacting earnings across tea sector players.",
+        "stocks": {}
+      }
+    },
+    "49b4f33857b1d0c6": {
+      "id": "49b4f33857b1d0c6",
+      "title": "Are banks open or closed in your state today?",
+      "link": "https://economictimes.indiatimes.com/wealth/save/saturday-bank-holiday-are-sbi-hdfc-bank-icici-bank-canara-bank-and-pnb-open-or-closed-today-on-september-5-2026/articleshow/133764132.cms",
+      "summary": "",
+      "pub": "05 Sep 07:00 IST",
+      "pub_dt": "2026-09-05T01:30:00+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Banking holiday schedules are administrative updates with no direct impact on bank earnings, operations, or valuations. This is routine calendar information.",
+        "stocks": {}
+      }
+    },
+    "c864a910b576fc8e": {
+      "id": "c864a910b576fc8e",
+      "title": "Gadkari allows Rs 5K device for old diesel vehicles",
+      "link": "https://economictimes.indiatimes.com/industry/transportation/roadways/nitin-gadkari-says-old-vehicle-owners-allowed-to-fit-a-rs-5000-device-developed-by-iit-delhi-that-brings-bs-iii-and-bs-iv-diesel-trucks-and-buses-close-to-bs-vi-emission-levels/articleshow/133785591.cms",
+      "summary": "",
+      "pub": "05 Sep 08:49 IST",
+      "pub_dt": "2026-09-05T03:19:49+00:00",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "A Rs 5,000 device allowance for old diesel vehicles is a minor regulatory measure with negligible impact on auto sector earnings or growth trajectories. It does not materially shift competitive dynamics or margin profiles.",
+        "stocks": {}
+      }
+    },
+    "5d05dcbc40f0d02b": {
+      "id": "5d05dcbc40f0d02b",
+      "title": "Trump: High rates put US at 'unfair disadvantage'",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/trump-calls-for-lower-interest-rates-says-high-rates-put-us-at-unfair-disadvantage/articleshow/133785705.cms",
+      "summary": "",
+      "pub": "05 Sep 08:45 IST",
+      "pub_dt": "2026-09-05T03:15:20+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Trump's commentary on US interest rates is macro-level political rhetoric without concrete policy action or immediate earnings impact on Indian equities. Indirect currency/capital flow effects are speculative.",
+        "stocks": {}
+      }
+    },
+    "c521683b1b7c4a85": {
+      "id": "c521683b1b7c4a85",
+      "title": "EAM Jaishankar to address high-level UNGA session",
+      "link": "https://economictimes.indiatimes.com/news/india/eam-s-jaishankar-to-address-annual-high-level-unga-session-on-september-26/articleshow/133785692.cms",
+      "summary": "",
+      "pub": "05 Sep 08:41 IST",
+      "pub_dt": "2026-09-05T03:11:00+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "A foreign minister's UN address is a diplomatic event with no direct operational or financial implications for Indian corporates or valuations.",
+        "stocks": {}
+      }
+    },
+    "d725e0f3f2c786f7": {
+      "id": "d725e0f3f2c786f7",
+      "title": "How to build Rs 1 cr corpus by 50 years of age",
+      "link": "https://economictimes.indiatimes.com/wealth/invest/retirement-mutual-sip-planning-calculator-want-rs-1-crore-corpus-by-50-monthly-investment-you-need-to-make-at-30-35-and-40-years-of-age/articleshow/133762596.cms",
+      "summary": "",
+      "pub": "05 Sep 08:20 IST",
+      "pub_dt": "2026-09-05T02:50:56+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Personal wealth-building advice is generic financial guidance unrelated to any specific stock's earnings, competitive position, or valuation.",
+        "stocks": {}
+      }
+    },
+    "cf24112d16140fa8": {
+      "id": "cf24112d16140fa8",
+      "title": "Belgian PM takes veiled dig at Trump's tariffs",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/decide-something-on-monday-revoke-it-on-wednesday-belgian-pm-takes-veiled-dig-at-trumps-tariff-trade-policies/articleshow/133783960.cms",
+      "summary": "",
+      "pub": "05 Sep 07:59 IST",
+      "pub_dt": "2026-09-05T02:29:46+00:00",
+      "sectors": [
+        "Industrials"
+      ],
+      "stocks": [
+        "BEL"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Belgium's critique of Trump's tariffs is geopolitical commentary focused on trade policy, not defense procurement or semiconductor supply chains directly relevant to BEL's core earnings. Recent India-Belgium defence cooperation agreements show longer-term positive intent, but this headline lacks specific BEL business impact.",
+        "stocks": {
+          "BEL": "neutral"
+        }
+      }
+    },
+    "35b01477f0cd6527": {
+      "id": "35b01477f0cd6527",
+      "title": "US DOW plans to replace Hegseth deputy Feinberg",
+      "link": "https://economictimes.indiatimes.com/news/defence/white-house-reviews-candidates-to-replace-hegseth-deputy-feinberg-sources-say/articleshow/133784604.cms",
+      "summary": "",
+      "pub": "05 Sep 07:50 IST",
+      "pub_dt": "2026-09-05T02:20:11+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "US Department of Defense personnel changes have no direct impact on Indian equity markets, earnings, or valuation. This is a US domestic political/administrative matter with no material linkage to Indian stocks.",
+        "stocks": {}
+      }
+    },
+    "1bf61a828920c1f9": {
+      "id": "1bf61a828920c1f9",
+      "title": "US military disables trackers amid Mideast targets",
+      "link": "https://economictimes.indiatimes.com/news/defence/us-iran-war-american-military-disables-ad-trackers-on-devices-amid-middle-east-targeting-reports/articleshow/133784348.cms",
+      "summary": "",
+      "pub": "05 Sep 07:35 IST",
+      "pub_dt": "2026-09-05T02:05:14+00:00",
+      "sectors": [
+        "Telecoms"
+      ],
+      "stocks": [
+        "Vodafone Idea"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "US military disabling trackers amid Mideast tensions escalates geopolitical risk, which increases telecom opex pressures (fuel, energy costs) and supports hawkish Fed rate hike bets (65% September likelihood). For Vodafone Idea, already facing margin compression from India's lowest global ARPU and high debt servicing, rising interest rates and opex directly compress free cash flow generation—the critical metric Birla identified as essential for survival.",
+        "stocks": {
+          "Vodafone Idea": "negative"
+        }
+      }
+    },
+    "412f92f2c4783d22": {
+      "id": "412f92f2c4783d22",
+      "title": "OC withheld over road widening issue",
+      "link": "https://economictimes.indiatimes.com/wealth/legal/will/occupancy-certificate-withheld-by-bengaluru-civic-body-after-landowner-refused-land-for-road-widening-landowner-fights-back-and-gets-relief-from-karnataka-hc/articleshow/133732863.cms",
+      "summary": "",
+      "pub": "05 Sep 07:23 IST",
+      "pub_dt": "2026-09-05T01:53:53+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Occupancy Certificate withholding over road widening is a localized real estate/municipal compliance issue with no sector-wide earnings or valuation impact. Without tagged stocks, impact cannot be assessed.",
+        "stocks": {}
+      }
+    },
+    "abfc3b9bd2b999ec": {
+      "id": "abfc3b9bd2b999ec",
+      "title": "US, China gear up for critical AI safety dialogue",
+      "link": "https://economictimes.indiatimes.com/ai/ai-insights/us-china-gear-up-for-mid-september-ai-safety-dialogue/articleshow/133770855.cms",
+      "summary": "",
+      "pub": "04 Sep 22:11 IST",
+      "pub_dt": "2026-09-04T16:41:11+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "US-China AI safety dialogue is a regulatory/policy discussion with no immediate earnings impact on Indian IT companies. Long-term, AI governance clarity may be marginally positive for compliance, but near-term operational effects are immaterial.",
+        "stocks": {}
+      }
+    },
+    "2763c8361d2a3630": {
+      "id": "2763c8361d2a3630",
+      "title": "Key storage rule proposed for new India RE projects",
+      "link": "https://economictimes.indiatimes.com/industry/renewables/new-renewable-energy-units-may-need-to-store-10-power-for-2-hours/articleshow/133775262.cms",
+      "summary": "",
+      "pub": "05 Sep 00:10 IST",
+      "pub_dt": "2026-09-04T18:40:08+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Mandatory energy storage rules for new renewable energy projects increase capex and operational complexity for RE developers, creating structural tailwinds for battery/storage manufacturers and tech enablers. This supports India's clean energy transition thesis and improves project viability through grid stability improvements.",
+        "stocks": {}
+      }
+    },
+    "26aa3398e5a00a39": {
+      "id": "26aa3398e5a00a39",
+      "title": "Trump calls Iran conflict 'small potatoes'",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/trump-calls-iran-conflict-small-potatoes-and-defends-vances-position-that-its-not-a-war/articleshow/133782700.cms",
+      "summary": "",
+      "pub": "05 Sep 06:01 IST",
+      "pub_dt": "2026-09-05T00:31:50+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Trump's downplaying of Iran conflict reduces near-term Mideast escalation fears, which alleviates some geopolitical risk premiums. However, this is a sentiment signal rather than a fundamental shift in energy or supply chain dynamics with measurable impact on Indian equity valuations.",
+        "stocks": {}
+      }
+    },
+    "fe0720e2a29eb15f": {
+      "id": "fe0720e2a29eb15f",
+      "title": "India-Poland ties see solid report card: EAM",
+      "link": "https://economictimes.indiatimes.com/news/india/india-poland-ties-see-solid-report-card-as-two-nations-finalise-new-agreements-eam-jaishankar/articleshow/133785105.cms",
+      "summary": "Warsaw: Highlighting the rapid expansion of the India-Poland Strategic Partnership, External Affairs Minister S Jaishankar on Friday said that New Delhi and Warsaw are working on new agreements across cybersecurity, space, clean coal, classified information, and critical minerals.Addressing the press alongside Polish Deputy Prime Minister and Foreign Minister Radosław Sikorski, Jaishankar reviewed",
+      "pub": "05 Sep 08:58 IST",
+      "pub_dt": "2026-09-05T03:28:58+00:00",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Materials",
+        "Telecoms"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "India-Poland partnerships in cybersecurity, space, critical minerals, and classified information sharing create medium-term positive tailwinds for Indian IT, materials, and aerospace sectors. However, without specific stock names, impact is directional (sector-positive) rather than actionable at company level; also depends on implementation pace.",
+        "stocks": {}
+      }
+    },
+    "62f51435682014e6": {
+      "id": "62f51435682014e6",
+      "title": "Dollar deluge from FCNR push to test RBI's liquidity drain toolkit",
+      "link": "https://www.livemint.com/market/dollar-deluge-fcnr-liquidity-rbi-mesures-foreign-reserves-market-rupee-11788517231526.html",
+      "summary": "RBI’s dollar mobilization drive has far exceeded expectations, drawing $136.4 billion. But the inflows have also sloshed the banking system with liquidity, leaving the central bank with a problem of plenty, and no easy way to drain it without other costs.",
+      "pub": "05 Sep 07:00 IST",
+      "pub_dt": "2026-09-05T01:30:57+00:00",
+      "sectors": [
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "RBI's $136.4 billion FCNR inflow creates liquidity surplus, which is positive for banking margins and supports lending growth, but poses systemic challenges for RBI's liquidity management. For IT/BPO exporters, rupee appreciation risk from large dollar inflows could compress USD-denominated revenues and margins—offsetting the positive macro liquidity signal.",
+        "stocks": {}
+      }
+    },
+    "bcf92f7a9b408f5d": {
+      "id": "bcf92f7a9b408f5d",
+      "title": "RBI curbs push prop traders to tap clients’ shares for derivatives",
+      "link": "https://www.livemint.com/market/stock-market-news/rbi-curbs-prop-traders-client-idle-shares-derivatives-trading-lending-rules-nse-11788495564388.html",
+      "summary": "Some traders are using wealthy investors’ idle shares as collateral for margins.",
+      "pub": "05 Sep 06:20 IST",
+      "pub_dt": "2026-09-05T00:50:57+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "RBI's curb on prop traders using client shares as collateral is a regulatory measure that tightens leverage but does not directly impact earnings or valuations of specific companies. This is a structural market microstructure change affecting trading mechanics rather than fundamental business performance.",
+        "stocks": {}
+      }
+    },
+    "ee00d0c883831b56": {
+      "id": "ee00d0c883831b56",
+      "title": "The week in charts: GDP growth resilience, factory slowdown, GST streak",
+      "link": "https://www.livemint.com/economy/india-gdp-growth-cad-gst-collection-monsoon-manufacturing-activity-11788425790208.html",
+      "summary": "In this weekly Plain Facts compilation, we present to you data-based insights, with easy-to-read charts, to help you delve deeper into the stories reported by Mint in the week gone by.",
+      "pub": "05 Sep 07:00 IST",
+      "pub_dt": "2026-09-05T01:30:17+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "This is a data-driven weekly compilation covering macro trends (GDP growth, factory slowdown, GST) without company-specific impacts. While it indicates mixed macro signals (resilience in some areas, slowdown in others), no direct earnings or valuation implications for specific stocks are identified.",
+        "stocks": {}
+      }
+    },
+    "d8e068e2f66fd47c": {
+      "id": "d8e068e2f66fd47c",
+      "title": "PUBG-fame Krafton to invest another $250 million in India as it expands beyond gaming",
+      "link": "https://www.livemint.com/companies/news/pubgfame-krafton-to-invest-another-250-million-in-india-as-it-expands-beyond-gaming-11788575428581.html",
+      "summary": "Krafton, the creator of BGMI, plans to invest an additional $250 million in India over the next few years, doubling its total investment. The South Korean gaming company has backed numerous startups and continues to strengthen its local operations.",
+      "pub": "05 Sep 09:17 IST",
+      "pub_dt": "2026-09-05T03:47:52+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Krafton's additional $250 million investment in India demonstrates confidence in the local ecosystem and signals expansion beyond gaming into new verticals, which could drive long-term revenue growth and market presence. However, the impact is strategic/medium-term rather than immediate to current earnings.",
+        "stocks": {}
+      }
+    },
+    "8866ba4c423aeba4": {
+      "id": "8866ba4c423aeba4",
+      "title": "“Unbecoming of trustee”: Tata Trusts comment, says Vijay Singh; Tata Trusts say the charity commissioner said so.",
+      "link": "https://www.livemint.com/companies/unbecoming-of-trustee-tata-trusts-comment-says-vijay-singh-tata-trusts-say-the-charity-commissioner-said-so-11788527270042.html",
+      "summary": "The charity commissioner's dismissal of a Tata Sons share transfer probe included sharp criticism of trustee Vijay Singh's conduct—a remark Singh attributes to the Trusts' own filing, while the organization insists it originated from the regulator.",
+      "pub": "05 Sep 06:00 IST",
+      "pub_dt": "2026-09-05T00:30:56+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "The governance dispute within Tata Trusts regarding trustee Vijay Singh's conduct creates reputational and structural uncertainty around Tata group stewardship, potentially affecting investor confidence and governance risk perception. This could have indirect negative implications for group companies' valuations due to governance concerns.",
+        "stocks": {}
+      }
+    },
+    "84b76a5838a0c786": {
+      "id": "84b76a5838a0c786",
+      "title": "Bajaj Group's Bajel Projects skips the elephant dance, opts for a steady walk",
+      "link": "https://www.livemint.com/companies/news/bajaj-group-bajel-projects-epc-t-d-energy-11788512843873.html",
+      "summary": "Bajaj Group’s EPC firm Bajel Projects is resisting the temptation to chase rapid growth even as India’s renewable energy push lifts demand for power transmission. Instead, it is picking projects carefully, sharpening execution, expanding capacity and looking overseas for better margins.",
+      "pub": "05 Sep 06:00 IST",
+      "pub_dt": "2026-09-05T00:30:56+00:00",
+      "sectors": [
+        "Autos",
+        "Industrials"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Bajel Projects' disciplined approach to project selection and capacity expansion amid India's renewable energy boom positions the company for sustainable margin improvement and operational efficiency. The focus on better margins over rapid growth suggests management is prioritizing profitability and capital efficiency in a favorable demand environment.",
+        "stocks": {}
+      }
+    },
+    "7250b16857119630": {
+      "id": "7250b16857119630",
+      "title": "High on subscriber gains, Vodafone Idea flexes its creative muscle",
+      "link": "https://www.livemint.com/companies/news/high-on-subscriber-gains-vodafone-idea-flexes-its-creative-muscle-11788514575336.html",
+      "summary": "After recording its first quarterly subscriber addition since the 2018 merger in the June quarter, Vodafone Idea is looking to bring back its creative swagger.",
+      "pub": "05 Sep 06:00 IST",
+      "pub_dt": "2026-09-05T00:30:36+00:00",
+      "sectors": [
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [
+        "Vodafone Idea"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Vodafone Idea's first subscriber addition in 6+ years is operationally positive and supports revenue stabilization; however, recent history shows persistent headwinds including low ARPU, high opex (exacerbated by Fed rate hikes), and execution risks despite debt restructuring catalysts. Near-term positive momentum is offset by structural challenges in FCF generation.",
+        "stocks": {
+          "Vodafone Idea": "mixed"
+        }
+      }
     }
   }
 }
