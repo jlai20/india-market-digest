@@ -216822,6 +216822,1382 @@
         "reasoning": "This is a retrospective analysis of Apple's India strategy under outgoing leadership with no new operational, financial, or regulatory developments announced. Without specific revenue figures, margin impacts, or forward guidance changes, the piece is primarily narrative commentary rather than material news for equity valuation.",
         "stocks": {}
       }
+    },
+    "10a59abf5d88ba22": {
+      "id": "10a59abf5d88ba22",
+      "title": "HAL, BEL, other defence stocks in focus after DAC clears Rs 1.10 lakh crore proposals; Motilal picks 3 stocks to buy",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/hal-bel-other-defence-stocks-in-focus-after-dac-clears-rs-1-10-lakh-crore-proposals-motilal-picks-3-stocks-to-buy/articleshow/133905778.cms",
+      "summary": "Defence stocks: The Defence Acquisition Council approved defence procurement proposals worth around Rs 1.10 lakh crore, with nearly 98% of purchases to be sourced from Indian companies. The move is likely to keep defence stocks such as HAL, BEL, Paras Defence, BEML and Astra Microwave in focus. The approvals cover requirements of the Army, Navy and Air Force.",
+      "pub": "08 Sep 09:12 IST",
+      "pub_dt": "2026-09-08T03:42:57+00:00",
+      "sectors": [
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "BEL",
+        "HAL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "DAC approval of Rs 1.10 lakh crore defence procurement with 98% Indian sourcing directly boosts order book visibility and revenue growth for HAL and BEL. This represents a significant structural tailwind for defence capex, supporting earnings expansion and margin improvement through higher capacity utilization.",
+        "stocks": {
+          "HAL": "positive",
+          "BEL": "positive"
+        }
+      }
+    },
+    "2c93320b288976c6": {
+      "id": "2c93320b288976c6",
+      "title": "FIIs poured nearly Rs 50,000 crore into these sectors in last 2 months. Here’s what they bought",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-poured-nearly-rs-50000-crore-into-these-sectors-in-last-2-months-heres-what-they-bought/articleshow/133905489.cms",
+      "summary": "Foreign investors turned net buyers in India, deploying Rs 49,830 crore across sectors in July and August, with consumer services, healthcare, consumer durables, financials and IT emerging as the biggest beneficiaries. The shift reflects stronger domestic growth, better-than-expected Q1 earnings and a stabilising rupee, while telecom, capital goods, power and select other sectors faced sustained s",
+      "pub": "08 Sep 09:05 IST",
+      "pub_dt": "2026-09-08T03:35:56+00:00",
+      "sectors": [
+        "IT",
+        "Industrials",
+        "Telecoms"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "FII inflows of Rs 49,830 crore into consumer services, healthcare, consumer durables, financials and IT reflect improving investor confidence driven by stronger domestic growth and better Q1 earnings. This reverses earlier FPI outflows and supports valuation re-rating across beneficiary sectors.",
+        "stocks": {}
+      }
+    },
+    "66ca5beadca75dad": {
+      "id": "66ca5beadca75dad",
+      "title": "Shiprocket shares in focus as Q1 net loss narrows to Rs 14 crore in first earnings post IPO; revenue up 34% YoY",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/shiprocket-shares-in-focus-as-q1-net-loss-narrows-to-rs-14-crore-in-first-earnings-post-ipo-revenue-up-34-yoy/articleshow/133905012.cms",
+      "summary": "Shiprocket reported a narrower consolidated net loss of Rs 13.7 crore in Q1FY27, compared with Rs 18 crore a year earlier, while revenue from operations rose 33.8% year-on-year to Rs 592.1 crore. Adjusted EBITDA turned positive at Rs 8.9 crore, supported by strong growth in the emerging business, while core business revenue grew 22%.",
+      "pub": "08 Sep 08:41 IST",
+      "pub_dt": "2026-09-08T03:11:22+00:00",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Shiprocket's narrowed net loss (Rs 13.7 cr vs Rs 18 cr YoY), 34% revenue growth, and positive adjusted EBITDA of Rs 8.9 crore demonstrate path to profitability acceleration. Strong core business growth (22% YoY) and emerging business momentum indicate sustainable unit economics improvement.",
+        "stocks": {}
+      }
+    },
+    "73c45f9f9ad868d6": {
+      "id": "73c45f9f9ad868d6",
+      "title": "SBI Share Price Live Updates: SBI's Market Performance Over 3 Months",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-stock-price-today-live-08-sep-2026/liveblog/133904506.cms",
+      "summary": "",
+      "pub": "08 Sep 08:18 IST",
+      "pub_dt": "2026-09-08T02:48:16+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [
+        "SBI"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "SBI shows strong Q1 fundamentals (10% profit growth, 15% NII expansion, 18.6% advances growth) and positive capital actions (NSE stake divestment, 12,000 hiring, 250 branch additions), but faces structural headwinds from credit card usage shift toward payments rather than borrowing, reducing loan profitability. Union strike risks add near-term operational uncertainty.",
+        "stocks": {
+          "SBI": "mixed"
+        }
+      }
+    },
+    "9bba4e77fed8e361": {
+      "id": "9bba4e77fed8e361",
+      "title": "Jio Financial Services Share Price Live Updates: Jio Financial Services' closing price",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-share-price-live-08-sep-2026/liveblog/133904299.cms",
+      "summary": "",
+      "pub": "08 Sep 08:10 IST",
+      "pub_dt": "2026-09-08T02:40:03+00:00",
+      "sectors": [
+        "Banking",
+        "Telecoms"
+      ],
+      "stocks": [
+        "Reliance Jio"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Jio Platforms' Sebi-approved Rs 37,700 crore IPO launch (targeting November) with major anchor investors (Google, Meta) validates business model and unlocks significant value for RIL shareholders. IPO proceeds enable Rs 27,500 crore debt paydown, improving parent company's balance sheet and enabling higher dividend capacity.",
+        "stocks": {
+          "Reliance Jio": "positive"
+        }
+      }
+    },
+    "1989a9c8573bd6d1": {
+      "id": "1989a9c8573bd6d1",
+      "title": "Deepa Jewellers shares to debut today; GMP signals 14% listing gain",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/deepa-jewellers-shares-to-debut-today-gmp-signals-14-listing-gain/articleshow/133903702.cms",
+      "summary": "Deepa Jewellers will make its stock market debut on Tuesday, amidst an impressive grey market premium of fourteen percent. This signals a potentially favorable listing above the issue price. The company's robust financial results highlight increased revenues and profitability. The funds raised will be directed towards enhancing working capital and expanding inventory capacity.",
+      "pub": "08 Sep 08:00 IST",
+      "pub_dt": "2026-09-08T02:30:34+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Deepa Jewellers' 14% GMP and robust financial results support positive listing sentiment, but the IPO capital raise is directed toward working capital and inventory expansion rather than transformational growth capex. Impact remains company-specific without broader sector or macro implications.",
+        "stocks": {}
+      }
+    },
+    "76eac9c8d7eee97c": {
+      "id": "76eac9c8d7eee97c",
+      "title": "NTPC Share Price Live Updates: NTPC  Financial Snapshot",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ntpc-stock-price-livestock-price-today-live-updates-08-sep-2026/liveblog/133904037.cms",
+      "summary": "",
+      "pub": "08 Sep 08:00 IST",
+      "pub_dt": "2026-09-08T02:30:08+00:00",
+      "sectors": [
+        "Industrials"
+      ],
+      "stocks": [
+        "NTPC"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "NTPC's Q1 FY27 net profit growth of 11.9% YoY, dividend payout announcements, and record date declarations demonstrate strong cash generation and operational performance. Positive earnings trajectory and shareholder return commitments support valuation sustainability despite earlier regulatory compliance penalties.",
+        "stocks": {
+          "NTPC": "positive"
+        }
+      }
+    },
+    "bac792e662ad41e7": {
+      "id": "bac792e662ad41e7",
+      "title": "Rays of Belief shares set to debut today. Here's what GMP suggests ahead of listing",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/rays-of-belief-shares-set-to-debut-today-heres-what-gmp-suggests-ahead-of-listing/articleshow/133903770.cms",
+      "summary": "Rays of Belief is launching its shares on BSE and NSE today, featuring a public offering of Rs 125 crore at Rs 239 each. The grey market is buzzing with optimism, showing a premium of Rs 15 per share. The funding aims to enhance educational infrastructure and bolster growth strategies, while the company is dedicated to providing individualized care for children dealing with neurodevelopmental chal",
+      "pub": "08 Sep 07:53 IST",
+      "pub_dt": "2026-09-08T02:23:42+00:00",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "BEL",
+        "HAL"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Rays of Belief IPO listing with 6.3% GMP (Rs 15 premium on Rs 239 issue price) reflects modest market enthusiasm. Company's focus on educational infrastructure for neurodevelopmental care is a niche education play with limited linkage to tagged defence stocks HAL/BEL or broader market themes.",
+        "stocks": {
+          "BEL": "neutral",
+          "HAL": "neutral"
+        }
+      }
+    },
+    "2e5e893e16b64307": {
+      "id": "2e5e893e16b64307",
+      "title": "Nifty slips below critical support level of 23,600 as market reacts to global economic uncertainties",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-slips-below-critical-support-level-of-23600-as-market-reacts-to-global-economic-uncertainties/articleshow/133903622.cms",
+      "summary": "Indian equity indices experienced a decline on Monday, with the Nifty 50 falling below 23,800. Rising Brent crude oil prices and investor preference for smaller stocks impacted large-cap performance. The market also faces pressure from increased IPOs and fund-raising activities. US bond yields are nearing their 2023 highs, causing investor discomfort. Mid and small-cap segments show stronger activ",
+      "pub": "08 Sep 07:46 IST",
+      "pub_dt": "2026-09-08T02:16:02+00:00",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "BEL"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Nifty's breach below 23,600 support reflects deteriorating sentiment driven by rising crude oil, US bond yield spike, and FPI selling pressure. For defense/industrial stocks like BEL, this macro headwind pressures valuations and near-term sentiment despite long-term India-EU partnership tailwinds.",
+        "stocks": {
+          "BEL": "negative"
+        }
+      }
+    },
+    "ef43cc1668e4ebb8": {
+      "id": "ef43cc1668e4ebb8",
+      "title": "Life insurers' new business premium up 33% in August",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/life-insurers-new-business-premium-up-33-in-august/articleshow/133903501.cms",
+      "summary": "Life insurers displayed impressive growth in new business premiums for August, with an overall year-on-year increase of thirty-three percent. This surge was predominantly driven by the single-premium and group business sectors, although retail-weighted premiums grew at a more moderate rate. Experts in the industry predict a return to more typical growth patterns in the following months.",
+      "pub": "08 Sep 07:37 IST",
+      "pub_dt": "2026-09-08T02:07:42+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "33% YoY growth in life insurance new business premiums indicates strong underlying demand and positive earnings trajectory for the life insurance sector. Single-premium and group business strength suggests pricing power and margin expansion potential.",
+        "stocks": {}
+      }
+    },
+    "34b2aee95995cbcd": {
+      "id": "34b2aee95995cbcd",
+      "title": "Positive Breakout: These 6 stocks cross above their 200 DMAs",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-6-stocks-cross-above-their-200-dmas/slideshow/133903631.cms",
+      "summary": "As long as the stock is priced above the 200-day SMA on the daily timeframe, it is generally considered to be in an overall uptrend.",
+      "pub": "08 Sep 07:36 IST",
+      "pub_dt": "2026-09-08T02:06:47+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Stocks crossing above 200-day SMAs is a technical chart pattern with no fundamental earnings or valuation impact. This is a lagging indicator of trend reversal rather than a driver of stock returns.",
+        "stocks": {}
+      }
+    },
+    "d3c9b1f8fd892073": {
+      "id": "d3c9b1f8fd892073",
+      "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a negative start; Asian shares trade mixed",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-swiggy-mm-share-price-08-september-2026/liveblog/133903417.cms",
+      "summary": "",
+      "pub": "08 Sep 07:29 IST",
+      "pub_dt": "2026-09-08T01:59:22+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Market open signals and Asian share movements are macro commentary without stock-specific earnings or competitive impact. GIFT Nifty weakness reflects sentiment but lacks actionable fundamental implications.",
+        "stocks": {}
+      }
+    },
+    "47f8bca5a8825280": {
+      "id": "47f8bca5a8825280",
+      "title": "Ultravolt launch sparks sell-off in wire stocks; high-voltage players insulated",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ultravolt-could-trip-retail-wire-players-high-voltage-companies-have-some-insulation/articleshow/133902246.cms",
+      "summary": "The wire and cable industry faced stock declines amidst rumors of Ultravolt’s impending market entry. The Aditya Birla Group's initiative aims for a robust nationwide distribution and retail network, stirring competition among established players. Leaders like Polycab and Havells have felt the pinch with falling stock prices, though those in the mid-to-extra high voltage sector might remain relati",
+      "pub": "08 Sep 06:30 IST",
+      "pub_dt": "2026-09-08T01:00:13+00:00",
+      "sectors": [
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "L&T"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Ultravolt's ₹1,800 crore entry into wires & cables creates competitive pressure on mid-to-low voltage players (Polycab, Havells) but leaves high-voltage specialists like L&T relatively insulated. L&T's diversified portfolio and focus on extra-high voltage segments mitigates direct margin compression risk.",
+        "stocks": {
+          "L&T": "neutral"
+        }
+      }
+    },
+    "c1eccf346130971e": {
+      "id": "c1eccf346130971e",
+      "title": "D-St set for a negative opening as GIFT Nifty signals weak start",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/133901639.cms",
+      "summary": "Indian benchmark indices opened flat and remained under pressure throughout the session. Analysts suggest the Nifty's immediate bias remains down, targeting key support levels. The India VIX, a fear gauge, rose significantly, indicating market anxiety. Foreign portfolio investors and domestic institutional investors were net buyers on Monday. The Indian rupee traded in a narrow range due to RBI in",
+      "pub": "08 Sep 05:45 IST",
+      "pub_dt": "2026-09-08T00:15:54+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Weak market opening with elevated India VIX reflects heightened risk-off sentiment and valuation compression risk across broad indices. Near-term negative bias targeting lower support levels pressures near-term returns despite potential FPI/DII stabilization.",
+        "stocks": {}
+      }
+    },
+    "f6e833d1e3bc660f": {
+      "id": "f6e833d1e3bc660f",
+      "title": "Insurers seek greater flexibility in using equity derivatives for portfolio hedging",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/insurers-seek-greater-flexibility-in-using-equity-derivatives-for-portfolio-hedging/articleshow/133903412.cms",
+      "summary": "Indian insurers are seeking greater flexibility in using equity derivatives, including allowing exposure to be aggregated across multiple funds rather than applying limits separately. The move could help insurers hedge broader equity portfolios, but adoption remains limited. Irdai allowed insurers to use equity derivatives solely for hedging existing equity exposures in February 2025.",
+      "pub": "08 Sep 00:59 IST",
+      "pub_dt": "2026-09-07T19:29:15+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Irdai's proposed flexibility in equity derivative hedging is a regulatory framework enhancement with minimal direct earnings impact. Adoption remains limited, and this primarily affects portfolio risk management rather than underwriting profitability or premium growth.",
+        "stocks": {}
+      }
+    },
+    "2bf5a9bc6450066f": {
+      "id": "2bf5a9bc6450066f",
+      "title": "Irdai fines ICICI Lombard Rs 1 crore for outsourcing, vendor management lapses",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/irdai-fines-icici-lombard-rs-1-crore-for-outsourcing-vendor-management-lapses/articleshow/133903333.cms",
+      "summary": "The Insurance Regulatory and Development Authority of India has imposed a ₹1 crore penalty on ICICI Lombard General Insurance for lapses in outsourcing, vendor management and corporate governance. The regulator said the insurer failed to classify event management services involving agents of other insurers as outsourced activities or report related expenses.",
+      "pub": "08 Sep 00:56 IST",
+      "pub_dt": "2026-09-07T19:26:38+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Irdai's ₹1 crore fine on ICICI Lombard for outsourcing and corporate governance lapses signals compliance risks and regulatory scrutiny. While the monetary penalty is modest, it reflects operational control weaknesses that could increase compliance costs and regulatory capital requirements.",
+        "stocks": {}
+      }
+    },
+    "19fc177eef0b8adc": {
+      "id": "19fc177eef0b8adc",
+      "title": "Private banks’ profit margins recover as FCNR(B) inflows ease deposit funding pressure",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/private-banks-profit-margins-recover-as-fcnrb-inflows-ease-deposit-funding-pressure/articleshow/133903170.cms",
+      "summary": "India’s private banks saw fresh lending spreads widen sharply in July as FCNR(B) inflows improved liquidity and reduced reliance on expensive wholesale funding. Fresh spreads rose 22 basis points to 3.13%, nearly double those at public sector banks. However, analysts cautioned that margin gains could prove gradual and difficult to sustain.",
+      "pub": "08 Sep 00:53 IST",
+      "pub_dt": "2026-09-07T19:23:13+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "L&T"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Private bank margin expansion (fresh spreads +22 bps to 3.13%) driven by FCNR(B) inflows reducing wholesale funding costs directly improves net interest margins and earnings. This represents a structural improvement in funding mix for private banks, though margin sustainability remains a medium-term question.",
+        "stocks": {}
+      }
+    },
+    "23066cb141865721": {
+      "id": "23066cb141865721",
+      "title": "Rentomojo IPO may unlock 152x gain for Nazara Tech founder Nitish Mittersain",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/rentomojo-ipo-may-unlock-152x-gain-for-nazara-tech-founder-nitish-mittersain/articleshow/133905697.cms",
+      "summary": "Rentomojo, the furniture and appliance rental company, is gearing up for a significant IPO, poised to raise over one thousand crore rupees. Nitish Mittersain stands to gain immensely, potentially realizing a staggering 152-fold return on his investment through the sale of some shares. The firm intends to utilize the proceeds from the fresh issue for debt clearance and boosting operational capaciti",
+      "pub": "08 Sep 09:10 IST",
+      "pub_dt": "2026-09-08T03:40:03+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Rentomojo IPO represents a sector-level capital raise story for the rental furniture/appliance space with no direct fundamental impact on existing listed stocks. While shareholder gains are noted, this is a standalone event without broader market implications.",
+        "stocks": {}
+      }
+    },
+    "375c10f59bfd4c3c": {
+      "id": "375c10f59bfd4c3c",
+      "title": "Glass Wall Systems IPO opens today; GMP at 28% — Should you subscribe?",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/glass-wall-systems-ipo-opens-today-gmp-at-28-should-you-subscribe/articleshow/133905387.cms",
+      "summary": "Glass Wall Systems’ Rs 427.89 crore IPO will remain open from September 8 to September 10, 2026, with shares priced at Rs 172–182. Its 28% grey-market premium indicates strong listing expectations. The company plans to use Rs 60 crore for a new glass processing unit. With strong FY26 growth, analysts recommend subscribing for long-term investors.",
+      "pub": "08 Sep 08:58 IST",
+      "pub_dt": "2026-09-08T03:28:15+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Glass Wall Systems IPO is a standalone capital raise event for the building materials sector with no direct impact on existing listed peers. The 28% GMP reflects strong demand but is a pricing signal without earnings-accretive implications for current market participants.",
+        "stocks": {}
+      }
+    },
+    "8f24aeba3cca7df7": {
+      "id": "8f24aeba3cca7df7",
+      "title": "Jio Platforms gears up for IPO marketing next week, eyes November listing",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-gears-up-for-ipo-marketing-next-week-eyes-november-listing-report/articleshow/133905179.cms",
+      "summary": "Jio Platforms is set to embark on a significant investor outreach next week, gearing up for a potentially historic IPO slated for November. With prior regulatory approval and the filing of draft documents, this offering could mark one of the most substantial listings in India's market history. The company aims to gather funds while simultaneously addressing its existing debt obligations.",
+      "pub": "08 Sep 08:50 IST",
+      "pub_dt": "2026-09-08T03:20:00+00:00",
+      "sectors": [
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [
+        "Reliance Jio"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Jio Platforms' November IPO roadshow launch at ₹37,700 crore valuation catalyzes major deleveraging for parent Reliance (~₹27,500 crore debt paydown), reducing financial risk and improving RIL's balance sheet strength. This unlocks significant shareholder value and validates business fundamentals with anchor investor participation (Google, Meta).",
+        "stocks": {
+          "Reliance Jio": "positive"
+        }
+      }
+    },
+    "0129fc293fa485df": {
+      "id": "0129fc293fa485df",
+      "title": "Reliance set to return to bond market after 3 years, eyes Rs 12,500 crore fundraise: Reports",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/reliance-plans-first-local-debt-sale-after-3-years-with-1-32-bn-fundraise-reports/articleshow/133905143.cms",
+      "summary": "Reliance Industries is set to launch a bond sale worth 125 billion rupees, marking a significant comeback to the rupee bond market after almost three years. The five-year notes are expected to offer an attractive annual interest rate of 7.47 percent. Investor bids are anticipated by the week ending September 18, as lower local yields render this funding more economical compared to dollar-denominat",
+      "pub": "08 Sep 08:43 IST",
+      "pub_dt": "2026-09-08T03:13:26+00:00",
+      "sectors": [
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Reliance's ₹12,500 crore bond issuance at 7.47% yield demonstrates confidence in credit markets and provides lower-cost funding relative to dollar bonds, supporting capital allocation flexibility for energy transition investments and shareholder returns.",
+        "stocks": {}
+      }
+    },
+    "e4cd14b2a686eaf5": {
+      "id": "e4cd14b2a686eaf5",
+      "title": "RBI's 30-day VRRR operation sees muted response amid high banking liquidity surplus",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbis-30-day-vrrr-operation-sees-muted-response-amid-high-banking-liquidity-surplus/articleshow/133904218.cms",
+      "summary": "Banks showed little interest in the Reserve Bank of India's 30-day reverse repo operation. This occurred even as banking system liquidity reached a near five-year high. Treasury heads avoided locking funds at the current interest rate. Many expected a future rate hike, seeking better returns. The Reserve Bank will conduct an overnight auction to manage liquidity.",
+      "pub": "08 Sep 08:12 IST",
+      "pub_dt": "2026-09-08T02:42:18+00:00",
+      "sectors": [
+        "Autos",
+        "Banking"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "RBI's muted VRRR operation response reflects elevated banking system liquidity and expectations of future rate hikes creating deposit availability without structural impact on lending dynamics. This is a temporary liquidity management signal without direct earnings consequences.",
+        "stocks": {}
+      }
+    },
+    "23f1d67b03e363ef": {
+      "id": "23f1d67b03e363ef",
+      "title": "Kanohar Electricals IPO opens today; GMP signals 31% listing gains. Should you subscribe?",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/kanohar-electricals-ipo-opens-today-gmp-signals-31-listing-gains-should-you-subscribe/articleshow/133903746.cms",
+      "summary": "The Kanohar Electricals IPO is set to open today, September 8, 2026, and will remain accessible for a span of three days. This book-built offering, valued at Rs 1,055.74 crore, includes both fresh shares and an offer for sale. Proceeds from the IPO are earmarked for enhancing capital expenditure and meeting working capital demands.",
+      "pub": "08 Sep 07:58 IST",
+      "pub_dt": "2026-09-08T02:28:09+00:00",
+      "sectors": [
+        "IT",
+        "Industrials",
+        "Materials"
+      ],
+      "stocks": [
+        "ACC",
+        "L&T"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Kanohar Electricals IPO at ₹1,055.74 crore with 31% GMP is a sector-level capital raise for industrial/electrical equipment with no material impact on ACC or L&T fundamentals. IPO proceeds fund capex and working capital but represent new competitor capacity rather than accretive growth for tagged stocks.",
+        "stocks": {
+          "ACC": "neutral",
+          "L&T": "neutral"
+        }
+      }
+    },
+    "a1642d49d54d640b": {
+      "id": "a1642d49d54d640b",
+      "title": "Why isn't oil above $100 despite supply disruptions?",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/explainer-why-isnt-oil-above-100-despite-supply-disruptions/articleshow/133903924.cms",
+      "summary": "Global oil prices remain below one hundred dollars per barrel.  Significant volumes continue to flow through the Strait of Hormuz.  Gulf exporters utilize alternative routes and means to mitigate shortfalls.  Other producers are stepping up output to fill supply gaps.  Demand destruction in petrochemicals and fuels remains substantial.",
+      "pub": "08 Sep 07:56 IST",
+      "pub_dt": "2026-09-08T02:26:45+00:00",
+      "sectors": [
+        "IT",
+        "Industrials",
+        "Materials",
+        "Telecoms"
+      ],
+      "stocks": [
+        "BEL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Global oil prices remaining below $100/bbl despite Hormuz disruptions signals demand destruction in petrochemicals/fuels and ample alternative supply channels. This caps energy sector input-cost relief benefits and limits upside for energy-exposed industrials, compressing inflationary hedges.",
+        "stocks": {
+          "BEL": "neutral"
+        }
+      }
+    },
+    "92887b213e4be327": {
+      "id": "92887b213e4be327",
+      "title": "Can Kanohar Electricals IPO deliver long-term growth for high-risk investors?",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/can-kanohar-electricals-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/133903800.cms",
+      "summary": "Kanohar Electricals plans a ₹300 crore IPO to boost transformer manufacturing capacity.  The company's promoter stake will significantly decrease after the offering.  Rising power demand and government initiatives are expected to benefit the business.  However, significant customer and supplier concentration risks are present. Investors may observe financial performance post-listing before committ",
+      "pub": "08 Sep 07:56 IST",
+      "pub_dt": "2026-09-08T02:26:04+00:00",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "While rising power demand and government initiatives present structural tailwinds for transformer manufacturing, the IPO itself is a sector-level event with no company-specific earnings impact disclosed. Significant customer/supplier concentration risks and promoter dilution suggest valuation concerns offset growth potential.",
+        "stocks": {}
+      }
+    },
+    "657687df8e3e68e3": {
+      "id": "657687df8e3e68e3",
+      "title": "Oil Price Today (September 8): Crude oil at $97 as simmering tensions raise supply worries. Experts weigh in",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-september-8-crude-oil-at-97-as-simmering-tensions-raise-supply-worries-experts-weigh-in/articleshow/133903670.cms",
+      "summary": "Oil prices soared on Tuesday due to escalating fears surrounding conflicts in the Middle East. Iran's threats of retaliation have raised alarms over potential disruptions in crude supplies. With projections indicating substantial price hikes if the Strait of Hormuz sees blockages, JPMorgan predicts increased Brent prices, while Goldman Sachs alerts to the possibility of Brent hitting $120 if shipp",
+      "pub": "08 Sep 07:42 IST",
+      "pub_dt": "2026-09-08T02:12:59+00:00",
+      "sectors": [
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Oil price movements driven by geopolitical tensions in the Middle East are macro-level developments. Without specific stock exposure identified, this represents a commodity price movement rather than a direct equity impact.",
+        "stocks": {}
+      }
+    },
+    "6c1d9381551cf5c9": {
+      "id": "6c1d9381551cf5c9",
+      "title": "Gold rises as dollar eases; US inflation data on radar",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-rises-as-dollar-eases-us-inflation-data-on-radar/articleshow/133903479.cms",
+      "summary": "Gold prices edged higher on Tuesday due to a weakening U.S. dollar, as investors gear up for crucial inflation data that could sway the Federal Reserve's policy direction. A 60% likelihood of an impending rate increase looms over the market, potentially dampening gold's attractiveness amid soaring interest rates. In parallel, other precious metals, including silver, platinum, and palladium, record",
+      "pub": "08 Sep 07:35 IST",
+      "pub_dt": "2026-09-08T02:05:05+00:00",
+      "sectors": [
+        "Banking",
+        "Materials"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Gold price movements driven by USD weakness and Fed rate expectations are macro-level developments. While rate hikes would negatively impact banking sector valuations and precious metals demand, this is a speculative macro indicator without immediate earnings impact.",
+        "stocks": {}
+      }
+    },
+    "0f58fe29adeac66b": {
+      "id": "0f58fe29adeac66b",
+      "title": "Oil rises as risks of prolonged Mideast conflict heighten supply worries",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-rises-as-risks-of-prolonged-mideast-conflict-heighten-supply-worries/articleshow/133903416.cms",
+      "summary": "Oil prices surged on Tuesday as tensions in the Middle East escalated. Iran's warnings of potential retaliation fueled concerns over supply disruptions, impacting global oil shipments. Experts anticipate limited supply from the Persian Gulf continuing through late 2026. In light of these ongoing interruptions, Goldman Sachs has revised its oil price forecasts upward, suggesting that crude prices w",
+      "pub": "08 Sep 07:30 IST",
+      "pub_dt": "2026-09-08T02:00:43+00:00",
+      "sectors": [
+        "Autos",
+        "Telecoms"
+      ],
+      "stocks": [
+        "Vodafone Idea"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Oil price surge from Mideast escalation increases operational costs for Vodafone Idea (fuel, energy, logistics), pressuring already-thin telecom margins. Recent history shows Fed rate hike bets tied to geopolitical tensions have directly negative impacts on Vi's opex and financial flexibility, which is already strained.",
+        "stocks": {
+          "Vodafone Idea": "negative"
+        }
+      }
+    },
+    "95a5e7ec01023434": {
+      "id": "95a5e7ec01023434",
+      "title": "Yen extends rally to new seven-month high; dollar subdued ahead of CPI",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/yen-extends-rally-to-new-seven-month-high-dollar-subdued-ahead-of-cpi/articleshow/133903359.cms",
+      "summary": "The Japanese yen achieved impressive seven-month highs against the U.S. dollar on Tuesday, driven by traders closing short positions in light of anticipated rate hikes from the Bank of Japan. As the dollar continues to linger in a subdued state before the crucial U.S. inflation data release this week, attention is drawn towards these economic indicators ahead of the FOMC meeting.",
+      "pub": "08 Sep 07:28 IST",
+      "pub_dt": "2026-09-08T01:58:32+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Yen appreciation and dollar weakness ahead of CPI data are macro currency movements. While these could impact auto exporters' rupee realization and IT services' offshore margins, no direct stock impact is quantifiable without specific company exposure.",
+        "stocks": {}
+      }
+    },
+    "77d5fb70e66ccf2f": {
+      "id": "77d5fb70e66ccf2f",
+      "title": "Global Market Today: Asia stocks waver as yen surges, Iran warns of retaliation",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asia-stocks-waver-as-yen-surges-iran-warns-of-retaliation/articleshow/133903179.cms",
+      "summary": "On Tuesday, Asian markets exhibited a mixed bag of outcomes, with the yen gaining strength significantly. Oil prices surged for the third consecutive day, driven by escalating threats from Iran in the Persian Gulf. Japan's economy displayed a faster growth rate than previously forecasted, alongside a notable rise in real wages. Meanwhile, Australian shares faced a downturn as consumer sentiment pl",
+      "pub": "08 Sep 07:18 IST",
+      "pub_dt": "2026-09-08T01:48:52+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Mixed Asian market outcomes with yen strength and oil surge reflect macro uncertainty. Japan's stronger growth is positive for exporters but offset by consumer sentiment declines in Australia, creating a neutral net effect without specific stock-level visibility.",
+        "stocks": {}
+      }
+    },
+    "eea3a2b9b1233e75": {
+      "id": "eea3a2b9b1233e75",
+      "title": "BSE IPO index surges 35% in five months of FY27, hits record high on strong listings",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/bse-ipo-index-surges-35-in-fy27-hits-record-high-on-strong-listings/articleshow/133902517.cms",
+      "summary": "The BSE IPO index reached an all-time high, surging 35% in five months.  Its SME counterpart also jumped 55%, marking a strong performance for recent listings.  These gains significantly outpaced the broader market indices like Sensex and Nifty.  However, the rally was concentrated, with a few stocks driving most of the gains.  Retail and HNI investors are favoring fresh growth stories over establ",
+      "pub": "08 Sep 06:44 IST",
+      "pub_dt": "2026-09-08T01:14:11+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "BSE IPO index surge of 35% in 5 months indicates strong market appetite for new listings and growth stories. This suggests improved capital-raising environment and positive investor sentiment toward equities, supporting valuations for newly-listed companies and broader equity market momentum.",
+        "stocks": {}
+      }
+    },
+    "db6dc95b4e85a3d8": {
+      "id": "db6dc95b4e85a3d8",
+      "title": "Sebi eases FPI compliance rules for G-Sec bets",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/sebi-eases-fpi-compliance-rules-for-g-sec-bets/articleshow/133902425.cms",
+      "summary": "The Securities and Exchange Board of India has taken a significant step by relaxing compliance regulations for foreign investors. Foreign Portfolio Investors (FPIs) who are exclusively investing in government securities will no longer be required to disclose their investor group details. This amendment follows a recent circular from the Reserve Bank of India, which abolished concentration limit re",
+      "pub": "08 Sep 06:36 IST",
+      "pub_dt": "2026-09-08T01:06:22+00:00",
+      "sectors": [
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Sebi's relaxation of FPI compliance rules for G-Sec investments is a regulatory streamlining measure that improves capital flow efficiency. While positive for government securities market, this has limited direct impact on corporate earnings or equity valuations.",
+        "stocks": {}
+      }
+    },
+    "4b03d61872753462": {
+      "id": "4b03d61872753462",
+      "title": "Indians can use crypto to buy groceries, fuel and gold through overseas gift-card platforms",
+      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/indians-are-using-crypto-to-buy-groceries-fuel-and-gold-through-overseas-gift-card-platforms/articleshow/133902813.cms",
+      "summary": "Indians can use cryptocurrencies to buy goods and services domestically through overseas fintech platforms that convert stablecoins and other virtual digital assets into gift cards and vouchers. The mechanism, involving foreign platforms and Indian voucher partners, has drawn regulatory attention over potential gaps in cross-border payment, tax and AML oversight.",
+      "pub": "08 Sep 01:12 IST",
+      "pub_dt": "2026-09-07T19:42:49+00:00",
+      "sectors": [
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "The crypto-to-voucher mechanism for domestic purchases is still nascent and faces regulatory scrutiny on cross-border payments, tax, and AML compliance. While it could theoretically expand digital payment adoption, the regulatory headwinds and lack of clarity prevent meaningful near-term impact on banking or fintech earnings.",
+        "stocks": {}
+      }
+    },
+    "0a27c407a5cc1a6d": {
+      "id": "0a27c407a5cc1a6d",
+      "title": "SBI Ecowrap calls ‘missing’ GDP figures claim ‘fiction’, defends revisions",
+      "link": "https://economictimes.indiatimes.com/news/economy/indicators/sbi-ecowrap-calls-missing-gdp-figures-claim-fiction-defends-revisions/articleshow/133904967.cms",
+      "summary": "An SBI Ecowrap report dismisses claims of missing national account sums as fictional.  It states criticisms stem from comparing distinct statistical series incorrectly.  Revisions in nominal GDP are a normal statistical practice, the report noted.  Sectoral drivers show concentration in trade and transport for downward adjustments.  This exercise confirms publicly accessible data aligns with offic",
+      "pub": "08 Sep 08:39 IST",
+      "pub_dt": "2026-09-08T03:09:47+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT",
+        "Materials"
+      ],
+      "stocks": [
+        "ACC",
+        "SBI"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "SBI's defense of GDP revision methodology is a rhetorical response to statistical criticism with no direct impact on ACC or SBI's financial performance. The acknowledgment that sectoral adjustments occurred (trade/transport concentration) reflects data quality management rather than new operational or earnings developments.",
+        "stocks": {
+          "ACC": "neutral",
+          "SBI": "neutral"
+        }
+      }
+    },
+    "2eb3e750ddb2398d": {
+      "id": "2eb3e750ddb2398d",
+      "title": "LPG reaches rural India, but refills remain a hurdle",
+      "link": "https://economictimes.indiatimes.com/industry/energy/oil-gas/only-23-of-rural-households-use-lpg-exclusively-ceew-studies-find/articleshow/133905619.cms",
+      "summary": "",
+      "pub": "08 Sep 09:07 IST",
+      "pub_dt": "2026-09-08T03:37:18+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "LPG refill infrastructure hurdles in rural India reflect a structural distribution challenge rather than an immediate earnings catalyst or headwind. This is a long-term policy/logistics issue with no quantifiable near-term impact on valuations or sector profitability.",
+        "stocks": {}
+      }
+    },
+    "ce29d13cfae4bcad": {
+      "id": "ce29d13cfae4bcad",
+      "title": "Why all eyes are on Delhi as BRICS leaders gather",
+      "link": "https://economictimes.indiatimes.com/news/india/india-set-to-host-expanded-brics-summit-as-global-trade-finance-and-governance-take-centre-stage/articleshow/133905368.cms",
+      "summary": "",
+      "pub": "08 Sep 08:57 IST",
+      "pub_dt": "2026-09-08T03:27:19+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "BRICS leaders gathering in Delhi is a geopolitical/diplomatic event with no direct implications for Indian equity markets, corporate earnings, or valuation multiples in the near term.",
+        "stocks": {}
+      }
+    },
+    "12181ad0d630fb67": {
+      "id": "12181ad0d630fb67",
+      "title": "Singapore PM Wong warns against normalising racism",
+      "link": "https://economictimes.indiatimes.com/news/india/singapore-pm-wong-warns-against-normalising-racism-after-anti-indian-abuse-online/articleshow/133905460.cms",
+      "summary": "",
+      "pub": "08 Sep 08:59 IST",
+      "pub_dt": "2026-09-08T03:29:36+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Singapore PM's statement on racism normalization is a social/political commentary unrelated to Indian corporate fundamentals, earnings, or market dynamics.",
+        "stocks": {}
+      }
+    },
+    "860c4898589efc16": {
+      "id": "860c4898589efc16",
+      "title": "SBI rebuts criticism of India’s GDP revisions",
+      "link": "https://economictimes.indiatimes.com/news/economy/indicators/sbi-ecowrap-calls-missing-gdp-figures-claim-fiction-defends-revisions/articleshow/133904967.cms",
+      "summary": "",
+      "pub": "08 Sep 08:39 IST",
+      "pub_dt": "2026-09-08T03:09:47+00:00",
+      "sectors": [
+        "Autos",
+        "Banking"
+      ],
+      "stocks": [
+        "SBI"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "SBI's rebuttal of GDP revision criticism is a clarification on statistical methodology with no impact on the bank's core earnings drivers (NII, credit growth, profitability). Recent history shows SBI has strong Q1 fundamentals (10% profit growth, 15% NII expansion) that remain intact regardless of this rhetorical defense.",
+        "stocks": {
+          "SBI": "neutral"
+        }
+      }
+    },
+    "3ec88c327cc201ed": {
+      "id": "3ec88c327cc201ed",
+      "title": "NC-JCM wants Old Pension Scheme for these staff",
+      "link": "https://economictimes.indiatimes.com/wealth/save/nc-jcm-seeks-old-pension-scheme-for-nps-employees-recruited-against-pre-2003-vacancies-who-can-benefit/articleshow/133882019.cms",
+      "summary": "",
+      "pub": "08 Sep 08:32 IST",
+      "pub_dt": "2026-09-08T03:02:38+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "NC-JCM demands for Old Pension Scheme restoration are labor-related policy advocacy with no direct impact on corporate earnings or equity valuations at this stage.",
+        "stocks": {}
+      }
+    },
+    "865b3dcb310a91f1": {
+      "id": "865b3dcb310a91f1",
+      "title": "Hormuz traffic slows as Iran threatens US retaliation",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/hormuz-traffic-slows-after-iran-threatens-retaliation-for-us-attacks/articleshow/133904705.cms",
+      "summary": "",
+      "pub": "08 Sep 08:28 IST",
+      "pub_dt": "2026-09-08T02:58:17+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Escalating Iran-US tensions in Hormuz with slowing traffic directly threatens crude oil supply disruptions, pushing prices higher (~$100/bbl as noted in recent history). This increases energy input costs for Indian manufacturers and drags on sentiment, consistent with recent market weakness attributed to geopolitical risk premiums.",
+        "stocks": {}
+      }
+    },
+    "9a6b4016a4239676": {
+      "id": "9a6b4016a4239676",
+      "title": "Singapore Air to fund India investments internally",
+      "link": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/singapore-airlines-says-india-investments-to-be-funded-through-internal-resources/articleshow/133904439.cms",
+      "summary": "",
+      "pub": "08 Sep 08:17 IST",
+      "pub_dt": "2026-09-08T02:47:40+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Singapore Air's internal funding of India investments is a sector-level development with no direct impact on tagged stocks. This reflects airline capital allocation strategy rather than systemic market implications.",
+        "stocks": {}
+      }
+    },
+    "97d4c0af40721028": {
+      "id": "97d4c0af40721028",
+      "title": "Global IT firms outpace Indian rivals on AI",
+      "link": "https://economictimes.indiatimes.com/tech/information-tech/global-it-firms-outpace-india-listed-rivals-on-ai-consulting/articleshow/133895181.cms",
+      "summary": "",
+      "pub": "08 Sep 06:00 IST",
+      "pub_dt": "2026-09-08T00:30:00+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Global IT firms outpacing Indian rivals on AI signals competitive erosion and margin pressure for domestic IT services players. This represents a structural challenge to market share and pricing power in high-margin AI services.",
+        "stocks": {}
+      }
+    },
+    "7f3c1b5b10ab58e5": {
+      "id": "7f3c1b5b10ab58e5",
+      "title": "Late-stage funding squeeze; ISRO opens up space",
+      "link": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/late-stage-funding-squeeze-isro-opens-up-space/articleshow/133903297.cms",
+      "summary": "",
+      "pub": "08 Sep 07:39 IST",
+      "pub_dt": "2026-09-08T02:09:50+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "ISRO opening up space sector creates opportunities for commercial players but indicates potential margin compression through increased competition. Late-stage funding squeeze signals capital scarcity, which could benefit established players with internal resources.",
+        "stocks": {}
+      }
+    },
+    "da8c96d432673961": {
+      "id": "da8c96d432673961",
+      "title": "New bridge signals closer Russia-North Korea ties",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/russia-north-korea-open-first-road-bridge-across-shared-border-as-ties-deepen/articleshow/133903339.cms",
+      "summary": "",
+      "pub": "08 Sep 07:26 IST",
+      "pub_dt": "2026-09-08T01:56:51+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Russia-North Korea geopolitical ties have no direct bearing on Indian equity fundamentals or corporate earnings. This is macro-level geopolitical commentary without specific Indian market implications.",
+        "stocks": {}
+      }
+    },
+    "a2a85660ce1b0580": {
+      "id": "a2a85660ce1b0580",
+      "title": "Iran students scramble as English exams suspended",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/us-sanctions-leave-iranian-students-scrambling-to-take-english-exams-abroad/articleshow/133903049.cms",
+      "summary": "",
+      "pub": "08 Sep 07:13 IST",
+      "pub_dt": "2026-09-08T01:43:15+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Iran's suspension of English exams is an isolated regulatory/educational policy matter with no connection to Indian corporate earnings or valuations.",
+        "stocks": {}
+      }
+    },
+    "174a894d07441a23": {
+      "id": "174a894d07441a23",
+      "title": "ISRO plans to outsource routine rocketry",
+      "link": "https://economictimes.indiatimes.com/tech/technology/isro-takes-nasa-route-plans-to-outsource-routine-rocketry/articleshow/133895586.cms",
+      "summary": "",
+      "pub": "08 Sep 06:00 IST",
+      "pub_dt": "2026-09-08T00:30:00+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "ISRO outsourcing routine rocketry to private players creates growth opportunities for Indian aerospace/defense companies in rocket manufacturing and space services. This signals sector liberalization and revenue expansion potential.",
+        "stocks": {}
+      }
+    },
+    "c5de3c7d31461877": {
+      "id": "c5de3c7d31461877",
+      "title": "India’s late-stage funding crunch shrinks cheques",
+      "link": "https://economictimes.indiatimes.com/tech/funding/indias-late-stage-funding-crunch-shrinks-cheques-cuts-valuations/articleshow/133895770.cms",
+      "summary": "",
+      "pub": "08 Sep 06:00 IST",
+      "pub_dt": "2026-09-08T00:30:00+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "India's late-stage funding crunch shrinking check sizes signals capital constraints, reduced startup valuations, and diminished venture capital deployment. This pressures growth-stage companies' ability to scale and reduces exit valuations for earlier investors.",
+        "stocks": {}
+      }
+    },
+    "853da297d24ee58a": {
+      "id": "853da297d24ee58a",
+      "title": "Trump says oil could fall below $2 after Iran war",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/trump-forecasts-oil-below-2-a-gallon-after-us-victory-over-iran/articleshow/133902782.cms",
+      "summary": "",
+      "pub": "08 Sep 06:57 IST",
+      "pub_dt": "2026-09-08T01:27:43+00:00",
+      "sectors": [
+        "Industrials"
+      ],
+      "stocks": [
+        "BEL"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Trump's statement about oil falling below $2 amid Iran war creates macro uncertainty and commodity price volatility. For BEL, geopolitical instability and oil price collapse could dampen defense spending cycles and worsen macro sentiment affecting valuations, reversing recent India-Belgium defense partnership tailwinds.",
+        "stocks": {
+          "BEL": "negative"
+        }
+      }
+    },
+    "13b40ece78844692": {
+      "id": "13b40ece78844692",
+      "title": "2,800 kg of unsafe food destroyed in Delhi markets",
+      "link": "https://economictimes.indiatimes.com/industry/cons-products/food/delhi-destroys-over-2800-kg-of-unsafe-food-ahead-of-festive-season/articleshow/133902470.cms",
+      "summary": "",
+      "pub": "08 Sep 06:38 IST",
+      "pub_dt": "2026-09-08T01:08:03+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Food safety enforcement in Delhi markets is a regulatory/hygiene issue with no direct impact on specific publicly listed companies' earnings or growth. While it reflects regulatory vigilance, the destruction of 2,800 kg of unsafe food is a routine enforcement action without systemic implications.",
+        "stocks": {}
+      }
+    },
+    "5ceace899709e5fc": {
+      "id": "5ceace899709e5fc",
+      "title": "Copper hits record high on tight supplies outside US",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/copper-price-touches-record-high-focus-on-tight-supplies-outside-us/articleshow/133889161.cms",
+      "summary": "",
+      "pub": "07 Sep 21:54 IST",
+      "pub_dt": "2026-09-07T16:24:59+00:00",
+      "sectors": [
+        "Materials"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Record copper prices driven by tight global supplies outside the US create favorable pricing dynamics for Indian copper producers and miners. This supports margin expansion and earnings uplift for materials sector players exposed to copper production/trading, though macro copper demand concerns remain latent.",
+        "stocks": {}
+      }
+    },
+    "7a20b6f8a769bf72": {
+      "id": "7a20b6f8a769bf72",
+      "title": "Jakarta airport reopens after volcano ash chaos",
+      "link": "https://economictimes.indiatimes.com/nri/latest-updates/jakarta-airport-four-others-reopen-as-anak-krakatau-ash-disrupts-air-travel/articleshow/133902134.cms",
+      "summary": "",
+      "pub": "08 Sep 06:17 IST",
+      "pub_dt": "2026-09-08T00:47:17+00:00",
+      "sectors": [
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Jakarta airport reopening after volcanic disruption restores critical transport and logistics infrastructure, benefiting IT services (BPO/backend operations) and industrial companies with supply chain exposure to Southeast Asia. This removes a temporary but material operational constraint for businesses with Indonesian footprint.",
+        "stocks": {}
+      }
+    },
+    "45e975b1697cc74d": {
+      "id": "45e975b1697cc74d",
+      "title": "UK recognises India’s carbon credit trading scheme",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/uk-recognises-indias-carbon-credit-trading-scheme-relief-for-indian-exporters/articleshow/133890963.cms",
+      "summary": "",
+      "pub": "07 Sep 22:45 IST",
+      "pub_dt": "2026-09-07T17:15:13+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "UK recognition of India's carbon credit trading scheme validates India's ESG credentials and opens new revenue streams for banking/financial services firms and corporates participating in carbon markets. This enhances India's position in the global transition economy and supports green financing opportunities.",
+        "stocks": {}
+      }
+    },
+    "d1e6842ae701cc5f": {
+      "id": "d1e6842ae701cc5f",
+      "title": "iPhone is about to fold as Apple takes on Samsung",
+      "link": "https://economictimes.indiatimes.com/industry/cons-products/electronics/apple-event-foldable-iphone-ultra-launch-smartphone-market-growth-samsung-xiaomi/articleshow/133872279.cms",
+      "summary": "",
+      "pub": "07 Sep 14:39 IST",
+      "pub_dt": "2026-09-07T09:09:34+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Apple's folding iPhone entry intensifies competition in premium segments but validates the foldable market Apple previously ignored. For Indian ecosystem players, this signals growing global demand for foldable tech, but also increased competitive pressure from Apple's scale and brand—mixed for local players depending on supply chain participation.",
+        "stocks": {}
+      }
+    },
+    "3f9592e408430ef1": {
+      "id": "3f9592e408430ef1",
+      "title": "Dance floor to war: China readies humanoid robots",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/from-dance-floor-to-war-china-readies-humanoid-robots-for-combat/articleshow/133867836.cms",
+      "summary": "",
+      "pub": "07 Sep 12:23 IST",
+      "pub_dt": "2026-09-07T06:53:39+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "China's development of humanoid robots is a long-term strategic/geopolitical trend with no immediate earnings impact on Indian listed companies. While it signals future competitive dynamics in automation, there is insufficient specificity on applications, timelines, or Indian exposure to warrant a directional call.",
+        "stocks": {}
+      }
+    },
+    "8a4ccad05812293d": {
+      "id": "8a4ccad05812293d",
+      "title": "Alt power comes to rule India Motown",
+      "link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/cng-hybrids-electrics-rule-motown-alternative-powertrains-beat-petrol-vehicles-for-the-first-time-in-india-as-august-auto-sales-jump-18/articleshow/133894282.cms",
+      "summary": "Retail vehicle sales rose 18% from a year earlier to 2.42 million units last month, with all major segments of the market posting their best August volumes ever. Last month also saw sales of cars and utility vehicles powered by alternative energy sources such as CNG, electricity and hybrid power surpass petrol-fuelled passenger vehicles for the first time in India.Strong rural demand, despite many",
+      "pub": "08 Sep 00:28 IST",
+      "pub_dt": "2026-09-07T18:58:29+00:00",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "L&T"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "August retail vehicle sales up 18% YoY to 2.42M units with alternative energy (CNG/EV/hybrid) surpassing petrol for the first time signals sustained rural demand resilience and structural shift toward green powertrains. This benefits L&T through capex orders in auto ancillaries, EV infrastructure, and industrial equipment while validating the 'Make in India' + 'Design in India' thesis seen in recent Ultravolt capex.",
+        "stocks": {
+          "L&T": "positive"
+        }
+      }
+    },
+    "6fb3d66a1efa56f7": {
+      "id": "6fb3d66a1efa56f7",
+      "title": "MCX gold and silver prices rise on healthy spot demand, positive global cues; experts highlight key levels to watch",
+      "link": "https://www.livemint.com/market/commodities/mcx-gold-and-silver-prices-rise-on-healthy-spot-demand-positive-global-cues-experts-highlight-key-levels-to-watch-11788838174927.html",
+      "summary": "MCX gold October series rose by 0.42% to  ₹1,53,461 per 10 grams, while MCX silver December contracts climbed 0.67% to  ₹2,40,615 per in morning trade.",
+      "pub": "08 Sep 09:08 IST",
+      "pub_dt": "2026-09-08T03:38:09+00:00",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "MCX gold and silver price movements on spot demand and global cues reflect commodity market microstructure without direct bearing on listed equities. Precious metals trading is financial market activity; positive prices benefit miners/refiners but headline lacks specificity on Indian company exposure or structural demand drivers.",
+        "stocks": {}
+      }
+    },
+    "051615813f182ba5": {
+      "id": "051615813f182ba5",
+      "title": "Rupee opens 2 paise lower at 94.51 against US dollar",
+      "link": "https://www.livemint.com/market/stock-market-news/rupee-opens-2-paise-lower-at-94-51-against-us-dollar-11788838565916.html",
+      "summary": "Rupee opens 2 paise lower at 94.51 against US dollar",
+      "pub": "08 Sep 09:07 IST",
+      "pub_dt": "2026-09-08T03:37:40+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Rupee depreciation to 94.51 is a macro headwind for IT exports in the near term, reducing rupee realization per dollar earned. However, this is a 2 paise move (0.2% change), representing continuation of gradual rupee weakness rather than a sharp shock, with limited immediate impact on earnings.",
+        "stocks": {}
+      }
+    },
+    "27d38a45e74bfae0": {
+      "id": "27d38a45e74bfae0",
+      "title": "Five penny stocks with strong order book as of June 2026",
+      "link": "https://www.livemint.com/market/stock-market-news/penny-stocks-india-penny-stocks-with-order-books-11788778545580.html",
+      "summary": "Of the 46 penny stocks that clear basic quality filters, only a handful run order-book businesses at all. Here are five that do, and what these businesses have disclosed.",
+      "pub": "08 Sep 09:00 IST",
+      "pub_dt": "2026-09-08T03:30:20+00:00",
+      "sectors": [
+        "Industrials"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "The article identifies penny stocks with order-book visibility as a quality filter, but provides no company-specific details, earnings impact, or valuation commentary. This is sector-level commentary without actionable stock impact.",
+        "stocks": {}
+      }
+    },
+    "eae8a3d6df756425": {
+      "id": "eae8a3d6df756425",
+      "title": "Stocks to buy for short term: Angel One, BEML among 6 stocks experts recommend buying; do you own any?",
+      "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-angel-one-beml-among-6-stocks-experts-recommend-buying-do-you-own-any-11788836081966.html",
+      "summary": "Discover which stocks have caught the attention of market experts for short-term investments. From Angel One's bullish reversal to BEML's momentum, analysts share insights on 6 stocks with favourable setups that could lead to profitable positions.&amp;nbsp;",
+      "pub": "08 Sep 08:54 IST",
+      "pub_dt": "2026-09-08T03:24:10+00:00",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Analyst recommendations for short-term trading setups (Angel One, BEML) suggest positive technical momentum and near-term upside, but lack fundamental earnings or margin expansion rationale. Short-term recommendations carry execution risk and may not reflect structural value creation.",
+        "stocks": {}
+      }
+    },
+    "0f74820ac9be32dc": {
+      "id": "0f74820ac9be32dc",
+      "title": "Glass Wall Systems IPO Day 1: GMP hints 28% listing pop. Should you subscribe or skip? Check review, key dates.",
+      "link": "https://www.livemint.com/market/ipo/glass-wall-systems-ipo-day-1-gmp-hints-28-listing-pop-should-you-subscribe-or-skip-check-review-key-dates-11788834882484.html",
+      "summary": "The Glass Wall Systems IPO will open on 8 September at  ₹172–182 per equity share. With a grey market premium of +51, the estimated listing price is  ₹233. Subscription concludes on 10 September and allotments are expected by 11 September, with shares listed on 16 September.",
+      "pub": "08 Sep 08:47 IST",
+      "pub_dt": "2026-09-08T03:17:53+00:00",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Glass Wall Systems IPO shows strong grey market premium of +51 (estimated 28% listing pop), indicating robust investor demand and positive market sentiment for the issue. The 51 GMP premium suggests confidence in business fundamentals and growth prospects at the offer price.",
+        "stocks": {}
+      }
+    },
+    "3abe039f1c414cfd": {
+      "id": "3abe039f1c414cfd",
+      "title": "Stock market today: Gift Nifty down | Vaishali Parekh recommends three stocks to buy today",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-down-vaishali-parekh-recommends-three-stocks-to-buy-today-11788834324730.html",
+      "summary": "Vaishali Parekh's stock recommendations for today: Prabhudas Lilladher expert picks three stocks for today — Lemon Tree Hotels, HBL Engineering, and Laurus Labs",
+      "pub": "08 Sep 08:41 IST",
+      "pub_dt": "2026-09-08T03:11:39+00:00",
+      "sectors": [
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "HAL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "HAL continues to benefit from structural defence tailwinds including F404 engine deliveries addressing production bottlenecks for Tejas Mk1A and India's rising defence spending/localization push. Recent analyst bullish stance and GE Aerospace partnership progress confirm positive earnings trajectory for defence/aerospace segment.",
+        "stocks": {
+          "HAL": "positive"
+        }
+      }
+    },
+    "68d380ef453271f6": {
+      "id": "68d380ef453271f6",
+      "title": "Kanohar Electricals IPO GMP jumps 31% on Day 1. Check review, issue details, subscription. Should you apply or skip?",
+      "link": "https://www.livemint.com/market/ipo/kanohar-electricals-ipo-gmp-jumps-31-on-day-1-check-review-issue-details-subscription-should-you-apply-or-skip-11788831443118.html",
+      "summary": "The Kanohar Electricals IPO will open on 8 September and close on 10 September. The price band is set at  ₹601–632, with an estimated listing price of  ₹828. It allocates 50% to QIBs, 15% to NIIs, and 35% to retail investors. Kanohar Electricals IPO GMP today is +196.",
+      "pub": "08 Sep 08:01 IST",
+      "pub_dt": "2026-09-08T02:31:43+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Kanohar Electricals IPO shows very strong grey market premium of +196 (estimated 31% listing pop), signaling exceptional investor demand and confidence in the business model. The strong GMP indicates market is pricing in growth potential and operational efficiency at the offer price band of ₹601–632.",
+        "stocks": {}
+      }
+    },
+    "8a16861799f3bca3": {
+      "id": "8a16861799f3bca3",
+      "title": "How Asian markets, crude will impact Sensex, Nifty: What GIFT Nifty, Nikkei, Kospi, Taiwan index signals for India",
+      "link": "https://www.livemint.com/market/stock-market-news/how-asian-markets-crude-will-impact-sensex-nifty-what-gift-nifty-nikkei-kospi-taiwan-index-signals-for-india-11788829897710.html",
+      "summary": "Gift Nifty was trading around the 23,789.50 level, down nearly 78.20 points from the Nifty futures’ previous close, indicating a negative start for the Indian stock market indices.",
+      "pub": "08 Sep 07:32 IST",
+      "pub_dt": "2026-09-08T02:02:21+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Gift Nifty down 78.20 points signals a negative market opening driven by mixed global cues, indicating selling pressure and weakness in sentiment. This represents a reversal from the recent bullish momentum seen in early September, suggesting near-term headwinds for equity valuations.",
+        "stocks": {}
+      }
+    },
+    "1269ed9f43777f0f": {
+      "id": "1269ed9f43777f0f",
+      "title": "Shares to buy or sell: Chandan Taparia of Motilal Oswal recommends three stocks to buy today - 8 September 2026",
+      "link": "https://www.livemint.com/market/stock-market-news/shares-to-buy-or-sell-chandan-taparia-of-motilal-oswal-recommends-three-stocks-to-buy-today-8-september-2026-11788797680657.html",
+      "summary": "The Indian stock market anticipates a lower opening on September 8, influenced by mixed global cues. Nifty 50 and Sensex trends indicate selling pressure, with previous session closures below key levels. Analysts suggest cautious trading within specified ranges amid bearish patterns.",
+      "pub": "08 Sep 07:05 IST",
+      "pub_dt": "2026-09-08T01:35:25+00:00",
+      "sectors": [
+        "Autos",
+        "Industrials"
+      ],
+      "stocks": [
+        "BEL"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "BEL caught in broader selling pressure with Nifty trends below key support levels and bearish patterns dominating. Recent history shows BEL declined up to 81% over 6 months alongside penny stock sell-off; current cautious trading recommendation signals analyst hesitation on near-term momentum despite defence sector tailwinds.",
+        "stocks": {
+          "BEL": "negative"
+        }
+      }
+    },
+    "e4106dbfaa9b0687": {
+      "id": "e4106dbfaa9b0687",
+      "title": "Stock market today: Trade guide for Sensex, Nifty 50, crude oil to gold | Eight stocks to buy",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-trade-guide-for-sensex-nifty-50-crude-oil-to-gold-eight-stocks-to-buy-11788828251128.html",
+      "summary": "Stock market today: Indian stock market indices Sensex and Nifty 50 are set for a lower open on 8 September amid mixed global cues. Nifty 50 closed below 23,800, signaling bearish momentum, while elevated crude oil prices and geopolitical tensions raise concerns over inflation and market sentiment.",
+      "pub": "08 Sep 07:01 IST",
+      "pub_dt": "2026-09-08T01:31:11+00:00",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "BEL"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Mixed global cues, elevated crude oil prices, geopolitical tensions, and Nifty closing below 23,800 signal bearish momentum that pressures valuations across defensives like BEL. Recent history shows BEL caught in a broader penny stock sell-off (up to 81% declines over 6 months), and macro headwinds (US-Iran tensions, Fed rate hikes, FPI selling) outweigh any defense sector tailwinds.",
+        "stocks": {
+          "BEL": "negative"
+        }
+      }
+    },
+    "f6803ce42e0a8f7b": {
+      "id": "f6803ce42e0a8f7b",
+      "title": "Oil holds near $100 as traders await Iran-Oman deal on Strait of Hormuz shipping",
+      "link": "https://www.livemint.com/market/brent-oil-near-100-as-iran-says-hormuz-deal-with-oman-close-11788829819840.html",
+      "summary": "Oil held gains near $100 a barrel as traders watched for details of an Iranian deal with Oman to manage shipping through the Strait of Hormuz, while strong Chinese buying tightened the market.",
+      "pub": "08 Sep 06:40 IST",
+      "pub_dt": "2026-09-08T01:10:19+00:00",
+      "sectors": [
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Oil near $100/bbl driven by Iran-Oman shipping deal tensions and Chinese demand tightens markets. While elevated crude pressures margins for IT/Telecom (higher input/energy costs), it may support energy-linked infrastructure spending, creating mixed sector impact. No direct earnings catalyst identified.",
+        "stocks": {}
+      }
+    },
+    "3c6f160755a77276": {
+      "id": "3c6f160755a77276",
+      "title": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today —8 September 2026",
+      "link": "https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-8-september-2026-11788828772209.html",
+      "summary": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five breakout stocks to buy today — Kiri Industries, Gujarat Themis Biosyn, Supreme Petrochem, Man Industries (India), and Aeroflex Industries.",
+      "pub": "08 Sep 06:39 IST",
+      "pub_dt": "2026-09-08T01:09:35+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Sumeet Bagadia's breakout stock recommendations are technical trading calls (Kiri Industries, Gujarat Themis Biosyn, Supreme Petrochem, Man Industries, Aeroflex) with no fundamental catalysts or earnings impact disclosed. This is generic analyst commentary with no macro/earnings linkage.",
+        "stocks": {}
+      }
+    },
+    "141cddfefd3f7b75": {
+      "id": "141cddfefd3f7b75",
+      "title": "Nifty falls over 1,000 points from August high; Can Fibonacci support help bulls stage a comeback?",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-falls-over-1-000-points-from-august-high-can-fibonacci-support-help-bulls-stage-a-comeback-11788828316621.html",
+      "summary": "Nifty index began the session about 14 points lower and remained weak for most of the day, eventually ending 118.35 points down at 23,779.15.",
+      "pub": "08 Sep 06:22 IST",
+      "pub_dt": "2026-09-08T00:52:16+00:00",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Materials"
+      ],
+      "stocks": [
+        "ACC"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Nifty's 1,000-point decline from August highs and 118-point close below 23,800 signals sustained selling pressure driven by US-Iran escalation, crude near $100, Fed rate hikes, and demand weakness (services PMI at 4-year lows). This bearish macro environment pressures ACC's growth outlook and valuation multiples.",
+        "stocks": {
+          "ACC": "negative"
+        }
+      }
+    },
+    "a804d891e50d8fc2": {
+      "id": "a804d891e50d8fc2",
+      "title": "SEBI gives angel funds 7-month extension to comply with accredited investor mandate",
+      "link": "https://www.livemint.com/companies/news/sebi-gives-angel-funds-7-month-extension-to-comply-with-accredited-investor-mandate-11788833824743.html",
+      "summary": "SEBI has extended the deadline for Angel Funds to comply with the accredited investor requirement to March 31, 2027. Details here.",
+      "pub": "08 Sep 09:14 IST",
+      "pub_dt": "2026-09-08T03:44:07+00:00",
+      "sectors": [
+        "Banking",
+        "IT",
+        "Materials"
+      ],
+      "stocks": [
+        "ACC"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "SEBI's 7-month extension of angel fund accredited investor compliance deadline (to March 31, 2027) provides regulatory relief but does not directly impact ACC's earnings, margins, or competitive position. This is an administrative compliance relief with no material earnings consequence.",
+        "stocks": {
+          "ACC": "neutral"
+        }
+      }
+    },
+    "a5ab1b9a896d4771": {
+      "id": "a5ab1b9a896d4771",
+      "title": "AI delays, memory crunch, new Huawei, Xiaomi foldables: Headaches looming over John Ternus’ first Apple event on 9 Sept",
+      "link": "https://www.livemint.com/companies/people/ai-delays-memory-crunch-new-huawei-xiaomi-foldables-headaches-hanging-over-john-ternus-first-apple-event-on-se-11788801382943.html",
+      "summary": "John Ternus succeeded Tim Cook as Apple CEO, taking charge amid soaring memory costs, looming iPhone price hikes and EU‑mandated App Store changes. His first major test comes on 9 September with the launch of the iPhone 18 Pro and possibly the rumoured foldable iPhone.",
+      "pub": "07 Sep 23:59 IST",
+      "pub_dt": "2026-09-07T18:29:50+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Apple's iPhone 18 Pro launch amid AI delays, soaring memory costs, looming price hikes, and EU App Store regulatory changes creates near-term headwinds. Rising memory costs and price competition from Huawei/Xiaomi foldables compress margins, while EU regulation threatens revenue. These pressures impact the broader IT/semiconductor supply chain.",
+        "stocks": {}
+      }
     }
   }
 }
