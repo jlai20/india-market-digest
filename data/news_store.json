@@ -277028,6 +277028,1082 @@
         "reasoning": "The adoption of AI agents by fintechs to improve merchant retention amid margin compression is a sectoral trend indicating competitive adaptation in the fintech ecosystem. Without tagged stocks or specific company impacts, this represents a macro fintech trend rather than direct earnings impact on listed entities.",
         "stocks": {}
       }
+    },
+    "3c5a53569d2307f2": {
+      "id": "3c5a53569d2307f2",
+      "title": "Oil prices slide about 2% as US, Iran explore path out of war",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-slide-about-2-as-us-iran-explore-path-out-of-war/articleshow/134496730.cms",
+      "summary": "Oil prices have dropped roughly 2%, influenced by signs of diplomatic advancement between the US and Iran concerning the Strait of Hormuz. As negotiations unfold, the US is contemplating a ban on diesel exports, impacting crude oil futures. Meanwhile, escalating assaults by Houthi fighters are hindering oil supply from Saudi Arabia, while ongoing Russia-Ukraine discussions may further shake global",
+      "pub": "26 Sep 09:28 IST",
+      "pub_dt": "2026-09-26T03:58:53+00:00",
+      "sectors": [
+        "IT",
+        "Materials",
+        "Telecoms"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Oil price decline of ~2% due to US-Iran diplomatic progress reduces commodity cost pressures, but this is a macro trend affecting multiple sectors differentially. IT and Materials sectors benefit from lower energy costs, while Telecoms face modest tailwinds. No direct earnings impact on specific stocks without company-level news.",
+        "stocks": {}
+      }
+    },
+    "2f5f7a4781c4d14e": {
+      "id": "2f5f7a4781c4d14e",
+      "title": "Dollar dips as oil eases, yen jumps on Japan remarks",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-dips-as-oil-eases-yen-jumps-on-japan-remarks/articleshow/134496709.cms",
+      "summary": "The dollar tumbled on Friday amidst softening oil prices, hinting at a cease to its prior gains. In contrast, the yen surged following Japan and the US’s reassertion of their commitment to currency stability. Although oil prices linger above $100 a barrel, alleviating some inflationary pressures, Federal Reserve officials raised alarms over ongoing inflation, prompting expectations for more intere",
+      "pub": "26 Sep 09:26 IST",
+      "pub_dt": "2026-09-26T03:56:48+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Dollar weakness and yen strength reflect currency volatility from geopolitical factors and Fed policy expectations. For IT and Autos sectors, softer dollar is marginally negative for export competitiveness, while currency hedging impacts are mixed. No direct stock-level catalysts identified.",
+        "stocks": {}
+      }
+    },
+    "910630c1fea52f21": {
+      "id": "910630c1fea52f21",
+      "title": "Mounting rate hike bets keep weekly loss in sight for gold",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/mounting-rate-hike-bets-keep-weekly-loss-in-sight-for-gold/articleshow/134496698.cms",
+      "summary": "Gold prices rose slightly on Friday but are set for a weekly decline of 2.1 percent. Factors such as inflation worries and rising US Treasury yields have negatively impacted the allure of gold as a safe haven for investors. The Federal Reserve's recent interest rate hike has raised concerns about future increases, further affecting gold's market perception.",
+      "pub": "26 Sep 09:23 IST",
+      "pub_dt": "2026-09-26T03:53:54+00:00",
+      "sectors": [
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Gold's 2.1% weekly decline reflects rising US Treasury yields and Fed rate hike expectations, signaling higher cost of capital. Banking sector faces margin compression from yield curve dynamics, while IT faces elevated capital costs. This is a continuation of the recent trend of tightening financial conditions.",
+        "stocks": {}
+      }
+    },
+    "6cf625a9dd34dfb9": {
+      "id": "6cf625a9dd34dfb9",
+      "title": "European shares log weekly gains as oil prices ease, Mideast tensions linger",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/european-shares-log-weekly-gains-as-oil-prices-ease-mideast-tensions-linger/articleshow/134496669.cms",
+      "summary": "European markets rallied as declining oil prices broke a three-week slump. Despite lingering investor caution due to geopolitical tensions in the Middle East and rising bond yields, the pan-European STOXX 600 index saw gains, primarily fueled by strong performances from banking and airline sectors. However, concerns over energy costs remained a factor impacting German consumer sentiment in October",
+      "pub": "26 Sep 09:21 IST",
+      "pub_dt": "2026-09-26T03:51:16+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [
+        "Vodafone Idea"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Oil price decline boosts European equity markets and banking/airline sector performance, reducing operational cost headwinds. However, for Vodafone Idea, while lower oil prices ease fuel costs, the stock faces ongoing regulatory headwinds (TRAI MNP investigation) and rising US Treasury yields that increase refinancing costs for its ₹35,000-crore capex loan. Modest positive from lower commodity costs offset by negative regulatory and macro factors.",
+        "stocks": {
+          "Vodafone Idea": "neutral"
+        }
+      }
+    },
+    "c4ac3d449409a841": {
+      "id": "c4ac3d449409a841",
+      "title": "India, EDF discuss deployment of French EPR nuclear technology, pumped hydro projects",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-edf-discuss-deployment-of-french-epr-nuclear-technology-pumped-hydro-projects/articleshow/134496431.cms",
+      "summary": "Power Secretary Pankaj Agarwal met EDF Chairman and CEO Bernard Fontana to discuss deploying the French utility’s EPR nuclear reactor technology in India, the power ministry said. The talks also covered the evolving regulatory framework for the nuclear sector and cooperation on pumped hydro storage projects, with senior officials present.",
+      "pub": "26 Sep 08:57 IST",
+      "pub_dt": "2026-09-26T03:27:15+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "India-EDF collaboration on EPR nuclear technology and pumped hydro storage signals long-term infrastructure capex expansion and energy security. This enhances India's power generation capacity and creates positive tailwinds for capital equipment manufacturers and industrial contractors. Sector-level positive for Autos and Industrials supply chains.",
+        "stocks": {}
+      }
+    },
+    "df49d9c888e8ca1a": {
+      "id": "df49d9c888e8ca1a",
+      "title": "India to keep taxation out of bilateral investment treaty framework; Cabinet note ready",
+      "link": "https://economictimes.indiatimes.com/news/economy/policy/india-to-keep-taxation-out-of-bilateral-investment-treaty-framework-cabinet-note-ready/articleshow/134496351.cms",
+      "summary": "India will keep taxation outside the framework of bilateral investment treaties, with a revised model BIT expected to be considered by the Cabinet soon. The Finance Ministry has circulated a note, while negotiations with four-five countries are underway. Foreign investors will also have to exhaust local remedies before seeking arbitration.",
+      "pub": "26 Sep 08:50 IST",
+      "pub_dt": "2026-09-26T03:20:26+00:00",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "India's decision to exclude taxation from bilateral investment treaty framework reduces investor protections but provides regulatory clarity on future treaties. This is a mixed signal for foreign direct investment but does not directly impact earnings or valuations for Autos sector without treaty-specific negotiations.",
+        "stocks": {}
+      }
+    },
+    "a45430e280ae41e3": {
+      "id": "a45430e280ae41e3",
+      "title": "India, Australia working on comprehensive economic pact, bilateral investment treaty: Piyush Goyal",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-australia-working-on-comprehensive-economic-pact-bilateral-investment-treaty-piyush-goyal/articleshow/134496160.cms",
+      "summary": "India and Australia are working towards a comprehensive economic cooperation agreement and a Bilateral Investment Treaty to deepen trade and investment ties, Commerce Minister Piyush Goyal said. The countries are also expanding cooperation in critical minerals and education, while addressing cross-border taxation and compliance issues affecting businesses and service providers.",
+      "pub": "26 Sep 08:42 IST",
+      "pub_dt": "2026-09-26T03:12:07+00:00",
+      "sectors": [
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "India-Australia comprehensive economic pact and bilateral investment treaty negotiations signal deepening trade ties and reduced cross-border compliance friction. Expanded cooperation in critical minerals and education creates positive long-term tailwinds for IT and Telecoms sectors through export opportunities and knowledge transfer.",
+        "stocks": {}
+      }
+    },
+    "7073ea12e22ec6e6": {
+      "id": "7073ea12e22ec6e6",
+      "title": "India to consult industry on trade secrets law, whistleblower safeguards and contract enforcement",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-to-consult-industry-on-trade-secrets-law-whistleblower-safeguards-and-contract-enforcement/articleshow/134496156.cms",
+      "summary": "India is revisiting a proposed trade secrets law and will soon consult industry and startups on whistleblower safeguards, contract enforcement and compliance. DPIIT is weighing whether a dedicated law is needed or whether amendments to the Indian Contract Act can address contract fulfilment, while protecting confidential business information.",
+      "pub": "26 Sep 08:31 IST",
+      "pub_dt": "2026-09-26T03:01:54+00:00",
+      "sectors": [
+        "Autos",
+        "Industrials",
+        "Materials"
+      ],
+      "stocks": [
+        "L&T"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "India's proposed trade secrets law and whistleblower safeguards strengthen IP protection and contract enforcement, reducing operational risk for industrials and tech-reliant companies. Enhanced legal clarity on confidential business information and contract fulfilment supports L&T's engineering and industrial execution contracts. This reverses recent litigation/governance concerns and improves business predictability.",
+        "stocks": {
+          "L&T": "positive"
+        }
+      }
+    },
+    "f09bd938ed72a9b2": {
+      "id": "f09bd938ed72a9b2",
+      "title": "India-US trade pact to 'unleash another level' of ties, says American official; reveals deal is '90%-plus' done",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-us-trade-pact-to-unleash-another-level-of-ties-says-american-official-reveals-deal-is-90-plus-done/articleshow/134495909.cms",
+      "summary": "A senior US State Department official said the India-US trade pact is “90-per cent-plus” complete, with only final issues being resolved. The official said the agreement could “unleash another level” of bilateral ties, while highlighting upcoming diplomatic engagements, including Marco Rubio’s India visit and the next Quad foreign ministers’ meeting.",
+      "pub": "26 Sep 08:00 IST",
+      "pub_dt": "2026-09-26T02:30:48+00:00",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "A near-complete India-US trade pact (90%+ done) is positive for exposed Indian sectors. Autos and IT/Telecoms could benefit from improved market access, reduced tariffs, and enhanced bilateral commerce. This represents a structural tailwind for exports and cross-border investment, supporting medium-term earnings growth.",
+        "stocks": {}
+      }
+    },
+    "80a1e1a00b27f962": {
+      "id": "80a1e1a00b27f962",
+      "title": "Iran awaits US response on Strait of Hormuz plan",
+      "link": "https://economictimes.indiatimes.com/news/defence/iran-awaits-us-response-on-strait-of-hormuz-plan-after-trump-reportedly-rejects-deal/articleshow/134496198.cms",
+      "summary": "",
+      "pub": "26 Sep 08:36 IST",
+      "pub_dt": "2026-09-26T03:06:18+00:00",
+      "sectors": [
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Iran-US tensions around the Strait of Hormuz are a macro risk factor with indirect implications for oil prices and global supply chains, but the headline lacks specificity on India's exposure or outcome. IT and Telecoms sectors have limited direct operational linkage to this geopolitical issue unless it escalates sharply.",
+        "stocks": {}
+      }
+    },
+    "8f7cab57c70f53f7": {
+      "id": "8f7cab57c70f53f7",
+      "title": "Panda Policy: Trump-Xi well past Nixon-era magic",
+      "link": "https://economictimes.indiatimes.com/news/international/global-trends/pandas-then-pandas-now-trump-and-xi-are-well-past-nixon-era-magic/articleshow/134487848.cms",
+      "summary": "",
+      "pub": "25 Sep 20:08 IST",
+      "pub_dt": "2026-09-25T14:38:09+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Trump-Xi relations and US-China trade dynamics are macro-level considerations affecting global growth and commodity prices, but without sector clarity or specific Indian stock implications, the direct impact remains ambiguous. Relevant only if India's export competitiveness or FDI flows are affected.",
+        "stocks": {}
+      }
+    },
+    "62503a99afa5a4a9": {
+      "id": "62503a99afa5a4a9",
+      "title": "Ganpati Visarjan: A new product cycle begins",
+      "link": "https://economictimes.indiatimes.com/news/india/ganpati-visarjan-2026-mumbai-idol-recycling-pop-waste-lalbaugcha-raja-beach-please-malhar-anant-chaturdashi/articleshow/134487822.cms",
+      "summary": "",
+      "pub": "25 Sep 20:15 IST",
+      "pub_dt": "2026-09-25T14:45:58+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Ganpati Visarjan reference to a 'new product cycle' in banking is vague metaphorical language without concrete earnings drivers. Seasonal or festival-linked retail activity has marginal impact on bank profitability unless tied to credit growth or deposit inflows, which are not mentioned.",
+        "stocks": {}
+      }
+    },
+    "fad6eb0c165f22ae": {
+      "id": "fad6eb0c165f22ae",
+      "title": "Are banks open or closed today?",
+      "link": "https://economictimes.indiatimes.com/wealth/save/saturday-bank-holiday-are-banks-open-or-closed-today-on-september-26-2026/articleshow/134483468.cms",
+      "summary": "",
+      "pub": "26 Sep 07:00 IST",
+      "pub_dt": "2026-09-26T01:30:00+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "A headline asking whether banks are open/closed is administrative/calendar information with no direct impact on earnings, margins, or valuation. This is neutral operational trivia.",
+        "stocks": {}
+      }
+    },
+    "09b079ac7a3a9c2d": {
+      "id": "09b079ac7a3a9c2d",
+      "title": "Why OROP is a key demand for L1-18 employees",
+      "link": "https://economictimes.indiatimes.com/wealth/save/8th-pay-commission-latest-pension-news-why-is-one-rank-one-pension-a-prominent-demand-for-level-1-18-employees/articleshow/134485848.cms",
+      "summary": "",
+      "pub": "26 Sep 08:00 IST",
+      "pub_dt": "2026-09-26T02:30:00+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "OROP (One Rank One Pension) demand for L1-18 employees is a defense/government employee compensation policy matter. Without clarity on fiscal burden, affected sectors, or implementation timeline, the impact is unquantifiable and not directly linked to listed equity valuations.",
+        "stocks": {}
+      }
+    },
+    "760a598924a1a7ea": {
+      "id": "760a598924a1a7ea",
+      "title": "Can you get Rs 70K/m for 25 years from Rs 1cr corpus?",
+      "link": "https://economictimes.indiatimes.com/wealth/invest/retiring-corpus-calculator-with-rs-1-crore-corpus-will-it-be-sufficient-to-get-rs-70000-monthly-for-25-years/articleshow/134485959.cms",
+      "summary": "",
+      "pub": "26 Sep 08:00 IST",
+      "pub_dt": "2026-09-26T02:30:00+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "A personal finance question about retirement corpus withdrawal rates has no bearing on listed company earnings or stock valuations. This is consumer-focused advisory content, not company-level news.",
+        "stocks": {}
+      }
+    },
+    "3d91494345c20e29": {
+      "id": "3d91494345c20e29",
+      "title": "US SC rejects Republican-friendly map for 3rd time",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/supreme-court-rejects-a-trump-backed-missouri-congressional-map-for-the-third-time/articleshow/134495662.cms",
+      "summary": "",
+      "pub": "26 Sep 07:29 IST",
+      "pub_dt": "2026-09-26T01:59:34+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "US Supreme Court rejecting a Republican-friendly electoral map is domestic US political news with no direct linkage to Indian equity markets, earnings, or sector valuations. Indirect macro impacts, if any, are speculative.",
+        "stocks": {}
+      }
+    },
+    "3cf759391d44d660": {
+      "id": "3cf759391d44d660",
+      "title": "The strange to-do list awaiting Air India’s new boss",
+      "link": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/drugs-alcohol-bicycle-losses-air-india-new-ceo-tewolde-gebremariam-tata-sons-funding-singapore-airlines-turnaround-strange-list/articleshow/134478051.cms",
+      "summary": "",
+      "pub": "25 Sep 12:44 IST",
+      "pub_dt": "2026-09-25T07:14:48+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Air India leadership transition is sector-specific news without direct earnings impact disclosed. Operational improvements under new management are speculative and lack concrete details.",
+        "stocks": {}
+      }
+    },
+    "18366e68cdfb58e8": {
+      "id": "18366e68cdfb58e8",
+      "title": "India’s QSRs turn to Rs 99 to win back customers",
+      "link": "https://economictimes.indiatimes.com/industry/cons-products/food/indias-qsrs-rethink-the-value-game-with-rs-99-offers-kfc-pizza-hut-devyani-sapphire-westlife/articleshow/134476699.cms",
+      "summary": "",
+      "pub": "25 Sep 12:48 IST",
+      "pub_dt": "2026-09-25T07:18:47+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "QSRs resorting to aggressive Rs 99 pricing indicates margin compression and intensifying competitive pressure. This suggests industry-wide demand weakness requiring discounting to retain customers.",
+        "stocks": {}
+      }
+    },
+    "069dd2333780a2d4": {
+      "id": "069dd2333780a2d4",
+      "title": "Congo plane crash kills 14, including 2 officials",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/congo-plane-crash-kills-14-including-2-senior-military-officials/articleshow/134495498.cms",
+      "summary": "",
+      "pub": "26 Sep 06:49 IST",
+      "pub_dt": "2026-09-26T01:19:50+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Congo plane crash is a localized aviation incident with no material impact on Indian equities or macroeconomic fundamentals.",
+        "stocks": {}
+      }
+    },
+    "7cab99223d3ca2dd": {
+      "id": "7cab99223d3ca2dd",
+      "title": "RBI: India’s financial, external sectors remain strong",
+      "link": "https://economictimes.indiatimes.com/news/economy/policy/rbi-bulletin-indias-financial-external-sectors-continue-to-draw-strength-from-resilient-domestic-economy/articleshow/134490507.cms",
+      "summary": "",
+      "pub": "25 Sep 23:21 IST",
+      "pub_dt": "2026-09-25T17:51:23+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "RBI's affirmation of strong financial and external sectors provides macro confidence for IT and other export-oriented sectors. Strong external position supports currency stability and growth outlook.",
+        "stocks": {}
+      }
+    },
+    "8ff324aecacea389": {
+      "id": "8ff324aecacea389",
+      "title": "Battered bonds draw support from falling oil prices",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/battered-bonds-draw-support-from-falling-oil-prices/articleshow/134496754.cms",
+      "summary": "US Treasury yields stabilised on Friday with benchmark 10-year note yields edging lower on the day as oil prices dropped, after they earlier set fresh multi-decade highs, with traders pricing in further Federal Reserve interest rate hikes.Stocks, meanwhile, were buoyed by continued enthusiasm for the AI trade.Oil prices fell about 3% on mounting hopes for a truce between the US and Iran, even as t",
+      "pub": "26 Sep 09:34 IST",
+      "pub_dt": "2026-09-26T04:04:45+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Falling oil prices benefit banking and autos via lower commodity inflation and improved margins, but rising US Treasury yields create capital outflow headwinds for emerging markets. IT benefits from AI enthusiasm offsetting yield pressure.",
+        "stocks": {}
+      }
+    },
+    "b518b1bd225b147c": {
+      "id": "b518b1bd225b147c",
+      "title": "NSE share price: How long-term investors can use staggered approach to buy NSE shares",
+      "link": "https://www.livemint.com/market/stock-market-news/nse-share-price-how-to-use-staggered-approach-to-buy-nse-shares-after-listing-for-long-term-investors-11790394683165.html",
+      "summary": "Investors are advised to adopt a staggered buying strategy for NSE shares post-listing, focusing on gradual accumulation. PL rates NSE as 'Accumulate' with a target price of  ₹1,950, citing its substantial market share and strong liquidity.",
+      "pub": "26 Sep 09:40 IST",
+      "pub_dt": "2026-09-26T04:10:19+00:00",
+      "sectors": [
+        "Materials"
+      ],
+      "stocks": [
+        "ACC"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Article is about NSE IPO strategy and ACC is incorrectly tagged; the headline concerns NSE listing, not ACC cement business. No direct operational or earnings impact on ACC from NSE share listings.",
+        "stocks": {
+          "ACC": "neutral"
+        }
+      }
+    },
+    "5be3e4b38389cdfd": {
+      "id": "5be3e4b38389cdfd",
+      "title": "Stocks to buy under  ₹200: Tata Steel, South Bank, Castrol by Mehul Kothari of Anand Rathi | Target, SL, market outlook",
+      "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-rs-200-tata-steel-south-bank-castrol-by-mehul-kothari-of-anand-rathi-target-sl-market-outlook-11790390076388.html",
+      "summary": "Stock market outlook: The Nifty 50 index is now trading around the important 23,000–23,100 zone, which is a crucial support coinciding with the rising channel support, says Mehul Kothari",
+      "pub": "26 Sep 08:33 IST",
+      "pub_dt": "2026-09-26T03:03:17+00:00",
+      "sectors": [
+        "Banking",
+        "Materials"
+      ],
+      "stocks": [
+        "Tata Steel"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Tata Steel faces headwinds from delayed green steel project (5-month extension signals execution issues) and recent boardroom governance uncertainty. Recent history shows mixed technical performance overshadowed by structural concerns.",
+        "stocks": {
+          "Tata Steel": "negative"
+        }
+      }
+    },
+    "c75089255616211b": {
+      "id": "c75089255616211b",
+      "title": "Oil Declines as Traders Weigh US, Iran Hormuz Talk Progress",
+      "link": "https://www.livemint.com/market/oil-declines-as-traders-weigh-us-iran-hormuz-talk-progress-11790369499240.html",
+      "summary": "Oil fell on tentative signs that talks between the US and Iran to reopen the world’s most important energy shipping route were progressing.",
+      "pub": "26 Sep 02:21 IST",
+      "pub_dt": "2026-09-25T20:51:38+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "US-Iran Hormuz talks progress reducing geopolitical risk and pushing oil prices lower. Lower crude benefits Indian economy via reduced import inflation, improved current account, and margin expansion for oil-dependent sectors.",
+        "stocks": {}
+      }
+    },
+    "d9c05ddd50f83904": {
+      "id": "d9c05ddd50f83904",
+      "title": "Wall Street ends higher as investors buy AI stocks; Microsoft rallies",
+      "link": "https://www.livemint.com/market/wall-street-ends-higher-as-investors-buy-ai-stocks-microsoft-rallies-11790366537645.html",
+      "summary": "USA-STOCKS/ (UPDATE 6, GRAPHIC):US STOCKS-Wall Street ends higher as investors buy AI stocks; Microsoft rallies",
+      "pub": "26 Sep 01:32 IST",
+      "pub_dt": "2026-09-25T20:02:17+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Wall Street AI rally is a sector-level trend with no direct impact on specific Indian stocks tagged. While IT sector may benefit from global AI momentum, this is macro sentiment rather than a fundamental earnings driver for individual Indian IT firms.",
+        "stocks": {}
+      }
+    },
+    "2ffa3dcc062b285e": {
+      "id": "2ffa3dcc062b285e",
+      "title": "Cocoa Market Supply Disruptions to Linger as Ghana Raises Price",
+      "link": "https://www.livemint.com/market/cocoa-market-supply-disruptions-to-linger-as-ghana-raises-price-11790363066838.html",
+      "summary": "Ghana has raised the price paid to cocoa farmers for the 2026-27 season as futures rebounded, diverging from neighboring Ivory Coast, which left its farmgate price unchanged earlier this month.",
+      "pub": "26 Sep 00:34 IST",
+      "pub_dt": "2026-09-25T19:04:26+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Ghana's cocoa price increase is a commodity supply-side adjustment with no direct operational linkage to Indian equities. This affects global cocoa markets but no Indian agricultural or food processing stocks are tagged.",
+        "stocks": {}
+      }
+    },
+    "f9fe6e793ada508c": {
+      "id": "f9fe6e793ada508c",
+      "title": "Gold price outlook: MCX gold slips for the week as US Fed rate hike bets rise; what’s next for the yellow metal?",
+      "link": "https://www.livemint.com/market/stock-market-news/gold-price-outlook-mcx-gold-slips-for-the-week-as-us-fed-rate-hike-bets-rise-what-s-next-for-the-yellow-metal-11790354545598.html",
+      "summary": "MCX gold prices declined, losing  ₹3,351 per 10 grams as traders reacted to higher US Treasury yields and Fed signals. September's gains turned into losses due to concerns over inflation and interest rate hikes, with October delivery gold closing at  ₹1,51,000.",
+      "pub": "25 Sep 23:57 IST",
+      "pub_dt": "2026-09-25T18:27:57+00:00",
+      "sectors": [
+        "Banking",
+        "IT",
+        "Materials"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "MCX gold price decline driven by rising US Treasury yields signals higher interest rates globally, which compresses valuations for equity markets and increases cost of capital. This macro headwind affects earnings multiples across Banking and IT sectors, though the direct impact on Materials stocks (gold miners) is mixed.",
+        "stocks": {}
+      }
+    },
+    "a835eceaed276d34": {
+      "id": "a835eceaed276d34",
+      "title": "Top 3 stock picks by Vaishali Parekh: Samvardhana Motherson, Zuari Industries, GHCL Textile | Target, stoploss",
+      "link": "https://www.livemint.com/market/stock-market-news/top-3-stock-picks-by-vaishali-parekh-samvardhana-motherson-zuari-industries-ghcl-textile-target-stoploss-11790359100542.html",
+      "summary": "Vaishali Parekh of Prabhudas Lilladher recommends Samvardhana Motherson International, Zuari Industries, and GHCL Textiles as top stocks. She provides specific buy levels, targets, and stop-loss levels for each stock.&amp;nbsp;",
+      "pub": "25 Sep 23:45 IST",
+      "pub_dt": "2026-09-25T18:15:08+00:00",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "HAL",
+        "Motherson"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Analyst buy recommendation for Motherson provides short-term technical upside; however, recent negative macro backdrop (rupee depreciation, rising Treasury yields, elevated oil prices) pressures auto/industrial exporters' margins and valuations. HAL benefits from weak rupee on defence exports but faces valuation compression from rate hike signals.",
+        "stocks": {
+          "Motherson": "mixed",
+          "HAL": "mixed"
+        }
+      }
+    },
+    "8649c9240dd6347f": {
+      "id": "8649c9240dd6347f",
+      "title": "Top 4 breakout stocks to buy: Balrampur Chini, Datamatics, Castrol, Cyient by Sumeet Bagadia | Target, stoploss, outlook",
+      "link": "https://www.livemint.com/market/stock-market-news/top-4-breakout-stocks-to-buy-balrampur-chini-datamatics-castrol-cyient-by-sumeet-bagadia-target-stoploss-outlook-11790356858190.html",
+      "summary": "Sumeet Bagadia recommends four stocks for near-term investment: Balrampur Chini Mills, Datamatics Global Services, Castrol India, and Cyient. Each stock shows positive technical setup and price momentum, with highlighted target levels and stop-loss indicators guiding potential investors.",
+      "pub": "25 Sep 23:27 IST",
+      "pub_dt": "2026-09-25T17:57:42+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [
+        "Cyient"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Analyst buy recommendation for Cyient reflects technical strength and momentum; however, without fundamental earnings visibility or sector catalysts, this is a near-term trading call rather than a valuation-changing event. Recent VWAP breakout has no impact on margins or growth.",
+        "stocks": {
+          "Cyient": "neutral"
+        }
+      }
+    },
+    "27d10a83eb9f49f5": {
+      "id": "27d10a83eb9f49f5",
+      "title": "Upcoming IPO: Kian-M Export files DRHP with SEBI to raise funds via IPO; key things to know",
+      "link": "https://www.livemint.com/market/ipo/upcoming-ipo-kian-m-export-files-drhp-with-sebi-to-raise-funds-via-ipo-key-things-to-know-11790350482552.html",
+      "summary": "Kian-M Export Ltd has filed a Draft Red Herring Prospectus with SEBI to raise funds via an IPO. The IPO includes a fresh issue up to  ₹500 crore and an Offer for Sale of shares to fund working capital and acquisitions.",
+      "pub": "25 Sep 21:54 IST",
+      "pub_dt": "2026-09-25T16:24:29+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Kian-M Export's IPO filing is a capital-raising event with no impact on existing listed equity valuations. The fresh issue and OFS are routine corporate actions that may add supply pressure to the IPO market but do not affect fundamentals of current portfolio stocks.",
+        "stocks": {}
+      }
+    },
+    "24c8b06eef6b9405": {
+      "id": "24c8b06eef6b9405",
+      "title": "Microsoft shares jump 4% after biggest Copilot overhaul, eye first weekly gain in four weeks",
+      "link": "https://www.livemint.com/market/stock-market-news/microsoft-jump-4-after-biggest-copilot-overhaul-stock-eyes-first-weekly-gain-in-four-weeks-11790347711410.html",
+      "summary": "Microsoft shares rose 4% to $517.48 after a major Copilot redesign aimed at office workers. The revamped app introduces new features such as Home, Code, and Autopilot, enhancing AI capabilities to compete with rivals and focusing on corporate clients for improved AI spending management.",
+      "pub": "25 Sep 21:00 IST",
+      "pub_dt": "2026-09-25T15:30:51+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Microsoft's 4% rally on Copilot redesign reflects positive product momentum and competitive positioning in enterprise AI; however, this is a US tech-specific development with no direct earnings impact on Indian IT service providers or tagged stocks. Indian IT may see modest benefit from increased AI spending cycles.",
+        "stocks": {}
+      }
+    },
+    "682af01a56850a86": {
+      "id": "682af01a56850a86",
+      "title": "Indian stock market slides, but 28 Nifty 500 stocks hit fresh 1-year highs this week; MCX, PVR Inox among them",
+      "link": "https://www.livemint.com/market/stock-market-news/indian-stock-market-slides-but-28-nifty-500-stocks-hit-fresh-1-year-highs-this-week-mcx-pvr-inox-among-them-11790344289040.html",
+      "summary": "The Nifty 50 index experienced its biggest decline since 2020, down 0.88% over the last week. Despite a wider market sell-off, stocks like Welspun Corp and Zydus Lifesciences reached new peaks, highlighting selective investor interest amid high crude oil prices and global bond yield fluctuations.",
+      "pub": "25 Sep 19:54 IST",
+      "pub_dt": "2026-09-25T14:24:55+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Nifty 50's worst week since 2020 (down 0.88%) signals broad market deterioration driven by crude oil rally and bond yield volatility. Despite selective strength in 28 stocks, the headline weakness reflects macro headwinds (rate hike fears, rupee pressure, capital reallocation) that outweigh isolated stock recoveries.",
+        "stocks": {}
+      }
+    },
+    "1efc9a31dc89fbb9": {
+      "id": "1efc9a31dc89fbb9",
+      "title": "Pulse of the Street: Seven weeks down, a recovery remains elusive",
+      "link": "https://www.livemint.com/market/india-stocks-seven-week-losing-streak-11790340100599.html",
+      "summary": "Friday’s modest rebound offered little relief as oil prices and foreign selling weighed on equities, while regulatory changes put financial businesses in focus.",
+      "pub": "25 Sep 19:44 IST",
+      "pub_dt": "2026-09-25T14:14:34+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Persistent headwinds from rising oil prices and foreign selling are compressing margins and valuations across sectors. Seven weeks of decline signals deteriorating sentiment with no recovery catalysts visible, pressuring both auto and IT earnings multiples.",
+        "stocks": {}
+      }
+    },
+    "c94459241d23900a": {
+      "id": "c94459241d23900a",
+      "title": "Nifty 50 posts biggest weekly drop in 6 years amid crude surge, rising global yields. Can bulls roar back?",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-posts-biggest-weekly-drop-in-six-years-amid-crude-surge-rising-global-yields-can-bulls-roar-back-11790340140172.html",
+      "summary": "The Indian stock market has fallen into bear territory as the Nifty 50 posted a 1.64% decline, marking its biggest drop in 10 weeks. Weak sentiment persists amid rising crude prices and fears of tightening measures by the RBI, impacting technology stocks and overall market performance.",
+      "pub": "25 Sep 18:51 IST",
+      "pub_dt": "2026-09-25T13:21:23+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Nifty 50's 1.64% weekly decline and entry into bear territory reflects multiple macro pressures: crude surge increases input costs, RBI tightening fears raise discount rates, and IT sector faces valuation compression from rising global yields.",
+        "stocks": {}
+      }
+    },
+    "f5f0e1800770be90": {
+      "id": "f5f0e1800770be90",
+      "title": "Over 55% returns in 6 months! Ventura sees 29% more upside in the short term | Technical outlook with target, stoploss",
+      "link": "https://www.livemint.com/market/stock-market-news/over-55-returns-in-6-months-ventura-sees-29-more-upside-in-the-short-term-technical-outlook-with-target-stoploss-11790332365364.html",
+      "summary": "Despite a remarkable 58% surge in six months, Gujarat Narmada Valley Fertilizers &amp;amp; Chemicals stock may rise further. Brokerage firm Ventura highlights the stock's strong technical indicators.",
+      "pub": "25 Sep 18:03 IST",
+      "pub_dt": "2026-09-25T12:33:48+00:00",
+      "sectors": [
+        "Materials"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Gujarat Narmada Valley Fertilizers' 58% six-month rally with technician-identified 29% additional upside indicates strong momentum continuation. Strong technical indicators suggest sustained buying interest and potential earnings growth tailwinds from fertilizer demand.",
+        "stocks": {}
+      }
+    },
+    "763d6f1ca1920426": {
+      "id": "763d6f1ca1920426",
+      "title": "1689% return in 5 years! Multibagger stock gets 'buy' tag from PL Capital | Target price, rationale",
+      "link": "https://www.livemint.com/market/stock-market-news/1670-return-in-5-years-multibagger-stock-gets-buy-tag-from-pl-capital-target-price-rationale-11790338487601.html",
+      "summary": "Pearl Global Industries' share price surged nearly 85% in six months and 103% over one year. The stock reached a 52-week high after announcing growth targets for FY30, with PL Capital upgrading its rating to 'buy' and setting a target price of  ₹1,500.",
+      "pub": "25 Sep 17:51 IST",
+      "pub_dt": "2026-09-25T12:21:17+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Pearl Global's 85% six-month and 103% one-year rallies with analyst upgrade to 'buy' and ₹1,500 target reflects investor confidence in FY30 growth targets. Strong historical performance and brokerage upgrade signal continued valuation expansion and earnings momentum.",
+        "stocks": {}
+      }
+    },
+    "1579c45cabd74dc7": {
+      "id": "1579c45cabd74dc7",
+      "title": "Govt approves voluntary retirement of MD Dinesh Pant; shares edge higher",
+      "link": "https://www.livemint.com/market/stock-market-news/govt-approves-voluntary-retirement-of-md-dinesh-pant-shares-edge-higher-11790336161690.html",
+      "summary": "The Government of India has approved the voluntary retirement of Dinesh Pant from LIC, effective September 24, 2026. He will cease to be Managing Director and Chairperson of the Information Technology Strategy Committee. LIC shares saw a modest increase amidst ongoing market volatility.",
+      "pub": "25 Sep 17:29 IST",
+      "pub_dt": "2026-09-25T11:59:17+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Dinesh Pant's voluntary retirement as LIC MD is a routine governance matter with limited direct impact on earnings or strategic direction. Share price edge higher reflects market indifference to the transition, which is not unusual for state-owned enterprises.",
+        "stocks": {}
+      }
+    },
+    "4d59a129aa843e14": {
+      "id": "4d59a129aa843e14",
+      "title": "60% rally in FY27! Ventura Securities sees 32% more upside in short term | Technical outlook, target, stoploss",
+      "link": "https://www.livemint.com/market/stock-market-news/60-rally-in-fy27-ventura-securities-sees-32-more-upside-in-short-term-technical-outlook-target-stoploss-11790334304008.html",
+      "summary": "Texmaco Rail stock declined nearly 1% on BSE, with intraday prices ranging from  ₹124 to  ₹128.55. The company reported a 70.7% increase in net profit, despite a decline in consolidated income during Q1 FY27.",
+      "pub": "25 Sep 17:25 IST",
+      "pub_dt": "2026-09-25T11:55:40+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Texmaco Rail's 70.7% net profit surge despite income decline demonstrates operational efficiency improvements and margin expansion. 60% FY27 rally with technician-identified 32% additional upside suggests momentum continuation despite near-term 1% decline.",
+        "stocks": {}
+      }
+    },
+    "a2684ddddf5cbc8b": {
+      "id": "a2684ddddf5cbc8b",
+      "title": "Himadri Speciality, Borosil Renewables among 5 fundamental stock picks Ambareesh Baliga recommends buying for short term",
+      "link": "https://www.livemint.com/market/stock-market-news/himadri-speciality-borosil-renewables-among-5-fundamental-stock-picks-ambareesh-baliga-recommends-buying-for-short-term-11790333179461.html",
+      "summary": "SEBI-registered independent market expert Ambareesh Baliga identifies five promising stocks, including Himadri and Borosil Renewables, poised for growth. Do you own any?",
+      "pub": "25 Sep 17:10 IST",
+      "pub_dt": "2026-09-25T11:40:52+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "SEBI-registered analyst Ambareesh Baliga's identification of Himadri Speciality and Borosil Renewables as buy recommendations signals expert conviction in near-term growth prospects. Analyst endorsements typically precede positive re-rating on fundamental expectations.",
+        "stocks": {}
+      }
+    },
+    "e93bad5affff5a52": {
+      "id": "e93bad5affff5a52",
+      "title": "Motilal Oswal believes IRDAI draft is positive for this insurance stock, sees 31% upside- Check target price, rationale",
+      "link": "https://www.livemint.com/market/stock-market-news/motilal-oswal-believes-irdai-draft-is-positive-for-this-insurance-stock-sees-31-upside-check-target-price-rationale-11790318618352.html",
+      "summary": "Niva Bupa Health Insurance shares rose 1.63% after IRDAI proposed distribution regulation reforms. Brokerage Motilal Oswal supports a bullish view, forecasting a 31% upside.",
+      "pub": "25 Sep 17:02 IST",
+      "pub_dt": "2026-09-25T11:32:59+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "BEL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "IRDAI distribution regulation reforms are positive for Niva Bupa Health Insurance (31% upside forecast), but BEL faces deteriorating technical momentum (below 200 DMA) amid macro headwinds and sector-wide weakness. Regulatory tailwind to insurance conflicts with BEL's negative breakout signal.",
+        "stocks": {
+          "BEL": "negative"
+        }
+      }
+    },
+    "b9c010317a8bc584": {
+      "id": "b9c010317a8bc584",
+      "title": "Four-day upper circuit streak drives this small-cap stock up 74%; here’s the key trigger behind the jump",
+      "link": "https://www.livemint.com/market/stock-market-news/fourday-upper-circuit-streak-drives-this-small-cap-stock-up-74-here-s-the-key-trigger-behind-the-jump-11790331573614.html",
+      "summary": "Cubex Tubings has seen its shares hit an upper circuit limit, reflecting investor confidence, with a 74% gain over four days. The small-cap stock's market cap is  ₹210 crore, rising to an all-time high of  ₹152.24 after significant recent losses.",
+      "pub": "25 Sep 16:21 IST",
+      "pub_dt": "2026-09-25T10:51:12+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Upper circuit rallies driven by technical momentum and sentiment reversals lack fundamental earnings catalysts. While the 74% four-day surge reflects investor confidence, it is a speculative move on a small-cap with ₹210 crore market cap and recent prior losses, making it difficult to assess sustainable valuation improvement.",
+        "stocks": {}
+      }
+    },
+    "133a537506965e70": {
+      "id": "133a537506965e70",
+      "title": "Upcoming dividend stocks: SAIL, IGL, NMDC among 3 PSU stocks with record dates ahead- Check yield, ROE, stock return",
+      "link": "https://www.livemint.com/market/stock-market-news/upcoming-dividend-stocks-sail-igl-nmdc-among-3-psu-stocks-with-record-dates-ahead-check-yield-roe-stock-return-11790330679880.html",
+      "summary": "Three public sector undertakings: SAIL, IGL, and NMDC, are set to pay dividends by the end of September and October. Investors need to hold the stocks before record dates to qualify for payouts. SAIL offers  ₹2.35 per share, IGL  ₹1.50, and NMDC Re 1.",
+      "pub": "25 Sep 15:56 IST",
+      "pub_dt": "2026-09-25T10:26:05+00:00",
+      "sectors": [
+        "IT",
+        "Materials"
+      ],
+      "stocks": [
+        "NMDC",
+        "SAIL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Dividend announcements by SAIL and NMDC provide near-term income to shareholders and signal confidence in cash generation. More importantly, NMDC's net-zero 2047 roadmap and India's critical minerals push (recent positive catalysts) underpin long-term structural earnings growth, while SAIL's technical momentum and closing above VWAP indicate positive near-term sentiment.",
+        "stocks": {
+          "NMDC": "positive",
+          "SAIL": "positive"
+        }
+      }
+    },
+    "07bb37f22d71ae6d": {
+      "id": "07bb37f22d71ae6d",
+      "title": "SEBI board clears a number of reforms; expands FPI access to commodity derivatives, relaxes advertising norms",
+      "link": "https://www.livemint.com/market/stock-market-news/sebi-board-clears-a-number-of-reforms-expands-fpi-access-to-commodity-derivatives-relaxes-advertising-norms-11790329323491.html",
+      "summary": "The SEBI board has approved significant reforms to enhance market participation, including unified ad rules, expanded access for FPIs to commodity derivatives, and new regulations for portfolio managers.&amp;nbsp;",
+      "pub": "25 Sep 15:54 IST",
+      "pub_dt": "2026-09-25T10:24:33+00:00",
+      "sectors": [
+        "Materials"
+      ],
+      "stocks": [
+        "ACC"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "SEBI's reforms to expand FPI access to commodity derivatives and relaxation of advertising norms are market-structure improvements but lack direct earnings impact on ACC. While wider FPI participation may improve liquidity and valuation multiples, cement demand fundamentals and input cost pressures remain the key valuation drivers unaffected by this regulatory news.",
+        "stocks": {
+          "ACC": "neutral"
+        }
+      }
+    },
+    "5d08412e84a57e63": {
+      "id": "5d08412e84a57e63",
+      "title": "IPO GMPs: Orient Cables IPO to German Green Steel IPO | What grey market hints on Day 1?",
+      "link": "https://www.livemint.com/market/ipo/ipo-gmps-orient-cables-ipo-to-german-green-steel-ipo-what-grey-market-hints-on-day-1-11790329123256.html",
+      "summary": "Four IPOs are set to open for public subscription on 25 September, seeking to raise  ₹1,776 crore. The IPOs span real estate, steel, networking, and digital commerce, closing on 29 September. Subscriptions on Day 1 show varied interest across sectors.",
+      "pub": "25 Sep 15:49 IST",
+      "pub_dt": "2026-09-25T10:19:12+00:00",
+      "sectors": [
+        "IT",
+        "Materials"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "IPO GMPs (grey market premiums) reflect near-term investor sentiment but provide no information on fundamental earnings quality or long-term valuation. Day 1 subscription data is too early-stage to assess commercial viability or competitive positioning of the companies involved.",
+        "stocks": {}
+      }
+    },
+    "1b11207a74e28ddf": {
+      "id": "1b11207a74e28ddf",
+      "title": "JPMorgan CEO Jamie Dimon warns Trump against punishing India; gives this advice on Russian oil imports",
+      "link": "https://www.livemint.com/market/stock-market-news/jpmorgan-ceo-jamie-dimon-warns-trump-against-punishing-india-gives-this-advice-on-russian-oil-imports-11790326652038.html",
+      "summary": "JPMorgan CEO Jamie Dimon emphasized the bank's commitment to India, citing economic growth and strong ties with US. He advocated for dialogue over potential tariffs on Indian oil purchases amidst geopolitical tensions, highlighting the importance of the India-US relationship.",
+      "pub": "25 Sep 14:51 IST",
+      "pub_dt": "2026-09-25T09:21:48+00:00",
+      "sectors": [
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "JPMorgan CEO's advocacy for India and warning against tariffs is a geopolitical/macro commentary rather than a company-specific fundamental catalyst. While supportive rhetoric on India-US ties may reduce tariff risk premium, it does not directly impact earnings, margins, or competitive dynamics of any specific stock.",
+        "stocks": {}
+      }
+    },
+    "bad31fdaa4145fc7": {
+      "id": "bad31fdaa4145fc7",
+      "title": "Adani Power share price jumps after receipt of NCLT nod for merger of 10 wholly owned subsidiaries",
+      "link": "https://www.livemint.com/market/stock-market-news/adani-power-share-price-jumps-after-receipt-of-nclt-nod-for-merger-of-10-wholly-owned-subsidiaries-11790327103674.html",
+      "summary": "Adani Power share price increased following the NCLT's approval of its plan to merge 10 subsidiaries. The Mumbai Bench sanctioned the merger of Vidarbha Industries Power Ltd. on 24 September, completing the merger process initiated by an earlier approval from the Ahmedabad Bench on 4 August.",
+      "pub": "25 Sep 14:41 IST",
+      "pub_dt": "2026-09-25T09:11:12+00:00",
+      "sectors": [
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "L&T"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "NCLT approval of Adani Power's subsidiary merger simplifies corporate structure, reduces compliance overhead, and improves operational efficiency and consolidated cash flow. The merger completion removes a procedural overhang, enabling cleaner financial reporting and potential unlocking of operational synergies.",
+        "stocks": {
+          "L&T": "neutral"
+        }
+      }
+    },
+    "da560508582bf784": {
+      "id": "da560508582bf784",
+      "title": "Hyundai Motor India shares rebound after 4-day slide: What’s driving the stock price rise? Buy or book profits?",
+      "link": "https://www.livemint.com/market/stock-market-news/hyundai-motor-india-shares-rebound-after-4-day-slide-what-s-driving-the-stock-price-rise-buy-or-book-profits-11790322771831.html",
+      "summary": "After a four-day slump, Hyundai Motor India shares surged, opening at  ₹2,030 and ending at  ₹2,105. Experts emphasise value buying ahead of upcoming launches. Is now the right time for investors to capitalise or book profits?",
+      "pub": "25 Sep 14:28 IST",
+      "pub_dt": "2026-09-25T08:58:52+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [
+        "Mphasis"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Hyundai Motor India's post-slump rebound reflects technical mean reversion and value-buying momentum rather than fundamental earnings improvement. While upcoming launches provide growth optionality, the four-day surge is primarily a sentiment-driven correction without new catalysts affecting revenue or margin assumptions.",
+        "stocks": {
+          "Mphasis": "neutral"
+        }
+      }
+    },
+    "e99e28efeb5e750c": {
+      "id": "e99e28efeb5e750c",
+      "title": "Indian stock market: Jefferies' Chris Wood highlights one trigger that can fuel bull run; check his long-term portfolio",
+      "link": "https://www.livemint.com/market/stock-market-news/indian-stock-market-jefferies-chris-wood-highlights-one-trigger-that-can-fuel-bull-run-check-his-long-term-portfolio-11790321380094.html",
+      "summary": "Indian stock market: In an exclusive conversation with The BroadView, the Head of Equity Research at Jefferies said that AI money is moving from the KOSPI and the Taiwan Index to the US treasuries",
+      "pub": "25 Sep 14:16 IST",
+      "pub_dt": "2026-09-25T08:46:20+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Jefferies analyst commentary on AI capital flows and macroeconomic triggers is sector-level market positioning rather than company-specific earnings or valuation insight. The observation that AI money is moving from KOSPI/Taiwan to US Treasuries reflects global portfolio rebalancing but does not directly impact Indian IT fundamentals or competitive positioning.",
+        "stocks": {}
+      }
+    },
+    "5012c5ea9d425cc8": {
+      "id": "5012c5ea9d425cc8",
+      "title": "Suzlon shares crash 30% in 3 months! Will it bounce back, or more pain ahead? Explained with support, resistance",
+      "link": "https://www.livemint.com/market/stock-market-news/suzlon-shares-crash-30-in-3-months-will-it-bounce-back-or-more-pain-ahead-explained-with-support-resistance-11790322011663.html",
+      "summary": "Suzlon shares dropped over 1% amid reports of its focus on India’s wind repowering potential, estimated at 30 GW domestically. Vice Chairman Girish Tanti emphasized the need for faster transmission network expansion to meet India’s renewable energy targets by 2030.",
+      "pub": "25 Sep 13:52 IST",
+      "pub_dt": "2026-09-25T08:22:01+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "While the 30 GW repowering opportunity is structurally positive for wind sector growth, the headline focuses on recent 30% share decline with technical analysis of support/resistance levels. Transmission bottleneck remains a constraint on near-term earnings realization, making this a mixed-bias story.",
+        "stocks": {}
+      }
+    },
+    "81f7a2d64deddfd1": {
+      "id": "81f7a2d64deddfd1",
+      "title": "47% rally in 6 months! Motilal Oswal sees 37% upside in auto ancillary stock | Check target price, rationale",
+      "link": "https://www.livemint.com/market/stock-market-news/47-rally-in-6-months-motilal-oswal-fin-services-sees-37-upside-auto-ancillary-stock-check-target-price-rationale-11790321376278.html",
+      "summary": "Shares of SPR Auto Technologies Limited rose 47% in six months, with strong margin growth and a positive outlook supported by Motilal Oswal. The stock may see a 37% upside, with a target price of  ₹6,150 amid a transition to a diversified mobility platform.",
+      "pub": "25 Sep 13:08 IST",
+      "pub_dt": "2026-09-25T07:38:45+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "47% six-month rally with strong margin growth and 37% upside target from Motilal Oswal suggests earnings momentum is accelerating. Transition to diversified mobility platform indicates sustainable growth drivers beyond commodity-like auto ancillary cyclicality.",
+        "stocks": {}
+      }
+    },
+    "8eda6d5782367fae": {
+      "id": "8eda6d5782367fae",
+      "title": "Yen Heads for Best Day in Two Weeks After Katayama Jawboning",
+      "link": "https://www.livemint.com/market/yen-heads-for-best-day-in-two-weeks-after-katayama-jawboning-11790320267267.html",
+      "summary": "The yen headed for its biggest daily gain in more than two weeks after Finance Minister Satsuki Katayama’s latest comments on the currency kept traders on alert for the risk of intervention.",
+      "pub": "25 Sep 12:41 IST",
+      "pub_dt": "2026-09-25T07:11:06+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Yen appreciation from central bank jawbowing is macro-level currency management with indirect implications for Indian IT exporters earning in foreign currency, but no direct impact on specific earnings or valuations cited.",
+        "stocks": {}
+      }
+    },
+    "0fe536a50af5191d": {
+      "id": "0fe536a50af5191d",
+      "title": "Indegene share price jumps 5% to hit a 52-week high after Axis initiates coverage with a buy - Check target price",
+      "link": "https://www.livemint.com/market/stock-market-news/indegene-share-price-jumps-5-to-hit-a-52-week-high-after-axis-initiates-coverage-with-a-buy-check-target-price-11790318397837.html",
+      "summary": "Indegene's share price soared after Axis Direct initiated coverage with a 'buy' recommendation, suggesting an 18% upside. The company's blend of biopharma expertise and AI solutions positions it well for future growth, as per the brokerage firm.&amp;nbsp;",
+      "pub": "25 Sep 12:35 IST",
+      "pub_dt": "2026-09-25T07:05:51+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Axis initiates buy coverage with 18% upside and highlights AI+biopharma positioning as structural growth driver. Broker validation and 52-week high suggest earnings visibility and margin expansion potential in high-growth adjacencies.",
+        "stocks": {}
+      }
+    },
+    "11c977484354b9b8": {
+      "id": "11c977484354b9b8",
+      "title": "Ola Electric shares fall 9% | What’s behind today’s sudden sell-off?",
+      "link": "https://www.livemint.com/market/stock-market-news/ola-electric-shares-fall-9-what-s-behind-today-s-sudden-selloff-11790317564326.html",
+      "summary": "Ola Electric Mobility share price fell 9% on 25 September, ending a four-day gain. This drop followed news of an upcoming board meeting to consider raising funds through a rights issue, pending regulatory approvals.",
+      "pub": "25 Sep 12:19 IST",
+      "pub_dt": "2026-09-25T06:49:02+00:00",
+      "sectors": [
+        "E-Commerce",
+        "IT"
+      ],
+      "stocks": [
+        "Ola Electric"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "9% share decline reflects profit-taking after a 17% four-day rally, but more critically, rights issue dilution combined with recent history of weak volumes, margin pressure, and excessive related-party payments (₹100cr to Krutrim) signal persistent cash burn and governance concerns that offset growth narratives.",
+        "stocks": {
+          "Ola Electric": "negative"
+        }
+      }
+    },
+    "50fb5e036e46455d": {
+      "id": "50fb5e036e46455d",
+      "title": "Can Coal India’s higher realizations sustain its stock recovery?",
+      "link": "https://www.livemint.com/market/mark-to-market/can-coal-indias-higher-realizations-sustain-the-recovery-in-the-stock-11790314767513.html",
+      "summary": "Coal India’s higher e-auction premiums and tighter coal inventories are supporting realizations, but rising production and falling e-auction volumes could test the recovery.",
+      "pub": "25 Sep 12:05 IST",
+      "pub_dt": "2026-09-25T06:35:40+00:00",
+      "sectors": [
+        "IT",
+        "Materials"
+      ],
+      "stocks": [
+        "Coal India"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Higher e-auction premiums and tighter inventories are supporting near-term realizations (positive), but rising production combined with falling e-auction volumes creates a structural headwind. Recent positive momentum from ₹1 trillion capex could face margin compression if supply-demand dynamics shift.",
+        "stocks": {
+          "Coal India": "mixed"
+        }
+      }
+    },
+    "146db42eda72d045": {
+      "id": "146db42eda72d045",
+      "title": "JK Cement’s timely capacity ramp-ups give it bandwidth to beat FY27 volume goals",
+      "link": "https://www.livemint.com/market/mark-to-market/jk-cement-cement-sector-grey-cement-panna-line-2-capacity-expansion-fy27-volumes-11790314982310.html",
+      "summary": "JK Cement’s new Panna line-2 capacity, strong demand in north and central India and a rising green-power share could support FY27 volume growth, though higher capex and fuel costs may keep debt and margins under pressure.",
+      "pub": "25 Sep 12:05 IST",
+      "pub_dt": "2026-09-25T06:35:11+00:00",
+      "sectors": [
+        "Industrials",
+        "Materials"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "New capacity (Panna line-2) and strong regional demand support FY27 volume growth, but higher capex, rising fuel costs, and debt pressure will likely compress margins. Near-term volume upside offset by profitability headwinds, making medium-term valuation dependent on commodity cycle recovery.",
+        "stocks": {}
+      }
+    },
+    "b88f44e91aac9706": {
+      "id": "b88f44e91aac9706",
+      "title": "India's financial, external sectors remain resilient despite global risks: RBI bulletin",
+      "link": "https://www.livemint.com/economy/indias-financial-external-sectors-remain-resilient-despite-global-risks-rbi-bulletin-11790387587510.html",
+      "summary": "India's financial and external sectors remain resilient despite global risks, RBI Bulletin said. Strong Q1 FY27 growth, a five-year high in net FDI, robust services exports and remittances, and forex reserves of $765.9 billion supported the economy.",
+      "pub": "26 Sep 07:30 IST",
+      "pub_dt": "2026-09-26T02:00:37+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Macro-level resilience in financial sector, strong FDI inflows, robust services exports, and record forex reserves create a supportive backdrop for equity valuations. However, no direct link to specific earnings impact; largely validates macro safety for equities amid global risks.",
+        "stocks": {}
+      }
     }
   }
 }
