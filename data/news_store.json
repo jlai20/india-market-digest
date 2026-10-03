@@ -307966,6 +307966,546 @@
         "reasoning": "Jyothy Labs' ₹997 crore cash position and decision to pursue organic growth over acquisitions is a capital allocation choice reflecting cautious sentiment on portfolio rebuilding post-Henkel licensing loss. Conservative approach suggests management sees limited M&A value, but maintains optionality without materially impacting near-term earnings or growth.",
         "stocks": {}
       }
+    },
+    "3b4b50946e33ed75": {
+      "id": "3b4b50946e33ed75",
+      "title": "Bleak Winter! Why analysts are hinting at painful October even after 8 weeks of Nifty correction?",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bleak-winter-why-analysts-are-hinting-at-painful-october-even-after-8-weeks-of-nifty-correction/articleshow/134651765.cms",
+      "summary": "The global backdrop remains the biggest problem. US yields above 5%, a firm dollar, higher crude prices and rupee weakness make India more vulnerable.",
+      "pub": "03 Oct 09:45 IST",
+      "pub_dt": "2026-10-03T04:15:48+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Macro headwinds (US yields >5%, strong dollar, crude >$102, rupee weakness) create a structural earnings headwind for India-exposed equities. This represents a reversal from the optimism seen earlier in the year, with auto and IT sectors particularly vulnerable to currency pressure and margin compression.",
+        "stocks": {}
+      }
+    },
+    "027b0cf65b809376": {
+      "id": "027b0cf65b809376",
+      "title": "Bonus issues &amp; stock split: 5 stocks rewarding shareholders this week",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-issues-amp-stock-split-5-stocks-rewarding-shareholders-this-week/slideshow/134651748.cms",
+      "summary": "The list remains tentative as more companies may announce record dates for bonus issues and stock splits during the week.",
+      "pub": "03 Oct 09:32 IST",
+      "pub_dt": "2026-10-03T04:02:49+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Bonus issues and stock splits are purely mechanical corporate actions that adjust share count and price without changing underlying earnings or intrinsic value. They signal shareholder-friendly capital allocation but have no direct impact on earnings growth or margins.",
+        "stocks": {}
+      }
+    },
+    "9e2271cf0d192e5c": {
+      "id": "9e2271cf0d192e5c",
+      "title": "Largecaps face investor apathy, mid and smallcaps fuel euphoria: Kotak Institutional Equities",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/large-caps-face-investor-apathy-mid-and-small-caps-fuel-euphoria/articleshow/134650331.cms",
+      "summary": "Investor sentiment towards large-cap stocks is currently apathetic, despite improved valuations in the market. Retail investors are increasingly enthusiastic about mid- and small-cap stocks, enjoying recent positive developments in those sectors. The ongoing West Asia conflict and declining stock prices contribute to investor despair among large caps. Meanwhile, small and mid-cap sectors attract r",
+      "pub": "03 Oct 07:48 IST",
+      "pub_dt": "2026-10-03T02:18:43+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Large-cap investor apathy despite valuation improvements suggests valuation has not kept pace with earnings concerns. Meanwhile, mid/small-cap enthusiasm could represent bubble risk or genuine rotation. The shift reflects structural uncertainty (West Asia conflict, macro headwinds) rather than fundamental improvement.",
+        "stocks": {}
+      }
+    },
+    "515ada7d58760d71": {
+      "id": "515ada7d58760d71",
+      "title": "Bajaj Finance set to mop up Rs 17,500 crore via QIP, warrants",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-finance-set-to-mop-up-rs-17500-crore-via-qip-warrants/articleshow/134650449.cms",
+      "summary": "Bajaj Finance intends to raise ₹17,500 crore through share sales and warrants to fuel its growth. The company's board approved plans for ₹11,700 crore via a qualified institutional placement and ₹5,800 crore through warrants for its promoter. A shareholder meeting will be convened to approve the proposed QIP. This marks the first major fundraising effort since the previous capital raise in Novembe",
+      "pub": "03 Oct 07:46 IST",
+      "pub_dt": "2026-10-03T02:16:09+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT",
+        "Materials"
+      ],
+      "stocks": [
+        "Bajaj Finance"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "The ₹17,500 crore fundraising (QIP + warrants) strengthens Bajaj Finance's capital base to fuel growth, but recent history shows the stock has faced sustained macro headwinds (crude >$102, rising yields, rupee weakness). The capital raise supports expansion but doesn't resolve near-term valuation compression from elevated rates and currency pressure.",
+        "stocks": {
+          "Bajaj Finance": "mixed"
+        }
+      }
+    },
+    "d0797c9cad195c30": {
+      "id": "d0797c9cad195c30",
+      "title": "More than half of mid-to-large cap companies fail to deliver returns in 2026",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/more-than-half-of-mid-to-large-cap-companies-fail-to-deliver-returns-in-2026/articleshow/134650512.cms",
+      "summary": "More than half of India's mid-to-large tier companies with market capitalisation above ₹1,000 crore have faced losses in 2026. Eight companies have experienced significant market cap erosion, affecting investor sentiment. Factors such as regulatory issues, funding costs, and margin pressures contributed to these declines. Foreign portfolio investors have sold a substantial amount of Indian equitie",
+      "pub": "03 Oct 07:43 IST",
+      "pub_dt": "2026-10-03T02:13:53+00:00",
+      "sectors": [
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "HAL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Over 50% of mid-to-large cap companies failing to deliver returns signals broad-based structural challenges (regulatory headwinds, funding cost pressures, margin compression). Recent history for HAL shows momentum collapse in capex proposals, slowing growth, and valuation compression from rising yields—indicating this is a continuation of deteriorating fundamentals, not a reversal.",
+        "stocks": {
+          "HAL": "negative"
+        }
+      }
+    },
+    "6468d68cad1a8100": {
+      "id": "6468d68cad1a8100",
+      "title": "SBI-led lenders say Vijay Mallya owes Rs 8,752 crore more",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-led-lenders-say-vijay-mallya-owes-rs-8752-crore-more/articleshow/134650640.cms",
+      "summary": "A group of lenders, spearheaded by the State Bank of India, has revealed that Vijay Mallya still owes an astonishing Rs 8,752 crore. This figure remains despite having recovered over Rs 10,270 crore, including recent payments. Mallya's claims of settling his debts with banks are in question. Court proceedings continue regarding the recovery of dues and criminal charges, with the Enforcement Direct",
+      "pub": "03 Oct 06:00 IST",
+      "pub_dt": "2026-10-03T00:30:00+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT",
+        "Materials"
+      ],
+      "stocks": [
+        "SBI"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "SBI-led lenders recovering ₹10,270 crore from Vijay Mallya demonstrates asset recovery capability, but ₹8,752 crore remaining dues highlight credit risk exposure. Recent history shows SBI benefits from NSE IPO windfall (~₹2,849 crore) offsetting regulatory headwinds (FCRA scrutiny, inflation concerns). The net impact is moderately mixed as recovery progress is offset by unresolved credit exposure.",
+        "stocks": {
+          "SBI": "mixed"
+        }
+      }
+    },
+    "baa56e92d594cb8c": {
+      "id": "baa56e92d594cb8c",
+      "title": "Anup Bagchi's big test at HDFC Bank is winning back investor trust",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/anup-bagchis-big-test-at-hdfc-bank-is-winning-back-investor-trust/articleshow/134650810.cms",
+      "summary": "Incoming HDFC Bank CEO Anup Bagchi’s immediate task is to restore investor confidence by improving execution and governance, as the bank’s loan growth and return on equity have fallen towards industry averages.",
+      "pub": "03 Oct 00:09 IST",
+      "pub_dt": "2026-10-02T18:39:12+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [
+        "HDFC Bank"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Anup Bagchi's appointment as HDFC Bank MD-CEO resolves 6+ months of governance uncertainty that had pressured the stock and investor confidence. This represents a major positive inflection as execution clarity should improve loan growth, ROE, and deposit mobilization—reversing the 15% YTD decline driven by leadership vacuum.",
+        "stocks": {
+          "HDFC Bank": "positive"
+        }
+      }
+    },
+    "e5be2baa1431337f": {
+      "id": "e5be2baa1431337f",
+      "title": "Share of new-to-credit customers rises to 50% in June 2026 from 24% in June 2016: TransUnion CIBIL-FIDC report",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/share-of-new-to-credit-customers-rises-to-50-in-june-2026-from-24-in-june-2016-transunion-cibil-fidc-report/articleshow/134650782.cms",
+      "summary": "NBFCs now account for half of India’s new-to-credit (NTC) borrowers, up from 24% in 2016, according to a TransUnion CIBIL-FIDC report covering about 2,000 NBFCs.",
+      "pub": "02 Oct 23:59 IST",
+      "pub_dt": "2026-10-02T18:29:34+00:00",
+      "sectors": [
+        "Banking",
+        "Industrials",
+        "Materials"
+      ],
+      "stocks": [
+        "ACC",
+        "HAL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "NBFCs' rising share of new-to-credit customers (50% from 24% in 2016) reflects healthy credit expansion and financial inclusion, but is a structural market-share trend rather than a catalyst for ACC or HAL. Recent macro headwinds (rising yields, slowing capex, commodity pressure) override any positive credit growth signals for these tagged stocks.",
+        "stocks": {
+          "ACC": "neutral",
+          "HAL": "neutral"
+        }
+      }
+    },
+    "4b4ca4491ecc71f5": {
+      "id": "4b4ca4491ecc71f5",
+      "title": "IPO Calendar: Quiet week ahead after Rs 39,000 crore September rush, but Street to see 29 listings",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-calendar-quiet-week-ahead-after-rs-39000-crore-september-rush-but-street-to-see-29-listings/articleshow/134651498.cms",
+      "summary": "The momentum had picked up sharply from August, after a muted first four months of FY27, as stronger listing gains and steady liquidity pulled investors back into new issues.",
+      "pub": "03 Oct 09:41 IST",
+      "pub_dt": "2026-10-03T04:11:07+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "IPO momentum pickup signals healthy capital markets sentiment and strong investor appetite for new listings, but this is a sector-level macro development with no direct impact on specific company earnings, margins, or valuation multiples. The article notes this as a continuation of improved market conditions from August-September.",
+        "stocks": {}
+      }
+    },
+    "f727749d5e405152": {
+      "id": "f727749d5e405152",
+      "title": "5 world market themes for the week ahead",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/5-world-market-themes-for-the-week-ahead/articleshow/134651478.cms",
+      "summary": "Global financial markets are grappling with soaring borrowing costs, while France navigates a volatile political landscape concerning its budgetary decisions. As Europe battles economic challenges, the euro witnesses notable fluctuations against the dollar. In Brazil, the impending elections are poised to instigate major shifts, driven by heightened interest rates and economic anxieties.",
+      "pub": "03 Oct 09:27 IST",
+      "pub_dt": "2026-10-03T03:57:00+00:00",
+      "sectors": [
+        "Banking",
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "HAL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Global macroeconomic headwinds—soaring borrowing costs, political uncertainty in France, and economic challenges in Brazil—create a negative backdrop for HAL. Combined with recent negative catalysts (capex collapse, yield compression to 7.21%, growth deceleration forecast to 5.5-6%), these global themes reinforce near-term valuation compression and earnings headwinds for defence/industrials plays.",
+        "stocks": {
+          "HAL": "negative"
+        }
+      }
+    },
+    "7686eda73165ba02": {
+      "id": "7686eda73165ba02",
+      "title": "Wall Street Week Ahead: Spiking bond yields, midterms, earnings to test US stocks' typical fourth-quarter strength",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/wall-street-week-ahead-spiking-bond-yields-midterms-earnings-to-test-us-stocks-typical-fourth-quarter-strength/articleshow/134651438.cms",
+      "summary": "As the fourth quarter commences, US stocks traditionally experience a positive trajectory. Nonetheless, investors face hurdles such as climbing bond yields and a heavy reliance on AI expenditures. Coupled with the looming corporate earnings season and the November elections, market unpredictability intensifies. Analysts predict notable earnings growth, particularly driven by investments in AI infr",
+      "pub": "03 Oct 09:22 IST",
+      "pub_dt": "2026-10-03T03:52:00+00:00",
+      "sectors": [
+        "IT",
+        "Materials"
+      ],
+      "stocks": [
+        "UPL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "US stocks benefit from AI capex-driven earnings growth and weaker jobs data supporting lower rate trajectory, but rising bond yields and geopolitical tensions create valuation compression. For UPL, this mixed backdrop compounds existing negative macro headwinds (crude oil volatility >$102/bbl, rupee weakness, persistent 52-week lows), suggesting continued near-term pressure despite potential long-term sectoral benefits from AI infrastructure spending.",
+        "stocks": {
+          "UPL": "negative"
+        }
+      }
+    },
+    "1ed7ba34cd9695fe": {
+      "id": "1ed7ba34cd9695fe",
+      "title": "AI earnings shield US stocks, but bond risks rise: Jefferies' Wood",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-earnings-shield-us-stocks-but-bond-risks-rise-jefferies-wood/articleshow/134650285.cms",
+      "summary": "US equities have largely remained strong, aided by robust earnings growth driven by the AI capital expenditure cycle. Rising bond yields and geopolitical tensions, however, are beginning to impact investor sentiment negatively. Analysts are concerned about the sustainability of the AI capex cycle and its expected returns. Additionally, there is a realization that G7 government bonds are entering a",
+      "pub": "03 Oct 07:56 IST",
+      "pub_dt": "2026-10-03T02:26:05+00:00",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "AI capex cycle driving robust US earnings growth is positive for IT/industrial supply chains, but rising bond yields and geopolitical tensions introduce valuation and demand risks. This reflects an earnings growth support offset by macro headwinds—a near-term negative bias despite long-term AI tailwinds.",
+        "stocks": {}
+      }
+    },
+    "2f8c8d7d872bc0c6": {
+      "id": "2f8c8d7d872bc0c6",
+      "title": "Anthropic targets mega-IPO before Thanksgiving Holiday",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/anthropic-targets-mega-ipo-before-thanksgiving-holiday/articleshow/134650730.cms",
+      "summary": "Anthropic PBC is expected to start marketing its initial public offering around November 9. The company's trading debut could occur before Thanksgiving, which is on November 26. Although facing competition from OpenAI, investors remain optimistic about Anthropic's valuation. Despite significant losses, the firm aims to exceed SpaceX's record IPO size. The market for new listings has experienced de",
+      "pub": "03 Oct 06:57 IST",
+      "pub_dt": "2026-10-03T01:27:46+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Anthropic's anticipated IPO before Thanksgiving is a sector-level capital markets event reflecting investor enthusiasm for AI infrastructure plays and healthy IPO market momentum. However, without specific company-level operational or earnings data tied to Indian stocks, this represents general positive sentiment for global AI/IT rather than a direct valuation catalyst.",
+        "stocks": {}
+      }
+    },
+    "de1434c5ef7b1cdd": {
+      "id": "de1434c5ef7b1cdd",
+      "title": "Trump did not 'jump the gun' on South Korea deal",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/trump-says-he-did-not-jump-the-gun-on-south-korea-alaska-lng-investment-announcement/articleshow/134651294.cms",
+      "summary": "",
+      "pub": "03 Oct 08:50 IST",
+      "pub_dt": "2026-10-03T03:20:43+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Headline is incomplete with no summary content; insufficient information to assess impact on geopolitical, trade, or macro dynamics affecting Indian equities.",
+        "stocks": {}
+      }
+    },
+    "527b5507a6f10eee": {
+      "id": "527b5507a6f10eee",
+      "title": "Are banks open or closed in your state today?",
+      "link": "https://economictimes.indiatimes.com/wealth/save/saturday-bank-holiday-are-banks-open-or-closed-today-on-october-3-2026/articleshow/134620337.cms",
+      "summary": "",
+      "pub": "03 Oct 07:00 IST",
+      "pub_dt": "2026-10-03T01:30:00+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Banking sector holiday calendar announcement is administrative information affecting trading days only; no impact on bank earnings, capital adequacy, deposit mobilization, or other financial metrics.",
+        "stocks": {}
+      }
+    },
+    "69f43588058fbbec": {
+      "id": "69f43588058fbbec",
+      "title": "Saudi plans Houthis assault to break Red Sea grip",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/saudi-arabia-plans-assault-on-houthis-to-break-red-sea-chokehold/articleshow/134651063.cms",
+      "summary": "",
+      "pub": "03 Oct 08:23 IST",
+      "pub_dt": "2026-10-03T02:53:13+00:00",
+      "sectors": [
+        "Industrials"
+      ],
+      "stocks": [
+        "L&T"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Saudi military operations to break Houthi control of Red Sea shipping lanes could ease logistics costs and supply chain pressure for exporters like L&T in the medium term, but near-term geopolitical escalation and shipping disruption risks offset this. Combined with L&T's recent mixed backdrop (bonus structure adjustments, elevated global bond yields, weak earnings momentum), this represents a cautious neutral-to-negative near-term bias despite potential longer-term logistics normalization.",
+        "stocks": {
+          "L&T": "neutral"
+        }
+      }
+    },
+    "33b07d2d4fff406d": {
+      "id": "33b07d2d4fff406d",
+      "title": "Meet Kumkum Mohod, 17-yr-old Asiad gold medallist",
+      "link": "https://economictimes.indiatimes.com/news/new-updates/17-year-old-kumkum-mohod-used-a-second-hand-bow-to-win-archery-world-cup-now-she-has-won-indias-first-individual-recurve-gold-at-the-asian-games-who-is-she/articleshow/134651009.cms",
+      "summary": "",
+      "pub": "03 Oct 08:21 IST",
+      "pub_dt": "2026-10-03T02:51:09+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Achievement of a 17-year-old athlete has no direct impact on equity markets, earnings, margins, or specific company valuations. This is a human interest story with no financial market implications.",
+        "stocks": {}
+      }
+    },
+    "3cd6dc2a4dbd3d7a": {
+      "id": "3cd6dc2a4dbd3d7a",
+      "title": "Car drives into Australian rugby fans, many injured",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/car-drives-into-large-crowd-of-australian-rugby-fans-injuring-multiple-people-north-of-sydney-newcastle-knights/articleshow/134650856.cms",
+      "summary": "",
+      "pub": "03 Oct 08:09 IST",
+      "pub_dt": "2026-10-03T02:39:58+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "A car accident involving rugby fans is an isolated incident with no systemic impact on Indian equity markets, earnings, or specific sectors. No direct linkage to listed company performance.",
+        "stocks": {}
+      }
+    },
+    "a5d597a1ad964f7b": {
+      "id": "a5d597a1ad964f7b",
+      "title": "G7 nations agree to release 100 mn barrels of oil",
+      "link": "https://economictimes.indiatimes.com/industry/energy/oil-gas/g7-nations-agree-to-release-100-million-barrels-of-oil-including-diesel-a-boost-for-trump/articleshow/134645922.cms",
+      "summary": "",
+      "pub": "03 Oct 00:34 IST",
+      "pub_dt": "2026-10-02T19:04:23+00:00",
+      "sectors": [
+        "Telecoms"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "G7 release of 100 million barrels of oil increases global oil supply, pressuring crude prices downward. This benefits oil-importing economies like India by reducing import costs and inflation, but negatively impacts domestic energy stocks and reduces currency support from oil revenues.",
+        "stocks": {}
+      }
+    },
+    "67b336a6931e9f8b": {
+      "id": "67b336a6931e9f8b",
+      "title": "CJP issues Oct 10 ultimatum to CEC Gyanesh Kumar",
+      "link": "https://economictimes.indiatimes.com/news/politics-and-nation/fresh-protest-at-jantar-mantar-on-october-10-if-cec-kumar-didnt-resign-cjp-leader-dipke/articleshow/134646173.cms",
+      "summary": "",
+      "pub": "03 Oct 00:54 IST",
+      "pub_dt": "2026-10-02T19:24:20+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [
+        "LTIMindtree"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "CJP's ultimatum to CEC (Chief Election Commissioner) is a governance/regulatory matter unrelated to LTIMindtree's core IT services business operations, earnings, or competitive positioning. The ongoing negative technical momentum is independent of this news.",
+        "stocks": {
+          "LTIMindtree": "neutral"
+        }
+      }
+    },
+    "2c7bc64241962b41": {
+      "id": "2c7bc64241962b41",
+      "title": "Pilot stabbing raises aviation security questions",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/pilot-stabbing-raises-aviation-security-questions-further-unsettles-region-shaken-by-us-iran-war/articleshow/134651417.cms",
+      "summary": "Tel Aviv: This week's attack on a pilot by a co-pilot who tried to crash a Tel Aviv-bound flight left the region's travel industry in crisis Friday, raising questions about aviation security and further unsettling a Middle East already shaken by the US-Iran war.Nothing is publicly known about the motive of the co-pilot, who came close to crashing the aircraft and killing all 182 people aboard Wedn",
+      "pub": "03 Oct 09:16 IST",
+      "pub_dt": "2026-10-03T03:46:24+00:00",
+      "sectors": [
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "ABB India"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "While the pilot stabbing incident raises aviation security concerns, ABB India operates in industrial automation and equipment manufacturing, not aviation operations. The aviation security story has no direct earnings or margin impact on ABB India's business. Recent technical weakness reflects broader market sentiment, not this specific incident.",
+        "stocks": {
+          "ABB India": "neutral"
+        }
+      }
+    },
+    "79c381f573036231": {
+      "id": "79c381f573036231",
+      "title": "Azad Engineering shares: Up 85% in 6 months; stock to buy, says ICICI Securities - Check revised share price target",
+      "link": "https://www.livemint.com/market/azad-engineering-shares-up-85-in-6-months-stock-to-buy-says-icici-securities-check-revised-share-price-target-11790998847357.html",
+      "summary": "Azad Engineering stock surged 77% in the past year, supported by strategic expansions and improved order visibility, leading to an upgraded target price from ICICI Securities to  ₹3,200.",
+      "pub": "03 Oct 09:52 IST",
+      "pub_dt": "2026-10-03T04:22:26+00:00",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Azad Engineering's 85% surge over 6 months and 77% yearly gain reflect strong fundamentals driven by strategic expansions and improved order visibility. ICICI Securities' upgrade to ₹3,200 target price validates the uptrend and signals confidence in sustained earnings growth, supporting further valuation expansion.",
+        "stocks": {}
+      }
+    },
+    "c94769dec36a4f93": {
+      "id": "c94769dec36a4f93",
+      "title": "Is October a market crash month? 1929 crash to Black Monday 1987 - Why October scares equities, stocks investors",
+      "link": "https://www.livemint.com/market/stock-market-news/is-october-a-market-crash-month-1929-crash-to-black-monday-1987-why-october-scares-equities-stocks-investors-11790954995036.html",
+      "summary": "The Indian stock market began October with its longest streak of eight weekly losses, the worst in 25 years. Historical October crashes like Black Monday 1987 and the Wall Street crash of 1929 remind investors as Nifty and Sensex experience varied performances over the past decade.",
+      "pub": "03 Oct 09:00 IST",
+      "pub_dt": "2026-10-03T03:30:25+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Indian stock market's longest 8-week losing streak in 25 years signals deteriorating sentiment and technical weakness. October's historical crash pattern adds to investor caution, creating headwinds for equity valuations across sectors and reducing risk appetite.",
+        "stocks": {}
+      }
+    },
+    "08762ff6bd12183e": {
+      "id": "08762ff6bd12183e",
+      "title": "White-collar hiring shifts towards specialised AI skills, experienced professionals in September: Report",
+      "link": "https://www.livemint.com/economy/whitecollar-hiring-shifts-towards-specialised-ai-skills-experienced-professionals-in-september-report-11790995506265.html",
+      "summary": "The white-collar job market is becoming increasingly selective, driven by demand for specialised AI skills and experience professionals. Check where hiring stood for freshers and mid-career job seekers.&amp;nbsp;",
+      "pub": "03 Oct 08:49 IST",
+      "pub_dt": "2026-10-03T03:19:16+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Shift toward specialized AI skills and experienced professionals is positive for IT companies with strong AI capabilities (supporting margins and pricing power), but negative for those dependent on entry-level fresher hiring models (impacting cost structures). This represents a structural shift favoring quality-focused IT services providers.",
+        "stocks": {}
+      }
+    },
+    "21e5a3bda93af7fc": {
+      "id": "21e5a3bda93af7fc",
+      "title": "Nvidia wants AI chips to become fungible asset, but Wall Street isn’t convinced yet | Here's why",
+      "link": "https://www.livemint.com/companies/news/nvidia-wants-ai-chips-to-become-fungible-asset-but-wall-street-isn-t-convinced-yet-heres-why-11790993905084.html",
+      "summary": "Nvidia aims to establish its AI chips as durable assets for long-term financing, but Wall Street remains cautious, doubting their value over time. The company seeks to use GPUs as collateral to support AI developers, raising concerns regarding depreciation and lender protections.",
+      "pub": "03 Oct 08:37 IST",
+      "pub_dt": "2026-10-03T03:07:45+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Nvidia's initiative to make AI chips fungible assets could expand addressable market and financing options for customers (positive for growth), but Wall Street skepticism about GPU depreciation and collateral value suggests concerns about long-term pricing power and asset quality (negative for margins and valuations). This reflects uncertainty about whether AI chip demand will sustain or face oversupply.",
+        "stocks": {}
+      }
+    },
+    "64cb3ce8b082fe62": {
+      "id": "64cb3ce8b082fe62",
+      "title": "Paramount-Warner Bros merger: David Ellison names combined company Skydance",
+      "link": "https://www.livemint.com/companies/people/paramountwarner-bros-merger-david-ellison-names-combined-company-skydance-11790994449359.html",
+      "summary": "Paramount Skydance CEO David Ellison says the combined company will retain Paramount and Warner Bros as distinct entertainment brands, while Skydance becomes its corporate identity as the $110 billion deal moves towards completion.",
+      "pub": "03 Oct 08:28 IST",
+      "pub_dt": "2026-10-03T02:58:15+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "The merger completion announcement with corporate restructuring (Skydance becoming parent while Paramount and Warner Bros retain brands) is a governance/organizational detail rather than a fundamental change to business operations, synergy realization, or earnings impact. The deal value and structure were already known; this is execution-stage news.",
+        "stocks": {}
+      }
+    },
+    "c05ddf1df829ec6e": {
+      "id": "c05ddf1df829ec6e",
+      "title": "Jensen Huang's net worth crosses $200 billion, becomes world's 7th-richest person as Nvidia shares hit record",
+      "link": "https://www.livemint.com/companies/news/jensen-huangs-net-worth-crosses-200-billion-becomes-worlds-7th-richest-person-as-nvidia-shares-hit-record-11790990983761.html",
+      "summary": "Nvidia's CEO, Jensen Huang, has a net worth exceeding $200 billion as his company’s shares reached an all-time high of $237. Huang's fortune increased by $3.4 billion, positioning him as the seventh-richest person globally, driven by demand for AI chips and a significant buyback announcement.",
+      "pub": "03 Oct 07:55 IST",
+      "pub_dt": "2026-10-03T02:25:17+00:00",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Materials"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Nvidia's record stock price and strong share performance reflect sustained AI chip demand and investor confidence in growth trajectory. The buyback announcement signals management confidence in valuation and returns cash while supporting stock price, though the personal wealth milestone is a trailing indicator of already-priced-in operational success rather than new fundamental catalysts.",
+        "stocks": {}
+      }
     }
   }
 }
