@@ -340928,6 +340928,735 @@
         "reasoning": "LinkedIn's bonus structure shift to individual performance weighting is an HR policy change with no operational or financial impact on Indian listed equities. This affects LinkedIn's internal cost structure but doesn't cascade to TCS, Infosys, or other Indian IT service provider clients. Global tech HR trends don't directly influence Indian IT company earnings or growth trajectories.",
         "stocks": {}
       }
+    },
+    "1ea9fbb8709f0267": {
+      "id": "1ea9fbb8709f0267",
+      "title": "IT stocks surge despite US immigration curbs",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/it-stocks-surge-despite-us-immigration-curbs/articleshow/134847206.cms",
+      "summary": "On Friday, Indian IT stocks experienced an impressive surge, spearheaded by a remarkable 4.2% jump in Tata Consultancy Services shares. This unexpected rally took analysts by surprise, as it unfolded amidst ongoing concerns surrounding US regulations impacting technology firms. Additionally, OpenAI’s updated revenue projections alleviated fears regarding potential disruptions from AI on traditiona",
+      "pub": "10 Oct 09:49 IST",
+      "pub_dt": "2026-10-10T04:19:39+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [
+        "TCS"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "TCS's 4.2% surge reflects market reassurance on two fronts: strong Q2 results (15% YoY profit growth, 11% revenue growth, $3.1B AI revenue) and management's explicit guidance that US immigration curbs won't materially impact operations. This reverses earlier concerns and validates the recent earning beat despite slowest growth in three years.",
+        "stocks": {
+          "TCS": "positive"
+        }
+      }
+    },
+    "46063e769e917da8": {
+      "id": "46063e769e917da8",
+      "title": "Poonawalla Fincorp Q2 profit soars five-fold YoY to Rs 375 crore",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/poonawalla-fincorp-q2-profit-soars-five-fold-yoy-to-rs-375-crore/articleshow/134847141.cms",
+      "summary": "Poonawalla Fincorp reported a remarkable net profit of ₹375 crore for the second quarter, marking impressive year-on-year growth. The company's loan portfolio expansion contributed to a stellar 75.6% rise in net interest income. Notably, new disbursements made up 28% of the total, exceeding ₹4,400 crore. The gross non-performing asset ratio improved to 1.2%, reflecting enhanced asset quality, whil",
+      "pub": "10 Oct 09:41 IST",
+      "pub_dt": "2026-10-10T04:11:23+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Poonawalla Fincorp's five-fold YoY profit surge to ₹375 crore, driven by 75.6% NII growth and strong loan disbursements (₹4,400 crore), signals robust credit demand and operational leverage. Improving GPA ratio to 1.2% indicates strengthening asset quality, directly supporting earnings sustainability and ROA expansion.",
+        "stocks": {}
+      }
+    },
+    "68c381951a55b5ca": {
+      "id": "68c381951a55b5ca",
+      "title": "Sebi notifies new settlement rule; unveils formula, fast-track route. Check details",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-notifies-new-settlement-rule-unveils-formula-fast-track-route-check-details/articleshow/134847119.cms",
+      "summary": "The Securities and Exchange Board of India (SEBI) has rolled out fresh regulations that modify how settlement amounts for securities violations are calculated. This revamped formula curtails the double counting of unjust gains in settlement assessments. Moreover, it introduces a fast-track process for cases where settlement amounts are less than ₹10 lakh, aiming for quicker resolutions while ensur",
+      "pub": "10 Oct 09:36 IST",
+      "pub_dt": "2026-10-10T04:06:27+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "SEBI's new settlement formula and fast-track route reduce regulatory uncertainty and potential compliance costs for securities violations, but this is largely a procedural/administrative change with no direct earnings impact. Marginally positive for compliance-heavy entities but sector-neutral overall.",
+        "stocks": {}
+      }
+    },
+    "0d8e7f1afdb88841": {
+      "id": "0d8e7f1afdb88841",
+      "title": "D-Street breaks 8-week losing run, outlook stays cautious though",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/d-street-breaks-8-week-losing-run-outlook-stays-cautious-though/articleshow/134847017.cms",
+      "summary": "After an eight-week slump, Indian equities experienced a robust rebound, highlighted by a notable rise in the BSE Sensex. This recovery was buoyed by declining crude oil prices, which eased from their recent peaks. While foreign portfolio investors remained in a selling mood, local institutional investors stepped in with strong buying activity.",
+      "pub": "10 Oct 09:29 IST",
+      "pub_dt": "2026-10-10T03:59:44+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "D-Street's 8-week rebound driven by crude oil price declines and domestic institutional buying is cyclical market sentiment recovery. Without company-specific catalysts, this is macro-driven and doesn't alter fundamental earnings trajectories; caution persists with FPI outflows.",
+        "stocks": {}
+      }
+    },
+    "bcef36659ab81aaf": {
+      "id": "bcef36659ab81aaf",
+      "title": "RBI tightens forex derivative rules: What changes for hedging, cancelled trades",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-tightens-forex-derivative-rules-what-changes-for-hedging-cancelled-trades/articleshow/134847351.cms",
+      "summary": "The RBI has tightened rules for rupee-linked foreign exchange derivatives, restricting the rebooking of cancelled contracts and cutting the threshold for transactions without establishing underlying exposure to $5 million from $100 million. It has also mandated additional checks for hedging activities and introduced a 20% cash reserve requirement for certain transactions.",
+      "pub": "10 Oct 10:05 IST",
+      "pub_dt": "2026-10-10T04:35:34+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "RBI's tightened forex derivative rules—restricting rebooking, lowering exposure threshold from $100M to $5M, and imposing 20% cash reserve requirements—increase hedging costs and operational friction for exporters and corporates. This constrains treasury flexibility and raises effective financing costs.",
+        "stocks": {}
+      }
+    },
+    "00d13fe00b8a1640": {
+      "id": "00d13fe00b8a1640",
+      "title": "Wall Street Week Ahead: Bank earnings, CPI headline busy markets week as S&amp;P 500 hovers near records",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-bank-earnings-cpi-headline-busy-markets-week-as-sp-500-hovers-near-records/articleshow/134847295.cms",
+      "summary": "U.S. stock investors are on high alert as they anticipate quarterly earnings reports from major banks, including JPMorgan and Goldman Sachs. These reports are pivotal, shedding light on corporate profitability and the future direction of interest rates. The upcoming Consumer Price Index report will also provide vital clues about inflation trends, potentially swaying Federal Reserve policy.",
+      "pub": "10 Oct 09:59 IST",
+      "pub_dt": "2026-10-10T04:29:09+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "US bank earnings and CPI inflation data are macro indicators with indirect relevance to Indian equities. While they signal Fed policy direction and global growth, they lack direct company-level impact on Indian fundamentals.",
+        "stocks": {}
+      }
+    },
+    "5260e0d5cf7de83e": {
+      "id": "5260e0d5cf7de83e",
+      "title": "Euro falls, set for fifth straight weekly drop as oil prices rise",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/euro-falls-set-for-fifth-straight-weekly-drop-as-oil-prices-rise/articleshow/134847274.cms",
+      "summary": "The euro has experienced a significant drop as concerns about France's public debt continue to affect investor confidence. Global bond markets have stabilized following US President Donald Trump's remarks on potential military action against Iran. Oil prices fluctuated significantly, impacting market dynamics and investor sentiment. US consumer sentiment has worsened amid rising living costs attri",
+      "pub": "10 Oct 09:55 IST",
+      "pub_dt": "2026-10-10T04:25:51+00:00",
+      "sectors": [
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Euro weakness due to France's debt concerns, oil price volatility, and weakening US consumer sentiment create macroeconomic headwinds. For India's IT and telecoms exporters, euro weakness erodes European revenue realization while oil volatility pressures margins and FX predictability.",
+        "stocks": {}
+      }
+    },
+    "33c9edf9f80d818f": {
+      "id": "33c9edf9f80d818f",
+      "title": "Gold hits one-week high, heads for weekly gain on bargain-hunting",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-hits-one-week-high-heads-for-weekly-gain-on-bargain-hunting/articleshow/134847226.cms",
+      "summary": "Gold prices surged as investors seized the opportunity to buy low after a recent dip to a two-month low. Currently, spot gold has ascended to around $4,190.49 and is on track for a weekly increase. Traders are closely monitoring potential interest rate adjustments by the US Federal Reserve. Analysts suggest a possible test of the $4,000 support level if inflation continues to be a factor.",
+      "pub": "10 Oct 09:48 IST",
+      "pub_dt": "2026-10-10T04:18:40+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Gold's one-week high and bargain-hunting rally reflect risk-off sentiment but are asset-class specific. With no direct earnings link to tagged sectors, this signals macro uncertainty without operational impact on Indian equities.",
+        "stocks": {}
+      }
+    },
+    "8ce03e49dcf54c60": {
+      "id": "8ce03e49dcf54c60",
+      "title": "Rupee rises to intra-day high, then slips on dollar demand",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-rises-to-intra-day-high-then-slips-on-dollar-demand/articleshow/134847163.cms",
+      "summary": "The Indian rupee gained marginally, closing at 96.73 against the dollar on Friday after interventions. The Reserve Bank of India sold dollars through state-owned banks to influence the currency's value. Reserve Bank governor Sanjay Malhotra stated that the currency is undervalued and needs stabilization. Despite this, there remains an overall strong demand for dollars from companies.",
+      "pub": "10 Oct 09:40 IST",
+      "pub_dt": "2026-10-10T04:10:30+00:00",
+      "sectors": [
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "RBI's rupee intervention through dollar sales and stabilization efforts is a routine monetary measure with mixed sectoral impacts. IT sector benefits from rupee weakness (lower INR = higher USD revenue conversion), while Banking faces margin pressure from potential rate defense. The statement that rupee is 'undervalued' suggests RBI may sustain intervention, creating near-term currency volatility but no direct earnings impact.",
+        "stocks": {}
+      }
+    },
+    "73bc7bd9715394fb": {
+      "id": "73bc7bd9715394fb",
+      "title": "Airtel Money debuts on LSE in biggest listing in 5 years",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/airtel-money-debuts-on-lse-in-biggest-listing-in-5-years/articleshow/134846990.cms",
+      "summary": "Airtel Money, the financial services arm of Airtel Africa, made a striking entrance on the London Stock Exchange, captivating investor attention. The offer for sale garnered approximately £529 million through the sale of 270 million existing shares. This initial public offering valued Airtel Mobile Commerce NV at around £5.3 billion, with each share set at £1.96. Conditional trading has recently c",
+      "pub": "10 Oct 09:26 IST",
+      "pub_dt": "2026-10-10T03:56:23+00:00",
+      "sectors": [
+        "Banking",
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [
+        "Bharti Airtel"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Airtel Money's successful £5.3bn LSE listing at £1.96/share (raising £529mn via secondary OFS) is a major de-risking and capital-raising event for Bharti Airtel. This follows sustained positive momentum from postpaid tariff hikes (3-11%) and industry-wide 12-15% rate increase expectations, directly supporting ARPU and margin expansion. The listing unlocks value from the fintech subsidiary while strengthening parent balance sheet.",
+        "stocks": {
+          "Bharti Airtel": "positive"
+        }
+      }
+    },
+    "acfe38f8cca5586a": {
+      "id": "acfe38f8cca5586a",
+      "title": "RBI moves to support rupee at 96.78, cracks down on forex derivatives",
+      "link": "https://economictimes.indiatimes.com/news/economy/indicators/rbi-moves-to-support-rupee-at-96-78-cracks-down-on-forex-derivatives/articleshow/134846784.cms",
+      "summary": "The Reserve Bank of India introduced new measures to address the pressure on the rupee. These measures include tightening foreign exchange derivative rules and limiting rebooking of cancelled contracts. Furthermore, a 20% cash reserve requirement has been established for large forex derivatives transactions. The central bank aims to enhance market discipline and promote effective risk management s",
+      "pub": "10 Oct 09:09 IST",
+      "pub_dt": "2026-10-10T03:39:58+00:00",
+      "sectors": [
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "RBI's forex derivative tightening (20% CRR on large transactions, rebooking restrictions) is a regulatory measure aimed at market discipline and rupee stability. This has limited direct impact on operating earnings for most corporates but may increase hedging costs for companies with large forex exposures. The measure is procedural/structural rather than cyclical.",
+        "stocks": {}
+      }
+    },
+    "24d2496d98087480": {
+      "id": "24d2496d98087480",
+      "title": "Which metro stations are closed today? Full list",
+      "link": "https://economictimes.indiatimes.com/industry/transportation/railways/delhi-metro-station-closed-list-october-10-delhi-police-say-entry-exit-gates-at-57-stations-closed-noida-gurgaon/articleshow/134814018.cms",
+      "summary": "",
+      "pub": "09 Oct 11:57 IST",
+      "pub_dt": "2026-10-09T06:27:41+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Metro station closure announcement is a routine operational logistics update with no material impact on equity valuations or corporate earnings.",
+        "stocks": {}
+      }
+    },
+    "68dd3b8198fa3966": {
+      "id": "68dd3b8198fa3966",
+      "title": "'Black Emergency' imposed in the country: AAP",
+      "link": "https://economictimes.indiatimes.com/news/politics-and-nation/aap-alleges-black-emergency-as-protesters-detained-ahead-of-cjp-protest/articleshow/134847533.cms",
+      "summary": "",
+      "pub": "10 Oct 10:25 IST",
+      "pub_dt": "2026-10-10T04:55:34+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "AAP's political statement on 'Black Emergency' is a political commentary with no direct linkage to corporate earnings, valuations, or sectoral dynamics.",
+        "stocks": {}
+      }
+    },
+    "d052669e6c00c498": {
+      "id": "d052669e6c00c498",
+      "title": "‘PM Modi has accepted defeat’: CJP's Dipke",
+      "link": "https://economictimes.indiatimes.com/news/india/modi-has-accepted-defeat-cjp-chief-dipke-says-ahead-of-delhi-protest-as-police-detain-150-including-dhruv-rathee/articleshow/134847309.cms",
+      "summary": "",
+      "pub": "10 Oct 10:17 IST",
+      "pub_dt": "2026-10-10T04:47:52+00:00",
+      "sectors": [
+        "Materials"
+      ],
+      "stocks": [
+        "ACC"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Political commentary (CJP's statement on PM Modi) has no direct operational bearing on ACC's cement business. However, ACC faces macro headwinds from persistent FPI outflows (₹31,282cr in early October), rising US Treasury yields threatening to push to 6% (increasing borrowing costs for capital-intensive cement sector), and RBI's rate hike stance delaying near-term rate cuts. These macro factors compress ACC's margins and capex returns.",
+        "stocks": {
+          "ACC": "negative"
+        }
+      }
+    },
+    "c4ab6afe81d51bfd": {
+      "id": "c4ab6afe81d51bfd",
+      "title": "Dhruv Rathee detained from Gurugram residence",
+      "link": "https://economictimes.indiatimes.com/news/india/youtuber-dhruv-rathee-arrested-ahead-of-cjp-protest-in-delhi/articleshow/134847373.cms",
+      "summary": "",
+      "pub": "10 Oct 10:05 IST",
+      "pub_dt": "2026-10-10T04:35:54+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Dhruv Rathee's detention is a political/legal event unrelated to corporate earnings, sectoral dynamics, or equity valuations.",
+        "stocks": {}
+      }
+    },
+    "a6cc71974c63e1f4": {
+      "id": "a6cc71974c63e1f4",
+      "title": "FD rate up to 8.25% for senior citizens",
+      "link": "https://economictimes.indiatimes.com/wealth/invest/fd-rate-up-to-8-25-for-senior-citizens-investing-for-five-years-know-the-list-of-banks/articleshow/134847231.cms",
+      "summary": "",
+      "pub": "10 Oct 09:58 IST",
+      "pub_dt": "2026-10-10T04:28:58+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Bank FD rate increase to 8.25% for senior citizens is a routine deposit pricing adjustment reflecting competitive pressures and liquidity management. This has sector-level implications (deposit cost inflation for banks) but no direct impact on non-financial corporations' earnings.",
+        "stocks": {}
+      }
+    },
+    "b32aec3fa7606dca": {
+      "id": "b32aec3fa7606dca",
+      "title": "Jantar Mantar 2.0: Pink Force deployed in Delhi",
+      "link": "https://economictimes.indiatimes.com/news/india/pink-force-deployed-in-delhi-for-cjps-jantar-mantar-2-0-protest-security-heightened/articleshow/134847157.cms",
+      "summary": "",
+      "pub": "10 Oct 09:48 IST",
+      "pub_dt": "2026-10-10T04:18:58+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Law enforcement deployment is a routine administrative matter with no direct impact on equity markets or specific company earnings.",
+        "stocks": {}
+      }
+    },
+    "90167b3516b10f79": {
+      "id": "90167b3516b10f79",
+      "title": "8th CPC: Pensioners propose Rs 69K as minimum pay",
+      "link": "https://economictimes.indiatimes.com/wealth/save/8th-pay-commission-latest-news-salary-pension-calculator-rs-18000-to-rs-69000-minimum-pay-what-pensioners-body-has-proposed/articleshow/134840266.cms",
+      "summary": "",
+      "pub": "10 Oct 07:30 IST",
+      "pub_dt": "2026-10-10T02:00:00+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Higher minimum pension outlay could increase government expenditure and fiscal pressure, potentially negative for fiscal consolidation; however, increased pensioner spending could marginally benefit consumer-facing sectors like retail and FMCG.",
+        "stocks": {}
+      }
+    },
+    "d0cd4e11077f1444": {
+      "id": "d0cd4e11077f1444",
+      "title": "FD laddering strategy for Rs 10L investment",
+      "link": "https://economictimes.indiatimes.com/wealth/invest/fd-interest-maturity-fixed-deposit-calculator-how-you-can-use-fd-laddering-for-rs-10-lakh-investment-after-rbi-raises-repo-rate/articleshow/134842338.cms",
+      "summary": "",
+      "pub": "10 Oct 07:45 IST",
+      "pub_dt": "2026-10-10T02:15:00+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "FD laddering strategy is a personal finance advisory topic with no material impact on corporate earnings, valuations, or market-wide dynamics.",
+        "stocks": {}
+      }
+    },
+    "d4ae30eca6f47c46": {
+      "id": "d4ae30eca6f47c46",
+      "title": "‘Stop preaching homilies’: India hits back at Pakistan",
+      "link": "https://economictimes.indiatimes.com/news/india/stop-preaching-homilies-india-calls-out-lies-and-falsehoods-peddled-by-pakistan-at-un-slams-kashmir-claims/articleshow/134846739.cms",
+      "summary": "",
+      "pub": "10 Oct 08:48 IST",
+      "pub_dt": "2026-10-10T03:18:52+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Diplomatic statements between India and Pakistan do not have direct implications for Indian equity valuations or corporate earnings unless they escalate into material geopolitical tensions affecting defense spending or trade.",
+        "stocks": {}
+      }
+    },
+    "b9fca09e31c9e17e": {
+      "id": "b9fca09e31c9e17e",
+      "title": "Delhi Police plan: 35,000 force, bodycams, drones",
+      "link": "https://economictimes.indiatimes.com/news/new-updates/delhi-protest-today-35000-security-personnel-bodycams-drones-six-detention-centers-face-recognition-traffic-diversions-and-metro-closures-inside-delhi-polices-security-plan/articleshow/134846550.cms",
+      "summary": "",
+      "pub": "10 Oct 08:49 IST",
+      "pub_dt": "2026-10-10T03:19:10+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Delhi Police modernization (bodycams, drones) could benefit defense/security equipment suppliers; however, higher government capex on internal security may crowd out other productive spending, with net macro impact ambiguous.",
+        "stocks": {}
+      }
+    },
+    "e547646dc41f43f7": {
+      "id": "e547646dc41f43f7",
+      "title": "'PM is scared': CJP's Dipke ahead of protest march",
+      "link": "https://economictimes.indiatimes.com/news/india/pm-is-scared-cjps-abhijeet-dipke-alleges-govt-waging-war-on-its-people-ahead-of-protest-march/articleshow/134846688.cms",
+      "summary": "",
+      "pub": "10 Oct 08:41 IST",
+      "pub_dt": "2026-10-10T03:11:53+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Political protest statements are commentary on governance without direct corporate earnings impact unless they escalate into sustained civil unrest affecting business operations.",
+        "stocks": {}
+      }
+    },
+    "7fbc3c5792004bca": {
+      "id": "7fbc3c5792004bca",
+      "title": "CP shuts for CJP protest, traders flag ₹2K cr hit",
+      "link": "https://economictimes.indiatimes.com/news/india/connaught-place-shuts-ahead-of-cjp-protest-traders-brace-for-rs-2000-crore-hit/articleshow/134846662.cms",
+      "summary": "",
+      "pub": "10 Oct 08:40 IST",
+      "pub_dt": "2026-10-10T03:10:57+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Temporary shutdown of a commercial hub due to protest causes direct revenue loss (~₹2K cr mentioned) for retail and hospitality businesses; reflects demand headwind and operational disruption risk in consumer-facing sectors.",
+        "stocks": {}
+      }
+    },
+    "a2f7f33febaad2b8": {
+      "id": "a2f7f33febaad2b8",
+      "title": "CJP protest: Delhi Police expects 7,000 protesters",
+      "link": "https://economictimes.indiatimes.com/news/india/delhi-police-expects-7000-protesters-security-personnel-told-to-exercise-restraint/articleshow/134846594.cms",
+      "summary": "",
+      "pub": "10 Oct 08:30 IST",
+      "pub_dt": "2026-10-10T03:00:35+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Police crowd estimation for a protest is administrative planning information with no direct bearing on corporate earnings or market valuations.",
+        "stocks": {}
+      }
+    },
+    "ba4c42a028c86292": {
+      "id": "ba4c42a028c86292",
+      "title": "Putin to Trump: No quick return to Ukraine talks",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/kremlin-says-putin-in-phone-call-with-trump-downplays-immediate-ukraine-talks-resumption/articleshow/134846355.cms",
+      "summary": "",
+      "pub": "10 Oct 08:06 IST",
+      "pub_dt": "2026-10-10T02:36:56+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Geopolitical tensions between Russia and Ukraine have no direct impact on Indian IT sector earnings, margins, or growth. While macro risk sentiment could affect FPI flows, this is a continuation of ongoing geopolitical uncertainty rather than a new catalyst.",
+        "stocks": {}
+      }
+    },
+    "7690d950cb6ecf20": {
+      "id": "7690d950cb6ecf20",
+      "title": "Russia- US diesel is 'investment in war': Zelenskiy",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/zelenskiy-says-letting-russia-sell-diesel-to-us-is-investment-in-war/articleshow/134846359.cms",
+      "summary": "",
+      "pub": "10 Oct 08:02 IST",
+      "pub_dt": "2026-10-10T02:32:41+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "US-Russia energy trade disputes have minimal direct operational impact on Indian corporates. This is a geopolitical commentary without sector-specific earnings implications.",
+        "stocks": {}
+      }
+    },
+    "07c30b3afd4e3ddd": {
+      "id": "07c30b3afd4e3ddd",
+      "title": "Delhi imposes traffic curbs: Check affected routes",
+      "link": "https://economictimes.indiatimes.com/news/india/cjps-jantar-mantar-2-0-delhi-traffic-restrictions-across-key-routes-commuters-advised-to-plan-ahead/articleshow/134846320.cms",
+      "summary": "",
+      "pub": "10 Oct 07:54 IST",
+      "pub_dt": "2026-10-10T02:24:51+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Delhi traffic curbs are a local regulatory measure with negligible macro impact on equity valuations or corporate earnings. This is routine city-level policy implementation.",
+        "stocks": {}
+      }
+    },
+    "692e89a7103bcbcb": {
+      "id": "692e89a7103bcbcb",
+      "title": "Trump names Katie Zacharia as WH press secretary",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/trump-names-commentator-katie-zacharia-of-his-media-company-as-next-white-house-press-secretary/articleshow/134846288.cms",
+      "summary": "",
+      "pub": "10 Oct 07:49 IST",
+      "pub_dt": "2026-10-10T02:19:20+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "US White House press secretary appointment is a political personnel change with no direct linkage to Indian equity markets, corporate earnings, or valuations.",
+        "stocks": {}
+      }
+    },
+    "6044d991cce77376": {
+      "id": "6044d991cce77376",
+      "title": "Madonna didn't buy Angelina Jolie's home last month?",
+      "link": "https://economictimes.indiatimes.com/world/real-estate/madonna-didnt-buy-angelina-jolies-historic-los-angeles-house-for-25-million/articleshow/134842153.cms",
+      "summary": "",
+      "pub": "10 Oct 02:09 IST",
+      "pub_dt": "2026-10-09T20:39:24+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Celebrity real estate transactions are isolated events unrelated to corporate earnings, margins, or market dynamics. No impact on equity valuations.",
+        "stocks": {}
+      }
+    },
+    "e87eca2ba1ad7455": {
+      "id": "e87eca2ba1ad7455",
+      "title": "Panama rocked by 2 powerful earthquakes",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/panama-rocked-by-2-powerful-earthquakes-and-multiple-aftershocks-prompting-evacuations/articleshow/134846240.cms",
+      "summary": "",
+      "pub": "10 Oct 07:46 IST",
+      "pub_dt": "2026-10-10T02:16:09+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Natural disasters in Panama have no direct operational exposure for Indian equities. While it could affect global supply chains, the impact is localized and non-material to India Inc.",
+        "stocks": {}
+      }
+    },
+    "0fa30bdfbff65df2": {
+      "id": "0fa30bdfbff65df2",
+      "title": "Trump says Norway bears ‘stain’ over Nobel snub",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/trump-says-norway-has-indelible-stain-for-not-awarding-him-nobel-peace-prize/articleshow/134846164.cms",
+      "summary": "",
+      "pub": "10 Oct 07:33 IST",
+      "pub_dt": "2026-10-10T02:03:47+00:00",
+      "sectors": [
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "BEL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Trump's Nobel snub criticism signals US political volatility and unpredictability, which increases macro uncertainty for India-exposed sectors. Given BEL's recent 16% underperformance over 6 months amid RBI rate hikes, higher geopolitical/policy uncertainty adds to the defensive headwinds already impacting the defence PSU's valuation.",
+        "stocks": {
+          "BEL": "negative"
+        }
+      }
+    },
+    "467ee9e98c335089": {
+      "id": "467ee9e98c335089",
+      "title": "President sought proof of ‘election chori’, says RaGa",
+      "link": "https://economictimes.indiatimes.com/news/india/rahul-gandhi-says-president-murmu-sought-proof-of-election-chori-after-india-bloc-submits-memorandum-against-cec-gyanesh-kumar/articleshow/134837571.cms",
+      "summary": "",
+      "pub": "09 Oct 21:10 IST",
+      "pub_dt": "2026-10-09T15:40:08+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Domestic political commentary on election integrity has no direct impact on corporate earnings, regulatory policy, or equity valuations. This is political rhetoric without material economic consequences.",
+        "stocks": {}
+      }
+    },
+    "99fd9eb10887038b": {
+      "id": "99fd9eb10887038b",
+      "title": "No Fitch, Moody's or S&amp;P: Big 3's new challenge",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/no-fitch-moodys-or-sp-please-the-big-3-face-a-new-challenge/articleshow/134837757.cms",
+      "summary": "",
+      "pub": "09 Oct 21:28 IST",
+      "pub_dt": "2026-10-09T15:58:11+00:00",
+      "sectors": [
+        "Industrials"
+      ],
+      "stocks": [
+        "HAL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "The headline about rating agencies' challenges lacks specific operational or earnings impact details for HAL. Recent context shows HAL benefits from Honeywell's accelerated engine deliveries (removing production bottlenecks) and positive order flows, but faces macro headwinds (FPI outflows, rupee weakness, elevated crude). Without clarity on how rating agency competition affects HAL's credit profile or refinancing costs, the impact remains neutral.",
+        "stocks": {
+          "HAL": "neutral"
+        }
+      }
+    },
+    "b6d060605057adbb": {
+      "id": "b6d060605057adbb",
+      "title": "Trump says Russia to supply 300,000 tons of diesel",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/trump-says-russia-to-immediately-supply-300000-tons-of-diesel-fuel/articleshow/134841965.cms",
+      "summary": "",
+      "pub": "10 Oct 00:30 IST",
+      "pub_dt": "2026-10-09T19:00:17+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Russia supplying 300,000 tons of diesel is a geopolitical trade item with no direct operational linkage to Indian equities. While lower diesel costs could theoretically benefit Indian industrials/logistics, the headline lacks specificity on Indian supply impact or pricing. Without tagged stocks or sector clarity, this remains a neutral macro development.",
+        "stocks": {}
+      }
+    },
+    "8abcc096a7b58d0b": {
+      "id": "8abcc096a7b58d0b",
+      "title": "Indian man jailed in France over Nazi torture cult",
+      "link": "https://economictimes.indiatimes.com/news/india/indian-man-jailed-in-france-for-leading-sadist-nazi-cult-that-tortured-girls/articleshow/134846120.cms",
+      "summary": "",
+      "pub": "10 Oct 07:27 IST",
+      "pub_dt": "2026-10-10T01:57:37+00:00",
+      "sectors": [
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "L&T"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "An Indian man's jail sentence in France over a Nazi cult is a criminal/legal news item with no operational, financial, or earnings impact on L&T's core engineering, infrastructure, or IT businesses. This is a non-material event for corporate valuation.",
+        "stocks": {
+          "L&T": "neutral"
+        }
+      }
+    },
+    "41a981069dff11ac": {
+      "id": "41a981069dff11ac",
+      "title": "Delhi protest: What's happening today?",
+      "link": "https://economictimes.indiatimes.com/news/new-updates/delhi-cjp-protest-today-whats-happening-at-jantar-mantar-heres-what-we-know-so-far/articleshow/134847398.cms",
+      "summary": "Security has been tightened across Delhi ahead of a planned protest by the Cockroach Janta Party (CJP) and INDIA bloc at Jantar Mantar on Saturday, October 10. The demonstration is aimed at demanding the resignation of Chief Election Commissioner Gyanesh Kumar and opposing the Special Intensive Revision (SIR) exercise. Police have detained more than 150 people, while restrictions on Metro services",
+      "pub": "10 Oct 10:14 IST",
+      "pub_dt": "2026-10-10T04:44:30+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Delhi protests over Chief Election Commissioner resignation and electoral procedures are political/regulatory events. While they signal potential governance debate, they lack direct earnings or operational impact on Autos or IT sectors. Security tightening and Metro restrictions are temporary operational friction with no structural impact on stock valuations.",
+        "stocks": {}
+      }
+    },
+    "7dafa13719a617c9": {
+      "id": "7dafa13719a617c9",
+      "title": "Explained: How mutual fund SIPs harness the power of compounding to build wealth",
+      "link": "https://economictimes.indiatimes.com/mf/analysis/explained-how-mutual-fund-sips-harness-the-power-of-compounding-to-build-wealth/articleshow/134847431.cms",
+      "summary": "Compounding is one of the most effective ways to build long-term wealth. When paired with Systematic Investment Plans (SIPs) in mutual funds, it allows investors to grow their money over time through regular investments and reinvested returns. This approach can help them work towards key financial goals, from retirement planning and buying a home to funding a child’s education.What is compounding?",
+      "pub": "10 Oct 10:15 IST",
+      "pub_dt": "2026-10-10T04:45:46+00:00",
+      "sectors": [
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "An explainer article on mutual fund SIPs and compounding benefits is educational content with no company-specific news, earnings catalysts, or valuation impacts. This is a generic financial literacy piece rather than actionable equity news.",
+        "stocks": {}
+      }
+    },
+    "610da5e09bdef725": {
+      "id": "610da5e09bdef725",
+      "title": "RIL, ICICI Bank, Infosys, and more: Motilal Oswal names 40 stocks to buy during Q2 earnings season — Check full list",
+      "link": "https://www.livemint.com/market/stock-market-news/ril-icici-bank-infosys-and-more-motilal-oswal-names-40-stocks-to-buy-during-q2-earnings-season-check-full-list-11791605694356.html",
+      "summary": "After steep valuation declines, Motilal Oswal sees an improved risk-reward profile for Indian equities and expects September 2026-quarter earnings to rise 22% across its coverage universe. The brokerage has recommended 26 stocks in its model portfolio.",
+      "pub": "10 Oct 10:42 IST",
+      "pub_dt": "2026-10-10T05:12:14+00:00",
+      "sectors": [
+        "Banking",
+        "IT"
+      ],
+      "stocks": [
+        "ICICI Bank",
+        "Infosys"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Motilal Oswal's bullish call on Indian equities citing 22% earnings growth in Q2 FY27 is positive for ICICI Bank and Infosys. However, recent history shows Infosys faces structural headwinds (muted Q2 growth, AI-driven productivity pressure, visa programme suspension), while ICICI Bank benefits from RBI rate hikes (NIM expansion). The recommendation reflects improved valuations post-correction, but execution risks remain for Infosys amid demand weakness and talent constraints.",
+        "stocks": {
+          "ICICI Bank": "positive",
+          "Infosys": "mixed"
+        }
+      }
+    },
+    "e02f7bcce6a66f94": {
+      "id": "e02f7bcce6a66f94",
+      "title": "Stock to buy in short term: Choice Broking's Sumeet Bagadia recommends this PSU bank stock as Navratri Pick",
+      "link": "https://www.livemint.com/market/stock-to-buy-in-short-term-choice-brokings-sumeet-bagadia-recommends-this-psu-bank-stock-as-navratri-pick-11791602676758.html",
+      "summary": "Choice Broking’s Sumeet Bagadia identified Bank of Maharashtra as a Navratri 2026 stock pick, citing an uptrend, breakout, support near its 20-week EMA and bullish RSI. The brokerage suggested buying at  ₹82.75, adding near  ₹80, and targeting  ₹91 and  ₹96, with  ₹76 as key support.",
+      "pub": "10 Oct 09:58 IST",
+      "pub_dt": "2026-10-10T04:28:51+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Choice Broking's technical recommendation of Bank of Maharashtra as a Navratri pick based on uptrend, RSI, and EMA support is a short-term trading call with no new earnings, structural, or competitive catalyst. Technical breakouts and dividend plays lack fundamental valuation shifts; this is sector-generic positioning during market recovery, not material news.",
+        "stocks": {}
+      }
+    },
+    "f2f8ef1f10181046": {
+      "id": "f2f8ef1f10181046",
+      "title": "After 'Prime Minister' jibe, Elon Musk doubles down on attack against Ambani - What his latest post on X said",
+      "link": "https://www.livemint.com/companies/people/after-prime-minister-jibe-elon-musk-doubles-down-on-attack-against-ambani-what-his-latest-post-on-x-said-11791606648793.html",
+      "summary": "Elon Musk renewed his criticism of Ambani over delays to Starlink’s India launch, sharing old reports alleging political links. Jyotiraditya Scindia rejected monopoly claims, saying licensed operators can begin services once spectrum is assigned and security conditions are met.",
+      "pub": "10 Oct 10:13 IST",
+      "pub_dt": "2026-10-10T04:43:46+00:00",
+      "sectors": [
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Elon Musk's public criticism of Ambani over Starlink delays and Jyotiraditya Scindia's regulatory response are geopolitical/regulatory posturing with no direct earnings impact. While Starlink's India launch timeline uncertainty may affect telecom competition, the headline lacks specifics on regulatory approvals, spectrum assignment, or financial materiality. This remains a regulatory standoff without immediate operational consequences.",
+        "stocks": {}
+      }
     }
   }
 }
