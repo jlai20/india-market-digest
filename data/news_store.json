@@ -350013,6 +350013,2213 @@
         "reasoning": "Swarovski's India expansion plan (doubling business in 4-5 years, 26% FY25 sales growth to ₹478 crore) reflects luxury retail market opportunity but is a private company announcement with no direct impact on tagged public equities. The luxury/retail growth trend is sector-level positive but not company-specific.",
         "stocks": {}
       }
+    },
+    "718835f67f261c41": {
+      "id": "718835f67f261c41",
+      "title": "AI euphoria turning toxic but that’s good news for India: Is the global tech trade finally shifting in its favour?",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ai-euphoria-turning-toxic-but-thats-good-news-for-india-is-the-global-tech-trade-finally-shifting-in-its-favour/articleshow/134909132.cms",
+      "summary": "Global AI stock enthusiasm hit a roadblock as South Korea's Kospi plunged 7.4% on chip competition concerns and Broadcom's warning on AI spending. Conversely, Indian IT stocks surged, adding Rs 26,000 crore in market cap as investors rotated into services over semiconductor hardware exposure.",
+      "pub": "13 Oct 11:02 IST",
+      "pub_dt": "2026-10-13T05:32:42+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Global AI capex uncertainty and chip competition concerns are causing rotation OUT of hardware/semiconductors and INTO India's IT services, which benefits from lower valuation multiples and strong service delivery capabilities. This represents a structural shift favoring Indian IT outsourcers with lower cyclical exposure to hardware capex volatility.",
+        "stocks": {}
+      }
+    },
+    "a3da28d3aff967c2": {
+      "id": "a3da28d3aff967c2",
+      "title": "Groww Q2 results preview: MOFSL sees 41% revenue growth; margins, derivatives business in focus",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/groww-q2-results-preview-mofsl-sees-41-revenue-growth-margins-derivatives-business-in-focus/articleshow/134909021.cms",
+      "summary": "Billionbrains Garage Ventures is poised to unveil its Q2FY27 results, projecting impressive revenue growth compared to the previous year. Analysts from Motilal Oswal Financial Services anticipate revenues reaching Rs 1,434 crore. Additionally, the forecast for EBITDA reflects a significant year-on-year uplift, highlighting robust profitability. Nonetheless, concerns arise from margin pressures and",
+      "pub": "13 Oct 10:53 IST",
+      "pub_dt": "2026-10-13T05:23:29+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT",
+        "Materials"
+      ],
+      "stocks": [
+        "UPL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "The summary mentions Q2FY27 revenue growth of 41% and strong EBITDA uplift, but is undermined by margin pressures that could offset profitability gains. The article appears mislabeled (mentions Billionbrains Garage Ventures, not Groww), creating uncertainty around which entity's results are being previewed.",
+        "stocks": {
+          "UPL": "negative"
+        }
+      }
+    },
+    "da563715440fea6a": {
+      "id": "da563715440fea6a",
+      "title": "Ircon International shares jump 7% on Rs 862 crore railway EPC contract win",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ircon-international-shares-jump-7-on-rs-862-crore-railway-epc-contract-win/articleshow/134908709.cms",
+      "summary": "Ircon International shares surged after the company secured an EPC contract worth Rs 862.46 crore from East Central Railway. The project involves track-related works, including laying and linking railway tracks and supplying materials for the third and fourth lines under the Son Nagar–Andal project.",
+      "pub": "13 Oct 10:38 IST",
+      "pub_dt": "2026-10-13T05:08:18+00:00",
+      "sectors": [
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Rs 862 crore railway EPC contract win provides direct revenue visibility and earnings accretion for Ircon International. Railway sector capex remains a multi-year structural tailwind, supporting sustained contract pipeline and margin stability given fixed-price nature of such projects.",
+        "stocks": {}
+      }
+    },
+    "a4df00ce18dd61ab": {
+      "id": "a4df00ce18dd61ab",
+      "title": "Bandhan Bank shares jump 7% as Abu Dhabi’s IHC explores stake in promoter Bandhan Financial Services",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bandhan-bank-shares-jump-7-as-abu-dhabis-ihc-explores-stake-in-promoter-bandhan-financial-services/articleshow/134908601.cms",
+      "summary": "Bandhan Bank shares jumped nearly 7% after reports that Abu Dhabi-based IHC was in early-stage discussions to acquire a promoter stake in Bandhan Financial Services, potentially giving existing investors an exit opportunity.",
+      "pub": "13 Oct 10:31 IST",
+      "pub_dt": "2026-10-13T05:01:31+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [
+        "Bandhan Bank"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Potential stake acquisition by Abu Dhabi's IHC in promoter entity signals strategic validation of Bandhan Bank's business model and provides promoter liquidity event. This reduces promoter overhang concerns and could unlock shareholder value; recent Q2 performance and PE interest support near-term positive momentum.",
+        "stocks": {
+          "Bandhan Bank": "positive"
+        }
+      }
+    },
+    "f7a732653e6d25e0": {
+      "id": "f7a732653e6d25e0",
+      "title": "Rs 26,340 crore added in minutes! Why HCL Tech, TCS and other IT stocks rallied up to 7%",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/rs-26340-crore-added-in-minutes-why-hcl-tech-tcs-and-other-it-stocks-rallied-up-to-7/articleshow/134908567.cms",
+      "summary": "Indian IT stocks rallied up to 7%, with the Nifty IT index gaining 3.3%, as concerns over rising AI investment costs and uncertain returns rattled global technology stocks. Broadcom and Intel executives flagged capital constraints, prompting investors to reassess the AI boom. Separately, OpenAI told investors its September annualised revenue was nearly $50 billion, below its earlier indicated figu",
+      "pub": "13 Oct 10:30 IST",
+      "pub_dt": "2026-10-13T05:00:29+00:00",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Industrials",
+        "Telecoms"
+      ],
+      "stocks": [
+        "BEL",
+        "HCL Tech",
+        "TCS"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Global AI capex concerns and uncertain returns on semiconductor investments are prompting institutional rotation INTO Indian IT services, which offer diversified services, lower capex intensity, and established execution records. Recent Q2 results from HCL Tech (21% profit growth) and TCS (15% profit growth with strong AI revenue) validate earnings delivery, supporting the rally.",
+        "stocks": {
+          "HCL Tech": "positive",
+          "TCS": "positive",
+          "BEL": "neutral"
+        }
+      }
+    },
+    "85cc483adbea5d55": {
+      "id": "85cc483adbea5d55",
+      "title": "Polycab shares tumble 5% as stock set to exit F&amp;O segment from December 30 onwards. Here's why",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/polycab-shares-tumble-5-as-stock-set-to-exit-fo-segment-from-december-30-onwards-heres-why/articleshow/134908403.cms",
+      "summary": "Polycab India shares dropped over 5% after the NSE announced its exclusion from the F&amp;O segment from December 30. The move follows insolvency proceedings initiated against the company, although NCLAT has stayed the NCLT order. Existing derivative contracts will continue until their respective December expiries.",
+      "pub": "13 Oct 10:21 IST",
+      "pub_dt": "2026-10-13T04:51:24+00:00",
+      "sectors": [
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "L&T"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "NSE's F&O segment exclusion from December 30 reduces liquidity and trading flexibility for derivatives players, directly impacting trading volumes and hedging efficiency. While NCLAT stay provides temporary reprieve, the insolvency proceedings and regulatory delisting signal fundamental business deterioration, creating valuation pressure despite continued cash contract access.",
+        "stocks": {
+          "L&T": "neutral"
+        }
+      }
+    },
+    "091b4ce325a39147": {
+      "id": "091b4ce325a39147",
+      "title": "High crude vs festive demand: Can consumption stocks withstand the oil shock?",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/high-crude-vs-festive-demand-can-consumption-stocks-withstand-the-oil-shock/articleshow/134908303.cms",
+      "summary": "As the festive season approaches in India, high crude oil prices stir worries over profit margins for companies across sectors like FMCG and apparel. With input and logistics costs rising, analysts indicate that while consumer spending could increase, the burden of elevated crude prices might pressure profit margins. Larger, established brands may adapt more easily than smaller firms, leaving a ch",
+      "pub": "13 Oct 10:15 IST",
+      "pub_dt": "2026-10-13T04:45:26+00:00",
+      "sectors": [
+        "Autos",
+        "Industrials"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Elevated crude oil prices (>$102/barrel) will pressure input and logistics costs for consumption stocks through festive season, compressing margins despite potential demand uplift. While large-cap established brands can absorb costs better, overall profitability headwinds outweigh festive consumption tailwinds, creating earnings risk across FMCG and apparel sectors.",
+        "stocks": {}
+      }
+    },
+    "c8cfa1a53537a317": {
+      "id": "c8cfa1a53537a317",
+      "title": "Jefferies lists 6 factors that will shape CRDMO winners; Divi’s Labs, Sai Life, Laurus, Anthem among stocks to watch",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-lists-6-factors-that-will-shape-crdmo-winners-divis-labs-sai-life-laurus-anthem-among-stocks-to-watch/articleshow/134908058.cms",
+      "summary": "India's CRDMO sector is on the brink of expansion, backed by solid partnerships with major pharmaceutical players and comprehensive capabilities. Jefferies emphasizes the critical role of specialized manufacturing skills and a strong project pipeline for achieving success. With Divi's Laboratories and Sai Life Sciences excelling in these domains, there is potential for notable earnings growth.",
+      "pub": "13 Oct 10:10 IST",
+      "pub_dt": "2026-10-13T04:40:59+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "CRDMO sector expansion backed by pharma partnerships and strong specialized manufacturing capabilities positions leaders like Divi's Labs and Sai Life Sciences for sustained earnings growth. Jefferies' emphasis on project pipeline and manufacturing expertise validates these companies' competitive moats and supports multi-year revenue acceleration.",
+        "stocks": {}
+      }
+    },
+    "92911ff36cfc3603": {
+      "id": "92911ff36cfc3603",
+      "title": "Why is market rising today? Sensex jumps 650 points, Nifty above 22,550. 4 key factors behind D-Street rebound",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-rising-today-sensex-jumps-600-points-nifty-above-22550-4-key-factors-behind-d-street-rebound/articleshow/134907888.cms",
+      "summary": "Stock Market Today: On Tuesday morning, Indian equity benchmarks, Sensex and Nifty, showcased a robust recovery after a lower opening. The Sensex surged over 650 points, while Nifty ascended by nearly 200 points, surpassing the 22,550 mark. Driving this upward momentum, IT stocks saw notable gains, particularly HCL Tech, which soared more than 5% following its impressive Q2 results.",
+      "pub": "13 Oct 09:56 IST",
+      "pub_dt": "2026-10-13T04:26:57+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [
+        "HCL Tech"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "HCL Tech's impressive Q2 results with 21% YoY profit growth and 12% revenue growth, coupled with strong deal wins of $3.26B and maintained FY27 EBIT margin guidance, significantly beat prior mixed expectations. The 5% share price rally reflects earnings beat and marks a clear reversal from prior quarter's muted sequential growth concerns.",
+        "stocks": {
+          "HCL Tech": "positive"
+        }
+      }
+    },
+    "9d84ab385a135540": {
+      "id": "9d84ab385a135540",
+      "title": "ICICI Prudential AMC shares rise 2% as Jefferies, other brokerages revise target prices after Q2 results. Should you buy?",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/icici-prudential-amc-shares-rise-2-as-jefferies-other-brokerages-revise-target-prices-after-q2-results-should-you-buy/articleshow/134907852.cms",
+      "summary": "ICICI Prudential AMC shares rose 2% after reporting a 6% YoY net profit rise to Rs 889 crore in Q2 FY27. Major brokerages including Jefferies, Emkay, and Centrum retained positive ratings with revised target prices offering up to 30% upside potential, while a Rs 30 dividend was declared.",
+      "pub": "13 Oct 09:48 IST",
+      "pub_dt": "2026-10-13T04:18:57+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT"
+      ],
+      "stocks": [
+        "ICICI Pru Life"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "ICICI Prudential AMC's 6% YoY net profit growth to Rs 889 crore, combined with a Rs 30 dividend and positive brokerage revisions offering 30% upside, demonstrates solid earnings delivery and capital return commitment. The recent history shows consistent positive momentum post-Q2 results announcement.",
+        "stocks": {
+          "ICICI Pru Life": "positive"
+        }
+      }
+    },
+    "6fad058c14128022": {
+      "id": "6fad058c14128022",
+      "title": "RBL Bank shares plunge 8% despite 170% jump in Q2 profit. Should you buy, sell or hold?",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/rbl-bank-shares-plunge-8-despite-170-jump-in-q2-profit-should-you-buy-sell-or-hold/articleshow/134907804.cms",
+      "summary": "RBL Bank shares fell up to 8% despite a 170% year-on-year jump in Q2 FY27 net profit to Rs 481.7 crore. Strong net interest income growth and improved asset quality supported performance, while provisions rose. Nuvama raised its target price to Rs 500, citing the ENBD acquisition and FCNR deposit mobilisation, while Dolat Capital retained its Sell rating with a Rs 320 target.",
+      "pub": "13 Oct 09:45 IST",
+      "pub_dt": "2026-10-13T04:15:15+00:00",
+      "sectors": [
+        "Banking",
+        "IT"
+      ],
+      "stocks": [
+        "RBL Bank"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "RBL Bank's 170% YoY profit jump to Rs 481.7 crore and strong NII growth are significantly overshadowed by the 8% share price decline, reflecting investor concerns about near-term NIM compression from FCNR(B) deployment and conflicting analyst ratings (Nuvama upgrade vs Dolat Capital sell rating). The disconnect between earnings growth and stock performance suggests downside risks are not yet fully priced in.",
+        "stocks": {
+          "RBL Bank": "negative"
+        }
+      }
+    },
+    "3c5f1d4af3996585": {
+      "id": "3c5f1d4af3996585",
+      "title": "Reliance Jio IPO: GMP already seeing 'Ambani premium' ahead of record issue launch",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/reliance-jio-ipo-gmp-already-seeing-ambani-premium-ahead-of-record-issue-launch/articleshow/134907748.cms",
+      "summary": "Reliance Jio Platforms is gearing up for a monumental IPO, sparking tremendous investor interest as grey market prices indicate a robust premium. Analysts suggest a potential 15-16% rise over the anticipated price range, with estimated proceeds around Rs 30,200 crore, marking this as India's largest public offering. Jio aims to redefine its image as a technology powerhouse, with further details on",
+      "pub": "13 Oct 09:38 IST",
+      "pub_dt": "2026-10-13T04:08:59+00:00",
+      "sectors": [
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [
+        "Reliance Jio"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Reliance Jio's Rs 37,700 crore IPO with 15-16% grey market premium and strong institutional demand represents a major capital raise at attractive valuations for Reliance. Rising GMP and sector tailwinds from expected 12-15% telecom tariff hikes within 4-5 months support positive near-term momentum, though Starlink competitive threat creates some headwinds.",
+        "stocks": {
+          "Reliance Jio": "positive"
+        }
+      }
+    },
+    "4a67b9d0e62c52c3": {
+      "id": "4a67b9d0e62c52c3",
+      "title": "Rs 1 lakh crore is chasing small &amp; midcaps, but largecaps have the valuation. Where are India’s next multibaggers hiding?",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/rs-1-lakh-crore-is-chasing-small-midcaps-but-largecaps-have-the-valuation-where-are-indias-next-multibaggers-hiding/articleshow/134907699.cms",
+      "summary": "This year, over Rs 1 lakh crore has been funneled into small and midcap funds, reflecting a surge in investor enthusiasm. While smallcaps have recently taken the lead over largecaps, the latter are drawing attention due to attractive valuations. As growth expectations for largecaps are evening out, it indicates a possible shift in investment returns.",
+      "pub": "13 Oct 09:36 IST",
+      "pub_dt": "2026-10-13T04:06:54+00:00",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "This is a sector-level narrative piece lacking specific earnings or valuation catalysts. While noting Rs 1 lakh crore inflow into smallcaps and valuations favoring largecaps, it provides no actionable insight into growth acceleration or margin expansion drivers for either segment.",
+        "stocks": {}
+      }
+    },
+    "c9e0df9654b926f6": {
+      "id": "c9e0df9654b926f6",
+      "title": "HCL Tech shares rally over 4% after Q2 results. What are CLSA, JPMorgan, others saying?",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/hcl-tech-shares-rally-over-4-after-q2-results-what-are-clsa-jpmorgan-others-saying/articleshow/134907568.cms",
+      "summary": "HCL Technologies share price: HCL Tech shares rose after the IT services major reported a 21% YoY rise in Q2 FY27 net profit to Rs 5,132 crore. Revenue grew 12% to Rs 35,620 crore, while new deal wins stood at $3.26 billion. The company retained its FY27 EBIT margin guidance at 17.5-18.5% and projected constant-currency revenue growth of 2.5-4% for the full year.",
+      "pub": "13 Oct 09:29 IST",
+      "pub_dt": "2026-10-13T03:59:47+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [
+        "HCL Tech"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "HCL Tech's 4% share rally following strong Q2 results with 21% YoY profit growth, 12% revenue growth, and $3.26B deal wins signals sustained positive momentum. Retained FY27 EBIT margin guidance (17.5-18.5%) and 2.5-4% constant-currency revenue growth projection provide earnings visibility, marking a clear reversal from prior quarter's muted expectations.",
+        "stocks": {
+          "HCL Tech": "positive"
+        }
+      }
+    },
+    "6a5e96bf69766e88": {
+      "id": "6a5e96bf69766e88",
+      "title": "Nuvama Wealth Management among 5 stocks showing White Marubozu pattern",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nuvama-wealth-management-among-5-stocks-showing-white-marubozu-pattern/slideshow/134907685.cms",
+      "summary": "Five Nifty500 stocks gained over 5% on October 12 and featured in StockEdge’s White Marubozu bullish scanner, indicating strong upward price momentum during the trading session.",
+      "pub": "13 Oct 09:28 IST",
+      "pub_dt": "2026-10-13T03:58:17+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "This is a purely technical analysis piece based on White Marubozu candlestick pattern with no fundamental earnings, growth, or margin implications. While pattern signals short-term momentum, it lacks forward-looking business drivers or catalysts.",
+        "stocks": {}
+      }
+    },
+    "dc86b6131df1209f": {
+      "id": "dc86b6131df1209f",
+      "title": "Gallantt Ispat among 5 stocks showing RSI trending up",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/gallantt-ispat-among-5-stocks-showing-rsi-trending-up/slideshow/134907490.cms",
+      "summary": "Five Nifty500 stocks featured in StockEdge’s RSI Trending Up scan on October 12, signalling strengthening price momentum as their Relative Strength Index (RSI) values crossed above 50 from below.",
+      "pub": "13 Oct 09:17 IST",
+      "pub_dt": "2026-10-13T03:47:20+00:00",
+      "sectors": [
+        "Industrials"
+      ],
+      "stocks": [
+        "BEL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "BEL's RSI trending up is a purely technical indicator of momentum with no direct link to fundamentals or earnings drivers. Recent history shows BEL underperforming by 16% over 6 months amid broader macro headwinds, making technical reversal signals unreliable without earnings or order book catalysts.",
+        "stocks": {
+          "BEL": "neutral"
+        }
+      }
+    },
+    "3a5df1473c2d7dfd": {
+      "id": "3a5df1473c2d7dfd",
+      "title": "UPL among 3 stocks closed that closed crossing above VWAP",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/upl-among-3-stocks-closed-that-closed-crossing-above-vwap/slideshow/134907184.cms",
+      "summary": "A closing price above the VWAP indicates that a stock ended the session above its volume-weighted average traded price.",
+      "pub": "13 Oct 09:10 IST",
+      "pub_dt": "2026-10-13T03:40:03+00:00",
+      "sectors": [
+        "Materials"
+      ],
+      "stocks": [
+        "UPL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Closing above VWAP indicates intra-day buying momentum but lacks fundamental catalyst. Given UPL's persistent macro headwinds (crude oil volatility >$102/bbl, rupee depreciation, input cost inflation), this technical bounce represents a short-term reversal of negative trend rather than a fundamental improvement in earnings outlook.",
+        "stocks": {
+          "UPL": "neutral"
+        }
+      }
+    },
+    "36d426abaccf2717": {
+      "id": "36d426abaccf2717",
+      "title": "Avenue Supermarts among 4 F&amp;O stocks with a sharp rise in futures open interest",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/avenue-supermarts-among-4-fampo-stocks-with-a-sharp-rise-in-futures-open-interest/slideshow/134907036.cms",
+      "summary": "Four F&amp;O stocks, led by Avenue Supermarts, recorded over 6% gain in futures open interest on October 12. According to StockEdge F&amp;O scan data, DMart surged over 26%, reflecting fresh position building alongside SAIL, Siemens Energy India, and Tech Mahindra in the derivatives segment.",
+      "pub": "13 Oct 09:02 IST",
+      "pub_dt": "2026-10-13T03:32:59+00:00",
+      "sectors": [
+        "Autos",
+        "E-Commerce",
+        "IT",
+        "Industrials",
+        "Materials"
+      ],
+      "stocks": [
+        "ACC",
+        "D-Mart",
+        "M&M",
+        "SAIL",
+        "Siemens",
+        "Tech Mahindra"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Sharp 26%+ rise in futures open interest for D-Mart suggests speculative positioning amid recent 52-week low and structural headwinds (23% 6-month decline despite 18% YoY revenue growth). Open interest surge reflects renewed trading interest but not improved fundamentals. Other tagged stocks face mixed macro pressures: Tech Mahindra faces IT sector headwinds; SAIL/Siemens benefit from infrastructure demand but crude demand peak concerns; M&M/ACC face inflation and rate hike pressure.",
+        "stocks": {
+          "ACC": "neutral",
+          "D-Mart": "neutral",
+          "M&M": "neutral",
+          "SAIL": "neutral",
+          "Siemens": "neutral",
+          "Tech Mahindra": "negative"
+        }
+      }
+    },
+    "7ca5a51303809372": {
+      "id": "7ca5a51303809372",
+      "title": "Ashish Kacholia, Sunil Singhania, and others are bearish on these 4 stocks in Q2. How many do you have?",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ashish-kacholia-sunil-singhania-and-others-are-bearish-on-these-4-stocks-in-q2-how-many-do-you-have/slideshow/134906920.cms",
+      "summary": "Ace investors Ashish Kacholia, Sunil Singhania, Dolly Khanna and others have trimmed or likely exited select stocks in the September quarter, raising questions about their investment strategies amid sharp price swings.",
+      "pub": "13 Oct 08:55 IST",
+      "pub_dt": "2026-10-13T03:25:43+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Article discusses ace investors trimming positions in Q2 without naming specific stocks, providing no concrete fundamental impact to analyze. Lack of named stocks and specific earnings/margin implications limits analytical value.",
+        "stocks": {}
+      }
+    },
+    "d1e360b2f6e6a6f6": {
+      "id": "d1e360b2f6e6a6f6",
+      "title": "BPCL Share Price Live Updates: BPCL's Price Movement Today",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bpcl-stock-price-livestock-price-today-live-updates-13-oct-2026/liveblog/134906846.cms",
+      "summary": "",
+      "pub": "13 Oct 08:51 IST",
+      "pub_dt": "2026-10-13T03:21:43+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "No headline summary or recent history provided; insufficient information to assess fundamental or technical impact on BPCL.",
+        "stocks": {}
+      }
+    },
+    "7dec7ec2b83b494a": {
+      "id": "7dec7ec2b83b494a",
+      "title": "UPL among 3 stocks that closed above VWAP on October 12",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/upl-among-3-stocks-that-closed-above-vwap-on-october-12/slideshow/134906828.cms",
+      "summary": "Three Nifty 500 stocks, including UPL, Gallantt Ispat, and One97 Communications, closed above their Volume Weighted Average Price (VWAP) on October 12. According to StockEdge scan data, closing above the VWAP reflects strong underlying buying momentum during the trading session.",
+      "pub": "13 Oct 08:48 IST",
+      "pub_dt": "2026-10-13T03:18:01+00:00",
+      "sectors": [
+        "E-Commerce",
+        "Materials"
+      ],
+      "stocks": [
+        "ACC",
+        "Paytm",
+        "UPL"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "UPL closing above VWAP represents technical bounce reversing recent 52-week lows, but persistent macro headwinds (crude oil >$102/bbl, rupee depreciation, 5.54% inflation, potential RBI rate hikes) remain unresolved. Paytm faces IPO lock-in overhang ($24bn unlock Oct 2026-Jan 2027) creating downside supply pressure despite technical strength.",
+        "stocks": {
+          "UPL": "neutral",
+          "Paytm": "negative",
+          "ACC": "neutral"
+        }
+      }
+    },
+    "0c3a874ab7c65996": {
+      "id": "0c3a874ab7c65996",
+      "title": "Britannia Share Price Live Updates: Britannia's Market Update",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/britannia-stock-price-today-live-13-oct-2026/liveblog/134906774.cms",
+      "summary": "",
+      "pub": "13 Oct 08:43 IST",
+      "pub_dt": "2026-10-13T03:13:37+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "No headline summary or recent history provided; insufficient information to assess fundamental or technical impact on Britannia.",
+        "stocks": {}
+      }
+    },
+    "96bd8d3baadb5a1a": {
+      "id": "96bd8d3baadb5a1a",
+      "title": "HDFC Bank Share Price Live Updates: HDFC Bank Stock Details",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-live-updates-13-oct-2026/liveblog/134906730.cms",
+      "summary": "",
+      "pub": "13 Oct 08:40 IST",
+      "pub_dt": "2026-10-13T03:10:36+00:00",
+      "sectors": [
+        "Banking",
+        "IT"
+      ],
+      "stocks": [
+        "HDFC Bank"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Anup Bagchi's formal appointment as MD-CEO (effective Oct 27) definitively resolves 6+ months of governance uncertainty that had depressed the stock 28% YTD. Brokerages project 25-74% upside post-appointment, signaling market confidence. This removes a major valuation overhang though underlying asset quality and credit growth challenges persist.",
+        "stocks": {
+          "HDFC Bank": "positive"
+        }
+      }
+    },
+    "22af3d334f9f3718": {
+      "id": "22af3d334f9f3718",
+      "title": "JSW Steel Share Price Live Updates: JSW Steel Stock Details",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jsw-steel-stock-price-today-live-13-oct-2026/liveblog/134906718.cms",
+      "summary": "",
+      "pub": "13 Oct 08:40 IST",
+      "pub_dt": "2026-10-13T03:10:03+00:00",
+      "sectors": [
+        "IT",
+        "Materials"
+      ],
+      "stocks": [
+        "JSW Steel"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "JSW Steel continues multi-week technical deterioration with repeated breaks below key moving averages and negative price momentum. Broader macro headwinds include peak crude demand concerns, inflation pressures at 5.54%, potential RBI rate hikes, and large-cap underperformance (top 10 m-cap share at 17.65%, lowest since 2017). GQG's large-scale exit signals institutional caution on large-cap materials.",
+        "stocks": {
+          "JSW Steel": "negative"
+        }
+      }
+    },
+    "818c31ec5737458b": {
+      "id": "818c31ec5737458b",
+      "title": "Power Grid Share Price Live Updates: Power Grid's Weekly Performance Shows Negative Returns",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/power-grid-stock-price-today-live-13-oct-2026/liveblog/134906689.cms",
+      "summary": "",
+      "pub": "13 Oct 08:35 IST",
+      "pub_dt": "2026-10-13T03:05:53+00:00",
+      "sectors": [
+        "Industrials"
+      ],
+      "stocks": [
+        "Power Grid"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Weekly negative returns on Power Grid reflect near-term headwinds from RBI's rate hike cycle increasing borrowing costs for PSU capex projects, despite structural tailwinds from GE Vernova's HVDC projects and PM-DHARA's ₹1.86 lakh crore transmission scheme. The stock faces offsetting catalysts with near-term sentiment deteriorating.",
+        "stocks": {
+          "Power Grid": "negative"
+        }
+      }
+    },
+    "28d06cae80e2c598": {
+      "id": "28d06cae80e2c598",
+      "title": "Maruti Suzuki Share Price Live Updates: Maruti Suzuki's Stock Update",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-stock-price-livestock-price-today-live-updates-13-oct-2026/liveblog/134906684.cms",
+      "summary": "",
+      "pub": "13 Oct 08:35 IST",
+      "pub_dt": "2026-10-13T03:05:22+00:00",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [
+        "Maruti Suzuki"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Maruti Suzuki has declined 12% over a month, hitting 52-week lows amid deteriorating auto sector fundamentals. RBI's rate hike cycle increasing borrowing costs directly pressures auto financing demand, and early festive season momentum has faded. The stock faces sustained structural headwinds with no near-term reversal catalysts visible.",
+        "stocks": {
+          "Maruti Suzuki": "negative"
+        }
+      }
+    },
+    "1b15e0664fb23237": {
+      "id": "1b15e0664fb23237",
+      "title": "L&amp;T Share Price Live Updates: L&amp;T's Current Market Price",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/lt-share-price-today-live-updates-13-oct-2026/liveblog/134906677.cms",
+      "summary": "",
+      "pub": "13 Oct 08:35 IST",
+      "pub_dt": "2026-10-13T03:05:05+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "L&T headline provides no substantive news content or recent history. Without specific earnings catalysts, regulatory updates, or material events, this appears to be a price update with neutral information content.",
+        "stocks": {}
+      }
+    },
+    "e64ac5a23fe6f527": {
+      "id": "e64ac5a23fe6f527",
+      "title": "IndusInd Bank Share Price Live Updates: IndusInd Bank's Price Movement and Returns",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-stock-price-today-live-13-oct-2026/liveblog/134906651.cms",
+      "summary": "",
+      "pub": "13 Oct 08:31 IST",
+      "pub_dt": "2026-10-13T03:01:27+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [
+        "IndusInd Bank"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "IndusInd Bank shows mixed signals: CEO governance overhang (electoral roll issue) creates reputational uncertainty and regulatory risk, but Q3 business updates show strong advances (+23% YoY deposits) and the appointment of Anup Bagchi as HDFC Bank MD-CEO resolves banking sector governance uncertainty. Near-term sentiment remains pressured despite positive fundamentals.",
+        "stocks": {
+          "IndusInd Bank": "mixed"
+        }
+      }
+    },
+    "35469f9dd05836ff": {
+      "id": "35469f9dd05836ff",
+      "title": "SBI Share Price Live Updates: SBI Stock Details",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-stock-price-live-updates-13-oct-2026/liveblog/134906641.cms",
+      "summary": "",
+      "pub": "13 Oct 08:30 IST",
+      "pub_dt": "2026-10-13T03:00:41+00:00",
+      "sectors": [
+        "Banking",
+        "IT"
+      ],
+      "stocks": [
+        "SBI"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "SBI benefits from multiple positive catalysts: NSE IPO windfall (~₹2,849 crore earnings boost), RBI rate hike expansion of NIM (Jefferies identified SBI as prime beneficiary), and strong corporate lending appetite (₹330 crore Landmark Group deployment). However, offset by RBI's CRR hike tightening liquidity and potential 50 bps additional rate hike creating macro uncertainty. Net impact is positive near-term with mixed medium-term signals.",
+        "stocks": {
+          "SBI": "mixed"
+        }
+      }
+    },
+    "e13daf48e4afac67": {
+      "id": "e13daf48e4afac67",
+      "title": "Hero MotoCorp Share Price Live Updates: Hero MotoCorp Stock Details",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hero-motocorp-share-price-live-updates-13-oct-2026/liveblog/134906635.cms",
+      "summary": "",
+      "pub": "13 Oct 08:30 IST",
+      "pub_dt": "2026-10-13T03:00:25+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [
+        "Hero MotoCorp"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Hero MotoCorp continues facing persistent fundamental headwinds from August dispatch declines with no evidence of turnaround. Recent history documents consistent weakness with no positive catalysts emerging. The headline provides only trading volume data without substantive news, reflecting continued structural underperformance in the 2-wheeler segment.",
+        "stocks": {
+          "Hero MotoCorp": "negative"
+        }
+      }
+    },
+    "1a1394cc797aa91d": {
+      "id": "1a1394cc797aa91d",
+      "title": "ONGC Share Price Live Updates: ONGC's Current Market Price",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ongc-share-price-live-13-oct-2026/liveblog/134906576.cms",
+      "summary": "",
+      "pub": "13 Oct 08:26 IST",
+      "pub_dt": "2026-10-13T02:56:24+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "ONGC headline provides no substantive news content or recent history. Without specific earnings catalysts, regulatory updates, or material events regarding oil prices or capex, this appears to be a generic price update with neutral information content.",
+        "stocks": {}
+      }
+    },
+    "aee2d0afb4315761": {
+      "id": "aee2d0afb4315761",
+      "title": "TCS Share Price Live Updates: TCS Achieves Notable Daily Performance",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tcs-share-price-live-updates-13-oct-2026/liveblog/134906568.cms",
+      "summary": "",
+      "pub": "13 Oct 08:25 IST",
+      "pub_dt": "2026-10-13T02:55:52+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [
+        "TCS"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "TCS delivered strong Q2 results (15% YoY profit growth, 11% revenue growth, $3.1B annualized AI revenue) with robust market recovery momentum (Nifty IT +2% on Friday). The ₹12 interim dividend reflects strong cash generation, and TCS CEO's statement that AI revenue will offset deflation is reassuring. Despite near-term headwinds from senior staff missing variable pay, the earnings beat and AI revenue visibility are materially positive.",
+        "stocks": {
+          "TCS": "positive"
+        }
+      }
+    },
+    "cf1ecad146372e9a": {
+      "id": "cf1ecad146372e9a",
+      "title": "ITC Share Price Live Updates: ITC Stock Details",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/itc-stock-price-livestock-price-today-live-updates-13-oct-2026/liveblog/134906566.cms",
+      "summary": "",
+      "pub": "13 Oct 08:25 IST",
+      "pub_dt": "2026-10-13T02:55:36+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "No specific stocks tagged and headline is generic sector-level price update with no material news or catalysts affecting IT sector fundamentals.",
+        "stocks": {}
+      }
+    },
+    "d0130ca6a3984dd4": {
+      "id": "d0130ca6a3984dd4",
+      "title": "UPL Share Price Live Updates: UPL  Stock Details",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/upl-share-price-live-updates-13-oct-2026/liveblog/134906562.cms",
+      "summary": "",
+      "pub": "13 Oct 08:25 IST",
+      "pub_dt": "2026-10-13T02:55:20+00:00",
+      "sectors": [
+        "IT",
+        "Materials"
+      ],
+      "stocks": [
+        "UPL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "UPL continues to face persistent macro headwinds including crude oil volatility (>$102/barrel) and rupee depreciation that directly compress margins on agrochemical products. Recent 52-week lows reflect structural challenges rather than reversal, though one Oct 12 data point suggests minor resistance level breach amid prevailing weakness.",
+        "stocks": {
+          "UPL": "negative"
+        }
+      }
+    },
+    "a5fe4c1691d8e496": {
+      "id": "a5fe4c1691d8e496",
+      "title": "Divis Labs Share Price Live Updates: Divis Labs Price Movement",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-stock-price-live-updates-13-oct-2026/liveblog/134906561.cms",
+      "summary": "",
+      "pub": "13 Oct 08:25 IST",
+      "pub_dt": "2026-10-13T02:55:19+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "No specific stocks tagged and headline is generic sector-level price update with no material news or catalysts affecting sector fundamentals.",
+        "stocks": {}
+      }
+    },
+    "e64c9b9fcd7d3b59": {
+      "id": "e64c9b9fcd7d3b59",
+      "title": "HCL Tech Share Price Live Updates: HCL Tech's stock climbs impressively",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hcl-tech-share-price-live-13-oct-2026/liveblog/134906556.cms",
+      "summary": "",
+      "pub": "13 Oct 08:25 IST",
+      "pub_dt": "2026-10-13T02:55:04+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [
+        "HCL Tech"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "HCL Tech's Q2 results significantly beat expectations with 21% YoY profit growth, 11% revenue growth, and ₹12 interim dividend, reversing prior negative guidance. Strong deal wins ($3.258B) and 28% sequential AI revenue jump ($219M) demonstrate earnings resilience and growth reacceleration, offsetting sequential growth concerns.",
+        "stocks": {
+          "HCL Tech": "positive"
+        }
+      }
+    },
+    "b11b62ba594570fe": {
+      "id": "b11b62ba594570fe",
+      "title": "Tata Motors PV Share Price Live Updates: Tata Motors PV Sees Minor Decline",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-motors-pv-share-price-live-updates-13-oct-2026/liveblog/134906554.cms",
+      "summary": "",
+      "pub": "13 Oct 08:25 IST",
+      "pub_dt": "2026-10-13T02:55:03+00:00",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [
+        "Tata Motors"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Tata Motors' minor decline reflects persistent investor skepticism despite strong operational metrics (40% Q2 sales growth, 90% EV growth). The failed Iveco tender offer (28.4% acceptance) signals M&A execution risk, and RBI's 'calibrated tightening' stance pressures auto financing demand and valuations.",
+        "stocks": {
+          "Tata Motors": "negative"
+        }
+      }
+    },
+    "ec7c5d3992c61079": {
+      "id": "ec7c5d3992c61079",
+      "title": "Bajaj Finserv Share Price Live Updates: Bajaj Finserv Stock Details",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-stock-price-livestock-price-today-live-updates-13-oct-2026/liveblog/134906529.cms",
+      "summary": "",
+      "pub": "13 Oct 08:21 IST",
+      "pub_dt": "2026-10-13T02:51:42+00:00",
+      "sectors": [
+        "Banking",
+        "IT"
+      ],
+      "stocks": [
+        "Bajaj Finserv"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Bajaj Finserv headline provides only generic price details without material news. While recent ₹17,500 crore fundraising by parent Bajaj Finance strengthens capital base, the absence of new operational catalysts or earnings drivers in this item justifies neutral classification despite mixed prior history.",
+        "stocks": {
+          "Bajaj Finserv": "neutral"
+        }
+      }
+    },
+    "d40669c82804150c": {
+      "id": "d40669c82804150c",
+      "title": "Wipro Share Price Live Updates: Wipro's Stock Update",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/wipro-stock-price-today-live-13-oct-2026/liveblog/134906519.cms",
+      "summary": "",
+      "pub": "13 Oct 08:20 IST",
+      "pub_dt": "2026-10-13T02:50:37+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [
+        "Wipro"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Wipro faces divergent pressures: near-term boost from Accenture's strong Q4 earnings and 3-6% FY27 guidance supports IT sector demand recovery. However, Nifty 50 exit triggering passive fund outflows, structural bench weakness (180-day policy), and $22B visa fraud claim represent persistent headwinds offsetting positive demand signals.",
+        "stocks": {
+          "Wipro": "mixed"
+        }
+      }
+    },
+    "1f4337d2f2662f19": {
+      "id": "1f4337d2f2662f19",
+      "title": "UltraTech Cem Share Price Live Updates: UltraTech Cement's stock shows negative trend",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ultratech-cem-share-price-live-updates-13-oct-2026/liveblog/134906504.cms",
+      "summary": "",
+      "pub": "13 Oct 08:20 IST",
+      "pub_dt": "2026-10-13T02:50:04+00:00",
+      "sectors": [
+        "Materials"
+      ],
+      "stocks": [
+        "UltraTech"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "UltraTech Cement headline shows negative trend but provides no specific news catalyst or fundamental change. Recent history indicates strategic diversification into high-margin wires & cables (UltraVolt) offers offset to cement cyclicality, but absent new information, neutral classification is appropriate.",
+        "stocks": {
+          "UltraTech": "neutral"
+        }
+      }
+    },
+    "f30bfd0eeafdf596": {
+      "id": "f30bfd0eeafdf596",
+      "title": "Titan Company Share Price Live Updates: Titan Company struggles with a -4.02% return over three months.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/titan-company-stock-price-livestock-price-today-live-updates-13-oct-2026/liveblog/134906503.cms",
+      "summary": "",
+      "pub": "13 Oct 08:20 IST",
+      "pub_dt": "2026-10-13T02:50:04+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Generic price performance update with no material news. A -4.02% return over three months reflects sector-wide weakness in discretionary consumption but lacks company-specific catalysts or fundamental triggers for valuation re-rating.",
+        "stocks": {}
+      }
+    },
+    "e9b4b595fe5de4cb": {
+      "id": "e9b4b595fe5de4cb",
+      "title": "Kotak Bank Share Price Live Updates: Kotak Bank's Current Valuation and Returns",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/kotak-bank-share-price-today-live-updates-13-oct-2026/liveblog/134906500.cms",
+      "summary": "",
+      "pub": "13 Oct 08:19 IST",
+      "pub_dt": "2026-10-13T02:49:18+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [
+        "Kotak Bank"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Kotak Bank demonstrates strong positive momentum driven by: (1) Q2 advance growth of 25% YoY with 23% deposit growth validating credit franchise strength; (2) RBI's 25bp rate hike directly expanding NIMs on floating-rate assets; (3) Jefferies' addition to model portfolio and analyst upgrades. These factors support earnings accretion and valuation expansion.",
+        "stocks": {
+          "Kotak Bank": "positive"
+        }
+      }
+    },
+    "1d5d7490a3119447": {
+      "id": "1d5d7490a3119447",
+      "title": "LTIMindtree Share Price Live Updates: LTIMindtree  Stock Performance",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ltimindtree-share-price-today-live-updates-13-oct-2026/liveblog/134906479.cms",
+      "summary": "",
+      "pub": "13 Oct 08:18 IST",
+      "pub_dt": "2026-10-13T02:48:30+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [
+        "LTIMindtree"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "LTIMindtree shows persistent technical weakness trading below 100-day SMA with consistent negative momentum signals. The IT sector faces structural headwinds from muted growth and US visa programme challenges, and LTIMindtree's technical breakdown suggests continued downside risk without near-term positive catalysts.",
+        "stocks": {
+          "LTIMindtree": "negative"
+        }
+      }
+    },
+    "be073201f1ed7f39": {
+      "id": "be073201f1ed7f39",
+      "title": "Infosys Share Price Live Updates: Investors Take Note: Infosys Surpasses EMA",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/infosys-share-price-today-live-13-oct-2026/liveblog/134906472.cms",
+      "summary": "",
+      "pub": "13 Oct 08:17 IST",
+      "pub_dt": "2026-10-13T02:47:36+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [
+        "Infosys"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Infosys bounces technologically (crossing EMA) but faces converging headwinds: muted Q2 growth, AI-driven pricing pressure, margin compression, and US visa/green card programme restrictions impacting talent acquisition. TCS Q2 beat (15% profit growth) provides peer support, but structural challenges limit upside. Near-term technical strength may not offset fundamental concerns.",
+        "stocks": {
+          "Infosys": "mixed"
+        }
+      }
+    },
+    "75963d0bb8d39f68": {
+      "id": "75963d0bb8d39f68",
+      "title": "Adani Ent Share Price Live Updates: Adani Enterprises Climbs Above Key Resistance Level",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ent-stock-price-today-live-13-oct-2026/liveblog/134906469.cms",
+      "summary": "",
+      "pub": "13 Oct 08:17 IST",
+      "pub_dt": "2026-10-13T02:47:21+00:00",
+      "sectors": [
+        "Autos",
+        "Industrials"
+      ],
+      "stocks": [
+        "Adani Enterprises"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Adani Enterprises breaks above key resistance supported by CARE Ratings upgrade to 'AA' (highest-ever rating), improving credit profile and financial credibility. However, persistent technical weakness (breakdown below 20/200-day SMAs) and market-wide selloff indicate broader headwinds. Rating upgrade is credit-positive but insufficient to offset macro/technical challenges.",
+        "stocks": {
+          "Adani Enterprises": "mixed"
+        }
+      }
+    },
+    "cb732d0f2d727bed": {
+      "id": "cb732d0f2d727bed",
+      "title": "ICICI Bank Share Price Live Updates: ICICI Bank Sees Positive Movement",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-stock-price-livestock-price-today-live-updates-13-oct-2026/liveblog/134906465.cms",
+      "summary": "",
+      "pub": "13 Oct 08:17 IST",
+      "pub_dt": "2026-10-13T02:47:04+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [
+        "ICICI Bank"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "ICICI Bank benefits directly from RBI's 25bp rate hike expanding NIMs on floating-rate assets. Strong Q1 fundamentals (28% net profit growth, $17.88B FCNR deposits) and Jefferies' identification as prime rate-hike beneficiary support earnings accretion. Motilal Oswal's bullish 22% earnings growth outlook for Q2 FY27 provides positive validation.",
+        "stocks": {
+          "ICICI Bank": "positive"
+        }
+      }
+    },
+    "945ae95ecfd45cdd": {
+      "id": "945ae95ecfd45cdd",
+      "title": "HDFC Life Share Price Live Updates: HDFC Life Exceeds 100-Day EMA, Reflecting Positive Trend",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-life-share-price-today-live-updates-13-oct-2026/liveblog/134906461.cms",
+      "summary": "",
+      "pub": "13 Oct 08:16 IST",
+      "pub_dt": "2026-10-13T02:46:48+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [
+        "HDFC Life"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "HDFC Life faces persistent structural regulatory headwinds from IRDAI's insurance distribution reforms pressuring earnings and profitability. Technical break above 100-day EMA is positive tactically but masks underlying business model challenges. Regulatory uncertainty outweighs near-term technical strength, suggesting downside risk to earnings.",
+        "stocks": {
+          "HDFC Life": "negative"
+        }
+      }
+    },
+    "72063184b43ac342": {
+      "id": "72063184b43ac342",
+      "title": "Eicher Motors Share Price Live Updates: Eicher Motors' 3-month performance shows a decline",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-share-price-live-updates-13-oct-2026/liveblog/134906443.cms",
+      "summary": "",
+      "pub": "13 Oct 08:15 IST",
+      "pub_dt": "2026-10-13T02:45:05+00:00",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [
+        "Eicher Motors"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Eicher Motors exhibits sustained technical deterioration below 100-day EMA with consistent negative momentum over multiple sessions. Despite Nuvama's positive auto sector outlook (27% revenue growth), Eicher faces limited EBITDA growth (10%) and technical breakdown suggests conviction weakness. Continuation of downtrend pressures valuations.",
+        "stocks": {
+          "Eicher Motors": "negative"
+        }
+      }
+    },
+    "b173b5d9ae44766b": {
+      "id": "b173b5d9ae44766b",
+      "title": "Cipla Share Price Live Updates: Cipla's Performance Overview",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-stock-price-live-updates-13-oct-2026/liveblog/134906442.cms",
+      "summary": "",
+      "pub": "13 Oct 08:15 IST",
+      "pub_dt": "2026-10-13T02:45:05+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Generic sector-level performance overview with no specific news driver, company catalyst, or valuation impact mentioned. Lacks actionable information to assess earnings or growth trajectory.",
+        "stocks": {}
+      }
+    },
+    "784740114dede928": {
+      "id": "784740114dede928",
+      "title": "Gold prices rise to Rs 1.50 lakh/10g; silver gains ahead of US economic data. Key levels to track",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-rise-to-rs-1-50-lakh/10g-silver-gains-ahead-of-us-economic-data-key-levels-to-track/articleshow/134908879.cms",
+      "summary": "Gold and silver prices opened higher on MCX as investors awaited US inflation data for clues on the Federal Reserve’s rate outlook, while a firm dollar and geopolitical tensions kept precious metals volatile.",
+      "pub": "13 Oct 10:49 IST",
+      "pub_dt": "2026-10-13T05:19:41+00:00",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Materials"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Higher precious metals prices are negative for autos (input cost pressure on margins) and IT (weakens export competitiveness via stronger INR proxy), but materials sector benefits from elevated commodity valuations. Macro headwind from geopolitical tensions and firm dollar creates mixed sentiment.",
+        "stocks": {}
+      }
+    },
+    "08912ed66dcdb870": {
+      "id": "08912ed66dcdb870",
+      "title": "SpaceX Stock: Why Wall Street sees more upside ahead",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-stock-why-wall-street-sees-more-upside-ahead/slideshow/134908990.cms",
+      "summary": "SpaceX’s 2027 outlook hinges on Starlink expansion, AI chip financing, Starship progress and launch growth. Investors are weighing bullish prospects against high valuations, borrowing costs, execution risks and profitability concerns.",
+      "pub": "13 Oct 10:45 IST",
+      "pub_dt": "2026-10-13T05:15:16+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "SpaceX is a private company and not applicable to Indian equity analysis. News is forward-looking with execution risk and profitability concerns offsetting bullish Starlink/Starship prospects, creating uncertainty rather than a clear directional thesis.",
+        "stocks": {}
+      }
+    },
+    "320c22106a7a8772": {
+      "id": "320c22106a7a8772",
+      "title": "India bonds rise as investors see value after 10-year yield nears 7.40%",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-rise-as-investors-see-value-after-10-year-yield-nears-7-40/articleshow/134908753.cms",
+      "summary": "The Indian bond market experienced a surge as value investors jumped in, increasing demand significantly. After hitting a three-year peak, the benchmark 6.94% 2036 bond yield took a slight dip. Anticipation is mounting among investors for substantial debt issuance from the Reserve Bank of India and various states later this week.",
+      "pub": "13 Oct 10:37 IST",
+      "pub_dt": "2026-10-13T05:07:24+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Rising bond yields (7.40% on 10-year) expanding to near 3-year peaks typically benefit banking sector net interest margins (higher lending rates vs. deposit costs). Value investors returning to bonds after yield spike suggests temporary oversold conditions, supporting banking profitability outlook.",
+        "stocks": {}
+      }
+    },
+    "7a5657176d7e8936": {
+      "id": "7a5657176d7e8936",
+      "title": "Global Market: China's yuan holds near 3-year high despite strong dollar; PBOC fixing supports currency",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas-yuan-holds-near-3-year-high-despite-strong-dollar-pboc-fixing-supports-currency/articleshow/134908460.cms",
+      "summary": "China’s yuan remained near a three-year high against the dollar, supported by central bank guidance and strong foreign exchange settlement. However, elevated US Treasury yields and geopolitical tensions limited gains. The PBOC set its strongest midpoint since February 2023, while analysts expect modest appreciation amid trade surpluses and policy uncertainty.",
+      "pub": "13 Oct 10:21 IST",
+      "pub_dt": "2026-10-13T04:51:47+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Yuan strength near 3-year highs supported by PBOC is positive for Chinese exporters but mixed for Indian IT/autos competing globally. Elevated US Treasury yields and geopolitical tension create headwinds; banking sector faces margin pressure from rising global rates.",
+        "stocks": {}
+      }
+    },
+    "78af0ebed21e9c17": {
+      "id": "78af0ebed21e9c17",
+      "title": "IMF raises 2026 global growth forecast to 3.1%, warns of rising risks from war and debt",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/imf-raises-2026-global-growth-forecast-to-3-1-warns-of-rising-risks-from-war-and-debt/articleshow/134908319.cms",
+      "summary": "The IMF projects global growth of 3.1% in 2026, supported by AI infrastructure investment, but warns that prolonged Middle East conflict, elevated energy prices, rising debt and uneven growth pose mounting risks to the global economic outlook.",
+      "pub": "13 Oct 10:17 IST",
+      "pub_dt": "2026-10-13T04:47:27+00:00",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "IMF's 3.1% 2026 growth projection uplift driven by AI infrastructure investment is constructive for IT and industrials sectors (capex, software, hardware demand). However, warnings on Middle East conflict, debt, and uneven growth introduce downside risks to autos and cyclicals, creating partial offset.",
+        "stocks": {}
+      }
+    },
+    "bb9121c6269264eb": {
+      "id": "bb9121c6269264eb",
+      "title": "Global Market: Japan bond yields diverge as investors weigh inflation, BOJ outlook",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-bond-yields-diverge-as-investors-weigh-inflation-boj-outlook/articleshow/134908232.cms",
+      "summary": "Japanese government bond yields moved in opposite directions on Tuesday, with shorter-term yields rising and longer-dated yields falling as investors assessed inflation pressures, wholesale price data and the Bank of Japan’s policy outlook.",
+      "pub": "13 Oct 10:11 IST",
+      "pub_dt": "2026-10-13T04:41:50+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Divergent Japanese bond yield moves reflect policy uncertainty rather than a clear economic signal. BOJ outlook remains ambiguous; impact on Indian banking and IT sectors is indirect and lacks definitive directional bias for earnings or valuation.",
+        "stocks": {}
+      }
+    },
+    "5d2488d873628c39": {
+      "id": "5d2488d873628c39",
+      "title": "New FX curbs sow confusion, bankers await clarity on dealing rupee derivatives",
+      "link": "https://economictimes.indiatimes.com/markets/forex/new-fx-curbs-sow-confusion-bankers-await-clarity-on-dealing-rupee-derivatives/articleshow/134908150.cms",
+      "summary": "Bankers are interpreting the new foreign-exchange regulations in India broadly, especially regarding cash-margin requirements related to rupee forwards. This cautious approach has made them reluctant to quote dollar/rupee forwards, raising concerns about its impact on interbank transactions. Interestingly, a source mentioned these new requirements do not affect interbank activity. Meanwhile, the c",
+      "pub": "13 Oct 10:05 IST",
+      "pub_dt": "2026-10-13T04:35:35+00:00",
+      "sectors": [
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "New FX regulations creating confusion and reluctance among bankers to quote rupee derivatives will constrain rupee hedging activity, increase hedging costs, and reduce corporate treasury flexibility. This regulatory friction is negative for banking (reduced derivative volumes/fees) and IT sector (higher forex costs for dollar-dependent exporters).",
+        "stocks": {}
+      }
+    },
+    "e1cb02a75f6a63c2": {
+      "id": "e1cb02a75f6a63c2",
+      "title": "Rupee jumps 82 paise to 94.96 against US dollar in early trade",
+      "link": "https://economictimes.indiatimes.com/markets/forex/rupee-jumps-82-paise-to-94-96-against-us-dollar-in-early-trade/articleshow/134908067.cms",
+      "summary": "In early trading, the rupee appreciated by 82 paise against the US dollar, hitting 94.96, thanks to strategic moves by the Reserve Bank of India aimed at curbing dollar demand. Key actions included establishing a dedicated dollar window for oil firms and raising costs for hedging. Meanwhile, Brent crude prices fell to USD 105.47 per barrel, and retail inflation in India surged to 5.",
+      "pub": "13 Oct 10:03 IST",
+      "pub_dt": "2026-10-13T04:33:13+00:00",
+      "sectors": [
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Rupee appreciation of 82 paise is positive for IT sector earnings (higher USD conversion) but negative for Banking sector NPA recoveries and export-oriented businesses. RBI's dollar window for oil firms benefits energy importers like refiners. However, the concurrent mention of rising retail inflation (5%) creates headwinds for both sectors via rate pressure.",
+        "stocks": {}
+      }
+    },
+    "dbabbcea5950f50b": {
+      "id": "dbabbcea5950f50b",
+      "title": "Global Market: Japan’s Nikkei slides over 2% as AI stock selloff deepens on US chip weakness",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-slides-over-2-as-ai-stock-selloff-deepens-on-us-chip-weakness/articleshow/134907833.cms",
+      "summary": "Japan’s Nikkei 225 fell 2.64%, extending losses to four sessions as AI-related and semiconductor stocks declined amid Wall Street weakness. Geopolitical tensions and inflation concerns added pressure, with wholesale prices rising 6.8% year-on-year in September. Kioxia Holdings plunged 13.02%, while shipping stocks gained despite broader market weakness.",
+      "pub": "13 Oct 09:43 IST",
+      "pub_dt": "2026-10-13T04:13:23+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Japan's Nikkei decline driven by AI stock selloff and semiconductor weakness signals global tech sector stress. Indian IT stocks are exposed to US chip cycle weakness and potential slowdown in tech hiring/capex. This represents a continuation of the recent FPI outflow trend affecting IT valuations.",
+        "stocks": {}
+      }
+    },
+    "96f25c3a3f654e4b": {
+      "id": "96f25c3a3f654e4b",
+      "title": "Global Market: South Korea’s Kospi plunges over 7% as chip stocks tumble on CXMT concerns",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-south-koreas-kospi-plunges-over-7-as-chip-stocks-tumble-on-cxmt-concerns/articleshow/134907740.cms",
+      "summary": "South Korea’s Kospi plunged over 7% amid concerns about rising competition from Chinese semiconductor makers, triggering a temporary trading curb. Samsung Electronics and SK Hynix suffered sharp losses, while foreign investors sold equities heavily. Weak technology stocks, a softer won and falling bond yields reflected growing market uncertainty and investor anxiety.",
+      "pub": "13 Oct 09:39 IST",
+      "pub_dt": "2026-10-13T04:09:46+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "South Korea's 7% Kospi plunge due to Chinese semiconductor competition directly threatens Indian IT and semiconductor-exposed companies. Rising competition from Chinese chipmakers (CXMT) signals margin pressure for global tech players including Indian IT exporters. This is a structural negative for IT sector valuations amid already weak FPI flows.",
+        "stocks": {}
+      }
+    },
+    "652eb273cd9733c2": {
+      "id": "652eb273cd9733c2",
+      "title": "What new US crypto oversight rules mean for the market",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/what-new-us-crypto-oversight-rules-mean-for-the-market/articleshow/134907526.cms",
+      "summary": "Proposed US CFTC regulations could establish a global template for digital asset oversight. Bitget CEO Gracy Chen explains how clear federal rules can drive institutional adoption, protect investors, and spur innovation across stablecoins, tokenised real-world assets, and international markets including India.",
+      "pub": "13 Oct 09:33 IST",
+      "pub_dt": "2026-10-13T04:03:41+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Proposed US CFTC crypto regulations are a macro regulatory development with potential long-term positive implications for crypto/blockchain adoption. However, without specific Indian stocks tagged or direct domestic regulatory clarity, this has minimal direct impact on near-term earnings for Indian IT/fintech players.",
+        "stocks": {}
+      }
+    },
+    "ffb7420f86a1b7e2": {
+      "id": "ffb7420f86a1b7e2",
+      "title": "Vaibhav Vyapaar IPO opens for subscription today: Check price band and other key details",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/vaibhav-vyapaar-ipo-opens-for-subscription-today-check-price-band-and-other-key-details/articleshow/134906851.cms",
+      "summary": "Vaibhav Vyapaar’s Rs 42.10 crore IPO opens on October 13, 2026, on the NSE SME platform, with a price band of Rs 51–54 per share. The NBFC will use proceeds primarily to strengthen its capital base. FY26 income rose 48%, while profit increased 33%, reflecting improved financial performance and growth.",
+      "pub": "13 Oct 08:54 IST",
+      "pub_dt": "2026-10-13T03:24:10+00:00",
+      "sectors": [
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Vaibhav Vyapaar's IPO with 48% FY26 income growth and 33% profit growth shows healthy NBFC fundamentals. However, as an SME IPO with Rs 42 crore size and capital-raising for capital base strengthening (not growth capex), this is a micro-cap event with sector-level impact only.",
+        "stocks": {}
+      }
+    },
+    "2f34c94bcfcdad9a": {
+      "id": "2f34c94bcfcdad9a",
+      "title": "SBI Research calls for abolition of LTCG tax on equities to boost foreign capital inflows",
+      "link": "https://economictimes.indiatimes.com/news/economy/finance/sbi-research-calls-for-abolition-of-ltcg-tax-on-equities-to-boost-foreign-capital-inflows/articleshow/134908894.cms",
+      "summary": "According to SBI Research, removing the long-term capital gains tax on equities could revitalize investment levels. The report emphasizes extending the holding period to two to three years as a strategy to boost investor morale. Faced with foreign portfolio outflows, the need for policy reforms is clear.",
+      "pub": "13 Oct 10:53 IST",
+      "pub_dt": "2026-10-13T05:23:15+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT",
+        "Materials"
+      ],
+      "stocks": [
+        "ACC",
+        "SBI"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "SBI's advocacy for LTCG tax abolition on equities directly benefits both ACC and SBI via improved investor sentiment and potential capital inflows. For ACC, this could improve valuation multiples amid current large-cap underperformance. For SBI, policy reforms supporting equity flows benefit banking system liquidity. This is constructive for both stocks' valuations despite near-term FPI headwinds.",
+        "stocks": {
+          "ACC": "positive",
+          "SBI": "positive"
+        }
+      }
+    },
+    "9df44c263f6f5eb1": {
+      "id": "9df44c263f6f5eb1",
+      "title": "India, America expanding cooperation across sectors: US ambassador Sergio Gor",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-america-expanding-cooperation-across-sectors-us-ambassador-sergio-gor/articleshow/134908316.cms",
+      "summary": "Kolkata and the United States are strengthening ties across sectors such as defence, IT, and healthcare. Recent military exercises involving 500 troops and significant investments showcase this growing partnership. American companies are establishing production facilities in India, contributing to economic development in both nations. India plays a crucial role in supplying generic medicines to th",
+      "pub": "13 Oct 10:15 IST",
+      "pub_dt": "2026-10-13T04:45:00+00:00",
+      "sectors": [
+        "Autos",
+        "Industrials"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "US-India cooperation expansion in defence, IT, and healthcare is a long-term structural positive for India's attractiveness. However, without specific company exposure or near-term earnings implications, this is a macro sentiment piece. Recent geopolitical risks (mentioned in Item 8) temper near-term capital inflow benefits.",
+        "stocks": {}
+      }
+    },
+    "d6b3aecb0f39d0a9": {
+      "id": "d6b3aecb0f39d0a9",
+      "title": "Blackstone COO flags tech disruption, geopolitical conflicts as global risks; says India's investment climate improving",
+      "link": "https://economictimes.indiatimes.com/news/economy/policy/blackstone-coo-flags-tech-disruption-geopolitical-conflicts-as-global-risks-says-indias-investment-climate-improving/articleshow/134908281.cms",
+      "summary": "Blackstone President Jonathan Gray highlighted risks like technology disruption, geopolitical conflicts, and government debt affecting the global economy. He stressed India's progress in infrastructure and foreign investment, which enhance growth prospects. Gray indicated that simpler rules and clearer policies could help attract foreign capital and support nations facing fiscal constraints. Natar",
+      "pub": "13 Oct 10:15 IST",
+      "pub_dt": "2026-10-13T04:45:00+00:00",
+      "sectors": [
+        "IT",
+        "Industrials",
+        "Telecoms"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Blackstone's bullish commentary on India's investment climate and infrastructure progress is positive for IT/Industrials sector FDI inflows and valuations. However, simultaneous warning on geopolitical conflicts, tech disruption, and government debt creates offsetting macro headwinds. This reflects the current mixed sentiment on India amid global uncertainty.",
+        "stocks": {}
+      }
+    },
+    "c6c969ad8da09cf7": {
+      "id": "c6c969ad8da09cf7",
+      "title": "Canada to lead largest trade delegation to India in over 30 years, CEPA talks in focus",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/canada-to-lead-largest-trade-delegation-to-india-in-over-30-years-cepa-talks-in-focus/articleshow/134907514.cms",
+      "summary": "Canada is leading its largest trade delegation to India in more than 30 years, with nearly 300 business delegates set to explore partnerships across key sectors as both countries advance negotiations on a Comprehensive Economic Partnership Agreement (CEPA), Canadian International Trade Minister Maninder Sidhu said.",
+      "pub": "13 Oct 09:25 IST",
+      "pub_dt": "2026-10-13T03:55:52+00:00",
+      "sectors": [
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Canada's largest trade delegation in 30+ years and CEPA negotiations signal expanding export opportunities for Indian IT and telecom sectors. Successful FTA completion could diversify revenue streams and reduce dependence on traditional markets, supporting long-term growth.",
+        "stocks": {}
+      }
+    },
+    "ab3249da802d34d1": {
+      "id": "ab3249da802d34d1",
+      "title": "PM Modi's free trade push could lead to $140 billion GDP gain for India",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/pm-modis-free-trade-push-could-lead-to-140-billion-gdp-gain-for-india/articleshow/134906847.cms",
+      "summary": "A more protectionist US could unexpectedly benefit India as New Delhi expands its free-trade agreements (FTAs) to diversify export markets and attract investment. A World Trade Organization-based model estimates that India’s concluded and proposed trade deals, including agreements with the EU and New Zealand, could add about $140 billion to GDP by 2035, lifting it 1.7% above the baseline.",
+      "pub": "13 Oct 09:12 IST",
+      "pub_dt": "2026-10-13T03:42:09+00:00",
+      "sectors": [
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Estimated $140B GDP gain by 2035 from Modi's FTA push directly benefits export-oriented IT and telecom sectors through market diversification and increased competitiveness. This represents a structural tailwind offsetting potential US protectionism, supporting earnings growth and valuation expansion.",
+        "stocks": {}
+      }
+    },
+    "2eeffd0d1a0e5034": {
+      "id": "2eeffd0d1a0e5034",
+      "title": "Diet Coke to smart homes, India is spending more",
+      "link": "https://economictimes.indiatimes.com/industry/services/retail/india-consumer-spending-trends-household-expenditure-quick-commerce-premiumisation-global-brands-indians-every-rupee-in-wallet-has-new-contenders-and-the-fight-is-heating-up/articleshow/134882826.cms",
+      "summary": "",
+      "pub": "13 Oct 11:19 IST",
+      "pub_dt": "2026-10-13T05:49:33+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Headline fragment provides insufficient information to assess impact. Consumer spending increase could benefit discretionary sectors, but without sector detail or stock specificity, no definitive directional assessment possible.",
+        "stocks": {}
+      }
+    },
+    "b7c6f87a52bb2b8b": {
+      "id": "b7c6f87a52bb2b8b",
+      "title": "HCL Tech up 4% after Q2 results. Should you buy?",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/hcl-tech-shares-rally-over-4-after-q2-results-what-are-clsa-jpmorgan-others-saying/articleshow/134907568.cms",
+      "summary": "",
+      "pub": "13 Oct 09:29 IST",
+      "pub_dt": "2026-10-13T03:59:47+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [
+        "HCL Tech"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "HCL Tech's 4% post-results rally follows strong Q2 beat: 21% YoY profit growth and 11% revenue growth exceeded muted guidance, demonstrating operational execution. AI revenue surge ($219M, +28% sequential) and record deal wins signal margin expansion and future growth acceleration, justifying positive momentum.",
+        "stocks": {
+          "HCL Tech": "positive"
+        }
+      }
+    },
+    "0ff49e1472550216": {
+      "id": "0ff49e1472550216",
+      "title": "HC rejects SpiceJet land offer in Maran, KAL case",
+      "link": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/delhi-hc-rejects-spicejet-plea-to-offer-gurugram-land-instead-of-depositing-144-cr-in-kalanithi-maran-kal-airways-case/articleshow/134909273.cms",
+      "summary": "",
+      "pub": "13 Oct 11:13 IST",
+      "pub_dt": "2026-10-13T05:43:01+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Court rejection of SpiceJet's land offer in legal proceedings has no direct bearing on operational earnings or competitive positioning. This is a litigation/asset resolution matter with unclear broader implications for the airline sector.",
+        "stocks": {}
+      }
+    },
+    "fcd3d02c0ca769be": {
+      "id": "fcd3d02c0ca769be",
+      "title": "Delayed compassionate job plea gets second chance",
+      "link": "https://economictimes.indiatimes.com/news/new-updates/daughter-claims-fathers-job-on-compassionate-grounds-gets-rejected-over-delayed-request-but-madhya-pradesh-hc-allows-her-to-reopen-case-on-one-condition/articleshow/134908069.cms",
+      "summary": "",
+      "pub": "13 Oct 10:58 IST",
+      "pub_dt": "2026-10-13T05:28:08+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Compassionate job plea outcome is a personnel/administrative matter with no material impact on earnings, margins, or competitive dynamics of any specific sector or company.",
+        "stocks": {}
+      }
+    },
+    "958ee5d90bced7eb": {
+      "id": "958ee5d90bced7eb",
+      "title": "Banking watchdogs ramp up AI scrutiny",
+      "link": "https://economictimes.indiatimes.com/ai/ai-insights/banking-watchdogs-ramp-up-ai-scrutiny-as-stability-fears-mount-sources-say/articleshow/134908823.cms",
+      "summary": "",
+      "pub": "13 Oct 10:44 IST",
+      "pub_dt": "2026-10-13T05:14:24+00:00",
+      "sectors": [
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Increased RBI AI scrutiny on banking sector creates near-term compliance costs and implementation headwinds, but IT vendors benefit from elevated demand for AI governance solutions. Positive for IT service providers; mixed-to-negative for banks facing stricter capital/operational requirements.",
+        "stocks": {}
+      }
+    },
+    "c1db481b6a1cd577": {
+      "id": "c1db481b6a1cd577",
+      "title": "RBI draws another line in sand for Rupee's rescue",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-tightens-rules-on-rupee-non-deliverable-contracts-widens-20-cash-reserve-requirement/articleshow/134905710.cms",
+      "summary": "",
+      "pub": "13 Oct 06:52 IST",
+      "pub_dt": "2026-10-13T01:22:52+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "RBI currency intervention is macro-level monetary policy action with indirect effects across sectors. Without specificity on intervention size or direction's impact on exports/FII flows, impact remains ambiguous and requires sectoral context.",
+        "stocks": {}
+      }
+    },
+    "e2e0648b5efd6323": {
+      "id": "e2e0648b5efd6323",
+      "title": "Offered VRS? Here’s how much you’ll get after tax",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/vrs-offer-in-hand-check-these-tax-rules-before-you-accept-the-package/articleshow/134829643.cms",
+      "summary": "",
+      "pub": "13 Oct 06:30 IST",
+      "pub_dt": "2026-10-13T01:00:00+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "VRS taxation article is informational content about employee compensation structures with no direct impact on specific stock valuations or earnings. This is a procedural/educational piece rather than a market-moving event.",
+        "stocks": {}
+      }
+    },
+    "e626f436fa7daeb8": {
+      "id": "e626f436fa7daeb8",
+      "title": "How China and India are riding the AI boom",
+      "link": "https://economictimes.indiatimes.com/ai/ai-insights/ai-boom-lifts-china-india-as-global-trade-growth-accelerates-imf-says/articleshow/134907940.cms",
+      "summary": "",
+      "pub": "13 Oct 09:52 IST",
+      "pub_dt": "2026-10-13T04:22:14+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "India riding the AI boom represents a structural growth opportunity for Indian IT services and software companies, potentially driving revenue growth and margin expansion as global AI spending accelerates. This is a continuation of the tech sector's tailwinds and supports higher valuations for IT service providers.",
+        "stocks": {}
+      }
+    },
+    "3d574da9e73221bb": {
+      "id": "3d574da9e73221bb",
+      "title": "India charts its own course: Rishi Sunak",
+      "link": "https://economictimes.indiatimes.com/news/india/india-gulf-gain-room-to-manoeuvre-as-us-china-rivalry-reshapes-world-says-former-uk-pm-rishi-sunak/articleshow/134907702.cms",
+      "summary": "",
+      "pub": "13 Oct 09:44 IST",
+      "pub_dt": "2026-10-13T04:14:02+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Political commentary about India's independent policy stance lacks specific operational or financial implications for publicly traded companies. Broad geopolitical positioning does not directly impact earnings or competitive dynamics.",
+        "stocks": {}
+      }
+    },
+    "3c509242d1279bb4": {
+      "id": "3c509242d1279bb4",
+      "title": "Trump-Putin deal faces frustrated Congress' heat",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/trumps-diesel-deal-with-putin-draws-criticism-from-a-frustrated-congress/articleshow/134907771.cms",
+      "summary": "",
+      "pub": "13 Oct 09:42 IST",
+      "pub_dt": "2026-10-13T04:12:30+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "U.S. domestic political dynamics around Trump-Putin negotiations have limited direct impact on Indian equity valuations unless trade/sanctions policy shifts materially affect India's export sectors. Current headline is process-level without specific India linkage.",
+        "stocks": {}
+      }
+    },
+    "6a852d379c7f5755": {
+      "id": "6a852d379c7f5755",
+      "title": "CJP's Saurav Das, Ashutosh Ranka detained again",
+      "link": "https://economictimes.indiatimes.com/news/politics-and-nation/delhi-police-detain-cjp-leaders-saurav-das-ashutosh-ranka-again-at-jantar-mantar-amid-sir-protests/articleshow/134907739.cms",
+      "summary": "",
+      "pub": "13 Oct 09:40 IST",
+      "pub_dt": "2026-10-13T04:10:21+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Detention of CJP Saurav Das and Ashutosh Ranka from an IT company signals potential regulatory/legal headwinds or governance issues that could impact investor confidence and operational risk for the firm. This suggests potential earnings pressure or reputational damage.",
+        "stocks": {}
+      }
+    },
+    "1e7a280af584bd52": {
+      "id": "1e7a280af584bd52",
+      "title": "ECI’s crucial backbone runs into big trouble",
+      "link": "https://economictimes.indiatimes.com/news/india/no-takers-amid-sir-tussle-ecs-cloud-ops-hit-turbulence/articleshow/134901444.cms",
+      "summary": "",
+      "pub": "13 Oct 00:33 IST",
+      "pub_dt": "2026-10-12T19:03:05+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "ECI (Election Commission Infrastructure) backbone trouble indicates potential governance/operational issues with critical national infrastructure, which could have broad economic implications if unresolved. This creates regulatory uncertainty affecting the IT sector supporting electoral systems.",
+        "stocks": {}
+      }
+    },
+    "b71793776a8e050d": {
+      "id": "b71793776a8e050d",
+      "title": "Modi’s trade push may add $140 bn to India’s GDP",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/pm-modis-free-trade-push-could-lead-to-140-billion-gdp-gain-for-india/articleshow/134906847.cms",
+      "summary": "",
+      "pub": "13 Oct 09:12 IST",
+      "pub_dt": "2026-10-13T03:42:09+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Modi's trade initiatives adding ~$140bn to India's GDP represents a strong macro tailwind supporting broader economic growth, benefiting export-oriented companies and improving domestic consumption. This is a continuation of government's growth-focused agenda with positive knock-on effects for multiple sectors.",
+        "stocks": {}
+      }
+    },
+    "277c55e6e493551b": {
+      "id": "277c55e6e493551b",
+      "title": "LuLu Hypermarket opens first store in Chennai",
+      "link": "https://economictimes.indiatimes.com/news/new-updates/lulu-hypermarket-opens-first-store-in-chennai-inside-a-metro-station-lulu-daily-opens-at-a-second-station-locations-stores-opening-and-closing-time/articleshow/134907258.cms",
+      "summary": "",
+      "pub": "13 Oct 09:26 IST",
+      "pub_dt": "2026-10-13T03:56:09+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "LuLu Hypermarket's Chennai store opening is a regional retail expansion event with limited sector-wide implications. Single store launches are routine retail operations without material impact on earnings or competitive positioning unless part of significant market share shift.",
+        "stocks": {}
+      }
+    },
+    "e510d1a984b95b5a": {
+      "id": "e510d1a984b95b5a",
+      "title": "SC finds 10 defects in plea against Gyanesh Kumar",
+      "link": "https://economictimes.indiatimes.com/news/new-updates/sc-finds-defects-in-rahul-gandhi-led-blocs-plea-against-cec-gyanesh-kumar-what-are-the-10-problems-flagged-in-the-petition/articleshow/134906788.cms",
+      "summary": "",
+      "pub": "13 Oct 08:57 IST",
+      "pub_dt": "2026-10-13T03:27:14+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Supreme Court finding defects in a legal plea against an individual has no direct bearing on IT sector earnings, margins, or growth drivers. This is a legal matter unrelated to corporate fundamentals.",
+        "stocks": {}
+      }
+    },
+    "9de6866721fd3289": {
+      "id": "9de6866721fd3289",
+      "title": "France: How hackers turned fridges into furnaces",
+      "link": "https://economictimes.indiatimes.com/news/new-updates/france-supermarket-cyberattack-how-hackers-turned-fridges-into-furnaces-at-122-degrees-and-what-it-reveals-about-connected-devices/articleshow/134906714.cms",
+      "summary": "",
+      "pub": "13 Oct 09:16 IST",
+      "pub_dt": "2026-10-13T03:46:02+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Security vulnerability in IoT devices (smart fridges) is a cybersecurity issue with no identified Indian equity exposure or sector impact. No stocks tagged or relevant linkage to Indian listed companies.",
+        "stocks": {}
+      }
+    },
+    "fb46db4ec845a817": {
+      "id": "fb46db4ec845a817",
+      "title": "Hyundai Bayon SUV unveiled: Bigger boot than Creta",
+      "link": "https://economictimes.indiatimes.com/news/new-updates/hyundai-bayon-suv-unveiled-with-petrol-and-hybrid-engine-options-panoramic-sunroof-more-rear-legroom-expected-price-boot-space-and-other-specs/articleshow/134906705.cms",
+      "summary": "",
+      "pub": "13 Oct 08:45 IST",
+      "pub_dt": "2026-10-13T03:15:43+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Hyundai's new SUV launch is a product announcement with no direct earnings impact data provided. Competitive positioning in auto segment is noted but insufficient to assess valuation impact. Item is also mis-tagged as IT sector.",
+        "stocks": {}
+      }
+    },
+    "489f78a40d630bb0": {
+      "id": "489f78a40d630bb0",
+      "title": "Delhi’s priciest markets pay the price for protests",
+      "link": "https://economictimes.indiatimes.com/industry/services/retail/festive-shopping-takes-a-hit-as-protests-empty-delhis-khan-market-connaught-place/articleshow/134906661.cms",
+      "summary": "",
+      "pub": "13 Oct 08:38 IST",
+      "pub_dt": "2026-10-13T03:08:06+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Delhi retail market disruption from protests is a temporary, localized operational headwind with no fundamental sector or earnings implications for listed companies. No stocks tagged.",
+        "stocks": {}
+      }
+    },
+    "790afdf3c1489a5e": {
+      "id": "790afdf3c1489a5e",
+      "title": "India beats China by $192 bn in dollar duel",
+      "link": "https://economictimes.indiatimes.com/news/economy/finance/india-draws-351-billion-in-greenfield-fdi-outpaces-china/articleshow/134901834.cms",
+      "summary": "New Delhi: India attracted $351 billion in foreign direct investment (FDI) for greenfield projects during 2021-25, more than double that of China, according to the Boston Consulting Group (BCG). India's performance marked a 61% surge from the $222 billion greenfield FDI it received in the prior five years. China, in comparison, saw a 54% drop in FDI in newer ventures to $159 billion from $350 bill",
+      "pub": "13 Oct 00:58 IST",
+      "pub_dt": "2026-10-12T19:28:07+00:00",
+      "sectors": [
+        "Materials"
+      ],
+      "stocks": [
+        "ACC"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "India attracting $351 billion in greenfield FDI (2021-25), significantly outpacing China, signals sustained foreign capital inflows into manufacturing and infrastructure. This positive macro environment supports Materials sector earnings growth and capex recovery, benefiting cement and steel producers like ACC.",
+        "stocks": {
+          "ACC": "positive"
+        }
+      }
+    },
+    "a81c63ca70b43e34": {
+      "id": "a81c63ca70b43e34",
+      "title": "IPO GMP: Zetwerk vs HD Fire Protect vs Fusion CX vs Bonfiglioli vs Tonbo? Check grey market premium winner",
+      "link": "https://www.livemint.com/market/ipo/ipo-gmp-zetwerk-vs-hd-fire-protect-vs-fusion-cx-vs-bonfiglioli-vs-tonbo-check-grey-market-premium-winner-11791868993263.html",
+      "summary": "Six IPOs are opening in India between 13 and 15 October. Tonbo Imaging leads grey-market estimates with a 60.71% implied listing premium, followed by HD Fire Protect at 31.37% and Bonfiglioli Transmissions at 26.45%. Fusion CX has the weakest indicated premium, at 6.57%.",
+      "pub": "13 Oct 11:44 IST",
+      "pub_dt": "2026-10-13T06:14:52+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "IPO grey-market premium data is a short-term capital markets timing indicator with no fundamental impact on earnings, margins, or long-term valuations of listed companies. No stocks tagged.",
+        "stocks": {}
+      }
+    },
+    "c58d11752eb423fd": {
+      "id": "c58d11752eb423fd",
+      "title": "Nifty 50 earnings may surge in Q2, but the road ahead is rocky",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-q2-earnings-crude-oil-prices-consumer-demand-metals-banks-auto-11791867332031.html",
+      "summary": "Metals, banks and consumer-facing companies are expected to lead the Nifty 50’s net profit growth, but a delayed crude oil shock and limited pricing power could put FY27 earnings estimates at risk.",
+      "pub": "13 Oct 11:19 IST",
+      "pub_dt": "2026-10-13T05:49:26+00:00",
+      "sectors": [
+        "Banking",
+        "Materials"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Q2 earnings growth outlook is positive for metals and banks (margin expansion), but FY27 earnings face headwinds from delayed crude oil shocks and limited pricing power. This creates near-term upside (Q2) offset by medium-term downside risk (FY27), particularly pressuring materials and consumer-facing valuations.",
+        "stocks": {}
+      }
+    },
+    "8294e34f2fcee037": {
+      "id": "8294e34f2fcee037",
+      "title": "Shringar House of Mangalsutra share price jumps 15% today | 47% returns in 2026 | Check target, stop loss | Buy or sell?",
+      "link": "https://www.livemint.com/market/stock-market-news/shringar-house-of-mangalsutra-share-price-jumps-15-today-47-returns-in-2026-check-target-stop-loss-11791866918277.html",
+      "summary": "The jewellery stock opened at  ₹289 per share on NSE today, as compared to previous close of  ₹265.35 on Monday and touched an intraday high of  ₹303.85 on 13 October.",
+      "pub": "13 Oct 11:15 IST",
+      "pub_dt": "2026-10-13T05:45:43+00:00",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Intraday stock price movement (15% jump) reflects sentiment and technical trading rather than fundamental earnings or valuation change. No new operational, competitive, or earnings data disclosed. Item is also mis-tagged as Autos sector.",
+        "stocks": {}
+      }
+    },
+    "2480c1f4aff7ec93": {
+      "id": "2480c1f4aff7ec93",
+      "title": "RBL Bank share price crashes 8% after Q2 results - Should investors buy, sell, or hold the stock? Experts decode",
+      "link": "https://www.livemint.com/market/stock-market-news/rbl-bank-share-price-crashes-8-after-q2-results-should-investors-buy-sell-or-hold-the-stock-experts-decode-11791869356442.html",
+      "summary": "RBL Bank share price opened at  ₹401.95 against its previous close of  ₹420 and crashed 7.7% to an intraday low of  ₹387.85.",
+      "pub": "13 Oct 11:09 IST",
+      "pub_dt": "2026-10-13T05:39:21+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT"
+      ],
+      "stocks": [
+        "RBL Bank"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "RBL Bank's 8% share crash post-Q2 results reflects deteriorating fundamentals. Recent history shows NIM compression concerns from ₹34,000 crore FCNR(B) deployment and macro headwinds from RBI rate hikes. This represents a continuation of negative sentiment despite credit growth outpacing deposits.",
+        "stocks": {
+          "RBL Bank": "negative"
+        }
+      }
+    },
+    "e5bf46c00da7673e": {
+      "id": "e5bf46c00da7673e",
+      "title": "Polycab India F&amp;O ban from Dec 30: Stock falls 5%; Key dates, trading rules, and what happens next",
+      "link": "https://www.livemint.com/market/stock-market-news/polycab-india-f-o-ban-from-dec-30-stock-falls-5-key-dates-trading-rules-and-what-happens-next-11791868143159.html",
+      "summary": "Polycab India shares fell more than 5% after the NSE said it would stop offering new futures and options contracts beyond existing expiries, with the final contracts ending December 30, 2026. The move comes as an appeals tribunal has paused insolvency proceedings over alleged operational dues.",
+      "pub": "13 Oct 11:05 IST",
+      "pub_dt": "2026-10-13T05:35:05+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "NSE's F&O ban on Polycab India from Dec 30, 2026 signals regulatory concerns and reduced trading liquidity, which typically depresses valuations. The paused insolvency proceedings add operational uncertainty, directly impacting investor confidence and capital raising ability.",
+        "stocks": {}
+      }
+    },
+    "954d2c1e6197df85": {
+      "id": "954d2c1e6197df85",
+      "title": "Dividend stock 2026: This media stock gives 14% dividend yield in YTD | Beats bank FD, PPF interest rate",
+      "link": "https://www.livemint.com/market/stock-market-news/dividend-stock-2026-this-media-stock-gives-14-dividend-yield-in-ytd-beats-bank-fd-ppf-interest-rate-11791865111460.html",
+      "summary": "The dividend paying Indian stock traded ex-dividend for just once on 5 June 2026 for finalising the list of eligible shareholders for the payment of  ₹7 per share interim dividend and  ₹3 per share final dividend",
+      "pub": "13 Oct 10:32 IST",
+      "pub_dt": "2026-10-13T05:02:34+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "14% dividend yield is retrospective reporting of a 2026 event with no forward-looking earnings impact disclosed. Without company identification or current trading context, this is merely a historical dividend comparison exercise with no actionable valuation insight.",
+        "stocks": {}
+      }
+    },
+    "61a849210b66846a": {
+      "id": "61a849210b66846a",
+      "title": "Multibagger stock PC Jeweller share price drops 5% after 16% rally in 4 sessions: Here's why - Should investors worry?",
+      "link": "https://www.livemint.com/market/stock-market-news/multibagger-stock-pc-jeweller-share-price-drops-5-after-16-rally-in-4-sessions-heres-why-should-investors-worry-11791866049273.html",
+      "summary": "PC Jeweller shares fell 5% on October 13 as investors booked profits after a four-session, 16% rally that had taken the stock to a 52-week high. The company said it had repaid its outstanding bank debt and secured 28% year-on-year revenue growth in Q2 FY27.",
+      "pub": "13 Oct 10:18 IST",
+      "pub_dt": "2026-10-13T04:48:43+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "PC Jeweller's 5% profit-taking pullback after 16% rally is normal price action, but company fundamentals improved (28% YoY revenue growth, debt repayment). The correction appears technical rather than fundamental deterioration, suggesting consolidation before potential further upside.",
+        "stocks": {}
+      }
+    },
+    "2f1a653426e786ed": {
+      "id": "2f1a653426e786ed",
+      "title": "2,000% returns in 10 yrs! This multibagger chemical stock jumps 16% amid huge trading volume | Check share performance",
+      "link": "https://www.livemint.com/market/stock-market-news/2000-returns-in-10-years-multibagger-chemical-stock-amal-skyrockets-16-today-check-share-performance-11791864921291.html",
+      "summary": "The chemical stock opened at  ₹990 per share on NSE today, as compared to previous close of  ₹917.90 on Monday and touched an intraday high of  ₹1,084.35 on 13 October.",
+      "pub": "13 Oct 10:15 IST",
+      "pub_dt": "2026-10-13T04:45:40+00:00",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "16% single-day jump in a chemical stock without disclosed catalysts or earnings context appears driven by momentum/volume trading rather than fundamental value creation. Historical 2,000% returns over 10 years is non-indicative of current forward returns.",
+        "stocks": {}
+      }
+    },
+    "2e7bf459f2124ad2": {
+      "id": "2e7bf459f2124ad2",
+      "title": "Why is stock market up today? Top 3 reasons behind a 1% jump in Sensex, Nifty 50 explained",
+      "link": "https://www.livemint.com/market/stock-market-news/why-is-stock-market-up-today-top-3-reasons-behind-a-1-jump-in-sensex-nifty-50-explained-11791866315888.html",
+      "summary": "The Sensex rose 700 points, or 1%, to an intraday high of 72,621, while the NSE counterpart Nifty 50 jumped 1% to the day's high of 22,581 during the session.",
+      "pub": "13 Oct 10:14 IST",
+      "pub_dt": "2026-10-13T04:44:55+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "1% Sensex/Nifty rally is macro market movement without stock-specific drivers disclosed. Broad index movements without identified catalysts provide no actionable insight into individual stock earnings or valuation changes.",
+        "stocks": {}
+      }
+    },
+    "167b829d2174f87c": {
+      "id": "167b829d2174f87c",
+      "title": "Vikran Engineering share price jumps 13%: How  ₹2,941 crore IREDA loan boosts solar project prospects",
+      "link": "https://www.livemint.com/market/vikran-engineering-share-price-jumps-13-how-rs-2-941-crore-ireda-loan-boosts-solar-project-prospects-11791864436037.html",
+      "summary": "Vikran Engineering shares rose over 13% after subsidiary NOPL Solar Projects signed a  ₹2,941.19 crore loan agreement with IREDA to partly fund a 969 MWac solar project in Maharashtra. The company said the agreement creates no direct liability unless a proposed corporate guarantee is executed.",
+      "pub": "13 Oct 10:03 IST",
+      "pub_dt": "2026-10-13T04:33:57+00:00",
+      "sectors": [
+        "Banking",
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Vikran Engineering's 13% jump on ₹2,941 crore IREDA loan is positive for solar project execution and revenue visibility. The loan (with no direct liability unless guarantee executed) derisks capex financing and improves project economics, supporting earnings trajectory.",
+        "stocks": {}
+      }
+    },
+    "7df703d329b90be0": {
+      "id": "7df703d329b90be0",
+      "title": "Nifty Expiry Today Prediction, 13 Oct: Will bulls or bears win? Key support and resistance levels traders must watch",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-expiry-today-prediction-13-oct-will-bulls-or-bears-win-key-support-and-resistance-levels-traders-must-watch-11791820192440.html",
+      "summary": "Indian equities opened higher, but global uncertainty, elevated inflation and crude prices weighed on sentiment. The Nifty’s broad trading range is 22,180–22,650, with a break above or below those levels likely to signal its next direction.",
+      "pub": "13 Oct 09:38 IST",
+      "pub_dt": "2026-10-13T04:08:41+00:00",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "BEL"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "BEL faces persistent macro headwinds: global uncertainty, elevated crude/inflation, and FII selling (₹3 lakh crore cumulative). Recent 16% underperformance over 6 months and below 200-week MA signal technical weakness. No reversal catalysts identified despite defense sector tailwinds.",
+        "stocks": {
+          "BEL": "negative"
+        }
+      }
+    },
+    "25bcbd0c1daf5f3a": {
+      "id": "25bcbd0c1daf5f3a",
+      "title": "1:5 bonus shares, 1:5 stock split effect: Multibagger NSE SME stock turns  ₹1.04 lakh into  ₹11.64 lakh in 8 years",
+      "link": "https://www.livemint.com/market/stock-market-news/15-bonus-shares-1-5-stock-split-effect-multibagger-nse-sme-stock-turns-rs-1-04-lakh-into-rs-11-64-lakh-in-8-years-11791861946692.html",
+      "summary": "1:5 bonus share stock: After listing on the NSE SME exchange on 20 June 2018, the stcok traded ex-bonus on 2 February 2024 in 1:5 ratio",
+      "pub": "13 Oct 09:33 IST",
+      "pub_dt": "2026-10-13T04:03:55+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Bonus shares and stock splits are capital structure adjustments that do not impact underlying business fundamentals, earnings, or intrinsic value. While they may attract retail investors due to lower nominal prices, they represent no change in economic ownership or valuation metrics.",
+        "stocks": {}
+      }
+    },
+    "171eb8d14cdd37b6": {
+      "id": "171eb8d14cdd37b6",
+      "title": "Why are IT stocks up today? TCS, Infosys, HCL Tech, Wipro, Tech Mahindra shares rise up to 3% - Time to buy?",
+      "link": "https://www.livemint.com/market/stock-market-news/why-are-it-stocks-up-today-tcs-infosys-hcl-tech-wipro-tech-mahindra-shares-rise-up-to-3-time-to-buy-11791863675206.html",
+      "summary": "Most IT stocks saw solid gains in morning trade on Tuesday, 13 October, with stocks such as TCS, HCL Tech, Wipro, Tech Mahindra, and Infosys, jumping up to 5%, driving the sectoral index Nifty IT higher by 3%.",
+      "pub": "13 Oct 09:33 IST",
+      "pub_dt": "2026-10-13T04:03:20+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [
+        "HCL Tech",
+        "Infosys",
+        "M&M",
+        "TCS",
+        "Tech Mahindra",
+        "Wipro"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "IT stocks rallied on strong Q2 earnings delivery: TCS reported 15% YoY profit growth with $3.1B annualized AI revenue, HCL Tech beat expectations with 21% YoY profit growth and 11% revenue growth, both declaring attractive dividends. Recent history shows earnings beat guidance and AI revenue momentum, supporting valuation multiple expansion.",
+        "stocks": {
+          "HCL Tech": "positive",
+          "Infosys": "positive",
+          "TCS": "positive",
+          "Tech Mahindra": "positive",
+          "Wipro": "positive",
+          "M&M": "neutral"
+        }
+      }
+    },
+    "a0789267cef8a3fb": {
+      "id": "a0789267cef8a3fb",
+      "title": "Chip Selloff Triggers 7% Korea Rout After CEO’s ‘Casino’ Warning",
+      "link": "https://www.livemint.com/market/chip-selloff-triggers-7-korea-rout-after-ceo-s-casino-warning-11791863080322.html",
+      "summary": "A global slide in semiconductor stocks deepened, sending South Korea’s chip-heavy equity benchmark down 7% as concerns about AI overheating and Chinese competition intensified.",
+      "pub": "13 Oct 09:14 IST",
+      "pub_dt": "2026-10-13T03:44:39+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Global semiconductor selloff reflecting concerns about AI overheating and intensifying Chinese competition creates structural headwinds for India's IT services sector. While not direct exposure, sentiment contagion and macro uncertainty pressures valuations and growth visibility for IT services companies.",
+        "stocks": {}
+      }
+    },
+    "dc6641b73c3894a3": {
+      "id": "dc6641b73c3894a3",
+      "title": "PFRDA asks finance ministry to keep NPS contributions free of UPI charges",
+      "link": "https://www.livemint.com/economy/pfrda-seeks-upi-mdr-exemption-for-nps-contributions-11791863636686.html",
+      "summary": "The pension regulator has asked the finance ministry to exempt National Pension System voluntary contributions from payment processing fees coming into effect on 15 October.&amp;nbsp;",
+      "pub": "13 Oct 11:11 IST",
+      "pub_dt": "2026-10-13T05:41:53+00:00",
+      "sectors": [
+        "E-Commerce"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "PFRDA's request to exempt NPS contributions from UPI charges is a regulatory procedural matter with minimal impact on fintech valuations or e-commerce earnings. It represents customer convenience improvement but lacks material revenue/margin implications.",
+        "stocks": {}
+      }
+    },
+    "ac82c3c3e7497c3d": {
+      "id": "ac82c3c3e7497c3d",
+      "title": "RBI's rupee rescue faces test from oil, inflation and outflows",
+      "link": "https://www.livemint.com/economy/rbi-rupee-rescue-faces-test-from-oil-inflation-and-outflows-11791865283193.html",
+      "summary": "Persistent weakness in the rupee vs dollar is complicating the RBI's task as inflation approaches the top of its tolerance band.",
+      "pub": "13 Oct 10:09 IST",
+      "pub_dt": "2026-10-13T04:39:00+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [
+        "Persistent"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Persistent rupee weakness (13 paise decline to 96.42/USD, 7% YTD depreciation) directly pressures Persistent Systems' IT services margins through unfavorable currency conversion. Combined with RBI's hawkish stance tightening liquidity and elevated oil prices threatening inflation, headwinds on earnings growth and margin sustainability persist despite positive AI momentum.",
+        "stocks": {
+          "Persistent": "negative"
+        }
+      }
+    },
+    "33e271a916376c32": {
+      "id": "33e271a916376c32",
+      "title": "IMF raises India’s FY27 growth forecast by 60 bps to 7% on strong domestic demand",
+      "link": "https://www.livemint.com/economy/imf-raises-india-fy27-growth-forecast-to-7-percent-11791860481229.html",
+      "summary": "The IMF raised its FY27 growth forecast to 7%, joining the RBI, World Bank and OECD in upgrading their outlooks. But higher energy prices and global uncertainty remain risks.",
+      "pub": "13 Oct 10:03 IST",
+      "pub_dt": "2026-10-13T04:33:55+00:00",
+      "sectors": [
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "IMF's 60 bps upgrade of India's FY27 growth forecast to 7% (joining RBI, World Bank, OECD) validates strong domestic demand momentum and supports earnings growth visibility for IT and banking sectors. However, energy price risks and global uncertainty create some valuation ceiling.",
+        "stocks": {}
+      }
+    },
+    "d9715a29be548ef2": {
+      "id": "d9715a29be548ef2",
+      "title": "Why DII cushion, FPIs’ IPO preference have not stopped rupee’s slide",
+      "link": "https://www.livemint.com/economy/indian-rupee-fpi-outflows-dii-inflows-ipo-investments-primary-secondary-market-sips-dollar-demand-retail-investors-11791822030875.html",
+      "summary": "Driven by record SIP contributions, domestic investors are absorbing massive foreign sell-offs while foreign funds pivot to IPOs—yet one currency gap keeps the rupee under pressure.",
+      "pub": "13 Oct 09:00 IST",
+      "pub_dt": "2026-10-13T03:30:20+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Persistent rupee depreciation despite record SIP inflows and DII cushion indicates structural currency weakness from sustained FPI outflows and global rate differentials. Continued rupee slide erodes foreign earnings for IT exporters and reduces foreign investor participation in equities.",
+        "stocks": {}
+      }
+    },
+    "6711be0a76a34e04": {
+      "id": "6711be0a76a34e04",
+      "title": "Louis Vuitton’s China sales slump drags Asia revenue down 5%: Why the luxury industry is worried",
+      "link": "https://www.livemint.com/companies/news/louis-vuitton-china-double-digit-sales-slump-drag-asia-revenue-down-5-pc-luxury-industry-worry-recovery-economy-war-cost-11791867921003.html",
+      "summary": "Louis Vuitton’s China sales slump is raising alarms across the luxury industry, as weaker fashion and leather demand, cautious consumers and falling overseas purchases drag LVMH’s Asian revenue down 5%.&amp;nbsp;",
+      "pub": "13 Oct 11:47 IST",
+      "pub_dt": "2026-10-13T06:17:33+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "LVMH's China sales slump and 5% Asian revenue decline signal weakening luxury consumer demand in key Asian markets, with spillover implications for India's auto and discretionary sectors. Cautious consumer sentiment and falling overseas purchases indicate macro headwinds extending beyond China.",
+        "stocks": {}
+      }
+    },
+    "b02350c143f54247": {
+      "id": "b02350c143f54247",
+      "title": "HC rejects SpiceJet’s plea for more time to deposit  ₹144.5 cr in Maran dispute",
+      "link": "https://www.livemint.com/companies/news/spicejet-plea-in-high-court-aviation-industry-india-kalanithi-maran-kal-airways-11791869361384.html",
+      "summary": "The Delhi high court also rejected SpiceJet’s proposal to furnish documents of a Gurugram property as security.",
+      "pub": "13 Oct 11:40 IST",
+      "pub_dt": "2026-10-13T06:10:31+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "SpiceJet's inability to deposit ₹144.5 cr in the Maran dispute and rejection of alternative security (Gurugram property) significantly weakens its liquidity position and increases financial stress. This direct cash outflow obligation threatens the already-troubled airline's operational flexibility and debt servicing capacity.",
+        "stocks": {}
+      }
+    },
+    "3d65de661292cee5": {
+      "id": "3d65de661292cee5",
+      "title": "Who is Lakshmi Venu and what is Venu Srinivasan's daughter's role in the TVS family succession row?",
+      "link": "https://www.livemint.com/companies/people/who-is-lakshmi-venu-and-what-is-venu-srinivasans-daughters-role-in-the-tvs-family-succession-row-11791868073360.html",
+      "summary": "The TVS family is facing an internal dispute over wealth and economic interests, not management roles. Lakshmi Venu and her mother, Mallika Srinivasan, say no settlement has been agreed and are seeking dialogue and a fair process, following disclosures about Sudarshan Venu’s beneficial ownership.",
+      "pub": "13 Oct 10:47 IST",
+      "pub_dt": "2026-10-13T05:17:53+00:00",
+      "sectors": [
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "The TVS family succession dispute over wealth and economic interests (involving Lakshmi Venu and Mallika Srinivasan) signals governance instability and potential capital allocation conflicts. Such internal disputes can distract management, delay strategic decisions, and create uncertainty around dividend policies and investment priorities.",
+        "stocks": {}
+      }
+    },
+    "87a94c1969c3ac3a": {
+      "id": "87a94c1969c3ac3a",
+      "title": "MahaTransco said to pick Axis to lead $1 billion IPO, eyes June 2027 listing",
+      "link": "https://www.livemint.com/companies/mahatransco-ipo-rs-10000-crore-axis-capital-11791863022526.html",
+      "summary": "Maharashtra’s state transmission utility is said to have selected a syndicate of merchant bankers for a share sale expected by June 2027, as electricity demand rises and state-backed IPOs gather pace.",
+      "pub": "13 Oct 10:41 IST",
+      "pub_dt": "2026-10-13T05:11:32+00:00",
+      "sectors": [
+        "Banking",
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "MahaTransco's $1 billion IPO (targeting June 2027) is positive for banking/investment banking sector as it represents significant fee opportunities. The timing aligns with rising electricity demand and state-backed infrastructure monetization trends, signaling confidence in India's power infrastructure growth trajectory.",
+        "stocks": {}
+      }
+    },
+    "ce3692fec5cc55cc": {
+      "id": "ce3692fec5cc55cc",
+      "title": "Blinkit, Instamart and Amazon Now to face stricter rules? FSSAI says ‘trying to tighten, make accountable’",
+      "link": "https://www.livemint.com/companies/news/blinkit-instamart-and-amazon-now-to-face-stricter-rules-fssai-says-trying-to-tighten-make-accountable-11791865938042.html",
+      "summary": "India’s food regulator FSSAI is preparing tighter rules for quick-commerce platforms, including Blinkit, Instamart and Amazon Now, amid rising enforcement over food safety violations. Here's all we know…&amp;nbsp;",
+      "pub": "13 Oct 10:27 IST",
+      "pub_dt": "2026-10-13T04:57:36+00:00",
+      "sectors": [
+        "IT",
+        "Materials"
+      ],
+      "stocks": [
+        "ACC"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "FSSAI's tightening of quick-commerce food safety rules affects Blinkit, Instamart, and Amazon Now operationally but has no direct material impact on ACC (a cement/materials company). The news is sector-specific to e-commerce/retail logistics, not ACC's core business.",
+        "stocks": {
+          "ACC": "neutral"
+        }
+      }
+    },
+    "0aec2ac4e77e8279": {
+      "id": "0aec2ac4e77e8279",
+      "title": "'Be hungry like Samsung': Vedanta's Anil Agarwal shares S. Korean firm's growth story as it projects $80 bn in Q3 profit",
+      "link": "https://www.livemint.com/companies/be-hungry-like-samsung-vedantas-anil-agarwal-shares-s-korean-firms-growth-story-as-it-projects-80-bn-in-q3-profit-11791866541220.html",
+      "summary": "Vedanta chairman Anil Agarwal urged businesses to stay hungry for growth, citing Samsung’s evolution from trading to technology. His remarks came as Samsung projected nearly ninefold growth in Q3 operating profit to about $80 billion, driven by strong AI chip demand.",
+      "pub": "13 Oct 10:23 IST",
+      "pub_dt": "2026-10-13T04:53:05+00:00",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Materials"
+      ],
+      "stocks": [
+        "Vedanta"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "While Agarwal's Samsung analogy is inspirational rhetoric, it lacks concrete catalysts for Vedanta. Recent history shows Vedanta faces headwinds (bauxite supply setback, ₹5,600 cr demand) offset by dividend strength (₹5/share payout). Samsung's AI-driven profit growth is a sector comment unrelated to Vedanta's mining fundamentals.",
+        "stocks": {
+          "Vedanta": "mixed"
+        }
+      }
+    },
+    "97f5c606db079b31": {
+      "id": "97f5c606db079b31",
+      "title": "Zoho cancels salary hike- Sridhar Vembu cites rising AI costs, says ‘please pray for us'",
+      "link": "https://www.livemint.com/companies/no-appraisal-for-zoho-staffers-sridhar-vembu-cites-rising-ai-costs-says-usual-pay-increase-unlikely-this-year-11791863592011.html",
+      "summary": "Zoho co-founder Sridhar Vembu said employees would not get their usual pay hike this year amid rising AI costs and geopolitical challenges. He pledged efforts to avoid mass layoffs and warned of a grim outlook for software jobs as Indian IT firms rethink hiring and workforce skills.",
+      "pub": "13 Oct 09:36 IST",
+      "pub_dt": "2026-10-13T04:06:29+00:00",
+      "sectors": [
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "HAL"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Zoho's salary hike cancellation due to rising AI costs signals margin pressure and cost inflation risks across the IT sector. Sridhar Vembu's warning about a 'grim outlook for software jobs' and AI-driven disruption directly threatens IT hiring, wage growth, and profitability—structural headwinds for HAL's IT service contracts and skill availability.",
+        "stocks": {
+          "HAL": "negative"
+        }
+      }
     }
   }
 }
