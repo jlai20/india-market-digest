@@ -372461,6 +372461,248 @@
           "BEL": "neutral"
         }
       }
+    },
+    "8012af80f64dd5ac": {
+      "id": "8012af80f64dd5ac",
+      "title": "India notifies first New Zealand FTA duty cuts; wine, honey, kiwi fruit to get concessions from Oct 20",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-notifies-first-new-zealand-fta-duty-cuts-wine-honey-kiwi-fruit-to-get-concessions-from-oct-20/articleshow/135006873.cms",
+      "summary": "India has notified the first set of customs duty concessions for imports from New Zealand under their free trade agreement, effective October 20. The preferential rates cover products such as wine, manuka honey, kiwi fruit and sheep meat, with limited quantities of select goods allowed under tariff-rate quotas and dairy and other sensitive sectors excluded.",
+      "pub": "17 Oct 09:19 IST",
+      "pub_dt": "2026-10-17T03:49:31+00:00",
+      "sectors": [
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "FTA duty concessions on wine, honey, and kiwi fruit are sector-specific trade policy measures with minimal direct impact on IT and Telecoms sectors tagged. The agreement benefits agricultural/food imports but does not materially affect earnings, margins, or growth trajectories of IT/Telecom companies.",
+        "stocks": {}
+      }
+    },
+    "26b3c99541bf7e9b": {
+      "id": "26b3c99541bf7e9b",
+      "title": "'Getting paid by Putin': Democrats criticise Trump",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/getting-paid-by-putin-democrats-criticise-trumps-waiver-of-sanctions-under-lindsey-graham-act/articleshow/135006677.cms",
+      "summary": "",
+      "pub": "17 Oct 09:06 IST",
+      "pub_dt": "2026-10-17T03:36:50+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Political commentary about Trump and campaign financing has no direct bearing on IT sector operations, earnings, margins, or competitive dynamics. This is macro-political noise without company-specific or sector-specific financial implications.",
+        "stocks": {}
+      }
+    },
+    "cb2c40b8a6ae76cb": {
+      "id": "cb2c40b8a6ae76cb",
+      "title": "Are banks open or closed today?",
+      "link": "https://economictimes.indiatimes.com/wealth/save/saturday-bank-holiday-october-17-2026-are-sbi-hdfc-bank-icici-bank-and-others-open-or-closed-today/articleshow/134995688.cms",
+      "summary": "",
+      "pub": "17 Oct 07:00 IST",
+      "pub_dt": "2026-10-17T01:30:00+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "A calendar/operational question about bank holidays has no earnings impact, valuation implication, or news content. This is administrative information without forward-looking financial relevance.",
+        "stocks": {}
+      }
+    },
+    "069666fce562cb8e": {
+      "id": "069666fce562cb8e",
+      "title": "Trump asks Saudi to take Israel's 'help' vs Houthis",
+      "link": "https://economictimes.indiatimes.com/news/defence/trump-says-saudi-arabia-should-accept-israels-helpful-offer-against-houthis/articleshow/135006004.cms",
+      "summary": "",
+      "pub": "17 Oct 08:15 IST",
+      "pub_dt": "2026-10-17T02:45:57+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Geopolitical commentary about Middle East military dynamics lacks specificity, no Indian stocks are tagged, and there is no clear linkage to equity valuations or sector performance without additional context on defense/export exposure.",
+        "stocks": {}
+      }
+    },
+    "dd31e2e6df40196d": {
+      "id": "dd31e2e6df40196d",
+      "title": "CP Protests: Neha Bora released, Dipke faces court",
+      "link": "https://economictimes.indiatimes.com/news/politics-and-nation/cp-protests-aisa-president-neha-bora-released-abhijeet-dipke-to-be-produced-before-sem-court-delhi-police-say/articleshow/135005823.cms",
+      "summary": "",
+      "pub": "17 Oct 06:57 IST",
+      "pub_dt": "2026-10-17T01:27:55+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "A local incident involving arrests has no identifiable impact on listed company earnings, margins, regulatory environment, or competitive positioning. No stocks are tagged and no sector is specified.",
+        "stocks": {}
+      }
+    },
+    "557d21d507e15bcb": {
+      "id": "557d21d507e15bcb",
+      "title": "Trump fires Katie Zacharia, a week after hiring",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/trump-fires-katie-zacharia-just-a-week-after-white-house-hiring-she-gave-only-one-briefing-admits-failing-bar-exam/articleshow/135002220.cms",
+      "summary": "",
+      "pub": "17 Oct 00:07 IST",
+      "pub_dt": "2026-10-16T18:37:50+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "A personnel movement within a foreign political administration has no direct impact on Indian equity valuations, earnings, or sector dynamics. This is political news without financial market implications for tagged companies.",
+        "stocks": {}
+      }
+    },
+    "408faa3baf57422c": {
+      "id": "408faa3baf57422c",
+      "title": "AAIB asks DGCA to audit pilots’ training records",
+      "link": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/aviation-regulator-dgca-may-consider-one-time-check-of-pilots-training-records-says-aaib-in-probe-report/articleshow/134998884.cms",
+      "summary": "",
+      "pub": "16 Oct 21:42 IST",
+      "pub_dt": "2026-10-16T16:12:05+00:00",
+      "sectors": [
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "An aviation regulator audit of pilot training records is operational/compliance-focused but lacks specificity on which airlines are impacted or financial magnitude. Without named airlines and earnings implications, impact on IT/Telecoms sectors (if tagged) is unclear.",
+        "stocks": {}
+      }
+    },
+    "67c457523689c699": {
+      "id": "67c457523689c699",
+      "title": "India keeps sugar diversion at zero for 2026/27",
+      "link": "https://economictimes.indiatimes.com/industry/renewables/india-sets-zero-sugar-diversion-for-ethanol-in-2026/27-tender/articleshow/134998525.cms",
+      "summary": "",
+      "pub": "16 Oct 21:09 IST",
+      "pub_dt": "2026-10-16T15:39:56+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "Maintenance of zero sugar diversion for 2026/27 is a regulatory decision affecting sugar industry supply dynamics, but no stocks are tagged and no specific company earnings impact is quantifiable from this headline alone.",
+        "stocks": {}
+      }
+    },
+    "9d2f3e41910faf34": {
+      "id": "9d2f3e41910faf34",
+      "title": "China signals trade easing after FM flags barriers",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/china-says-ready-to-address-each-others-concerns-after-sitharaman-flags-trade-barriers/articleshow/134997260.cms",
+      "summary": "",
+      "pub": "16 Oct 19:52 IST",
+      "pub_dt": "2026-10-16T14:22:19+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "China signalling trade easing is macro-positive for Indian exporters and linked to global growth, but lack of specific company impact and no direct earnings/margin implications for tracked stocks makes this sector-level sentiment only.",
+        "stocks": {}
+      }
+    },
+    "d3ba5d6ed22f29dc": {
+      "id": "d3ba5d6ed22f29dc",
+      "title": "Sunil Singhania makes a fresh entry in this defence stock",
+      "link": "https://www.livemint.com/market/stock-market-news/sunil-singhania-sunil-singhania-portfolio-guru-stock-super-investors-11792153559805.html",
+      "summary": "Sunil Singhania has picked up a stake in this defence stock. Read on to know his new position.&amp;nbsp;",
+      "pub": "17 Oct 07:00 IST",
+      "pub_dt": "2026-10-17T01:30:24+00:00",
+      "sectors": [
+        "Industrials"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Sunil Singhania's fresh entry into a defence stock signals institutional confidence in the sector's growth trajectory, particularly given recent positive macro tailwinds (India-US ties, defence spending). This validates valuations and attracts further institutional capital.",
+        "stocks": {}
+      }
+    },
+    "cd1cf757f48509af": {
+      "id": "cd1cf757f48509af",
+      "title": "The week in charts: Jio’s mega debut, deferred UPI charges, IDBI bank stake sale",
+      "link": "https://www.livemint.com/economy/jio-platforms-ipo-upi-charges-npci-idbi-bank-fairfax-rupee-rbi-measures-indian-economy-11792050054486.html",
+      "summary": "In this weekly Plain Facts compilation, we present to you data-based insights, with easy-to-read charts, to help you delve deeper into the stories reported by Mint in the week gone by.",
+      "pub": "17 Oct 07:00 IST",
+      "pub_dt": "2026-10-17T01:30:04+00:00",
+      "sectors": [
+        "Banking",
+        "E-Commerce",
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [
+        "Reliance Jio"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "positive",
+        "reasoning": "Jio's mega IPO debut with strong institutional anchor demand (19.5-20% GMP, BlackRock/ADIA/Norges participation) and ₹30,000 crore raise to clear $3bn debt demonstrates market validation of Jio's market leadership (60% data traffic) and supports Reliance Industries' conglomerate valuation expansion.",
+        "stocks": {
+          "Reliance Jio": "positive"
+        }
+      }
+    },
+    "025c804b7084756e": {
+      "id": "025c804b7084756e",
+      "title": "Starlink responds to Reliance, says ‘worked closely with regulators, ready to connect India with high-speed internet'",
+      "link": "https://www.livemint.com/companies/starlink-responds-to-reliance-says-worked-closely-with-regulators-ready-to-connect-india-with-high-speed-internet-11792205826693.html",
+      "summary": "Starlink said it was ready to provide high-speed internet in India after five years of work with regulators and industry partners. Its statement followed Musk’s criticism of Ambani over approval delays. Reliance said it welcomed competition and that Jio’s satellite services also awaited clearances.",
+      "pub": "17 Oct 08:40 IST",
+      "pub_dt": "2026-10-17T03:10:53+00:00",
+      "sectors": [
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [
+        "Reliance Jio"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "mixed",
+        "reasoning": "Starlink's regulatory readiness and competitive entry threat could pressure Jio's near-term satellite service growth and pricing power in high-speed internet segment, offsetting some IPO optimism. However, both face equal regulatory hurdles, and Jio's existing 60% data traffic dominance and 6G capex-light model provides structural moat.",
+        "stocks": {
+          "Reliance Jio": "mixed"
+        }
+      }
+    },
+    "be904d31600336a9": {
+      "id": "be904d31600336a9",
+      "title": "Netflix turns to Peter Rice to tackle slowing viewership: What the former Disney executive brings to the table",
+      "link": "https://www.livemint.com/companies/people/netflix-turns-to-peter-rice-to-tackle-slowing-viewership-what-the-former-disney-executive-brings-to-the-table-11792200124373.html",
+      "summary": "Netflix has appointed former Disney executive Peter Rice to replace content chief Bela Bajaria as it confronts slowing viewership growth and engagement.&amp;nbsp;",
+      "pub": "17 Oct 07:27 IST",
+      "pub_dt": "2026-10-17T01:57:14+00:00",
+      "sectors": [
+        "Industrials"
+      ],
+      "stocks": [
+        "BEL"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "negative",
+        "reasoning": "Netflix's replacement of content chief Bela Bajaria amid slowing viewership and engagement signals operational challenges and content strategy concerns that directly pressure subscriber growth and ARPU realization—core to streaming profitability.",
+        "stocks": {
+          "BEL": "neutral"
+        }
+      }
     }
   }
 }
