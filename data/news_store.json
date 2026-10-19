@@ -375337,6 +375337,1349 @@
         "reasoning": "",
         "stocks": {}
       }
+    },
+    "1c5fb65228335507": {
+      "id": "1c5fb65228335507",
+      "title": "IDBI Bank shares in focus as Q2 net profit falls 39%; NII tanks nearly 50% YoY",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/idbi-bank-shares-in-focus-as-q2-net-profit-falls-39-nii-tanks-nearly-50-yoy/articleshow/135038766.cms",
+      "summary": "IDBI Bank reported a 39% YoY decline in Q2 FY27 net profit, partly due to a one-off gain in the previous year. Despite this, underlying profitability, margins, asset quality, deposits and advances showed improvement. Meanwhile, Fairfax Financial’s proposed 60.72% stake acquisition marks a major milestone in the bank’s privatisation.",
+      "pub": "19 Oct 08:57 IST",
+      "pub_dt": "2026-10-19T03:27:46+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "da7ff3ca2ae3f926": {
+      "id": "da7ff3ca2ae3f926",
+      "title": "L&amp;T Finance among 4 F&amp;O stocks with a sharp rise in futures open interest",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/lampt-finance-among-4-fampo-stocks-with-a-sharp-rise-in-futures-open-interest/slideshow/135038726.cms",
+      "summary": "A slideshow exploring four NSE F&amp;O stocks that witnessed a sharp increase in futures open interest on October 16, highlighting changing market participation and notable shifts in derivatives activity.",
+      "pub": "19 Oct 08:49 IST",
+      "pub_dt": "2026-10-19T03:19:00+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "d596ee4d6b2f5f89": {
+      "id": "d596ee4d6b2f5f89",
+      "title": "U-turn from regulator may be new lifeline to Indian derivatives",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/u-turn-from-regulator-may-be-new-lifeline-to-indian-derivatives/articleshow/135038625.cms",
+      "summary": "The return of a stable settlement system in India's equity-derivatives market could signal a promising recovery. Following the tumultuous closure auction process introduced in August, regulators are aiming to restore order. Market players are optimistic that this newfound clarity will not only enhance trader confidence but also boost derivatives trading volumes over time.",
+      "pub": "19 Oct 08:47 IST",
+      "pub_dt": "2026-10-19T03:17:36+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "3b660fb617402516": {
+      "id": "3b660fb617402516",
+      "title": "UPL Share Price Live Updates: UPL Falls Below Key Moving Average",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/upl-share-price-today-live-updates-19-oct-2026/liveblog/135038574.cms",
+      "summary": "",
+      "pub": "19 Oct 08:40 IST",
+      "pub_dt": "2026-10-19T03:10:27+00:00",
+      "sectors": [
+        "Industrials",
+        "Materials"
+      ],
+      "stocks": [
+        "BEL",
+        "UPL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "5f1822fd2a6278e0": {
+      "id": "5f1822fd2a6278e0",
+      "title": "HFCL among 3 stocks closing above VWAP",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/hfcl-among-3-stocks-closing-above-vwap/slideshow/135038565.cms",
+      "summary": "HBL Engineering, SPR Auto Technologies and HFCL featured in StockEdge’s VWAP scan on October 16, with closing prices more than 2% above their volume-weighted average prices.",
+      "pub": "19 Oct 08:35 IST",
+      "pub_dt": "2026-10-19T03:05:59+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "48045ad2f06618b3": {
+      "id": "48045ad2f06618b3",
+      "title": "​HBL Engineering among 4 stocks showing RSI trending up",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/hbl-engineering-among-4-stocks-showing-rsi-trending-up/slideshow/135038502.cms",
+      "summary": "​HBL Engineering, Authum Investment &amp; Infrastructure, SPR Auto Technologies and Thangamayil Jewellery featured in StockEdge’s RSI Trending Up scan on October 16.",
+      "pub": "19 Oct 08:30 IST",
+      "pub_dt": "2026-10-19T03:00:37+00:00",
+      "sectors": [
+        "Industrials"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "32c57ec55aaa78bb": {
+      "id": "32c57ec55aaa78bb",
+      "title": "Wipro among 4 stocks showing White Marubozu pattern",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/wipro-among-4-stocks-showing-white-marubozu-pattern/slideshow/135038438.cms",
+      "summary": "Wipro, Authum Investment &amp; Infrastructure, KPIT Technologies and HFCL featured in StockEdge’s White Marubozu scan on October 16, reflecting strong upward price momentum.",
+      "pub": "19 Oct 08:23 IST",
+      "pub_dt": "2026-10-19T02:53:43+00:00",
+      "sectors": [
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "KPIT Tech",
+        "Wipro"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "4a1590730a483bb5": {
+      "id": "4a1590730a483bb5",
+      "title": "HBL Engineering among 4 stocks showing RSI trending up",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/hbl-engineering-among-4-stocks-showing-rsi-trending-up/slideshow/135038358.cms",
+      "summary": "HBL Engineering, Authum Investment &amp; Infrastructure, SPR Auto Technologies and Thangamayil Jewellery featured in StockEdge’s RSI Trending Up scan on October 16.",
+      "pub": "19 Oct 08:18 IST",
+      "pub_dt": "2026-10-19T02:48:51+00:00",
+      "sectors": [
+        "Industrials"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "2412b5024bd9f80f": {
+      "id": "2412b5024bd9f80f",
+      "title": "LTIMindtree Share Price Live Updates: LTIMindtree Falls Below Key Moving Average",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ltimindtree-share-price-live-updates-19-oct-2026/liveblog/135038208.cms",
+      "summary": "",
+      "pub": "19 Oct 08:10 IST",
+      "pub_dt": "2026-10-19T02:40:41+00:00",
+      "sectors": [
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "BEL",
+        "LTIMindtree"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "576b9038262392e7": {
+      "id": "576b9038262392e7",
+      "title": "RIL Share Price Live Updates: RIL's recent returns reflect market challenges",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ril-share-price-live-19-oct-2026/liveblog/135038202.cms",
+      "summary": "",
+      "pub": "19 Oct 08:10 IST",
+      "pub_dt": "2026-10-19T02:40:23+00:00",
+      "sectors": [
+        "Industrials"
+      ],
+      "stocks": [
+        "HAL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "6c60958b1b9b4da5": {
+      "id": "6c60958b1b9b4da5",
+      "title": "SBI Share Price Live Updates: SBI's Stock Performance Indicates Upward Trend",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-stock-price-livestock-price-today-live-updates-19-oct-2026/liveblog/135038094.cms",
+      "summary": "",
+      "pub": "19 Oct 08:01 IST",
+      "pub_dt": "2026-10-19T02:31:24+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [
+        "SBI"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "57092fa139c455dd": {
+      "id": "57092fa139c455dd",
+      "title": "Cipla Share Price Live Updates: Cipla's Volatility Metrics",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-stock-price-livestock-price-today-live-updates-19-oct-2026/liveblog/135038064.cms",
+      "summary": "",
+      "pub": "19 Oct 08:00 IST",
+      "pub_dt": "2026-10-19T02:30:08+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "9a7b0f8dbaa75689": {
+      "id": "9a7b0f8dbaa75689",
+      "title": "Positive Breakout: These 6 stocks cross above their 200 DMAs",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-6-stocks-cross-above-their-200-dmas/slideshow/135037931.cms",
+      "summary": "As long as a stock's price remains above its 200-day moving average on the daily timeframe, it is generally interpreted as being in an overall uptrend.",
+      "pub": "19 Oct 07:42 IST",
+      "pub_dt": "2026-10-19T02:12:41+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "07dd27caf03852eb": {
+      "id": "07dd27caf03852eb",
+      "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a muted start; Asian shares trade lower",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-vedanta-hdfc-bank-share-price-19-october-2026/liveblog/135037753.cms",
+      "summary": "",
+      "pub": "19 Oct 07:22 IST",
+      "pub_dt": "2026-10-19T01:52:42+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "70573b3496c6aad5": {
+      "id": "70573b3496c6aad5",
+      "title": "Stocks in news: Vedanta, HDFC Bank, ICICI Bank, Axis Bank, HFCL, IREDA, Zen Tech and Oil India",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-vedanta-hdfc-bank-icici-bank-axis-bank-hfcl-ireda-zen-tech-and-oil-india/articleshow/135037012.cms",
+      "summary": "Indian equities turned around as information technology stocks attracted sustained buying interest. Strong quarterly earnings reports enhanced investor confidence in the market, with the Nifty 50 index achieving a closing point of 23,146, representing a 0.65% rise. Prominent companies like HDFC Bank and ICICI Bank shared their quarterly outcomes, showcasing improved asset quality. Investors are an",
+      "pub": "19 Oct 06:00 IST",
+      "pub_dt": "2026-10-19T00:30:00+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT",
+        "Materials"
+      ],
+      "stocks": [
+        "Axis Bank",
+        "HDFC Bank",
+        "ICICI Bank",
+        "Vedanta"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "33b9f1a624a95013": {
+      "id": "33b9f1a624a95013",
+      "title": "D-St set for a cautious opening as GIFT Nifty signals muted start",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/135036997.cms",
+      "summary": "The Benchmark Nifty saw a 0.7% rise, signaling a continuation of its positive trajectory. Market analysts foresee a period of consolidation ahead, with a gradual uptick on the horizon. The key resistance levels for the index are 22,650 and 22,800, while support is noted at 22,500. Additionally, foreign portfolio investors recorded net buys of Rs 1,165 crore, contrasting with a trend of domestic ou",
+      "pub": "19 Oct 06:00 IST",
+      "pub_dt": "2026-10-19T00:30:00+00:00",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "912ba63740b1c92d": {
+      "id": "912ba63740b1c92d",
+      "title": "Pharma Q2 Outlook: Pricing pressure, US competition to weigh on select players",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/indias-pharmaceutical-companies-to-report-mixed-results-as-domestic-growth-offsets-pricing-pressures/articleshow/135037267.cms",
+      "summary": "India's pharmaceutical companies are expected to have a mixed performance in the upcoming September quarter. Companies like Sun Pharmaceutical Industries and Aurobindo Pharma are likely to report good growth. In contrast, Dr Reddy's Laboratories and Lupin may face challenges due to increased competition and a high base. Pricing pressure and elevated raw material costs are also expected to impact o",
+      "pub": "19 Oct 05:59 IST",
+      "pub_dt": "2026-10-19T00:29:30+00:00",
+      "sectors": [
+        "Autos",
+        "E-Commerce",
+        "Industrials"
+      ],
+      "stocks": [
+        "HAL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "ea9a6b832d5d4479": {
+      "id": "ea9a6b832d5d4479",
+      "title": "Nifty rally faces crucial test at key resistance levels: Analysts",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-gains-3-as-analysts-predict-recovery-key-resistance-levels-ahead/articleshow/135037107.cms",
+      "summary": "Nifty gained 3% last week, forming a higher-top and higher-bottom structure, indicating bullish sentiment. Analysts suggest it must breach key resistance levels for more substantial gains ahead. Meanwhile, Bank Nifty is approaching significant resistance, which may hinder further upside potential shortly. Key stocks like Coforge, Kotak Bank, and Indian Hotels present buying opportunities based on ",
+      "pub": "19 Oct 05:44 IST",
+      "pub_dt": "2026-10-19T00:14:32+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "E-Commerce",
+        "IT"
+      ],
+      "stocks": [
+        "Coforge",
+        "Kotak Bank"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "feceacfe844a6ec6": {
+      "id": "feceacfe844a6ec6",
+      "title": "Challenges ahead for Fairfax's management of IDBI Bank post ₹52,878 crore stake deal approval",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/challenges-ahead-for-fairfaxs-management-of-idbi-bank-post-52878-crore-stake-deal-approval/articleshow/135037388.cms",
+      "summary": "Fairfax Financial's subsidiary has acquired a 60.7% stake in IDBI Bank for ₹52,878 crore, leading to potential operational changes. The new management faces challenges such as employee resistance and asset quality improvement. Despite having a higher profitability compared to peers, IDBI Bank's gross non-performing asset ratio remains concerning. The bank's success will rely on its ability to enha",
+      "pub": "19 Oct 01:19 IST",
+      "pub_dt": "2026-10-18T19:49:55+00:00",
+      "sectors": [
+        "Banking",
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "HAL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "176fc603505a6049": {
+      "id": "176fc603505a6049",
+      "title": "Private banks' margins fall as FCNR deposits raise funding costs",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/private-banks-margins-fall-as-fcnr-deposits-raise-funding-costs/articleshow/135037360.cms",
+      "summary": "In the second quarter, leading private sector banks in India reported a drop in net interest margins. This decline was primarily caused by the costs associated with foreign currency non-resident deposits. Analysts noted that the leveraged nature of these deposits significantly impacted profitability. Additionally, banks faced pressure from faster repricing of assets as interest rates declined.",
+      "pub": "19 Oct 01:07 IST",
+      "pub_dt": "2026-10-18T19:37:35+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "f950f45b4d796100": {
+      "id": "f950f45b4d796100",
+      "title": "Banks also count cost of insurance payout curbs",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/banks-also-count-cost-of-insurance-payout-curbs/articleshow/135037310.cms",
+      "summary": "Central Bank of India anticipates a 33% decline in bancassurance fees due to proposed regulations. Canara Bank expects a ₹145-crore hit to its fee income from similar changes. Axis Bank aims to mitigate losses through increased sales volumes and alternative income sources. HDFC Bank has not yet assessed the potential impact of the new rules.",
+      "pub": "19 Oct 00:51 IST",
+      "pub_dt": "2026-10-18T19:21:37+00:00",
+      "sectors": [
+        "Banking",
+        "IT"
+      ],
+      "stocks": [
+        "Axis Bank",
+        "Canara Bank",
+        "HDFC Bank"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "a91ea4e6d24ec702": {
+      "id": "a91ea4e6d24ec702",
+      "title": "Anup Bagchi backs 'exceptional' team as he connects the dots at HDFC Bank",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/anup-bagchi-backs-exceptional-team-as-he-connects-the-dots-at-hdfc-bank/articleshow/135037338.cms",
+      "summary": "Anup Bagchi is set to take charge as MD and CEO of HDFC Bank starting October 27. He is currently familiarizing himself with the bank's balance sheet and profitability structure. Bagchi aims to engage with regulators, customers, and stakeholders to gather insights before implementing changes. His focus is on understanding the organization's operations rather than rushing into strategic alterations",
+      "pub": "19 Oct 00:44 IST",
+      "pub_dt": "2026-10-18T19:14:03+00:00",
+      "sectors": [
+        "Banking",
+        "IT"
+      ],
+      "stocks": [
+        "HDFC Bank"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "55d41502a6d34f36": {
+      "id": "55d41502a6d34f36",
+      "title": "FMCG firms grapple with input cost inflation in Q2, brace for margin pressure in H2",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fmcg-firms-grapple-with-input-cost-inflation-in-q2-brace-for-margin-pressure-in-h2/articleshow/135037464.cms",
+      "summary": "FMCG companies are experiencing increased margin pressure as input costs continue to rise. Rising inflation is affecting profitability, forcing firms to consider price hikes after the festive season. Companies are currently absorbing some costs to maintain consumer demand in urban and rural markets. The expectations for the second half of FY27 remain cautious amidst fluctuating commodity prices. C",
+      "pub": "18 Oct 13:28 IST",
+      "pub_dt": "2026-10-18T07:58:33+00:00",
+      "sectors": [
+        "IT",
+        "Industrials",
+        "Materials"
+      ],
+      "stocks": [
+        "HAL"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "51bf67231145f93c": {
+      "id": "51bf67231145f93c",
+      "title": "Axis Bank shares in focus after Q2 results. Why Jefferies remains bullish even as other brokerages reduce target prices",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/axis-bank-shares-in-focus-after-q2-results-why-jefferies-remains-bullish-even-as-other-brokerages-reduce-target-prices/articleshow/135039127.cms",
+      "summary": "Axis Bank reported a 38% year-on-year rise in standalone net profit to Rs 7,003 crore in Q2 FY27, while net interest income rose 12%. Jefferies retained its Buy rating, while Centrum Broking and Dolat Capital lowered their target prices.",
+      "pub": "19 Oct 09:21 IST",
+      "pub_dt": "2026-10-19T03:51:26+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT"
+      ],
+      "stocks": [
+        "Axis Bank"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "cdaacd2fc80c198b": {
+      "id": "cdaacd2fc80c198b",
+      "title": "RBI announces $10.5 billion liquidity infusion via repo",
+      "link": "https://economictimes.indiatimes.com/markets/forex/rbi-announces-10-5-billion-liquidity-infusion-via-repo/articleshow/135038836.cms",
+      "summary": "The RBI will infuse up to 1 trillion rupees ($10.53 billion) through the operation, which traders said must be to help lenders tide over tax outflows amid tightening of the daily cash reserve requirement.",
+      "pub": "19 Oct 09:03 IST",
+      "pub_dt": "2026-10-19T03:33:42+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "ff7bf282ec2e6694": {
+      "id": "ff7bf282ec2e6694",
+      "title": "Tonbo Imaging India IPO Day 3: GMP at 74%, issue subscribed over 7x. Check key details",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/tonbo-imaging-india-ipo-day-3-gmp-at-74-issue-subscribed-over-7x-check-key-details/articleshow/135038712.cms",
+      "summary": "Tonbo Imaging India’s IPO closes amid strong investor demand, with 7.78 times subscription by Day 2 and a grey market premium of 74%. The Rs 852.18 crore issue is entirely an offer for sale. Investors will track allotment, listing expectations and the defence technology company’s declining FY26 financial performance.",
+      "pub": "19 Oct 08:55 IST",
+      "pub_dt": "2026-10-19T03:25:02+00:00",
+      "sectors": [
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "c92aecf132fd9671": {
+      "id": "c92aecf132fd9671",
+      "title": "ICICI Bank Share Price Live Updates: ICICI Bank's Breakout Above Resistance Level Highlights Market Strength",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-live-updates-19-oct-2026/liveblog/135038693.cms",
+      "summary": "",
+      "pub": "19 Oct 08:50 IST",
+      "pub_dt": "2026-10-19T03:20:37+00:00",
+      "sectors": [
+        "Autos",
+        "Banking"
+      ],
+      "stocks": [
+        "ICICI Bank"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "c15c202278d7453f": {
+      "id": "c15c202278d7453f",
+      "title": "Axis Bank Share Price Live Updates: Axis Bank's bearish movement below EMA",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-share-price-today-live-updates-19-oct-2026/liveblog/135038578.cms",
+      "summary": "",
+      "pub": "19 Oct 08:40 IST",
+      "pub_dt": "2026-10-19T03:10:43+00:00",
+      "sectors": [
+        "Banking",
+        "Industrials"
+      ],
+      "stocks": [
+        "Axis Bank",
+        "BEL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "cfba47bd5a219753": {
+      "id": "cfba47bd5a219753",
+      "title": "HDFC Bank Share Price Live Updates: HDFC Bank's price action signals a bearish trend",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-live-updates-19-oct-2026/liveblog/135038428.cms",
+      "summary": "",
+      "pub": "19 Oct 08:28 IST",
+      "pub_dt": "2026-10-19T02:58:25+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [
+        "HDFC Bank"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "f59ca4e943208401": {
+      "id": "f59ca4e943208401",
+      "title": "Oil, foreign flows in focus for rupee; bond traders eye rate-hike bets",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/oil-foreign-flows-in-focus-for-rupee-bond-traders-eye-rate-hike-bets/articleshow/135038371.cms",
+      "summary": "During the upcoming holiday week, analysts predict the Indian rupee will remain steady, with oil price trends and foreign capital flows playing essential roles. Impressively, the rupee rose by 2% last week, achieving its highest value since March at 94.96. The Reserve Bank of India is undertaking assorted measures aimed at strengthening the rupee while addressing inflation worries.",
+      "pub": "19 Oct 08:26 IST",
+      "pub_dt": "2026-10-19T02:56:35+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "f4678fdeb8567c49": {
+      "id": "f4678fdeb8567c49",
+      "title": "RIL nears technical breakout amid Jio IPO buzz: Anand James shares the outlook",
+      "link": "https://economictimes.indiatimes.com/markets/expert-view/ril-nears-technical-breakout-amid-jio-ipo-buzz-anand-james-shares-the-outlook/articleshow/135037937.cms",
+      "summary": "Reliance Industries shares are showing early signs of a technical turnaround as investor attention remains focused on the planned Jio Platforms IPO. The stock has moved above its 10-day simple moving average for consecutive sessions for the first time since early September, while a broadening-wedge pattern is nearing an upside breakout. However, the recovery faces a key test near ₹1,220. Anand Jam",
+      "pub": "19 Oct 08:16 IST",
+      "pub_dt": "2026-10-19T02:46:38+00:00",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [
+        "Reliance Jio"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "4b7878f44e33262e": {
+      "id": "4b7878f44e33262e",
+      "title": "M&amp;M Share Price Live Updates: M&amp;M's stock price under pressure",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/mm-share-price-today-live-updates-19-oct-2026/liveblog/135038197.cms",
+      "summary": "",
+      "pub": "19 Oct 08:10 IST",
+      "pub_dt": "2026-10-19T02:40:05+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "8dde234a5f065df5": {
+      "id": "8dde234a5f065df5",
+      "title": "Oil Price Today (October 19): Crude oil dips 2% to $108 after hitting its highest levels since May. Here’s why",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-october-19-crude-oil-dips-2-to-108-after-hitting-its-highest-levels-since-may-heres-why/articleshow/135037940.cms",
+      "summary": "Brent crude futures dropped $1.80, or 1.64%, to $108.06 a barrel after settling at their highest level since May 19 on Friday. US West Texas Intermediate crude declined 53 cents, or 0.52%, to $100.88 a barrel.",
+      "pub": "19 Oct 07:50 IST",
+      "pub_dt": "2026-10-19T02:20:11+00:00",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "1c369c7c73209819": {
+      "id": "1c369c7c73209819",
+      "title": "Gold edges higher as investors assess Fed rate-hike odds",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-edges-higher-as-investors-assess-fed-rate-hike-odds/articleshow/135037837.cms",
+      "summary": "In early Asian trading, gold prices saw a modest uptick as speculation swirled regarding the Federal Reserve's policy stance. Investors are closely watching remarks from Fed Chairman Kevin Warsh on the state of the U.S. economy and rising inflation concerns. As import costs climb, expectations for a rate hike this December are building. Furthermore, unrest in the Middle East is contributing to mar",
+      "pub": "19 Oct 07:39 IST",
+      "pub_dt": "2026-10-19T02:09:14+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "45c5f474e4677bac": {
+      "id": "45c5f474e4677bac",
+      "title": "Dollar firmer, euro weakens as French protests turn violent",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-firmer-euro-weakens-as-french-protests-turn-violent/articleshow/135037823.cms",
+      "summary": "In Asia, the dollar saw a minor uptick as unrest in France put pressure on the euro, causing a small decline. Emerging market currencies, notably the Indonesian rupiah, are struggling with the looming threat of a stock market downgrade. Oil prices dipped following the lifting of sanctions on Russia, which may boost fuel exports. Upcoming meetings of the Federal Reserve and European Central Bank ar",
+      "pub": "19 Oct 07:35 IST",
+      "pub_dt": "2026-10-19T02:05:41+00:00",
+      "sectors": [
+        "Banking",
+        "E-Commerce"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "5f53896100da7113": {
+      "id": "5f53896100da7113",
+      "title": "Oil slips as Trump's sanction waiver may lead to more Russian fuel supplies",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-slips-as-trumps-sanction-waiver-may-lead-to-more-russian-fuel-supplies/articleshow/135037803.cms",
+      "summary": "Oil prices took a tumble after US President Trump eased sanctions on Russia, prompting a surge in fuel exports. Brent crude futures fell to $108.43 a barrel, down from a peak of $110. Ukrainian President Volodymyr Zelenskiy warned that such actions would adversely impact Ukraine, while the US secured a deal to import diesel from Russia.",
+      "pub": "19 Oct 07:34 IST",
+      "pub_dt": "2026-10-19T02:04:10+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "a0b14492fa6b4dc7": {
+      "id": "a0b14492fa6b4dc7",
+      "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex falls over 50 pts, Nifty below 23,150; TechM, NTPC drop up to 2%",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-vedanta-hdfc-bank-share-price-19-october-2026/liveblog/135037753.cms",
+      "summary": "",
+      "pub": "19 Oct 07:22 IST",
+      "pub_dt": "2026-10-19T01:52:42+00:00",
+      "sectors": [
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "BEL",
+        "NTPC",
+        "Tech Mahindra"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "47e54a95edb37f6e": {
+      "id": "47e54a95edb37f6e",
+      "title": "YES Bank book value may fall up to 26% after SC ruling on AT-1 bonds",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/at-1-payout-yes-banks-book-value-could-fall-up-to-26-sc-ruling-dents-banks-cushion-against-losses-in-near-term/articleshow/135037404.cms",
+      "summary": "The recent Supreme Court ruling on AT-1 bonds poses a serious risk to Yes Bank’s financial stability. A potential payout near ₹8,415 crore could lead to a significant decline in its book value per share. Moreover, this may weaken the bank's CET1 ratio, limiting its growth potential and ability to absorb losses, which is already reflected in its plummeting share price since the announcement.",
+      "pub": "19 Oct 06:44 IST",
+      "pub_dt": "2026-10-19T01:14:57+00:00",
+      "sectors": [
+        "Banking",
+        "Materials"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "eeddea4d1b742184": {
+      "id": "eeddea4d1b742184",
+      "title": "Global Market Today: Asian shares fall as AI spending worries weigh on sentiment",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-shares-fall-as-ai-spending-worries-weigh-on-sentiment/articleshow/135037337.cms",
+      "summary": "A fall in oil prices offered some support to bonds and Wall Street stock futures, limiting Asia's losses. Oil fell following US President Donald Trump's decision to waive some sanctions on Russia, though he later said a final decision on the matter had not been made.",
+      "pub": "19 Oct 06:27 IST",
+      "pub_dt": "2026-10-19T00:57:09+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "b5252dd94028cf1c": {
+      "id": "b5252dd94028cf1c",
+      "title": "Jio Platforms IPO, Paras Healthcare issue to drive primary market activity this week",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-to-lead-ipo-parade-this-week/articleshow/135037311.cms",
+      "summary": "Jio Platforms is gearing up for an impressive ₹30,213-crore initial public offering, set to debut on October 21. Following suit, Paras Healthcare is also preparing to launch its own ₹1,450 crore IPO. Meanwhile, several companies whose IPOs wrapped up last week will be hitting the stock market this week, including Vaibhav Vyapaar, Ravita Engineering Services, and Shellz India. This week undoubtedly",
+      "pub": "19 Oct 06:20 IST",
+      "pub_dt": "2026-10-19T00:50:34+00:00",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [
+        "Reliance Jio"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "9f3758acc98040f2": {
+      "id": "9f3758acc98040f2",
+      "title": "Correcting rupee against fundamentals ultimately futile, says RBI's ex-guv Subbarao",
+      "link": "https://economictimes.indiatimes.com/markets/forex/correcting-rupee-against-fundamentals-ultimately-futile-says-rbis-ex-guv-subbarao/articleshow/135037366.cms",
+      "summary": "D Subbarao advocates for allowing the rupee to find its level based on economic fundamentals. He criticizes costly short-term measures that do not address structural issues behind capital outflows. The rupee's recent recovery followed the Reserve Bank of India's measures to reduce dollar demand. Subbarao highlights the importance of tax reforms to attract foreign investment in India.",
+      "pub": "19 Oct 01:15 IST",
+      "pub_dt": "2026-10-18T19:45:45+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT"
+      ],
+      "stocks": [
+        "LTIMindtree"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "b907109bcef49fbb": {
+      "id": "b907109bcef49fbb",
+      "title": "IIFL Finance plans to raise ₹2,500-5,000 crore by selling stake amid Fairfax exit rumors",
+      "link": "https://economictimes.indiatimes.com/markets/expert-view/iifl-finance-plans-to-raise-2500-5000-crore-by-selling-stake-amid-fairfax-exit-rumors/articleshow/135037342.cms",
+      "summary": "IIFL Finance is intending to raise ₹2,500-5,000 crore by selling a minority stake. The company's promoters may subscribe to warrants to limit dilution. Fairfax Financial Holdings is likely to sell its stake due to regulatory norms. IIFL aims to enhance its capital position amid evolving market conditions. These measures are expected to create synergies for IIFL Capital as part of IDBI Bank.",
+      "pub": "19 Oct 01:00 IST",
+      "pub_dt": "2026-10-18T19:30:08+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "6d86150b5bb5f4d6": {
+      "id": "6d86150b5bb5f4d6",
+      "title": "Renting a house in UP? Check the new tenancy rules",
+      "link": "https://economictimes.indiatimes.com/wealth/legal/will/renting-a-house-in-up-new-tenancy-rules-aim-to-protect-both-tenants-and-landlords-know-what-changes/articleshow/135039009.cms",
+      "summary": "",
+      "pub": "19 Oct 09:17 IST",
+      "pub_dt": "2026-10-19T03:47:22+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "204f5e191b04f047": {
+      "id": "204f5e191b04f047",
+      "title": "Are banks open or closed in your state today?",
+      "link": "https://economictimes.indiatimes.com/wealth/save/bank-holiday-for-mahanavmi-today-october-19-2026-are-banks-open-or-closed-in-your-state-check-state-wise-rbi-holiday-list/articleshow/135012552.cms",
+      "summary": "",
+      "pub": "19 Oct 07:00 IST",
+      "pub_dt": "2026-10-19T01:30:00+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "ffecceff210fb4e5": {
+      "id": "ffecceff210fb4e5",
+      "title": "Putin's peace plan has 2 big names for participation",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/putin-proposes-three-way-summit-with-trump-and-xi-to-negotiate-ukraine-conflict-report/articleshow/135037320.cms",
+      "summary": "",
+      "pub": "19 Oct 06:18 IST",
+      "pub_dt": "2026-10-19T00:48:31+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "46213eb2deac2c60": {
+      "id": "46213eb2deac2c60",
+      "title": "France protests: Why are demonstrators looting?",
+      "link": "https://economictimes.indiatimes.com/news/new-updates/france-protests-reason-why-are-angry-demonstrators-looting-louis-vuitton-herms-stores/articleshow/135038806.cms",
+      "summary": "",
+      "pub": "19 Oct 09:11 IST",
+      "pub_dt": "2026-10-19T03:41:06+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "a710daddcafa3fb6": {
+      "id": "a710daddcafa3fb6",
+      "title": "Who tried to kill Bollywood actor Tiger Shroff?",
+      "link": "https://economictimes.indiatimes.com/news/india/who-tried-to-kill-tiger-shroff-lawrence-bishnoi-gang-claims-responsibility-of-gunfire-on-bollywood-actor-anil-pandit/articleshow/135038285.cms",
+      "summary": "",
+      "pub": "19 Oct 08:39 IST",
+      "pub_dt": "2026-10-19T03:09:20+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "e47937e1d2ecd2d9": {
+      "id": "e47937e1d2ecd2d9",
+      "title": "Tiger Shroff's real name is Jai Hemant",
+      "link": "https://economictimes.indiatimes.com/news/new-updates/tiger-shroffs-real-name-is-jai-hemant-why-is-the-heropanti-actor-called-tiger/articleshow/135038525.cms",
+      "summary": "",
+      "pub": "19 Oct 08:49 IST",
+      "pub_dt": "2026-10-19T03:19:25+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "96a43d3c8c846e15": {
+      "id": "96a43d3c8c846e15",
+      "title": "'We have unfinished jobs too': Iran warns US",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/we-have-unfinished-jobs-too-araghchi-warns-us-israel-against-further-escalation-amid-trumps-netanyahu-endorsement/articleshow/135037712.cms",
+      "summary": "",
+      "pub": "19 Oct 07:27 IST",
+      "pub_dt": "2026-10-19T01:57:03+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "91af69030874ce2d": {
+      "id": "91af69030874ce2d",
+      "title": "Trump endorses Netanyahu for re-election",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/trump-backs-netanyahu-warns-iran-could-face-us-action-if-change-isnt-made/articleshow/135030904.cms",
+      "summary": "",
+      "pub": "18 Oct 20:51 IST",
+      "pub_dt": "2026-10-18T15:21:47+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "fade3637a162accd": {
+      "id": "fade3637a162accd",
+      "title": "Salman to Tiger, Bollywood's Bishnoi scare grows",
+      "link": "https://economictimes.indiatimes.com/news/india/bishnoi-gang-puts-bollywood-in-turmoil-recent-threats-and-shootings-targeting-a-list-actors/articleshow/135031533.cms",
+      "summary": "",
+      "pub": "18 Oct 21:58 IST",
+      "pub_dt": "2026-10-18T16:28:44+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "b8e9993b022c8e50": {
+      "id": "b8e9993b022c8e50",
+      "title": "Trump claims Russia-Ukraine talks progress",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/trump-claims-great-progress-in-russia-ukraine-negotiations-accuses-zelenskyy-of-not-making-better-deal-2-years-ago/articleshow/135037445.cms",
+      "summary": "",
+      "pub": "19 Oct 06:48 IST",
+      "pub_dt": "2026-10-19T01:18:12+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "0e9b35fe3ed494bf": {
+      "id": "0e9b35fe3ed494bf",
+      "title": "Europe shielded China, India over Russia oil: US",
+      "link": "https://economictimes.indiatimes.com/news/india/waiver-60-day-pause-europe-refused-to-sanction-china-india-over-russia-oil-us/articleshow/135031953.cms",
+      "summary": "",
+      "pub": "18 Oct 22:16 IST",
+      "pub_dt": "2026-10-18T16:46:00+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "776e8d9c40fc681e": {
+      "id": "776e8d9c40fc681e",
+      "title": "Bomb threat diverts Tel Aviv flight",
+      "link": "https://economictimes.indiatimes.com/nri/latest-updates/austrian-airlines-flight-from-tel-aviv-diverts-to-sofia-on-bomb-threat/articleshow/135037412.cms",
+      "summary": "",
+      "pub": "19 Oct 06:40 IST",
+      "pub_dt": "2026-10-19T01:10:06+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "60783d815b307d90": {
+      "id": "60783d815b307d90",
+      "title": "Macron slams riots during protests",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/macron-condemns-those-who-sought-to-bring-down-the-republic-after-rioting-mars-nationwide-protests/articleshow/135037382.cms",
+      "summary": "",
+      "pub": "19 Oct 06:33 IST",
+      "pub_dt": "2026-10-19T01:03:49+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "f12e83d924f055f3": {
+      "id": "f12e83d924f055f3",
+      "title": "Oil tanker on fire in Hormuz",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/oil-tanker-on-fire-after-hitting-mine-in-hormuz-irans-guards/articleshow/135037303.cms",
+      "summary": "",
+      "pub": "19 Oct 06:11 IST",
+      "pub_dt": "2026-10-19T00:41:15+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "54d3d2c47af194fa": {
+      "id": "54d3d2c47af194fa",
+      "title": "Fire at Canada military base kills 4",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/fire-at-canada-military-base-kills-4-at-least-39-hospitalized-including-19-critical/articleshow/135037695.cms",
+      "summary": "Alberta: Four Canadian service members were killed and 39 people injured, including 19 critically, when a fast-moving fire overtook soldiers conducting live-fire combat training at a military base in Alberta, officials said Sunday.Maj. Gen. Wade Rutland said military officials knew about the fire for hours but believed it was sufficiently contained to allow training to continue before winds sudden",
+      "pub": "19 Oct 07:23 IST",
+      "pub_dt": "2026-10-19T01:53:38+00:00",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Industrials",
+        "Telecoms"
+      ],
+      "stocks": [
+        "BEL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "5687d5b5fa3268ce": {
+      "id": "5687d5b5fa3268ce",
+      "title": "Indonesia Said to Meet Monday With MSCI Over Shock Index Threat",
+      "link": "https://www.livemint.com/market/indonesia-said-to-meet-monday-with-msci-over-shock-index-threat-11792381298061.html",
+      "summary": "Indonesian officials plan to meet with MSCI Inc. executives on Monday, according to people familiar with the matter, after saying they were blindsided by the index provider’s threat to reclassify the country as a standalone market — a much more severe step than they thought was under discussion during months of talks.",
+      "pub": "19 Oct 09:11 IST",
+      "pub_dt": "2026-10-19T03:41:37+00:00",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Materials"
+      ],
+      "stocks": [
+        "ACC"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "e61a3084cd7616ad": {
+      "id": "e61a3084cd7616ad",
+      "title": "China State Funds Active as Stocks Post Record Weekly Losing Run",
+      "link": "https://www.livemint.com/market/china-state-funds-active-as-stocks-post-record-weekly-losing-run-11792380629561.html",
+      "summary": "Signs are emerging that a record 10-week losing streak for China’s benchmark stock index has prompted state-backed funds to step up their presence in the market.",
+      "pub": "19 Oct 09:00 IST",
+      "pub_dt": "2026-10-19T03:30:29+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "58553b478b07429f": {
+      "id": "58553b478b07429f",
+      "title": "AI Trade Reversal Pierces Asia’s Star Picks-and-Shovels Stocks",
+      "link": "https://www.livemint.com/market/ai-trade-reversal-pierces-asia-s-star-picks-and-shovels-stocks-11792380443975.html",
+      "summary": "A deepening selloff in US technology stocks is exposing a new vulnerability in Asia’s artificial intelligence trade: mounting financing costs could choke off the spending needed to sustain the boom, threatening earnings across a supply chain that has powered the region’s stock-market rally.",
+      "pub": "19 Oct 08:57 IST",
+      "pub_dt": "2026-10-19T03:27:23+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "e93622035e56953a": {
+      "id": "e93622035e56953a",
+      "title": "IREDA Q2 results 2026 today: PSU stock falls 28% in a year | Should you buy, sell or hold ahead of Q2 earnings FY27?",
+      "link": "https://www.livemint.com/market/stock-market-news/ireda-q2-results-2026-today-psu-stock-falls-28-in-a-year-should-you-buy-ahead-of-earnings-11792377093454.html",
+      "summary": "IREDA Q2 results 2026 today: The PSU stock has remained weak in the near-term by falling over 2% in a month and 16.40% in six months.",
+      "pub": "19 Oct 08:43 IST",
+      "pub_dt": "2026-10-19T03:13:04+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "cb98d4d09a37ba10": {
+      "id": "cb98d4d09a37ba10",
+      "title": "Top stocks to watch today: Hindustan Zinc, IREDA, HDFC Bank, Axis Bank shares in focus on Monday, 19 Oct | Full list",
+      "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-hindustan-zinc-ireda-hdfc-bank-axis-bank-shares-in-focus-on-monday-19-oct-full-list-11792372968971.html",
+      "summary": "Top stocks to watch: Hindustan Zinc, IREDA, Bajaj Finance, HDFC Bank, ICICI Bank, Axis Bank, Vedanta are among the shares that will remain in focus on Monday.",
+      "pub": "19 Oct 07:26 IST",
+      "pub_dt": "2026-10-19T01:56:29+00:00",
+      "sectors": [
+        "Banking",
+        "IT",
+        "Materials"
+      ],
+      "stocks": [
+        "Axis Bank",
+        "Bajaj Finance",
+        "HDFC Bank",
+        "Hind Zinc",
+        "ICICI Bank",
+        "Vedanta"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "9854947e0baf6f5d": {
+      "id": "9854947e0baf6f5d",
+      "title": "Jio Platforms IPO GMP today: Reliance-backed  ₹30,213 cr issue - Listing gains expectations for Oct 28 NSE, BSE debut",
+      "link": "https://www.livemint.com/market/ipo/jio-platforms-ipo-gmp-today-reliance-backed-rs-30-213-cr-issue-listing-gains-expectations-for-oct-28-nse-bse-debut-11792340409791.html",
+      "summary": "Jio Platforms’  ₹30,213 crore IPO is scheduled to open October 21 and close October 23. Its grey market premium was reported at  ₹245– ₹249, suggesting a potential listing price of  ₹1,368 and gains of about 22.25%.",
+      "pub": "19 Oct 07:00 IST",
+      "pub_dt": "2026-10-19T01:30:33+00:00",
+      "sectors": [
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [
+        "Reliance Jio"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "285d97286a470623": {
+      "id": "285d97286a470623",
+      "title": "Stock market outlook today, 19 Oct: Sensex, Nifty prediction - DJIA, S&amp;P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-16-oct-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11792370660030.html",
+      "summary": "Stock market prediction for Monday, 19 October, 2026: Gift Nifty was trading around the 23,117 level, down nearly 2.20 points or 0.01% from the Nifty futures’ previous close, indicating a muted opening for the Indian stock market indices.",
+      "pub": "19 Oct 06:49 IST",
+      "pub_dt": "2026-10-19T01:19:32+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "11cc2701062743e5": {
+      "id": "11cc2701062743e5",
+      "title": "Raja Venkatraman recommends three stocks for 19 October",
+      "link": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-19-october-11792369420859.html",
+      "summary": "Market expert Raja Venkatraman shares his top stock picks for 19 October. Here’s his technical outlook and trade strategy.",
+      "pub": "19 Oct 06:15 IST",
+      "pub_dt": "2026-10-19T00:45:52+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "701420ec31984180": {
+      "id": "701420ec31984180",
+      "title": "Akasa’s 35% revenue growth fails to arrest losses as aviation’s cost squeeze deepens",
+      "link": "https://www.livemint.com/companies/akasa-air-fy26-results-revenue-rises-loss-widens-11792338060164.html",
+      "summary": "Akasa Air’s revenue grew 35% in FY26 as its fleet and network expanded, but its net loss widened 37%. Foreign-exchange losses, aircraft costs and financing expenses weighed on profitability.",
+      "pub": "19 Oct 09:25 IST",
+      "pub_dt": "2026-10-19T03:55:43+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "2682ccce5cfd6909": {
+      "id": "2682ccce5cfd6909",
+      "title": "Microsoft pulls out of Nscale’s UK AI data centre project - here is what happened",
+      "link": "https://www.livemint.com/companies/news/microsoft-pulls-out-of-nscale-s-uk-ai-data-centre-project-here-is-what-happened-11792378600733.html",
+      "summary": "Located in Loughton, Essex, the Microsoft data centre was scheduled to open next year.",
+      "pub": "19 Oct 09:02 IST",
+      "pub_dt": "2026-10-19T03:32:17+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "45d31b461c5b82ae": {
+      "id": "45d31b461c5b82ae",
+      "title": "Delhi CM approves setting up of Go-Delhi Foundation with  ₹50 crore corpus to help startups: Here's what it will do",
+      "link": "https://www.livemint.com/companies/start-ups/delhi-cm-approves-setting-up-of-go-delhi-foundation-with-rs-50-crore-corpus-to-help-startups-heres-what-it-will-do-11792377330913.html",
+      "summary": "Delhi government has approved the Go-Delhi Foundation with a  ₹50 crore corpus to support startups and innovators. It will offer testing facilities, guidance, and investor connections, while helping government departments trial new solutions.&amp;nbsp;",
+      "pub": "19 Oct 08:16 IST",
+      "pub_dt": "2026-10-19T02:46:47+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "2fe7928335bc892c": {
+      "id": "2fe7928335bc892c",
+      "title": "Accenture weighs $1.5 billion sale of Greater China operations amid AI shift, hires JPMorgan for review: Report",
+      "link": "https://www.livemint.com/companies/news/accenture-weighs-1-5-billion-sale-of-greater-china-operations-amid-ai-shift-hires-jpmorgan-for-review-report-11792375064725.html",
+      "summary": "The strategic review comes at a time when Accenture is re-evaluating its resource allocation. Investors are currently debating the long-term impact of AI on the consulting sector.",
+      "pub": "19 Oct 08:00 IST",
+      "pub_dt": "2026-10-19T02:30:11+00:00",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Materials"
+      ],
+      "stocks": [
+        "ACC"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "986dce23f0f1eb47": {
+      "id": "986dce23f0f1eb47",
+      "title": "Ahead of IPO, AI firm Anthropic announces a new ‘public benefit fund’ to commit 5% of its stocks: What we know",
+      "link": "https://www.livemint.com/companies/news/ahead-of-ipo-ai-firm-anthropic-announces-a-new-public-benefit-fund-to-commit-5-of-its-stocks-what-we-know-11792372858462.html",
+      "summary": "Anthropic plans to commit 5% of its shares to a public benefit fund, subject to stockholder approval, with scope to expand the stake as its value grows. Elon Musk suggested giving shares directly to the public. The announcement comes ahead of the AI firm’s IPO, reportedly scheduled for November.",
+      "pub": "19 Oct 07:03 IST",
+      "pub_dt": "2026-10-19T01:33:01+00:00",
+      "sectors": [
+        "IT",
+        "Materials"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
     }
   }
 }
