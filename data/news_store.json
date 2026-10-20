@@ -380504,6 +380504,621 @@
         "reasoning": "",
         "stocks": {}
       }
+    },
+    "58ca21ed2376decb": {
+      "id": "58ca21ed2376decb",
+      "title": "From ₹228 a GB to ₹7.5: How Mukesh Ambani’s Jio rewired India’s internet and is now seeking a ₹10 lakh crore valuation",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/from-228-a-gb-to-7-5-how-mukesh-ambanis-jio-rewired-indias-internet-and-is-now-seeking-a-10-lakh-crore-valuation/articleshow/135053274.cms",
+      "summary": "The company is now asking investors to value it not merely as a telecom operator, but as a broader technology platform spanning 5G, fixed broadband, cloud, entertainment, enterprise services and artificial intelligence.",
+      "pub": "20 Oct 09:30 IST",
+      "pub_dt": "2026-10-20T04:00:00+00:00",
+      "sectors": [
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [
+        "Reliance Jio"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "85d59dde64db1553": {
+      "id": "85d59dde64db1553",
+      "title": "Stock Market Holiday 2026: Is stock market closed today for Dussehra? Check remaining holidays for the year",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-2026-is-stock-market-closed-today-for-dussehra-check-remaining-holidays-for-the-year/articleshow/135059981.cms",
+      "summary": "A total of 16 stock market holidays have been scheduled for 2026, out of which twelve have already passed. After the Dussehra holiday, trading will remain suspended on three more occasions over the remaining two months of the year.",
+      "pub": "20 Oct 07:59 IST",
+      "pub_dt": "2026-10-20T02:29:59+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "130e939c7c55ba19": {
+      "id": "130e939c7c55ba19",
+      "title": "HFCL Q2 net profit jumps 448% to Rs 394 crore",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hfcl-q2-net-profit-jumps-448-to-rs-394-crore/articleshow/135059308.cms",
+      "summary": "Net profit surged 448.14% year-on-year to ₹394.22 crore from ₹71.92 crore a year ago, while revenue increased 143.62% to ₹2,541.79 crore from ₹1,043.34 crore. Sequentially, profit increased 60.49% from the previous month, and revenue rose 32.73%.",
+      "pub": "20 Oct 06:54 IST",
+      "pub_dt": "2026-10-20T01:24:08+00:00",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "c739a5a90431444a": {
+      "id": "c739a5a90431444a",
+      "title": "Steelmakers may outperform non-ferrous peers in Q2 as higher volumes support earnings",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/steelmakers-may-outperform-non-ferrous-peers-in-q2-as-higher-volumes-support-earnings/articleshow/135059274.cms",
+      "summary": "Non-ferrous companies are expected to see a sequential decline in earnings, with revenue and Ebitda expected to fall 2% and 13%, respectively. The decline in average LME aluminium prices is likely to weigh on their profitability.",
+      "pub": "20 Oct 06:48 IST",
+      "pub_dt": "2026-10-20T01:18:51+00:00",
+      "sectors": [
+        "Autos",
+        "Materials"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "43f06ca78e19bdd1": {
+      "id": "43f06ca78e19bdd1",
+      "title": "Global Market: South Korea's Elice shares plunge 28% in market debut as data centre stocks shunned",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-south-koreas-elice-shares-plunge-28-in-market-debut-as-data-centre-stocks-shunned/articleshow/135060541.cms",
+      "summary": "Elice, which raised 201.1 billion won ($150 million) in its IPO, provides AI cloud services as well as AI-based education and business software and plans to spend most of its IPO proceeds on launching portable modular data centres and related infrastructure.",
+      "pub": "20 Oct 08:53 IST",
+      "pub_dt": "2026-10-20T03:23:42+00:00",
+      "sectors": [
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "13197105e7f76b2e": {
+      "id": "13197105e7f76b2e",
+      "title": "Global Market: Japan's Nikkei falls as higher yields, inflation fears weigh",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-falls-as-higher-yields-inflation-fears-weigh/articleshow/135060522.cms",
+      "summary": "Japan's Nikkei share average fell on Tuesday, dragged lower by technology stocks as investors weighed rising bond yields and persistent inflation concerns",
+      "pub": "20 Oct 08:50 IST",
+      "pub_dt": "2026-10-20T03:20:23+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [
+        "Persistent"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "10a5adefd06e946a": {
+      "id": "10a5adefd06e946a",
+      "title": "Oil Price Today (October 20): Crude oil nears $110 again as fresh attacks outweigh easing Russian sanctions. What are experts saying?",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-october-20-crude-oil-nears-110-again-as-fresh-attacks-outweigh-easing-russian-sanctions-what-are-experts-saying/articleshow/135059918.cms",
+      "summary": "Brent crude futures gained 21 cents, or 0.20, to $109.76 a barrel, while US West Texas Intermediate (WTI) crude futures for November delivery, which expire on Tuesday, rose  0.11% to $104 a barrel. Brent had climbed to $110.70 a barrel in the previous session, its highest level since May 20.",
+      "pub": "20 Oct 07:50 IST",
+      "pub_dt": "2026-10-20T02:20:53+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "4a9bbdf02e7300bc": {
+      "id": "4a9bbdf02e7300bc",
+      "title": "Gold slips as investors weigh Fed rate outlook",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-slips-as-investors-weigh-fed-rate-outlook/articleshow/135059635.cms",
+      "summary": "Gold slipped in early Asian trade on Tuesday as investors awaited the US Federal Reserve policy decision next week for signals on interest rates and the broader outlook for monetary policy.",
+      "pub": "20 Oct 07:30 IST",
+      "pub_dt": "2026-10-20T02:00:02+00:00",
+      "sectors": [
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "46874019bd0815b8": {
+      "id": "46874019bd0815b8",
+      "title": "Global Market Today: Asian stocks decline in break from US chip rally",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-decline-in-break-from-us-chip-rally/articleshow/135059346.cms",
+      "summary": "Losses were led by a more than 2% drop in South Korea’s Kospi Index — a bellwether for artificial intelligence investments — as chip heavyweight SK Hynix Inc. headed for its lowest close since April. Data-center infrastructure company Elice Inc. plunged as much as 32% in its trading debut in Seoul.",
+      "pub": "20 Oct 07:01 IST",
+      "pub_dt": "2026-10-20T01:31:55+00:00",
+      "sectors": [
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "BEL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "52a68f7a9c1ea244": {
+      "id": "52a68f7a9c1ea244",
+      "title": "Oil eases as markets assess potential waiver on Russian energy, Middle East supply risks",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-eases-as-markets-assess-potential-waiver-on-russian-energy-middle-east-supply-risks/articleshow/135059323.cms",
+      "summary": "Oil prices fell on Tuesday as markets weighed an executive order from US President Donald Trump that waived some sanctions and tariffs tied to Russian energy exports, while attacks on Saudi Arabia and Yemen kept fears of Middle East supply disruptions in view.",
+      "pub": "20 Oct 06:56 IST",
+      "pub_dt": "2026-10-20T01:26:33+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "9085233714047a6c": {
+      "id": "9085233714047a6c",
+      "title": "India eyes a  $20 billion pot of gold in New Zealand as its trade pact goes live",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-new-zealand-fta-zero-tariffs-work-visas-20-billion-investment-trade-deal/articleshow/135060766.cms",
+      "summary": "The free trade agreement between India and New Zealand promises to promote trade and enhance professional movement. While some goods may enjoy duty-free status, a significant rise in merchandise exports might take time. However, New Zealand's engagement in several service sectors holds potential benefits for Indian companies. The agreement also opens up new job opportunities for Indian students an",
+      "pub": "20 Oct 09:25 IST",
+      "pub_dt": "2026-10-20T03:55:22+00:00",
+      "sectors": [
+        "Autos",
+        "Telecoms"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "c1e0e1213fd165cf": {
+      "id": "c1e0e1213fd165cf",
+      "title": "Divorce not granted; husband to pay Rs 2L for this",
+      "link": "https://economictimes.indiatimes.com/wealth/legal/will/husband-lived-with-another-woman-had-children-with-her-and-sought-divorce-from-his-wife-delhi-hc-denies-divorce-orders-him-to-pay-rs-2-lakh/articleshow/135060476.cms",
+      "summary": "",
+      "pub": "20 Oct 08:58 IST",
+      "pub_dt": "2026-10-20T03:28:25+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "1bd46e2edda3428f": {
+      "id": "1bd46e2edda3428f",
+      "title": "Bond investing: 5 online platforms to buy bonds",
+      "link": "https://economictimes.indiatimes.com/wealth/invest/bond-investing-5-online-platforms-paisabazaar-jiraaf-india-grip-where-you-can-easily-open-online-account-and-invest-in-bonds/articleshow/135048865.cms",
+      "summary": "",
+      "pub": "20 Oct 08:48 IST",
+      "pub_dt": "2026-10-20T03:18:48+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "133097cad57cad5d": {
+      "id": "133097cad57cad5d",
+      "title": "These state govt employees win OPS case",
+      "link": "https://economictimes.indiatimes.com/wealth/legal/will/these-state-govt-employees-can-apply-for-old-pension-scheme-over-nps-if-they-satisfy-the-conditions-in-this-2026-govt-order/articleshow/135060345.cms",
+      "summary": "",
+      "pub": "20 Oct 08:38 IST",
+      "pub_dt": "2026-10-20T03:08:53+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "67313fc771dd8882": {
+      "id": "67313fc771dd8882",
+      "title": "FDA seizes 9.5 tonnes of paneer, khoya in Pune",
+      "link": "https://economictimes.indiatimes.com/news/india/fda-seizes-nearly-9-5-tonnes-of-paneer-khoya-ahead-of-diwali-in-pune/articleshow/135060339.cms",
+      "summary": "",
+      "pub": "20 Oct 08:30 IST",
+      "pub_dt": "2026-10-20T03:00:02+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "4f725a3ad32bf61f": {
+      "id": "4f725a3ad32bf61f",
+      "title": "Are banks open or closed in your state today?",
+      "link": "https://economictimes.indiatimes.com/wealth/save/dussehra-durga-puja-bank-holiday-today-tuesday-october-20-2026-are-banks-open-or-closed-today-in-your-state/articleshow/135048872.cms",
+      "summary": "",
+      "pub": "20 Oct 07:00 IST",
+      "pub_dt": "2026-10-20T01:30:00+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "434342293afb4239": {
+      "id": "434342293afb4239",
+      "title": "Cook wins Rs 4 crore tax demand case in HC",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/rs-24-crore-cash-sales-in-form-26as-rs-4-crore-tax-demand-how-a-five-star-hotel-cook-won-his-case-in-delhi-high-court/articleshow/135060043.cms",
+      "summary": "",
+      "pub": "20 Oct 08:22 IST",
+      "pub_dt": "2026-10-20T02:52:51+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "e364ab4127f1ee96": {
+      "id": "e364ab4127f1ee96",
+      "title": "Deepthi Jeevanji clinches gold in Aichi-Nagoya",
+      "link": "https://economictimes.indiatimes.com/news/sports/other-sports/deepthi-jeevanji-clinches-gold-in-aichi-nagoya-sets-asian-para-games-record-in-womens-400m-t20-event/articleshow/135059723.cms",
+      "summary": "",
+      "pub": "20 Oct 07:35 IST",
+      "pub_dt": "2026-10-20T02:05:43+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "3bbec1be195d3ee3": {
+      "id": "3bbec1be195d3ee3",
+      "title": "Unrest spreads across Europe, setting streets ablaze",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/from-france-to-albania-social-unrest-is-setting-europes-streets-ablaze/articleshow/135054250.cms",
+      "summary": "",
+      "pub": "19 Oct 23:23 IST",
+      "pub_dt": "2026-10-19T17:53:38+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "ef6cb393ce205635": {
+      "id": "ef6cb393ce205635",
+      "title": "A new Chinese export curb could hit India hard",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/china-announces-export-curbs-on-key-machinery-used-in-indias-infrastructure-development/articleshow/135049611.cms",
+      "summary": "",
+      "pub": "19 Oct 18:34 IST",
+      "pub_dt": "2026-10-19T13:04:33+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "a956874bb728e6c2": {
+      "id": "a956874bb728e6c2",
+      "title": "How midterm results could shape Trump's final years",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/the-midterm-election-outcomes-that-could-shape-trumps-final-two-years/articleshow/135059502.cms",
+      "summary": "",
+      "pub": "20 Oct 07:22 IST",
+      "pub_dt": "2026-10-20T01:52:19+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "57e6fd244543716a": {
+      "id": "57e6fd244543716a",
+      "title": "Marco Rubio to to commence three-day visit to India",
+      "link": "https://economictimes.indiatimes.com/news/india/marco-rubio-to-to-commence-three-day-visit-to-india-calls-india-key-ally-says-its-russian-energy-purchases-need-to-be-understood/articleshow/135059291.cms",
+      "summary": "",
+      "pub": "20 Oct 06:52 IST",
+      "pub_dt": "2026-10-20T01:22:33+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "058769f0867f9990": {
+      "id": "058769f0867f9990",
+      "title": "CJI inaugurates Ladakh bench of JK HC",
+      "link": "https://economictimes.indiatimes.com/news/india/historic-milestone-for-administration-of-justice-in-union-territory-of-ladakh-cji-inaugurates-ladakh-bench-of-jk-hc/articleshow/135060348.cms",
+      "summary": "Leh: In a historic milestone for the administration of justice in the Union Territory of Ladakh, Chief Justice of India (CJI) Surya Kant, on Sunday, inaugurated the newly established Ladakh Bench of the High Court of Jammu &amp; Kashmir and Ladakh at Melongthang, Leh.The establishment of the Bench marks a significant step towards bringing justice closer to the people of Ladakh, particularly those ",
+      "pub": "20 Oct 08:28 IST",
+      "pub_dt": "2026-10-20T02:58:47+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "5050b5c25d4c2807": {
+      "id": "5050b5c25d4c2807",
+      "title": "Up 64% in 6 months already; should you still buy Neogen Chemicals? Antique sees 23% upside potential - Check target",
+      "link": "https://www.livemint.com/market/up-64-in-6-months-already-should-you-still-buy-neogen-chemicals-antique-sees-23-upside-potential-check-target-11792425758466.html",
+      "summary": "Antique Stock Broking initiated coverage on Neogen Chemicals with a Buy rating and a  ₹3,050 target price, citing growth potential from battery chemicals, customer approvals and non-Chinese supply-chain demand. It forecasts strong earnings growth through FY30.",
+      "pub": "20 Oct 09:35 IST",
+      "pub_dt": "2026-10-20T04:05:19+00:00",
+      "sectors": [
+        "IT",
+        "Materials"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "8ed9658bff4f764b": {
+      "id": "8ed9658bff4f764b",
+      "title": "Top banking share to buy after Q2 results 2026? HDFC Bank vs Axis Bank vs ICICI Bank vs Yes Bank vs IDBI Bank - Details",
+      "link": "https://www.livemint.com/market/stock-market-news/top-banking-share-to-buy-after-q2-results-2026-hdfc-bank-vs-axis-bank-vs-icici-bank-vs-yes-bank-vs-idbi-bank-details-11792465348383.html",
+      "summary": "Top banking share to buy: While market analysts remain bullish on banking stocks, they have identified the companies best positioned to perform following their Q2 results for 2026.",
+      "pub": "20 Oct 09:08 IST",
+      "pub_dt": "2026-10-20T03:38:39+00:00",
+      "sectors": [
+        "Banking",
+        "IT"
+      ],
+      "stocks": [
+        "Axis Bank",
+        "HDFC Bank",
+        "ICICI Bank"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "33968e6f441e7547": {
+      "id": "33968e6f441e7547",
+      "title": "Reliance Jio IPO review: Apply or not? Bid now or buy shares post NSE, BSE debut? Check GMP, listing price prediction",
+      "link": "https://www.livemint.com/market/ipo/reliance-jio-ipo-review-apply-or-not-bid-now-or-buy-shares-post-nse-bse-debut-check-gmp-listing-price-prediction-11792461309554.html",
+      "summary": "Reliance Jio IPO: The Jio Platforms IPO is attracting a strong grey market premium (GMP) ahead of its subscription opening, according to market observers.",
+      "pub": "20 Oct 08:28 IST",
+      "pub_dt": "2026-10-20T02:58:01+00:00",
+      "sectors": [
+        "Autos",
+        "Materials",
+        "Telecoms"
+      ],
+      "stocks": [
+        "ACC",
+        "Reliance Jio"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "996308eeaa0beca2": {
+      "id": "996308eeaa0beca2",
+      "title": "Expert view: A relief rally toward 23,800–24,200 possible; FPIs may return if dollar, bond yields peak, says Rahul Ghose",
+      "link": "https://www.livemint.com/market/stock-market-news/expert-view-a-relief-rally-toward-23-800-24-200-possible-fpis-may-return-if-dollar-bond-yields-peak-says-rahul-ghose-11792461311690.html",
+      "summary": "Octanom Tech CEO Rahul Ghose expects the Nifty to end the year lower, though oversold conditions could fuel a relief rally to 23,800–24,200. He says foreign investors are unlikely to return until US yields and the dollar peak, while high oil prices may limit broader market gains.",
+      "pub": "20 Oct 07:40 IST",
+      "pub_dt": "2026-10-20T02:10:27+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "77b01b36f9afbe91": {
+      "id": "77b01b36f9afbe91",
+      "title": "Indonesia to Remove Tightly Held Stocks From Key Index",
+      "link": "https://www.livemint.com/market/indonesia-to-remove-tightly-held-stocks-from-key-index-11792461519157.html",
+      "summary": "Indonesia will remove stocks with concentrated ownership from its benchmark equities index, the latest effort to avert a possible downgrade of its market status by MSCI Inc.",
+      "pub": "20 Oct 07:28 IST",
+      "pub_dt": "2026-10-20T01:58:38+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "ede5399644612a27": {
+      "id": "ede5399644612a27",
+      "title": "Global markets today: GIFT Nifty, Nikkei 225, Kospi slide on Tuesday, 20 October | Nasdaq, S&amp;P, DJIA rise up to 1%",
+      "link": "https://www.livemint.com/market/stock-market-news/global-markets-today-gift-nifty-nikkei-225-kospi-t-slide-on-tuesday-20-october-nasdaq-s-p-djia-rise-up-to-1-11792458344691.html",
+      "summary": "Global markets today: South Korea’s Kospi plunged 3.5% at the opening bell, extending losses in semiconductor stocks and trimming its 2026 gains to around 31%, down sharply from nearly 116% at its record closing high in June.",
+      "pub": "20 Oct 07:17 IST",
+      "pub_dt": "2026-10-20T01:47:15+00:00",
+      "sectors": [
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "BEL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "89d6e0fc65c7c100": {
+      "id": "89d6e0fc65c7c100",
+      "title": "Top stocks to buy for short term: Just Dial, BSE, Orient Hotels - Target price, stop-loss by Anand Rathi's expert",
+      "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-for-short-term-just-dial-bse-orient-hotels-target-price-stop-loss-by-anand-rathis-expert-11792400725179.html",
+      "summary": "Top stocks to buy for short term: Analyst Jigar S. Patel recommends avoiding panic and buying dips. He identifies technical setups in Just Dial, Orient Hotels and BSE, giving targets and stop-loss guidance.&amp;nbsp;",
+      "pub": "20 Oct 07:14 IST",
+      "pub_dt": "2026-10-20T01:44:51+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "8e4cf94869f8661b": {
+      "id": "8e4cf94869f8661b",
+      "title": "The changing template of global growth—and what it means for India",
+      "link": "https://www.livemint.com/economy/global-growth-vuca-international-monetary-fund-imf-india-gdp-growth-artificial-intelligence-11792434102444.html",
+      "summary": "The world economy may have remained resilient in 2026, but volatility and unpredictability are far from over, and their impact could weigh on India’s growth trajectory as well.&amp;nbsp;",
+      "pub": "20 Oct 09:00 IST",
+      "pub_dt": "2026-10-20T03:30:22+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "73afebb53b8e44a3": {
+      "id": "73afebb53b8e44a3",
+      "title": "More bad news for Starlink? After India, Ukraine controversies, European telcos plan to launch own satellite service",
+      "link": "https://www.livemint.com/companies/news/more-bad-news-for-starlink-after-india-ukraine-controversies-european-telcos-plan-to-launch-own-satellite-service-11792467505049.html",
+      "summary": "Europe’s four largest telecom companies are exploring plans to launch their own satellite mobile services to reduce reliance on Elon Musk’s Starlink amid rising geopolitical tensions. Starlink has also faced controversies involving India and Ukraine.",
+      "pub": "20 Oct 09:33 IST",
+      "pub_dt": "2026-10-20T04:03:27+00:00",
+      "sectors": [
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "bd061bb288b08722": {
+      "id": "bd061bb288b08722",
+      "title": "Anthropic eyes second $45 billion Nscale deal as 460MW AI data centre plans advance ahead of potential IPO",
+      "link": "https://www.livemint.com/companies/news/anthropic-eyes-second-45-billion-nscale-deal-as-460mw-ai-data-centre-plans-advance-ahead-of-potential-ipo-11792466448988.html",
+      "summary": "Anthropic is negotiating a second potential $45 billion computing deal with Nscale for a 460MW West Virginia data centre as both firms pursue IPO ambitions.",
+      "pub": "20 Oct 09:23 IST",
+      "pub_dt": "2026-10-20T03:53:33+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "c5013aa5ab6500b2": {
+      "id": "c5013aa5ab6500b2",
+      "title": "Tesla sets December vote on Elon Musk’s CEO role &amp; his $158 billion pay package; SpaceX merger stays off ballot",
+      "link": "https://www.livemint.com/companies/people/tesla-sets-december-vote-on-elon-musk-s-ceo-role-and-his-158-billion-pay-package-spacex-merger-stays-off-ballot-11792462765668.html",
+      "summary": "Tesla’s 2026 proxy seeks Musk’s re-election and a vote on his $158 billion reported pay package, but includes no SpaceX merger proposal.",
+      "pub": "20 Oct 08:36 IST",
+      "pub_dt": "2026-10-20T03:06:23+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
     }
   }
 }
