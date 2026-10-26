@@ -402580,6 +402580,1360 @@
         "reasoning": "",
         "stocks": {}
       }
+    },
+    "18dde03060bd93df": {
+      "id": "18dde03060bd93df",
+      "title": "Infosys shares fall 4% after IT major lowers FY27 guidance. What are Goldman Sachs, Nomura, others saying?",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/infosys-shares-fall-4-after-it-major-lowers-fy27-guidance-what-are-goldman-sachs-nomura-others-saying/articleshow/135202432.cms",
+      "summary": "Infosys shares fell sharply on Monday after the IT major cut its FY27 revenue growth guidance to 1-2% from 1.5-3%, citing pricing pressure and a challenging demand environment. While Nomura remains bullish, Goldman Sachs, Morgan Stanley, Citi and Choice Institutional Equities flag growth concerns, with differing ratings and target prices.",
+      "pub": "26 Oct 09:37 IST",
+      "pub_dt": "2026-10-26T04:07:28+00:00",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "HAL",
+        "Infosys"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "e0d71d03d82f1b2a": {
+      "id": "e0d71d03d82f1b2a",
+      "title": "Kotak Mahindra Bank shares climb 4% after Q2 results. What are Jefferies, Goldman Sachs saying?",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/kotak-mahindra-bank-shares-climb-4-after-q2-results-what-are-jefferies-goldman-sachs-saying/articleshow/135202411.cms",
+      "summary": "Kotak Mahindra Bank reported strong Q2FY27 earnings, with consolidated profit rising 26% year-on-year. Jefferies, Goldman Sachs, Motilal Oswal and Nuvama maintained Buy ratings, citing growth prospects and improving earnings outlook.",
+      "pub": "26 Oct 09:36 IST",
+      "pub_dt": "2026-10-26T04:06:22+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT"
+      ],
+      "stocks": [
+        "Kotak Bank",
+        "M&M"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "ac3477f5ed686592": {
+      "id": "ac3477f5ed686592",
+      "title": "Tech picks: Anand Rathi, Cyient among 5 stocks to buy for up to 18% returns in short term",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/tech-picks-anand-rathi-cyient-among-5-stocks-to-buy-for-up-to-18-returns-in-short-term/slideshow/135202421.cms",
+      "summary": "Amid market volatility, investors are becoming more discerning in their stock selections. Anand Rathi, JSW Cement, and Firstsource Solutions are flagged for promising short-term profits. Additionally, Cyient and Ipca Laboratories showcase robust technical indicators, presenting themselves as compelling choices. With significant corporate earnings reports on the horizon, market trends are expected ",
+      "pub": "26 Oct 09:25 IST",
+      "pub_dt": "2026-10-26T03:55:35+00:00",
+      "sectors": [
+        "IT",
+        "Materials"
+      ],
+      "stocks": [
+        "Cyient"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "c428dc1ed5a2e366": {
+      "id": "c428dc1ed5a2e366",
+      "title": "IndusInd Bank shares rise 2% after Q2 results. Why Jefferies cut target price despite lender swinging to profit",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/indusind-bank-shares-in-focus-after-q2-results-why-jefferies-cut-target-despite-lender-swinging-to-profit/articleshow/135202240.cms",
+      "summary": "IndusInd Bank announced a net profit of Rs 1,176 crore for the quarter ending September 2027. The bank's asset quality improved with gross non-performing assets declining to 2.73% from 3.6% a year earlier. Jefferies adjusted its target price for the bank's shares down to Rs 1,130 due to changing credit cost expectations. Motilal Oswal maintained a neutral stance with a target price of Rs 1,050, in",
+      "pub": "26 Oct 09:22 IST",
+      "pub_dt": "2026-10-26T03:52:32+00:00",
+      "sectors": [
+        "Banking",
+        "IT"
+      ],
+      "stocks": [
+        "IndusInd Bank"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "95138cff59c89812": {
+      "id": "95138cff59c89812",
+      "title": "Nifty's PEG ratio near 10-year low but why don't stocks look cheap yet? Valuation paradox explained",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/niftys-peg-ratio-near-10-year-low-but-why-dont-stocks-look-cheap-yet-valuation-paradox-explained/articleshow/135202215.cms",
+      "summary": "Nifty’s PEG ratio approaches a decade low, suggesting an enticing potential for valuation and earnings growth. The substantial drop in the forward P/E ratio has heightened hopes for a market recovery. However, rising bond yields and potential earnings downgrades pose challenges to investor sentiment. Selective opportunities arise across sectors, influenced by enhanced credit growth and evolving de",
+      "pub": "26 Oct 09:19 IST",
+      "pub_dt": "2026-10-26T03:49:48+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "HAL"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "9b5701ae388f4881": {
+      "id": "9b5701ae388f4881",
+      "title": "FSN E-Commerce Ventures among 5 F&amp;O stocks with a sharp rise in futures open interest",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fsn-e-commerce-ventures-among-5-fampo-stocks-with-a-sharp-rise-in-futures-open-interest/slideshow/135202087.cms",
+      "summary": "As of October 23, five NSE F&amp;O stocks recorded more than 7% growth in futures open interest, signalling increased trader participation and fresh position-building. FSN E-Commerce Ventures and Godfrey Phillips India led the list with 10.88% increases each, followed by CG Power, Ujjivan Small Finance Bank and Siemens Energy India.",
+      "pub": "26 Oct 09:02 IST",
+      "pub_dt": "2026-10-26T03:32:40+00:00",
+      "sectors": [
+        "Banking",
+        "E-Commerce",
+        "Industrials"
+      ],
+      "stocks": [
+        "Nykaa",
+        "Siemens"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "b2bab2c098aa73f4": {
+      "id": "b2bab2c098aa73f4",
+      "title": "Jio Platforms IPO Allotment Live Updates: How to check Jio IPO allotment status; GMP signals 22% listing gains",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/jio-platforms-ipo-allotment-status-live-updates-reliance-jio-ipo-gmp-subscription-price-band-listing-date-latest-news/liveblog/135202107.cms",
+      "summary": "",
+      "pub": "26 Oct 09:01 IST",
+      "pub_dt": "2026-10-26T03:31:43+00:00",
+      "sectors": [
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [
+        "Reliance Jio"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "a5e3fc473084b389": {
+      "id": "a5e3fc473084b389",
+      "title": "Ipca Laboratories among 4 stocks showing RSI trending up",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ipca-laboratories-among-4-stocks-showing-rsi-trending-up/slideshow/135201669.cms",
+      "summary": "Ipca Laboratories, Shree Cement, JSW Cement and Oil &amp; Natural Gas Corporation featured in StockEdge’s RSI Trending Up scan on October 23, signalling improving price momentum across four stocks.",
+      "pub": "26 Oct 08:33 IST",
+      "pub_dt": "2026-10-26T03:03:09+00:00",
+      "sectors": [
+        "Materials"
+      ],
+      "stocks": [
+        "Shree Cement"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "c6b6216502a23d0d": {
+      "id": "c6b6216502a23d0d",
+      "title": "ONGC Share Price Live Updates: ONGC's Price Drops Below 20-Day EMA",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ongc-share-price-live-updates-26-oct-2026/liveblog/135201455.cms",
+      "summary": "",
+      "pub": "26 Oct 08:27 IST",
+      "pub_dt": "2026-10-26T02:57:09+00:00",
+      "sectors": [
+        "Industrials"
+      ],
+      "stocks": [
+        "BEL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "0adc005a47b4cb91": {
+      "id": "0adc005a47b4cb91",
+      "title": "Prime Focus among 4 stocks closing above VWAP",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/prime-focus-among-4-stocks-closing-above-vwap/slideshow/135201453.cms",
+      "summary": "Sterlite Technologies, Cemindia Projects, Prime Focus and Gabriel India featured in StockEdge’s VWAP scan on October 23, with closing prices more than 2% above their respective volume-weighted average prices.",
+      "pub": "26 Oct 08:24 IST",
+      "pub_dt": "2026-10-26T02:54:22+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "c72bf802cc6360da": {
+      "id": "c72bf802cc6360da",
+      "title": "CreditAccess Grameen among 4 stocks closing below VWAP",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/creditaccess-grameen-among-4-stocks-closing-below-vwap/slideshow/135201378.cms",
+      "summary": "CreditAccess Grameen, Sagility, Zensar Technologies and Atul featured in StockEdge’s VWAP scan on October 23, with closing prices more than 2% below their respective volume-weighted average prices.",
+      "pub": "26 Oct 08:17 IST",
+      "pub_dt": "2026-10-26T02:47:54+00:00",
+      "sectors": [
+        "Banking",
+        "Industrials",
+        "Materials"
+      ],
+      "stocks": [
+        "ACC",
+        "BEL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "925f26a292e06124": {
+      "id": "925f26a292e06124",
+      "title": "Tata Consumer Share Price Live Updates: Tata Consumer Trading Below Key Support Level",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-consumer-stock-price-live-updates-26-oct-2026/liveblog/135201298.cms",
+      "summary": "",
+      "pub": "26 Oct 08:16 IST",
+      "pub_dt": "2026-10-26T02:46:54+00:00",
+      "sectors": [
+        "Autos",
+        "Industrials"
+      ],
+      "stocks": [
+        "BEL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "c3c258bd7da27eb6": {
+      "id": "c3c258bd7da27eb6",
+      "title": "Adani Ent Share Price Live Updates: Adani Enterprises Reports -7.99% Returns Over the Week",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ent-share-price-live-26-oct-2026/liveblog/135201297.cms",
+      "summary": "",
+      "pub": "26 Oct 08:16 IST",
+      "pub_dt": "2026-10-26T02:46:49+00:00",
+      "sectors": [
+        "Industrials"
+      ],
+      "stocks": [
+        "Adani Enterprises"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "36b8a87a6e378267": {
+      "id": "36b8a87a6e378267",
+      "title": "Kotak Bank Share Price Live Updates: Kotak Bank's Positive Breakout Reflects Market Confidence",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/kotak-bank-share-price-today-live-26-oct-2026/liveblog/135201200.cms",
+      "summary": "",
+      "pub": "26 Oct 08:10 IST",
+      "pub_dt": "2026-10-26T02:40:40+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [
+        "Kotak Bank"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "5332d05da66b859b": {
+      "id": "5332d05da66b859b",
+      "title": "HCL Tech Share Price Live Updates: HCL Tech's monthly returns highlight growth",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hcl-tech-share-price-live-26-oct-2026/liveblog/135201060.cms",
+      "summary": "",
+      "pub": "26 Oct 08:02 IST",
+      "pub_dt": "2026-10-26T02:32:03+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [
+        "HCL Tech"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "90d191e53bb8566c": {
+      "id": "90d191e53bb8566c",
+      "title": "Apollo Hospital Share Price Live Updates: Apollo Hospital Reports Negative Weekly Returns",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-share-price-live-updates-26-oct-2026/liveblog/135201017.cms",
+      "summary": "",
+      "pub": "26 Oct 08:00 IST",
+      "pub_dt": "2026-10-26T02:30:09+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "ad8de094e1492f29": {
+      "id": "ad8de094e1492f29",
+      "title": "Negative Breakout: These 5 stocks cross below their 200 DMAs",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-5-stocks-cross-below-their-200-dmas/slideshow/135200624.cms",
+      "summary": "The 200 DMA is a widely used technical indicator that helps traders assess the overall trend of a stock.",
+      "pub": "26 Oct 07:26 IST",
+      "pub_dt": "2026-10-26T01:56:07+00:00",
+      "sectors": [
+        "Industrials"
+      ],
+      "stocks": [
+        "BEL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "dd10e8f9882eade8": {
+      "id": "dd10e8f9882eade8",
+      "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex drops over 400 pts, Nifty below 22,500; Infosys, UltraTech Cement slip up to 3%",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-infosys-kotak-bank-share-price-26-october-2026/liveblog/135200505.cms",
+      "summary": "",
+      "pub": "26 Oct 07:08 IST",
+      "pub_dt": "2026-10-26T01:38:12+00:00",
+      "sectors": [
+        "IT",
+        "Industrials",
+        "Materials"
+      ],
+      "stocks": [
+        "BEL",
+        "Infosys",
+        "UltraTech"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "aaf14bfbc99b93fa": {
+      "id": "aaf14bfbc99b93fa",
+      "title": "Double-digit growth seen on corporate scoreboard in Q2, but bank, IT, pharma lag",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/double-digit-growth-seen-on-corporate-scoreboard-in-q2-but-bank-it-pharma-lags/articleshow/135200205.cms",
+      "summary": "September quarter earnings exhibited significant revenue and profit growth for various companies in key sectors. Revenue rose by 22.1% with net profit increasing by 27.5%, surpassing the previous quarter. However, banking, IT, and pharmaceuticals sectors experienced a slow down in growth rates. Excluding lending, operating margins improved, indicating stronger performance in non-banking sectors. A",
+      "pub": "26 Oct 06:26 IST",
+      "pub_dt": "2026-10-26T00:56:52+00:00",
+      "sectors": [
+        "Autos",
+        "Banking"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "9f715df1f68b5e9c": {
+      "id": "9f715df1f68b5e9c",
+      "title": "India valuations hit 6-year low, but stocks still expensive than EM peers",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/india-valuations-hit-six-year-low-but-more-expensive-than-em-peers/articleshow/135200136.cms",
+      "summary": "India's equity valuations have reached their lowest levels in six years after a recent market decline. Factors contributing to this decline include foreign selling, a weaker rupee, and rising crude prices. Despite lower valuations, overseas investors remain hesitant to invest in Indian equities due to comparative valuations. The MSCI India Index trades at a premium compared to other emerging marke",
+      "pub": "26 Oct 06:07 IST",
+      "pub_dt": "2026-10-26T00:37:25+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "a310f0116e011674": {
+      "id": "a310f0116e011674",
+      "title": "D-St set for a cautious opening as GIFT Nifty signals muted start",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/135199481.cms",
+      "summary": "Benchmark indices experienced a decline on Friday due to high Brent crude oil prices and global market weakness. Nifty was noted to face immediate resistance at 22,850 levels, with previous week's high acting as a hurdle. The rupee fell against the dollar for the second consecutive day, impacted by rising crude prices. Foreign portfolio investors were net buyers, while domestic institutional inves",
+      "pub": "26 Oct 06:00 IST",
+      "pub_dt": "2026-10-26T00:30:00+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "7ef2844983ab5438": {
+      "id": "7ef2844983ab5438",
+      "title": "Dr Reddy's bets on generic semaglutide, biosimilars",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/dr-reddys-pioneering-the-future-with-generic-semaglutide-and-expanding-biosimilar-portfolio/articleshow/135200343.cms",
+      "summary": "Dr Reddy's domestic formulations business grew in the September quarter, while Revlimid sales declined in North America. A relaunch of generic semaglutide and the US launch of abatacept biosimilar are anticipated for future growth. The company aims to sell millions of pens for semaglutide with a focus on international markets. Furthermore, an expanding biosimilars portfolio aims to strengthen its ",
+      "pub": "26 Oct 01:19 IST",
+      "pub_dt": "2026-10-25T19:49:21+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "ea66b9b3d6e2f2bd": {
+      "id": "ea66b9b3d6e2f2bd",
+      "title": "Insurance commission: NBFCs seek 5-year transition period to reduce selling fee",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/insurance-commission-nbfcs-seek-5-year-transition-period-to-reduce-selling-fee/articleshow/135200328.cms",
+      "summary": "The industry body of NBFCs has told the Insurance Regulatory and Development Authority of India (IRDAI) that the proposed commission caps of 2% for credit life and 5% for credit health insurance would make credit-linked insurance distribution unviable, given distribution costs are about 32% of the premium.",
+      "pub": "26 Oct 00:56 IST",
+      "pub_dt": "2026-10-25T19:26:11+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "43842c5074a3ff48": {
+      "id": "43842c5074a3ff48",
+      "title": "Insurance commission: IRDAI extends time for feedback to October 31",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/insurance-commission-irdai-extends-time-for-feedback-to-october-31/articleshow/135200321.cms",
+      "summary": "The regulator is engaging with different stakeholder groups and has not reached a conclusion on the proposals, IRDAI chairman Ajay Seth had said recently. The objective is to move towards a more efficient regime without disrupting existing businesses or livelihoods. Some stakeholders have sought a longer transition period, while others have raised concerns about low-ticket policies, Seth had said.",
+      "pub": "26 Oct 00:49 IST",
+      "pub_dt": "2026-10-25T19:19:24+00:00",
+      "sectors": [
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "3abf6a793e2e9b2c": {
+      "id": "3abf6a793e2e9b2c",
+      "title": "RBI data centre to strengthen payment systems, cyber resilience",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-data-centre-to-strengthen-payment-systems-cyber-resilience/articleshow/135200305.cms",
+      "summary": "The Reserve Bank of India inaugurated a new sovereign data centre to enhance the resilience of financial services and reduce reliance on third-party cloud providers. Prime Minister Narendra Modi also inaugurated a cybersecurity training institute, which will develop expertise in emerging technologies. The data centre will support critical systems like RTGS and NEFT for efficient financial transact",
+      "pub": "25 Oct 21:56 IST",
+      "pub_dt": "2026-10-25T16:26:59+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "d6e92ff492338c0b": {
+      "id": "d6e92ff492338c0b",
+      "title": "IndusInd Bank shares in focus after Q2 results. Why Jefferies cut target despite lender swinging to profit",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/indusind-bank-shares-in-focus-after-q2-results-why-jefferies-cut-target-despite-lender-swinging-to-profit/articleshow/135202240.cms",
+      "summary": "IndusInd Bank shares will be in focus after the lender reported a Q2 FY27 net profit of Rs 1,176 crore, reversing a year-ago loss of Rs 445 crore. Improved asset quality, lower provisions and stronger fee income supported the performance. Jefferies retained its ‘Buy’ rating but cut its target price to Rs 1,130, while Motilal Oswal maintained a ‘Neutral’ rating with a Rs 1,050 target.",
+      "pub": "26 Oct 09:22 IST",
+      "pub_dt": "2026-10-26T03:52:32+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT"
+      ],
+      "stocks": [
+        "IndusInd Bank"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "74c3bbdb7e4ddd93": {
+      "id": "74c3bbdb7e4ddd93",
+      "title": "PMS Talk: AI, defence and electronics manufacturing are the next growth engines, says Vaibhav Agarwal",
+      "link": "https://economictimes.indiatimes.com/markets/expert-view/pms-talk-ai-defence-and-electronics-manufacturing-are-the-next-growth-engines-says-vaibhav-agarwal/articleshow/135201983.cms",
+      "summary": "In this edition of ETMarkets PMS Talk, we speak with Vaibhav Agarwal, Founder &amp; CIO, Accelt Asset Management LLP, about how his team’s bottom-up stock-picking approach identifies businesses capable of delivering sustained earnings growth. He explains why smallcaps offer opportunities among companies growing earnings at 25–30%, how the GMCV framework — Growth, Management, Capital Efficiency and",
+      "pub": "26 Oct 09:06 IST",
+      "pub_dt": "2026-10-26T03:36:39+00:00",
+      "sectors": [
+        "E-Commerce",
+        "IT",
+        "Industrials",
+        "Materials"
+      ],
+      "stocks": [
+        "ACC",
+        "L&T"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "3f712806a9e744a0": {
+      "id": "3f712806a9e744a0",
+      "title": "Jio Platforms IPO allotment live updates: How to check Jio IPO allotment status; GMP signals 22% listing gains",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/jio-platforms-ipo-allotment-status-live-updates-reliance-jio-ipo-gmp-subscription-price-band-listing-date-latest-news/liveblog/135202107.cms",
+      "summary": "",
+      "pub": "26 Oct 09:01 IST",
+      "pub_dt": "2026-10-26T03:31:43+00:00",
+      "sectors": [
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [
+        "Reliance Jio"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "de553f73d15761de": {
+      "id": "de553f73d15761de",
+      "title": "EAAA India Alternatives IPO opens today: Check GMP, anchor investment and other key details",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/eaaa-india-alternatives-ipo-opens-today-check-gmp-anchor-investment-and-other-key-details/articleshow/135201979.cms",
+      "summary": "EAAA India Alternatives’ Rs 1,200-crore IPO opens on October 26 and closes October 28, 2026, with a price band of Rs 1,585–Rs 1,665 per share. The offer is entirely an OFS. Its grey market premium stands at around 2%. FY26 income rose 23%, while profit increased 15%.",
+      "pub": "26 Oct 09:00 IST",
+      "pub_dt": "2026-10-26T03:30:50+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "766e64ce22921edb": {
+      "id": "766e64ce22921edb",
+      "title": "PMS Talk: How Rs 50 lakh invested in Karma Capital in 2006 grew to Rs 5.4 crore",
+      "link": "https://economictimes.indiatimes.com/markets/expert-view/pms-talk-how-rs-50-lakh-invested-in-karma-capital-in-2006-grew-to-rs-5-4-crore/articleshow/135201700.cms",
+      "summary": "In this edition of ETMarkets PMS Talk, the co-founders discuss the lessons from their 20-year investment journey, how they identify companies before their growth stories become market favourites, and why valuation discipline, management quality and capital protection matter as much as returns. They also share their outlook on India's healthcare and auto component sectors, and explain what investor",
+      "pub": "26 Oct 08:51 IST",
+      "pub_dt": "2026-10-26T03:21:59+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "26a36cdc337e948a": {
+      "id": "26a36cdc337e948a",
+      "title": "Nifty risks 21,500, HDFC Bank eyes ₹640, IT rally shows fatigue: Anand James",
+      "link": "https://economictimes.indiatimes.com/markets/expert-view/nifty-risks-21500-hdfc-bank-eyes-640-it-rally-shows-fatigue-anand-james/articleshow/135201103.cms",
+      "summary": "Indian equities could face another leg of weakness unless the Nifty reclaims 22,800 early next week, with the index strategist Anand James warning that a break below the 22,000–22,070 support zone could open the way towards 21,500. He also sees HDFC Bank’s long-term bullish structure as broken, with the stock vulnerable to ₹640, while the recent IT rebound appears more like a relief rally than a d",
+      "pub": "26 Oct 08:26 IST",
+      "pub_dt": "2026-10-26T02:56:48+00:00",
+      "sectors": [
+        "Banking",
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "BEL",
+        "HDFC Bank"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "061a72c9186f90a8": {
+      "id": "061a72c9186f90a8",
+      "title": "Jio IPO allotment likely today: GMP signals 22% listing gains — Here’s how to check status",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-allotment-likely-today-gmp-signals-22-listing-gains-heres-how-to-check-status/articleshow/135201263.cms",
+      "summary": "The IPO allotment is expected to be finalised today, allowing applicants to check whether they have been allotted shares through the registrar’s website and other online platforms. Jio Platforms shares are scheduled to list on the BSE and NSE on October 28, 2026.",
+      "pub": "26 Oct 08:18 IST",
+      "pub_dt": "2026-10-26T02:48:36+00:00",
+      "sectors": [
+        "E-Commerce",
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [
+        "Reliance Jio"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "17dd7e66caf22215": {
+      "id": "17dd7e66caf22215",
+      "title": "Oil Price Today (October 26): Crude oil at $115, retreats from 6-month high despite lingering concerns. What are experts saying?",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-october-26-crude-oil-at-115-retreats-from-6-month-high-despite-lingering-concerns-what-are-experts-saying/articleshow/135200948.cms",
+      "summary": "US crude futures declined $1.82, or 2%, to $101.48 a barrel, while Brent crude futures dropped $1.50, or 1.72%, to $115 a barrel. Both benchmarks had settled nearly $3 higher on Friday following Houthi attacks in Saudi Arabia that heightened concerns over energy supplies. Brent gained 6% over the week, while US West Texas Intermediate (WTI) rose 2.3%.",
+      "pub": "26 Oct 07:56 IST",
+      "pub_dt": "2026-10-26T02:26:44+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "8f43f05cfceaad1b": {
+      "id": "8f43f05cfceaad1b",
+      "title": "Currency markets subdued ahead of pivotal central bank week",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/currency-markets-subdued-ahead-of-pivotal-central-bank-week/articleshow/135200680.cms",
+      "summary": "As the week kicks off, major currencies hover in narrow trading bands amidst pivotal central bank meetings. Oil prices experienced a decline after hitting a six-month high, affecting the strength of the dollar. Meanwhile, US Treasury yields remain elevated due to lingering inflation worries connected to the rising oil costs. With five significant central banks likely to hold rates steady, market w",
+      "pub": "26 Oct 07:37 IST",
+      "pub_dt": "2026-10-26T02:07:17+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "a7067196920c6e15": {
+      "id": "a7067196920c6e15",
+      "title": "Crude oil is the key to bringing FII money back to Dalal Street: Equirus AMC’s Ashutosh Tiwari",
+      "link": "https://economictimes.indiatimes.com/markets/expert-view/crude-oil-is-the-key-to-bringing-fii-money-back-to-dalal-street-equirus-amcs-ashutosh-tiwari/articleshow/135200515.cms",
+      "summary": "Foreign investors may return to Indian equities only if crude oil prices cool, according to Ashutosh Tiwari, managing director and chief investment officer—public equities at Equirus Asset Management. While valuations have corrected and earnings growth is expected to improve, rising oil prices have emerged as the key trigger behind renewed FII selling and remain the biggest hurdle to a sharper mar",
+      "pub": "26 Oct 07:28 IST",
+      "pub_dt": "2026-10-26T01:58:05+00:00",
+      "sectors": [
+        "Banking",
+        "IT",
+        "Materials"
+      ],
+      "stocks": [
+        "ACC"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "b8ac7af4900367bb": {
+      "id": "b8ac7af4900367bb",
+      "title": "Gold lingers near three-month low ahead of Fed policy meeting",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-lingers-near-three-month-low-ahead-of-fed-policy-meeting/articleshow/135200563.cms",
+      "summary": "Gold prices dipped close to a three-month low, reflecting worries from investors as the Federal Reserve meeting approaches. While an interest rate hike appears more likely for December, this week’s chances remain low. In the oil market, prices fell back after a prior rise, amid ongoing supply worries linked to conflicts.",
+      "pub": "26 Oct 07:24 IST",
+      "pub_dt": "2026-10-26T01:54:08+00:00",
+      "sectors": [
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "e6e553e14689c381": {
+      "id": "e6e553e14689c381",
+      "title": "Oil slips from near six-months highs despite supply concerns",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-slips-from-near-six-months-highs-despite-supply-concerns/articleshow/135200551.cms",
+      "summary": "Oil prices took a dip on Monday after peaking at six-month highs due to rising supply concerns stemming from ongoing militant attacks. US crude futures tumbled sharply, with Brent crude following suit. The heightened fears arose from the recent Houthi attacks in Saudi Arabia, especially after a notable price spike last Friday.",
+      "pub": "26 Oct 07:20 IST",
+      "pub_dt": "2026-10-26T01:50:54+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "5935f9133ae77cf9": {
+      "id": "5935f9133ae77cf9",
+      "title": "Fed expected to pause rate hikes ahead of US midterms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-expected-to-pause-rate-hikes-ahead-of-us-midterms/articleshow/135200484.cms",
+      "summary": "The US Federal Reserve's upcoming meeting is expected to result in steady interest rates. High inflation continues to challenge economic policies, with rates anticipated to rise later this year. The Federal Open Market Committee will analyze data amidst political considerations ahead of the midterm elections. Analysts believe that while inflation remains a concern, a cautious approach will likely ",
+      "pub": "26 Oct 07:14 IST",
+      "pub_dt": "2026-10-26T01:44:05+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "BEL",
+        "HAL",
+        "L&T"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "7cdaeed68d7e742b": {
+      "id": "7cdaeed68d7e742b",
+      "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex drops over 500 pts, Nifty below 22,450; Infosys, UltraTech Cement slip up to 3%",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-infosys-kotak-bank-share-price-26-october-2026/liveblog/135200505.cms",
+      "summary": "",
+      "pub": "26 Oct 07:08 IST",
+      "pub_dt": "2026-10-26T01:38:12+00:00",
+      "sectors": [
+        "IT",
+        "Industrials",
+        "Materials"
+      ],
+      "stocks": [
+        "BEL",
+        "Infosys",
+        "UltraTech"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "8e30ed4fc4ab82a1": {
+      "id": "8e30ed4fc4ab82a1",
+      "title": "Sinking profits turn China’s $3.5 trillion rout into trap",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/sinking-profits-turn-chinas-3-5-trillion-rout-into-trap/articleshow/135200415.cms",
+      "summary": "Chinese stocks are experiencing a significant selloff resulting in a loss of $3.5 trillion since May. Increased competition and declining demand have negatively impacted corporate profits across various industries. Many companies, including major technology firms, are under financial pressure, prompting them to seek additional funding. The third-quarter earnings reports have shown disappointing re",
+      "pub": "26 Oct 07:06 IST",
+      "pub_dt": "2026-10-26T01:36:47+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "db32bd2e0fdcb44a": {
+      "id": "db32bd2e0fdcb44a",
+      "title": "G-Sec yields at three-year peak, could climb to 7.75% by December",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/g-sec-yields-at-three-year-peak-could-climb-to-7-75-by-december/articleshow/135200262.cms",
+      "summary": "India's benchmark 10-year government bond yield is expected to reach 7.75% by December. This increase is influenced by high crude oil prices and tight liquidity conditions. Persistent bond supply and expectations of further monetary tightening are driving the yield higher. Foreign portfolio investors have sold significant amounts of Indian debt, contributing to market instability. Economic concern",
+      "pub": "26 Oct 06:35 IST",
+      "pub_dt": "2026-10-26T01:05:24+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [
+        "Persistent"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "b32d2932bb7a5ef2": {
+      "id": "b32d2932bb7a5ef2",
+      "title": "Global Market Today: Asian shares slip as AI jitters deepen ahead of big tech earnings",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-shares-slip-as-ai-jitters-deepen-ahead-of-big-tech-earnings/articleshow/135200167.cms",
+      "summary": "MSCI Inc.’s Asia Pacific equities gauge fell 0.2% ahead of this season’s busiest earnings week in Asia. US equity-index futures erased earlier gains and traded little changed.",
+      "pub": "26 Oct 06:14 IST",
+      "pub_dt": "2026-10-26T00:44:35+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "1626f8a4dd8df1de": {
+      "id": "1626f8a4dd8df1de",
+      "title": "AI narrative needs to change for India: K Balasubramanian, CEO, Citibank India",
+      "link": "https://economictimes.indiatimes.com/markets/expert-view/ai-narrative-needs-to-change-for-india-k-balasubramanian-ceo-citibank-india/articleshow/135200254.cms",
+      "summary": "Long-term capital-gains tax is a big factor on the equity side. On direct investment, the trade agreements are going to be a big positive. Trade agreements create potentially important UK-India and EU-India corridors. We have been doing a lot of work identifying companies that could benefit and engage with clients. For Citi, that opportunity can flow through services and markets and potentially th",
+      "pub": "26 Oct 00:40 IST",
+      "pub_dt": "2026-10-25T19:10:24+00:00",
+      "sectors": [
+        "Banking",
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "2bfbe92fff11442e": {
+      "id": "2bfbe92fff11442e",
+      "title": "What powers SIR's voter-roll checks?",
+      "link": "https://economictimes.indiatimes.com/news/india/trade-secrets-what-powers-sirs-voter-roll-checks-ec-declines-to-reveal-software-details/articleshow/135201271.cms",
+      "summary": "",
+      "pub": "26 Oct 08:21 IST",
+      "pub_dt": "2026-10-26T02:51:00+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "bd22b637ca78355e": {
+      "id": "bd22b637ca78355e",
+      "title": "The code turns cold as AI scripts a black October",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/the-code-turns-cold-as-ai-scripts-a-black-october/articleshow/135196719.cms",
+      "summary": "",
+      "pub": "26 Oct 06:00 IST",
+      "pub_dt": "2026-10-26T00:30:00+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "7f077568ac0b4ba7": {
+      "id": "7f077568ac0b4ba7",
+      "title": "Top tech and startup stories to start your day with",
+      "link": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/unacademy-founders-plan-ai-fund-flipkarts-premium-push/articleshow/135200550.cms",
+      "summary": "",
+      "pub": "26 Oct 07:34 IST",
+      "pub_dt": "2026-10-26T02:04:54+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "3da3cb82cbf3ba9f": {
+      "id": "3da3cb82cbf3ba9f",
+      "title": "Flipkart to launch ‘Earth’ for sustainable products",
+      "link": "https://economictimes.indiatimes.com/tech/startups/flipkart-plans-to-launch-earth-to-tap-demand-for-premium-sustainable-products/articleshow/135194759.cms",
+      "summary": "",
+      "pub": "26 Oct 06:00 IST",
+      "pub_dt": "2026-10-26T00:30:00+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "596a6e2fc1f87899": {
+      "id": "596a6e2fc1f87899",
+      "title": "Saudi crude finds a new home for 2027",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/saudi-arabia-to-store-crude-oil-in-singapore-from-second-half-of-2027/articleshow/135200518.cms",
+      "summary": "",
+      "pub": "26 Oct 07:34 IST",
+      "pub_dt": "2026-10-26T02:04:52+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "cfaec9049f333b38": {
+      "id": "cfaec9049f333b38",
+      "title": "Unacademy founders plan Rs 700 crore AI, fund",
+      "link": "https://economictimes.indiatimes.com/tech/startups/exclusive-unacademy-founders-gaurav-munjal-roman-saini-plan-rs-700-crore-ai-deeptech-fund/articleshow/135194595.cms",
+      "summary": "",
+      "pub": "26 Oct 06:00 IST",
+      "pub_dt": "2026-10-26T00:30:00+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "fdcab0fcb0f06350": {
+      "id": "fdcab0fcb0f06350",
+      "title": "Musk was behind Starlink speed curb in Ukraine",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/musk-says-he-was-behind-starlink-speed-restriction-after-service-in-ukraine-restored/articleshow/135192130.cms",
+      "summary": "",
+      "pub": "25 Oct 19:00 IST",
+      "pub_dt": "2026-10-25T13:30:06+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "76c19227db4f6f80": {
+      "id": "76c19227db4f6f80",
+      "title": "India’s pvt capex surges, but a few states hold big bets",
+      "link": "https://economictimes.indiatimes.com/news/economy/finance/indias-private-capex-pipeline-surges-39-to-rs-99-7-lakh-crore-risks-rise-report/articleshow/135186243.cms",
+      "summary": "",
+      "pub": "25 Oct 13:27 IST",
+      "pub_dt": "2026-10-25T07:57:04+00:00",
+      "sectors": [
+        "Industrials"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "9a6e0189d4b693f7": {
+      "id": "9a6e0189d4b693f7",
+      "title": "Eloelo in talks to raise $50-60 million",
+      "link": "https://economictimes.indiatimes.com/tech/startups/eloelo-in-talks-to-raise-50-60-million-at-400-million-valuation/articleshow/135194679.cms",
+      "summary": "",
+      "pub": "26 Oct 06:00 IST",
+      "pub_dt": "2026-10-26T00:30:00+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "7cd90d59294d2913": {
+      "id": "7cd90d59294d2913",
+      "title": "Iranians fear a possible return to all-out war",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/iranians-fear-escalating-conflict-as-us-and-israeli-elections-approach-amid-rising-tensions/articleshow/135194383.cms",
+      "summary": "",
+      "pub": "25 Oct 21:58 IST",
+      "pub_dt": "2026-10-25T16:28:51+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "4a8793624d13410c": {
+      "id": "4a8793624d13410c",
+      "title": "'Brazil is no one's backyard': Lula da Silva",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/brazil-is-no-ones-backyard-re-elected-brazilian-presidentlula-da-silva-election-results/articleshow/135200383.cms",
+      "summary": "",
+      "pub": "26 Oct 07:02 IST",
+      "pub_dt": "2026-10-26T01:32:24+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "4eaeeadff545748a": {
+      "id": "4eaeeadff545748a",
+      "title": "Zelenskiy: US warnings on strikes fully resumed",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/zelenskiy-says-us-warnings-on-ballistic-strikes-have-fully-resumed/articleshow/135200258.cms",
+      "summary": "",
+      "pub": "26 Oct 06:32 IST",
+      "pub_dt": "2026-10-26T01:02:01+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "fe35f646aec1772f": {
+      "id": "fe35f646aec1772f",
+      "title": "Cancer therapy gets cheaper, is it good news?",
+      "link": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/rs-1-lakh-to-rs-30000-cancer-immunotherapy-gets-cheaper-but-will-patients-get-the-price-benefit/articleshow/135185711.cms",
+      "summary": "",
+      "pub": "25 Oct 12:47 IST",
+      "pub_dt": "2026-10-25T07:17:34+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "bfbd04d1fc1496cc": {
+      "id": "bfbd04d1fc1496cc",
+      "title": "Kharge makes 'baap' remark on Modi; BJP hits back",
+      "link": "https://economictimes.indiatimes.com/news/politics-and-nation/kharges-baap-remark-on-modi-creates-furore-bjp-says-language-associated-with-thugs/articleshow/135200216.cms",
+      "summary": "",
+      "pub": "26 Oct 06:24 IST",
+      "pub_dt": "2026-10-26T00:54:42+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "4684d302b70bd04c": {
+      "id": "4684d302b70bd04c",
+      "title": "Trump names 2028 US election contenders",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/trump-names-jd-vance-marco-rubio-among-potential-2028-contenders/articleshow/135200930.cms",
+      "summary": "Michigan: US President Donald Trump, offering an early glimpse into the Republican Party's political future, named JD Vance and Marco Rubio among the prominent figures who could run for the White House in 2028, boasting that the GOP possesses a \"great bench\" compared to the Democrats.In an interview with FOX 2's Roop Raj ahead of Michigan rally, when asked directly about who might launch a preside",
+      "pub": "26 Oct 07:53 IST",
+      "pub_dt": "2026-10-26T02:23:29+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "fd57701db75b5294": {
+      "id": "fd57701db75b5294",
+      "title": "Paytm, Sapphire Foods, L&amp;T shares: Buy or sell? Jigar Patel of Anand Rathi suggests strategy - Target, stop-loss",
+      "link": "https://www.livemint.com/market/stock-market-news/paytm-sapphire-foods-l-t-shares-buy-or-sell-jigar-patel-of-anand-rathi-suggests-strategy-target-stoploss-11792985674631.html",
+      "summary": "Rising crude prices accompanied a weekly drop of more than 2% in the Sensex and Nifty. Patel maintains a conditional bullish view on the indices, citing key support levels, and outlines trades.",
+      "pub": "26 Oct 09:24 IST",
+      "pub_dt": "2026-10-26T03:54:37+00:00",
+      "sectors": [
+        "Autos",
+        "E-Commerce",
+        "IT",
+        "Materials"
+      ],
+      "stocks": [
+        "ACC",
+        "Paytm"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "1f5c29c3742fb3d9": {
+      "id": "1f5c29c3742fb3d9",
+      "title": "Q2 results 2026 today, schedule: Paytm, Tata Con, REC among 90 firms to announce quarterly earnings | Full list",
+      "link": "https://www.livemint.com/market/stock-market-news/q2-results-2026-today-schedule-paytm-tata-con-rec-among-90-firms-to-announce-quarterly-earnings-full-list-11792983346368.html",
+      "summary": "Q2 results 2026 today, schedule: Among the key companies set to report their quarterly earnings today are Paytm, Mankind Pharma, Tata Consumer Products, ITC Hotels and REC.",
+      "pub": "26 Oct 09:04 IST",
+      "pub_dt": "2026-10-26T03:34:37+00:00",
+      "sectors": [
+        "E-Commerce"
+      ],
+      "stocks": [
+        "Paytm"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "3a6404762fe131fc": {
+      "id": "3a6404762fe131fc",
+      "title": "Top stocks to buy: Adani Energy, AU Small Finance Bank, BPCL, IDFC First Bank — Jefferies sees up to 62% upside | Target",
+      "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-adani-energy-au-small-finance-bank-bpcl-idfc-first-bank-jefferies-sees-up-to-62-upside-target-11792982712174.html",
+      "summary": "Jefferies India report has predicted 33% upside in IDFC First Bank shares, and 35% upside in BPCL share price",
+      "pub": "26 Oct 08:48 IST",
+      "pub_dt": "2026-10-26T03:18:10+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [
+        "AU SFB"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "8506d3b2d42989a5": {
+      "id": "8506d3b2d42989a5",
+      "title": "Reliance's Jio Platforms IPO allotment today, 26 Oct: Check status online, latest GMP price, share listing prediction",
+      "link": "https://www.livemint.com/market/ipo/reliances-jio-platforms-ipo-allotment-today-26-oct-check-status-online-latest-gmp-price-share-listing-prediction-11792980669475.html",
+      "summary": "JIO IPO Allotment Status: Investors who applied for the Jio Platforms IPO can check their allotment status through the official registrar, KFin Technologies Ltd, and exchanges - BSE and NSE.",
+      "pub": "26 Oct 08:23 IST",
+      "pub_dt": "2026-10-26T02:53:04+00:00",
+      "sectors": [
+        "Telecoms"
+      ],
+      "stocks": [
+        "Reliance Jio"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "0632116def7078f8": {
+      "id": "0632116def7078f8",
+      "title": "Indian shares on track for muted open as oil concerns persist, Fed in focus",
+      "link": "https://www.livemint.com/market/stock-market-news/indian-shares-on-track-for-muted-open-as-oil-concerns-persist-fed-in-focus-11792981672692.html",
+      "summary": "The Nifty 50 and BSE Sensex fell 2.4% and 2.2%, respectively, last week, declining in all four sessions on surging oil prices and West Asia tensions.",
+      "pub": "26 Oct 08:00 IST",
+      "pub_dt": "2026-10-26T02:30:49+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "920b572759fee29a": {
+      "id": "920b572759fee29a",
+      "title": "Top stocks to watch today: Paytm, Mankind Pharma, Infosys, BPCL shares in focus on Monday, 26 Oct | Full list",
+      "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-paytm-mankind-pharma-infosys-bpcl-shares-in-focus-on-monday-26-oct-full-list-11792978063209.html",
+      "summary": "Top stocks to watch today: Paytm, Mankind Pharma, Tata Consumer, ITC Hotels, Infosys, BPCL, Kotak Mahindra Bank, Coforge among shares in focus on Monday.",
+      "pub": "26 Oct 07:31 IST",
+      "pub_dt": "2026-10-26T02:01:46+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "E-Commerce",
+        "IT"
+      ],
+      "stocks": [
+        "Coforge",
+        "Infosys",
+        "Kotak Bank",
+        "M&M",
+        "Paytm"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "aa20c52fc130050f": {
+      "id": "aa20c52fc130050f",
+      "title": "Stock market outlook today, 26 Oct: Sensex, Nifty prediction - DJIA, S&amp;P, NASDAQ, GIFT Nifty, Kospi, Nikkei cues",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-26-oct-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-cues-11792975256498.html",
+      "summary": "Stock market prediction for Monday, 26 October, 2026: Gift Nifty was trading around the 22,535 level, down nearly 72.50 points or 0.32% from the Nifty futures’ previous close, indicating a negative opening for the Indian stock market indices.",
+      "pub": "26 Oct 06:52 IST",
+      "pub_dt": "2026-10-26T01:22:14+00:00",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "363cef0d177119ac": {
+      "id": "363cef0d177119ac",
+      "title": "Capital shifting from secondary market to  ₹5 trillion IPO pipeline: Madhu Lunawat",
+      "link": "https://www.livemint.com/market/stock-market-news/capital-secondary-market-to-5-trillion-ipo-pipeline-madhu-lunawat-11792907791369.html",
+      "summary": "Founder of The Wealth Company Mutual Fund Madhu Lunawat said perceived 10-12% inflation is pushing retail funds into small- mid-caps, and that high valuations and currency depreciation are keeping FIIs cautious.",
+      "pub": "26 Oct 06:30 IST",
+      "pub_dt": "2026-10-26T01:00:39+00:00",
+      "sectors": [
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "160b354c05c213b0": {
+      "id": "160b354c05c213b0",
+      "title": "Infosys’s huge deal wins fail to give it an edge over peers",
+      "link": "https://www.livemint.com/market/mark-to-market/infosys-q2-fy27-quarterly-results-review-11792904482073.html",
+      "summary": "Robust $5.2 billion deal wins in Q2 couldn't prevent Infosys from trimming its full-year growth outlook, leaving it trailing key competitors.",
+      "pub": "26 Oct 06:30 IST",
+      "pub_dt": "2026-10-26T01:00:19+00:00",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [
+        "Infosys"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "1c138c2d57852d99": {
+      "id": "1c138c2d57852d99",
+      "title": "Yen turns into better hedge against AI-driven market shock, thanks to Japan’s policy backdrop changes: Goldman Sachs",
+      "link": "https://www.livemint.com/economy/yen-turns-into-better-hedge-against-ai-driven-market-shock-thanks-to-japan-s-policy-backdrop-changes-goldman-sachs-11792980203876.html",
+      "summary": "Goldman Sachs says the yen is becoming a more effective hedge against an AI-driven market shock as Japan’s policy backdrop reduces its vulnerability to rising global yields.&amp;nbsp;",
+      "pub": "26 Oct 07:42 IST",
+      "pub_dt": "2026-10-26T02:12:58+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "3439f8081e0d246c": {
+      "id": "3439f8081e0d246c",
+      "title": "Elon Musk says SpaceX closed $40 billion debt deal for AI chips as firm ‘investment grade, has Starlink, launch revenue’",
+      "link": "https://www.livemint.com/companies/news/elon-musk-says-spacex-closed-40-billion-debt-deal-for-ai-chips-as-firm-investment-grade-has-starlink-launch-revenue-11792979546399.html",
+      "summary": "SpaceX has closed a $40 billion debt deal to buy Nvidia GPUs for its AI data centers. Billionaire Elon Musk said the company's investment grade, Starlink and launch revenue will support the borrowing.",
+      "pub": "26 Oct 07:42 IST",
+      "pub_dt": "2026-10-26T02:12:02+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
     }
   }
 }
