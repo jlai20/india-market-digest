@@ -430169,6 +430169,712 @@
         "reasoning": "",
         "stocks": {}
       }
+    },
+    "eb09d9f5c6bd0b53": {
+      "id": "eb09d9f5c6bd0b53",
+      "title": "LIC Housing Fin Q2 net profit grows 12% YoY",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/lic-housing-fin-q2-net-profit-grows-12-yoy/articleshow/135388049.cms",
+      "summary": "LIC Housing Finance experienced a 12% year-on-year increase in consolidated net profit, reaching ₹1,507 crore. Total income for the quarter rose by 1.5% compared to the previous year. A notable improvement in asset quality contributed to the positive financial outcome and led to the reversal of impairment charges. Gross non-performing assets decreased significantly, highlighting better loan perfor",
+      "pub": "31 Oct 10:03 IST",
+      "pub_dt": "2026-10-31T04:33:16+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "87caf1382dbce499": {
+      "id": "87caf1382dbce499",
+      "title": "New India slips into red with 1,267 cr loss in Q2",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/new-india-slips-into-red-with-1267-cr-loss-in-q2/articleshow/135387922.cms",
+      "summary": "New India Assurance Company has revealed a concerning net loss of ₹1,267 crore for the September quarter, sharply contrasting with last year's profit of ₹63 crore. The sharp downturn is attributed to underwriting losses in key segments such as property, motor, and health insurance. Despite this, gross written premiums showed a modest increase of 5.14% year-on-year, totaling ₹11,083 crore.",
+      "pub": "31 Oct 10:00 IST",
+      "pub_dt": "2026-10-31T04:30:20+00:00",
+      "sectors": [
+        "Autos",
+        "Banking"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "c2c3fc7d20a5929a": {
+      "id": "c2c3fc7d20a5929a",
+      "title": "Bank of Baroda's Q2 profit surges 36% YoY on NSE stake sale",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bank-of-barodas-q2-profit-surges-36-yoy-on-nse-stake-sale/articleshow/135387894.cms",
+      "summary": "In a remarkable financial performance, Bank of Baroda reported a staggering 36% rise in net profit for the second quarter, reaching ₹6,532 crore. This surge was propelled by significant non-interest income, recoveries from previously written-off accounts, and gains from the partial sale of its stake in the National Stock Exchange.",
+      "pub": "31 Oct 09:59 IST",
+      "pub_dt": "2026-10-31T04:29:30+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT",
+        "Materials"
+      ],
+      "stocks": [
+        "ACC",
+        "Bank of Baroda"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "8def57550ce8b6c4": {
+      "id": "8def57550ce8b6c4",
+      "title": "Reliance Retail Q2 profit takes a hit on Qcomm push",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-retail-q2-profit-takes-a-hit-on-qcomm-push/articleshow/135387788.cms",
+      "summary": "Reliance Retail Ventures reported a significant drop in net profit, down 24.5% year-on-year to ₹2,619 crore in the last quarter. Despite this, revenue improved by 5.8% to ₹80,220 crore, largely driven by a surge in grocery sales. The company's profitability was affected by strategic investments and evolving festive season patterns, alongside rising finance costs stemming from increased borrowing a",
+      "pub": "31 Oct 09:54 IST",
+      "pub_dt": "2026-10-31T04:24:27+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "694aebfd8d0f90e4": {
+      "id": "694aebfd8d0f90e4",
+      "title": "Jio Platforms profit zooms 14% on healthy user mix, digital play",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/jio-platforms-profit-zooms-14-on-healthy-user-mix-digital-play/articleshow/135387627.cms",
+      "summary": "Jio Platforms has unveiled an impressive 14% net profit growth to ₹8,387 crore for the September quarter, achieving a milestone subscriber count of 542 million, which includes 300 million utilizing 5G services. Revenue from operations climbed to ₹40,475 crore, fueled by a surge in digital services and a boost in average revenue per user, now at ₹218.8.",
+      "pub": "31 Oct 09:49 IST",
+      "pub_dt": "2026-10-31T04:19:01+00:00",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [
+        "Reliance Jio"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "6db57e558889a220": {
+      "id": "6db57e558889a220",
+      "title": "Airtel Africa Q2 profit rises 16% to $254 million",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/airtel-africa-q2-profit-rises-16-to-254-million/articleshow/135387563.cms",
+      "summary": "Airtel Africa has revealed a remarkable 15.9% jump in its quarterly net profit, reaching $254 million, fueled by robust revenue growth. The total revenue escalated to $1.97 billion, showcasing a 25.7% rise in reported currency. Operating profit surged by 28.5% to $659 million, while customer numbers soared by 11.6%, pointing to the growing demand for data and mobile money services. The company ach",
+      "pub": "31 Oct 09:47 IST",
+      "pub_dt": "2026-10-31T04:17:49+00:00",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [
+        "Bharti Airtel"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "a13dce41ce669593": {
+      "id": "a13dce41ce669593",
+      "title": "Indian Oil net profit triples YoY to 21,630 cr in Q2",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/indian-oil-net-profit-triples-yoy-to-21630-cr-in-q2/articleshow/135387471.cms",
+      "summary": "Indian Oil experienced a remarkable surge in its net profit, which soared to ₹21,630 crore for the second quarter. This growth can be attributed to elevated pump prices and government subsidies for LPG sales. In contrast, the same quarter last year showcased a profit of only ₹7,610 crore. Moreover, operational revenue increased by 29%, reaching ₹2,62,935 crore, with the firm's operating profit fro",
+      "pub": "31 Oct 09:41 IST",
+      "pub_dt": "2026-10-31T04:11:43+00:00",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "6e7e84cd94c65d72": {
+      "id": "6e7e84cd94c65d72",
+      "title": "GAIL Q2 profit surges over two fold YoY to 4,650 cr despite global disruptions",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/gail-q2-profit-surges-over-two-fold-yoy-to-4650-cr-despite-global-disruptions/articleshow/135387433.cms",
+      "summary": "GAIL (India) has reported a remarkable increase in net profit, reaching ₹4,650 crore for the September quarter, more than double from the previous year. This growth is attributed to heightened gas marketing margins amid global energy supply disruptions. Revenue also surged by 31% to ₹45,924 crore. Furthermore, GAIL has moved forward with plans to list its subsidiary GAIL Gas, enhancing its stock v",
+      "pub": "31 Oct 09:40 IST",
+      "pub_dt": "2026-10-31T04:10:48+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "770e794b6f863567": {
+      "id": "770e794b6f863567",
+      "title": "ZEE profit sinks 40% YoY in Q2, but revenue rises on FIFA subscription growth",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/zee-profit-sinks-40-yoy-in-q2-but-revenue-rises-on-fifa-subscription-growth/articleshow/135387331.cms",
+      "summary": "Zee Entertainment Enterprises faced a sharp drop in consolidated net profit for the quarter ending September 30, 2026, despite a 13% rise in operating revenue to ₹2,225 crore, spurred by FIFA World Cup-related subscriptions. Total costs surged by 18%, largely due to inflated programming and promotional expenses. In a bright spot, ZEE5's revenue surged over twofold, showcasing a successful digital ",
+      "pub": "31 Oct 09:36 IST",
+      "pub_dt": "2026-10-31T04:06:16+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "74701071c3d8df9d": {
+      "id": "74701071c3d8df9d",
+      "title": "Lodha Developers profit rises 28% YoY to Rs 1,013 crore in Sept quarter",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/lodha-developers-profit-rises-28-yoy-to-rs-1013-crore-in-sept-quarter/articleshow/135387254.cms",
+      "summary": "Lodha has announced a remarkable 63% surge in net profit, reaching ₹2,386 crore for the first half of FY27. This growth is driven by impressive operational performance, with net profit for the September quarter rising by 28% to ₹1,013 crore and revenue climbing 18% to ₹4,468 crore. The company’s pre-sales also saw a 10% increase to ₹5,037 crore, alongside plans for expansion in NCR and Bengaluru.",
+      "pub": "31 Oct 09:32 IST",
+      "pub_dt": "2026-10-31T04:02:38+00:00",
+      "sectors": [
+        "Autos",
+        "Industrials"
+      ],
+      "stocks": [
+        "HAL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "bbbacc05d3bf5bf1": {
+      "id": "bbbacc05d3bf5bf1",
+      "title": "Sun Pharma Q2 profit takes a hit on exceptional items",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/sun-pharma-q2-profit-takes-a-hit-on-exceptional-items/articleshow/135387152.cms",
+      "summary": "Sun Pharmaceutical has seen a notable 36% drop in net profit, juxtaposed with an 11.8% rise in consolidated revenue. The uplift in revenue can be attributed largely to strong sales growth in India and emerging markets, particularly in domestic formulations. Conversely, US formulation sales faced a significant downturn. The company also marked progress in its integration planning for the acquisitio",
+      "pub": "31 Oct 09:31 IST",
+      "pub_dt": "2026-10-31T04:01:50+00:00",
+      "sectors": [
+        "Autos",
+        "Materials"
+      ],
+      "stocks": [
+        "UPL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "2e2dc18896bf97ad": {
+      "id": "2e2dc18896bf97ad",
+      "title": "Varun Beverages Q3 net profit rises 13% YoY, but margins fall",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/varun-beverages-q3-net-profit-rises-13-yoy-but-margins-fall/articleshow/135387006.cms",
+      "summary": "Varun Beverages recorded a substantial net profit increase of 13.5% for the quarter ending September 2026. Although there was strong revenue growth attributed to both local and international sales, the company's shares dropped because of shrinking operating margins. Challenges arose from heightened packaging costs and sugar price surges affecting gross margins. Additionally, Varun Beverages solidi",
+      "pub": "31 Oct 09:27 IST",
+      "pub_dt": "2026-10-31T03:57:54+00:00",
+      "sectors": [
+        "Autos",
+        "Industrials"
+      ],
+      "stocks": [
+        "HAL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "cf150178e8866636": {
+      "id": "cf150178e8866636",
+      "title": "Oil-to-chemicals business powers Reliance Industries' record quarterly net profit, up 34% to ₹29,550 crore",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/oil-to-chemicals-business-powers-reliance-industries-record-quarterly-net-profit-up-34-to-29550-crore/articleshow/135387613.cms",
+      "summary": "Reliance Industries Ltd has set a new benchmark with a record net profit of ₹29,550 crore for the September quarter, fueled by significant advancements in the oil-to-chemicals and digital segments. With a yearly revenue surge of 28.5% to ₹3.38 lakh crore, the O2C division's Ebitda skyrocketed 68%, reflecting the advantages of elevated energy prices and the firm’s adaptability in challenging market",
+      "pub": "31 Oct 05:30 IST",
+      "pub_dt": "2026-10-31T00:00:00+00:00",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Industrials",
+        "Materials"
+      ],
+      "stocks": [
+        "HAL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "33049d71c3f31495": {
+      "id": "33049d71c3f31495",
+      "title": "Oil prices soar 14% in October to end at 6-month high as US weighs fresh attacks after midterm elections. More upside ahead?",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-soar-14-in-october-to-end-at-6-month-high-as-us-weighs-fresh-attacks-after-midterm-elections-more-upside-ahead/articleshow/135388221.cms",
+      "summary": "Brent crude rose 13.6% in October to settle at a six-month high of $117.64 a barrel, as fears of fresh US strikes on Iran and threats to shipping through the Strait of Hormuz fuelled supply concerns. Analysts warn of further volatility, with Goldman Sachs flagging a possible rise to $120.",
+      "pub": "31 Oct 10:11 IST",
+      "pub_dt": "2026-10-31T04:41:11+00:00",
+      "sectors": [
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "6a9bc222d675236c": {
+      "id": "6a9bc222d675236c",
+      "title": "Global Markets | European shares stumble at end of best month since June on AI worries",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-european-shares-stumble-at-end-of-best-month-since-june-on-ai-worries/articleshow/135386838.cms",
+      "summary": "European stock markets slid as a global selloff in technology rattled investors, with the pan-European STOXX 600 index closing in negative territory. Concerns over soaring AI infrastructure costs loomed large. However, to add a silver lining, euro zone growth exceeded forecasts amid climbing inflation and borrowing costs, while firms such as Universal Music Group and Sanofi flaunted impressive ear",
+      "pub": "31 Oct 09:18 IST",
+      "pub_dt": "2026-10-31T03:48:26+00:00",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "9b0eb0efe1a7fb7d": {
+      "id": "9b0eb0efe1a7fb7d",
+      "title": "Wall Street Week Ahead: Midterm US elections, earnings, jobs data loom for AI-wary stock market",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-midterm-us-elections-earnings-jobs-data-loom-for-ai-wary-stock-market/articleshow/135386687.cms",
+      "summary": "As we approach the US midterm elections next week, stock investors are bracing for the impact of significant corporate earnings reports. The market is already under pressure due to unsatisfactory AI earnings from leading firms, sparking worries about regulatory challenges. Investor focus will be on earnings from major players like Apple and AMD, with the upcoming jobs report additionally providing",
+      "pub": "31 Oct 09:17 IST",
+      "pub_dt": "2026-10-31T03:47:08+00:00",
+      "sectors": [
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "HAL"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "9ff64dd64b4346f9": {
+      "id": "9ff64dd64b4346f9",
+      "title": "Tech rout drives gold to one-year low, white metals sink deep into oversold zone",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/tech-rout-drives-gold-to-one-year-low-white-metals-sink-deep-into-oversold-zone/articleshow/135386768.cms",
+      "summary": "Gold prices have plummeted to a year-long low, driven by anxiety over AI expenditure trends and declining tech shares. Other precious metals such as silver, platinum, and palladium have similarly seen their values drop sharply. Market experts forecast that precious metals may rebound, particularly if gold stays under $4,000. A decline in demand for silver's industrial and jewelry uses further comp",
+      "pub": "31 Oct 09:16 IST",
+      "pub_dt": "2026-10-31T03:46:29+00:00",
+      "sectors": [
+        "IT",
+        "Materials"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "aa341b482b13d88e": {
+      "id": "aa341b482b13d88e",
+      "title": "'Took stock of our bilateral cooperation': EAM Jaishankar meets US Secy of State Rubio on sidelines of G20",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/took-stock-of-our-bilateral-cooperation-eam-jaishankar-meets-us-secy-of-state-rubio-on-sidelines-of-g20/articleshow/135388035.cms",
+      "summary": "S Jaishankar held a bilateral meeting with US Secretary of State Marco Rubio in Atlanta. The meeting focused on enhancing India-US cooperation and addressing geopolitical issues. Jaishankar emphasized that military solutions are not viable for resolving global challenges. Rubio also highlighted the importance of protecting economic and maritime security during the discussions. The G20 Foreign Mini",
+      "pub": "31 Oct 10:04 IST",
+      "pub_dt": "2026-10-31T04:34:14+00:00",
+      "sectors": [
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "HAL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "18be56f592addd27": {
+      "id": "18be56f592addd27",
+      "title": "Govt extends customs duty exemption on cotton imports till December 31",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/govt-extends-customs-duty-exemption-on-cotton-imports-till-december-31/articleshow/135385169.cms",
+      "summary": "The government has extended the customs duty exemption on cotton imports until December 31, 2026. This extension aims to improve cotton supply and reduce costs for the textile industry. It follows an earlier five-month exemption that was set to expire on October 31. The measure is expected to benefit manufacturers, especially small and medium enterprises, and consumers.",
+      "pub": "31 Oct 08:17 IST",
+      "pub_dt": "2026-10-31T02:47:36+00:00",
+      "sectors": [
+        "E-Commerce",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "00571ebacf364b06": {
+      "id": "00571ebacf364b06",
+      "title": "EAM Jaishankar slams sanctions, chokepoints disrupting global energy trade, holding prices hostage",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/eam-jaishankar-slams-sanctions-chokepoints-disrupting-global-energy-trade-holding-prices-hostage/articleshow/135384017.cms",
+      "summary": "S Jaishankar highlighted the challenges posed by disruptions in global oil supplies during the G20 meeting. He pointed out that the current energy crisis results from unpredictability and significant disruptions. Jaishankar emphasized the need for the G20 to ensure that energy markets remain open and predictable. He also mentioned India's efforts in critical minerals and the necessity for reliable",
+      "pub": "31 Oct 07:32 IST",
+      "pub_dt": "2026-10-31T02:02:15+00:00",
+      "sectors": [
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "HAL"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "9399caef48ec0bd4": {
+      "id": "9399caef48ec0bd4",
+      "title": "SGB: Rs 1 lakh investment turns into Rs 3 lakh",
+      "link": "https://economictimes.indiatimes.com/wealth/invest/sgb-premature-exit-date-on-november-2-2026-rs-1-lakh-invested-in-this-sovereign-gold-bond-grows-to-rs-3-lakh-in-5-years/articleshow/135387482.cms",
+      "summary": "",
+      "pub": "31 Oct 09:41 IST",
+      "pub_dt": "2026-10-31T04:11:41+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "20d5aa5f59528495": {
+      "id": "20d5aa5f59528495",
+      "title": "India warns UN against politicising human rights",
+      "link": "https://economictimes.indiatimes.com/news/india/india-urges-un-to-advance-human-rights-through-dialogue-cautions-against-political-bias/articleshow/135387358.cms",
+      "summary": "",
+      "pub": "31 Oct 09:35 IST",
+      "pub_dt": "2026-10-31T04:05:33+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "2306d276f00bf91b": {
+      "id": "2306d276f00bf91b",
+      "title": "Delhi's 15-day curbs: Construction ban, 50% WFH",
+      "link": "https://economictimes.indiatimes.com/news/india/delhi-ncr-pollution-caqm-orders-construction-ban-50-work-from-home-from-november-5-to-20/articleshow/135387033.cms",
+      "summary": "",
+      "pub": "31 Oct 09:29 IST",
+      "pub_dt": "2026-10-31T03:59:14+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "311cbae0acac336e": {
+      "id": "311cbae0acac336e",
+      "title": "Married sisters win share in father’s properties",
+      "link": "https://economictimes.indiatimes.com/wealth/legal/will/once-fathers-property-is-proved-as-joint-property-married-hindu-daughters-can-claim-a-right-in-it-and-demand-partition-rules-karnataka-high-court/articleshow/135385942.cms",
+      "summary": "",
+      "pub": "31 Oct 09:20 IST",
+      "pub_dt": "2026-10-31T03:50:55+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "cc12831deffc0a37": {
+      "id": "cc12831deffc0a37",
+      "title": "FDA officials face heat over raids beyond turf",
+      "link": "https://economictimes.indiatimes.com/news/india/4-fda-officials-suspended-over-alleged-unauthorised-raids-in-pune-21-others-to-face-inquiry/articleshow/135386364.cms",
+      "summary": "",
+      "pub": "31 Oct 09:13 IST",
+      "pub_dt": "2026-10-31T03:43:29+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "8cc97919c7063de2": {
+      "id": "8cc97919c7063de2",
+      "title": "Congress expels Kripa Alva over 'sting operation'",
+      "link": "https://economictimes.indiatimes.com/news/politics-and-nation/congress-expels-kripa-alva-in-connection-with-sting-operation/articleshow/135386357.cms",
+      "summary": "",
+      "pub": "31 Oct 09:05 IST",
+      "pub_dt": "2026-10-31T03:35:34+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "0c0429b6e28b0eb3": {
+      "id": "0c0429b6e28b0eb3",
+      "title": "Are banks closed on 5th Saturday of month?",
+      "link": "https://economictimes.indiatimes.com/wealth/save/saturday-bank-holiday-are-banks-open-or-closed-today-on-october-31-2026/articleshow/135360339.cms",
+      "summary": "",
+      "pub": "31 Oct 07:00 IST",
+      "pub_dt": "2026-10-31T01:30:00+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "c59e9043dce1497a": {
+      "id": "c59e9043dce1497a",
+      "title": "8th CPC: Pension estimates for Rs 25K-Rs 75K payouts",
+      "link": "https://economictimes.indiatimes.com/wealth/save/8th-pay-commission-latest-news-salary-pension-calculator-how-rs-25000-to-rs-75000-basic-pensions-can-change-at-2-0-2-25-and-2-57-fitment-factors/articleshow/135385762.cms",
+      "summary": "",
+      "pub": "31 Oct 08:50 IST",
+      "pub_dt": "2026-10-31T03:20:55+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "19bf7eed026a12a9": {
+      "id": "19bf7eed026a12a9",
+      "title": "Iran-US draft proposes Hormuz reopening in 7 days",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/iran-us-draft-proposes-uranium-transfer-hormuz-reopening-within-7-days-report/articleshow/135384833.cms",
+      "summary": "",
+      "pub": "31 Oct 07:57 IST",
+      "pub_dt": "2026-10-31T02:27:08+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "b368482fb35ca17e": {
+      "id": "b368482fb35ca17e",
+      "title": "France braces for Halloween protests",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/france-braces-for-fresh-unrest-as-70000-police-deploy-for-halloween-protests/articleshow/135384399.cms",
+      "summary": "",
+      "pub": "31 Oct 07:52 IST",
+      "pub_dt": "2026-10-31T02:22:41+00:00",
+      "sectors": [
+        "Industrials"
+      ],
+      "stocks": [
+        "HAL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "f139912e63eecd13": {
+      "id": "f139912e63eecd13",
+      "title": "McDonald's McRib claims leave judge unconvinced",
+      "link": "https://economictimes.indiatimes.com/news/international/business/mcdonalds-faces-mcrib-fraud-lawsuit-as-us-judge-rejects-bid-to-dismiss-consumer-claims/articleshow/135384409.cms",
+      "summary": "",
+      "pub": "31 Oct 07:46 IST",
+      "pub_dt": "2026-10-31T02:16:05+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "d2a432f808be3c90": {
+      "id": "d2a432f808be3c90",
+      "title": "Halloween rallies: Gen Z protests reach Germany",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/gen-z-protests-reach-germany-as-over-160000-expected-at-halloween-rallies/articleshow/135384385.cms",
+      "summary": "",
+      "pub": "31 Oct 07:38 IST",
+      "pub_dt": "2026-10-31T02:08:52+00:00",
+      "sectors": [
+        "Industrials"
+      ],
+      "stocks": [
+        "HAL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "c5793ae5729cc348": {
+      "id": "c5793ae5729cc348",
+      "title": "EAM Jaishankar slams sanctions, chokepoints",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/eam-jaishankar-slams-sanctions-chokepoints-disrupting-global-energy-trade-holding-prices-hostage/articleshow/135384017.cms",
+      "summary": "",
+      "pub": "31 Oct 07:32 IST",
+      "pub_dt": "2026-10-31T02:02:15+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "6b30a9661c56ede1": {
+      "id": "6b30a9661c56ede1",
+      "title": "India-Brazil bilateral trade to reach $20 bn: Envoy",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-brazil-bilateral-trade-set-to-reach-20-bn-with-focus-on-critical-minerals-ai-defence-envoy/articleshow/135383999.cms",
+      "summary": "",
+      "pub": "31 Oct 07:23 IST",
+      "pub_dt": "2026-10-31T01:53:37+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "8976a97ffe7b4ac3": {
+      "id": "8976a97ffe7b4ac3",
+      "title": "Govt extends cotton import duty relief",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/govt-extends-customs-duty-exemption-on-cotton-imports-till-december-31/articleshow/135385169.cms",
+      "summary": "The government has extended the customs duty exemption on cotton imports by two months till December 31, 2026, to improve supplies and ease input costs for the domestic textile and apparel industry, PTI reported on Saturday.The extension follows the five-month exemption announced in May, which was due to expire on October 31.The move is expected to improve cotton availability in the domestic marke",
+      "pub": "31 Oct 08:17 IST",
+      "pub_dt": "2026-10-31T02:47:36+00:00",
+      "sectors": [
+        "E-Commerce",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "ebd2377cb71d6989": {
+      "id": "ebd2377cb71d6989",
+      "title": "India lifted 49.6 crore people out of poverty between 2011 and 2023, says World Bank report - Here is how it was done",
+      "link": "https://www.livemint.com/economy/india-lifted-49-6-crore-people-out-of-poverty-between-2011-and-2023-says-world-bank-report-here-is-how-it-was-done-11793419126241.html",
+      "summary": "The World Bank says India lifted an estimated 496 million people out of poverty between 2011 and 2023. Extreme poverty fell from 27.1% to 2.6%, driven by consumption growth, rising employment—particularly among women—and expanded social transfers.",
+      "pub": "31 Oct 09:34 IST",
+      "pub_dt": "2026-10-31T04:04:51+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "066d1c3f4b68126d": {
+      "id": "066d1c3f4b68126d",
+      "title": "US oil giants ExxonMobil, Chevron beat profit forecasts as wars in Iran, Ukraine spike domestic refining",
+      "link": "https://www.livemint.com/companies/news/us-oil-giants-exxonmobil-chevron-beat-profit-forecasts-as-wars-in-iran-ukraine-spike-domestic-refining-11793415842594.html",
+      "summary": "ExxonMobil and Chevron posted stronger-than-expected quarterly profits amid soaring refining margins tied to disruptions in the Middle East and Russia-Ukraine war. Exxon’s refining earnings hit a record, and Chevron reported robust refinery activity.&amp;nbsp;",
+      "pub": "31 Oct 08:47 IST",
+      "pub_dt": "2026-10-31T03:17:27+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
     }
   }
 }
