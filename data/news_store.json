@@ -471108,6 +471108,1833 @@
         "reasoning": "",
         "stocks": {}
       }
+    },
+    "2dc9bc4ba6f8a0e3": {
+      "id": "2dc9bc4ba6f8a0e3",
+      "title": "Positive Breakout: These 5 stocks rose above their 200 DMAs",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-5-stocks-rose-above-their-200-dmas/slideshow/135725922.cms",
+      "summary": "Six Nifty 500 stocks gained over 2% and crossed above their respective 200-day moving averages on November 9, according to StockEdge data. A move above the 200-DMA is widely seen as a bullish technical signal, suggesting a potential shift towards an uptrend.",
+      "pub": "11 Nov 10:04 IST",
+      "pub_dt": "2026-11-11T04:34:09+00:00",
+      "sectors": [
+        "IT",
+        "Materials"
+      ],
+      "stocks": [
+        "ACC"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "9d4be9691262dbbf": {
+      "id": "9d4be9691262dbbf",
+      "title": "Punjab National Bank among 7 stocks showing White Marubozu pattern",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/punjab-national-bank-among-7-stocks-showing-white-marubozu-pattern/slideshow/135725226.cms",
+      "summary": "Seven Nifty500 stocks featured in StockEdge’s White Marubozu bullish scanner on November 9, indicating strong upward price momentum during the session. Banking stocks dominated the list, with gains ranging from 4% to 5.6%.",
+      "pub": "11 Nov 09:23 IST",
+      "pub_dt": "2026-11-11T03:53:27+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT"
+      ],
+      "stocks": [
+        "PNB"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "716202243dc497a0": {
+      "id": "716202243dc497a0",
+      "title": "Union Bank of India among 5 stocks closing above VWAP",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/union-bank-of-india-among-5-stocks-closing-above-vwap/slideshow/135725070.cms",
+      "summary": "Five Nifty500 stocks closed more than 2% above their respective volume-weighted average prices on November 9, according to StockEdge’s technical scan, indicating positive price action during the session.",
+      "pub": "11 Nov 09:13 IST",
+      "pub_dt": "2026-11-11T03:43:28+00:00",
+      "sectors": [
+        "Banking",
+        "Materials"
+      ],
+      "stocks": [
+        "ACC"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "f7fe1c7bb93d6faa": {
+      "id": "f7fe1c7bb93d6faa",
+      "title": "Bharat Dynamics among 5 stocks showing RSI trending up",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bharat-dynamics-among-5-stocks-showing-rsi-trending-up/slideshow/135724716.cms",
+      "summary": "Five Nifty500 stocks that gained over 3% on November 9 featured in StockEdge’s RSI Trending Up scan, with their Relative Strength Index (RSI) crossing above 50 from below, signalling strengthening price momentum.",
+      "pub": "11 Nov 09:01 IST",
+      "pub_dt": "2026-11-11T03:31:18+00:00",
+      "sectors": [
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "BEL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "b93106df0c6185fa": {
+      "id": "b93106df0c6185fa",
+      "title": "Coal India Share Price Live Updates: Coal India Ltd Stock Details",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/coal-india-ltd-share-price-today-live-11-nov-2026/liveblog/135724213.cms",
+      "summary": "",
+      "pub": "11 Nov 08:40 IST",
+      "pub_dt": "2026-11-11T03:10:51+00:00",
+      "sectors": [
+        "IT",
+        "Materials"
+      ],
+      "stocks": [
+        "Coal India"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "b73b917dec1d621a": {
+      "id": "b73b917dec1d621a",
+      "title": "SBI Life Share Price Live Updates: SBI Life Stock Details",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-life-stock-price-today-live-11-nov-2026/liveblog/135724210.cms",
+      "summary": "",
+      "pub": "11 Nov 08:40 IST",
+      "pub_dt": "2026-11-11T03:10:40+00:00",
+      "sectors": [
+        "Banking",
+        "IT"
+      ],
+      "stocks": [
+        "SBI",
+        "SBI Life"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "29b6ab1e711a51d6": {
+      "id": "29b6ab1e711a51d6",
+      "title": "HDFC Life Share Price Live Updates: HDFC Life Price Movement Today",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-life-share-price-today-live-11-nov-2026/liveblog/135724204.cms",
+      "summary": "",
+      "pub": "11 Nov 08:40 IST",
+      "pub_dt": "2026-11-11T03:10:31+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [
+        "HDFC Life"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "a9738a68b12d8059": {
+      "id": "a9738a68b12d8059",
+      "title": "Kotak Bank Share Price Live Updates: Kotak Bank Stock Details",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/kotak-bank-share-price-today-live-updates-11-nov-2026/liveblog/135724188.cms",
+      "summary": "",
+      "pub": "11 Nov 08:40 IST",
+      "pub_dt": "2026-11-11T03:10:06+00:00",
+      "sectors": [
+        "Banking",
+        "IT"
+      ],
+      "stocks": [
+        "Kotak Bank"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "2efac69f145ffb6c": {
+      "id": "2efac69f145ffb6c",
+      "title": "Wipro Share Price Live Updates: Wipro's Current Market Position",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/wipro-stock-price-live-updates-11-nov-2026/liveblog/135723900.cms",
+      "summary": "",
+      "pub": "11 Nov 08:30 IST",
+      "pub_dt": "2026-11-11T03:00:14+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [
+        "Wipro"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "8e8fcb4562b95b8c": {
+      "id": "8e8fcb4562b95b8c",
+      "title": "HUL Share Price Live Updates: HUL Breaks Above Key Technical Indicator",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hul-share-price-today-live-updates-11-nov-2026/liveblog/135723890.cms",
+      "summary": "",
+      "pub": "11 Nov 08:30 IST",
+      "pub_dt": "2026-11-11T03:00:08+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "81f74e2613ebe40a": {
+      "id": "81f74e2613ebe40a",
+      "title": "Axis Bank Share Price Live Updates: Axis Bank's Performance Overview",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-stock-price-live-updates-11-nov-2026/liveblog/135723764.cms",
+      "summary": "",
+      "pub": "11 Nov 08:25 IST",
+      "pub_dt": "2026-11-11T02:55:30+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [
+        "Axis Bank"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "321f8fb9a55843ca": {
+      "id": "321f8fb9a55843ca",
+      "title": "ICICI Bank Share Price Live Updates: ICICI Bank's Current Trading Price",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-today-live-11-nov-2026/liveblog/135723758.cms",
+      "summary": "",
+      "pub": "11 Nov 08:25 IST",
+      "pub_dt": "2026-11-11T02:55:23+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [
+        "ICICI Bank"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "2242af02123a056a": {
+      "id": "2242af02123a056a",
+      "title": "Hero MotoCorp Share Price Live Updates: Hero MotoCorp's Current Trading Price",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hero-motocorp-share-price-live-11-nov-2026/liveblog/135723568.cms",
+      "summary": "",
+      "pub": "11 Nov 08:20 IST",
+      "pub_dt": "2026-11-11T02:50:05+00:00",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [
+        "Hero MotoCorp"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "fc52da4634bd71d9": {
+      "id": "fc52da4634bd71d9",
+      "title": "M&amp;M Share Price Live Updates: M&amp;M's Stock Surges Past Resistance",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/mm-share-price-today-live-11-nov-2026/liveblog/135723505.cms",
+      "summary": "",
+      "pub": "11 Nov 08:17 IST",
+      "pub_dt": "2026-11-11T02:47:18+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "1a7bd3520a4c9902": {
+      "id": "1a7bd3520a4c9902",
+      "title": "Jio Financial Services Share Price Live Updates: Jio Financial Services Shows Positive Momentum",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-stock-price-live-updates-11-nov-2026/liveblog/135723494.cms",
+      "summary": "",
+      "pub": "11 Nov 08:16 IST",
+      "pub_dt": "2026-11-11T02:46:53+00:00",
+      "sectors": [
+        "Banking",
+        "Telecoms"
+      ],
+      "stocks": [
+        "Reliance Jio"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "40f68cc7a06475ef": {
+      "id": "40f68cc7a06475ef",
+      "title": "Bajaj Finserv Share Price Live Updates: Bajaj Finserv Market Performance",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-share-price-live-11-nov-2026/liveblog/135723489.cms",
+      "summary": "",
+      "pub": "11 Nov 08:16 IST",
+      "pub_dt": "2026-11-11T02:46:36+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [
+        "Bajaj Finserv"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "02b58c8c3ec2dadb": {
+      "id": "02b58c8c3ec2dadb",
+      "title": "Bharti Airtel Share Price Live Updates: Bharti Airtel Stock Details",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bharti-airtel-share-price-today-live-11-nov-2026/liveblog/135723485.cms",
+      "summary": "",
+      "pub": "11 Nov 08:16 IST",
+      "pub_dt": "2026-11-11T02:46:31+00:00",
+      "sectors": [
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [
+        "Bharti Airtel"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "47a83bb2bda966a2": {
+      "id": "47a83bb2bda966a2",
+      "title": "L&amp;T Share Price Live Updates: L&amp;T Price Movement: Today's Change and EMA Analysis",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/lt-share-price-live-11-nov-2026/liveblog/135723475.cms",
+      "summary": "",
+      "pub": "11 Nov 08:15 IST",
+      "pub_dt": "2026-11-11T02:45:24+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "ce9e275b20475dc5": {
+      "id": "ce9e275b20475dc5",
+      "title": "Hindalco Share Price Live Updates: Hindalco's Market Update",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hindalco-share-price-today-live-11-nov-2026/liveblog/135723468.cms",
+      "summary": "",
+      "pub": "11 Nov 08:15 IST",
+      "pub_dt": "2026-11-11T02:45:07+00:00",
+      "sectors": [
+        "Materials"
+      ],
+      "stocks": [
+        "Hindalco"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "1da754f75e053cf0": {
+      "id": "1da754f75e053cf0",
+      "title": "NTPC Share Price Live Updates: NTPC Achieves New Heights Above 100-Day EMA",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ntpc-share-price-live-updates-11-nov-2026/liveblog/135723467.cms",
+      "summary": "",
+      "pub": "11 Nov 08:15 IST",
+      "pub_dt": "2026-11-11T02:45:06+00:00",
+      "sectors": [
+        "Autos",
+        "Industrials"
+      ],
+      "stocks": [
+        "NTPC"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "6f2416ef9dfa874d": {
+      "id": "6f2416ef9dfa874d",
+      "title": "UPL Share Price Live Updates: UPL's Daily Performance Update",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/upl-share-price-live-11-nov-2026/liveblog/135723402.cms",
+      "summary": "",
+      "pub": "11 Nov 08:10 IST",
+      "pub_dt": "2026-11-11T02:40:24+00:00",
+      "sectors": [
+        "IT",
+        "Materials"
+      ],
+      "stocks": [
+        "UPL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "d8b3374f07fd2f50": {
+      "id": "d8b3374f07fd2f50",
+      "title": "SBI Share Price Live Updates: SBI's Price Movement Today",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-share-price-live-updates-11-nov-2026/liveblog/135723391.cms",
+      "summary": "",
+      "pub": "11 Nov 08:10 IST",
+      "pub_dt": "2026-11-11T02:40:06+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [
+        "SBI"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "6e90ffa65beba701": {
+      "id": "6e90ffa65beba701",
+      "title": "Cipla Share Price Live Updates: Cipla's Daily Performance Update",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-share-price-today-live-updates-11-nov-2026/liveblog/135723256.cms",
+      "summary": "",
+      "pub": "11 Nov 08:04 IST",
+      "pub_dt": "2026-11-11T02:34:59+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "b09f583ae389501b": {
+      "id": "b09f583ae389501b",
+      "title": "Divis Labs Share Price Live Updates: Divis Labs Price Decline Insights",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-stock-price-live-updates-11-nov-2026/liveblog/135723250.cms",
+      "summary": "",
+      "pub": "11 Nov 08:04 IST",
+      "pub_dt": "2026-11-11T02:34:41+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "d9cf477dda2e3af9": {
+      "id": "d9cf477dda2e3af9",
+      "title": "ONGC Share Price Live Updates: ONGC's Current Market Performance",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ongc-share-price-live-updates-11-nov-2026/liveblog/135723245.cms",
+      "summary": "",
+      "pub": "11 Nov 08:04 IST",
+      "pub_dt": "2026-11-11T02:34:22+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "eab0dda057048c5f": {
+      "id": "eab0dda057048c5f",
+      "title": "JSW Steel Share Price Live Updates: JSW Steel Price and Volume Analysis",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jsw-steel-stock-price-live-updates-11-nov-2026/liveblog/135723240.cms",
+      "summary": "",
+      "pub": "11 Nov 08:03 IST",
+      "pub_dt": "2026-11-11T02:33:58+00:00",
+      "sectors": [
+        "Materials"
+      ],
+      "stocks": [
+        "JSW Steel"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "ea80bd078e5f81d3": {
+      "id": "ea80bd078e5f81d3",
+      "title": "Bajaj Auto Share Price Live Updates: Bajaj Auto Stock Details",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-auto-share-price-live-updates-11-nov-2026/liveblog/135723210.cms",
+      "summary": "",
+      "pub": "11 Nov 08:02 IST",
+      "pub_dt": "2026-11-11T02:32:42+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [
+        "Bajaj Auto"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "e650ccba86900786": {
+      "id": "e650ccba86900786",
+      "title": "Maruti Suzuki Share Price Live Updates: Maruti Suzuki Stock Details",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-stock-price-live-updates-11-nov-2026/liveblog/135723194.cms",
+      "summary": "",
+      "pub": "11 Nov 08:01 IST",
+      "pub_dt": "2026-11-11T02:31:33+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [
+        "Maruti Suzuki"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "02c57e6d82ad59ce": {
+      "id": "02c57e6d82ad59ce",
+      "title": "Eicher Motors Share Price Live Updates: Eicher Motors Stock Update",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-share-price-live-11-nov-2026/liveblog/135723173.cms",
+      "summary": "",
+      "pub": "11 Nov 08:00 IST",
+      "pub_dt": "2026-11-11T02:30:35+00:00",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [
+        "Eicher Motors"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "345a355cf0a94723": {
+      "id": "345a355cf0a94723",
+      "title": "HDFC Bank Share Price Live Updates: HDFC Bank Stock Details",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-today-live-11-nov-2026/liveblog/135723169.cms",
+      "summary": "",
+      "pub": "11 Nov 08:00 IST",
+      "pub_dt": "2026-11-11T02:30:29+00:00",
+      "sectors": [
+        "Banking",
+        "IT"
+      ],
+      "stocks": [
+        "HDFC Bank"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "daeb9f528dd42527": {
+      "id": "daeb9f528dd42527",
+      "title": "Grasim Inds Share Price Live Updates: Grasim Inds. Stock Details",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/grasim-inds-share-price-today-live-updates-11-nov-2026/liveblog/135723166.cms",
+      "summary": "",
+      "pub": "11 Nov 08:00 IST",
+      "pub_dt": "2026-11-11T02:30:19+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "be89851dadd0dceb": {
+      "id": "be89851dadd0dceb",
+      "title": "Adani Ports SEZ Share Price Live Updates: Adani Ports SEZ Stock Details",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ports-sez-stock-price-live-updates-11-nov-2026/liveblog/135723156.cms",
+      "summary": "",
+      "pub": "11 Nov 08:00 IST",
+      "pub_dt": "2026-11-11T02:30:11+00:00",
+      "sectors": [
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "Adani Ports"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "4c88ad9b84b51b75": {
+      "id": "4c88ad9b84b51b75",
+      "title": "Titan Company Share Price Live Updates: Titan Company  Stock Details",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/titan-company-stock-price-today-live-11-nov-2026/liveblog/135723155.cms",
+      "summary": "",
+      "pub": "11 Nov 08:00 IST",
+      "pub_dt": "2026-11-11T02:30:10+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "6b269cf561b21f30": {
+      "id": "6b269cf561b21f30",
+      "title": "Stock Market Live Updates: Sensex soars 1,200 pts, Nifty above 25,350; bank, auto stocks lead charge",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-mrf-coal-india-share-price-11-november-2026/liveblog/135722695.cms",
+      "summary": "",
+      "pub": "11 Nov 07:16 IST",
+      "pub_dt": "2026-11-11T01:46:12+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "09e250d89e9e4d0e": {
+      "id": "09e250d89e9e4d0e",
+      "title": "Rupee rises 7 paise to 93.70 against US dollar in early trade",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-rises-7-paise-to-93-70-against-us-dollar-in-early-trade/articleshow/135726644.cms",
+      "summary": "The rupee strengthened 7 paise to 93.70 against the US dollar in early trade on Wednesday, supported by sustained foreign fund inflows, easing crude oil prices and improving geopolitical sentiment. The domestic currency has emerged as one of Asia's best performers in FY27, with traders expecting continued overseas investor participation to provide a buffer against external uncertainties.",
+      "pub": "11 Nov 10:46 IST",
+      "pub_dt": "2026-11-11T05:16:44+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "1ef4498431e65406": {
+      "id": "1ef4498431e65406",
+      "title": "India’s rich pivot to real estate after stock returns falter",
+      "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/indias-rich-pivot-to-real-estate-after-stock-returns-falter/articleshow/135723008.cms",
+      "summary": "Investors in India are increasing their allocations towards high-yielding assets in real estate and logistics. Recent data shows a significant rise in investments through Alternative Investment Funds, nearly doubling in recent years. Family offices are now directing larger portions of their portfolios toward private credit and infrastructure while moving away from traditional investments. Speciali",
+      "pub": "11 Nov 08:04 IST",
+      "pub_dt": "2026-11-11T02:34:49+00:00",
+      "sectors": [
+        "Banking",
+        "Industrials"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "19010f033ff40b5d": {
+      "id": "19010f033ff40b5d",
+      "title": "Govt bans export of unsorted battery waste, scrap",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/govt-bans-export-of-unsorted-battery-waste-scrap/articleshow/135724585.cms",
+      "summary": "The government has implemented a ban on the export of unsorted waste and scrap from certain batteries. This ban applies specifically to primary cells, batteries, and electric accumulators lacking hazardous substances. The Directorate General of Foreign Trade issued a notification establishing this prohibition, which is effective immediately. Previous regulations classified these exports as 'Free',",
+      "pub": "11 Nov 08:59 IST",
+      "pub_dt": "2026-11-11T03:29:43+00:00",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Materials"
+      ],
+      "stocks": [
+        "ACC"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "bce06753abceea45": {
+      "id": "bce06753abceea45",
+      "title": "Sonu Sood appeals to airport and hotel management",
+      "link": "https://economictimes.indiatimes.com/news/new-updates/12-hour-standing-shifts-no-place-to-sit-sonu-sood-asks-airport-authorities-and-hotels-to-provide-high-stools-for-reception-staff-to-rest-between-work/articleshow/135725422.cms",
+      "summary": "",
+      "pub": "11 Nov 10:17 IST",
+      "pub_dt": "2026-11-11T04:47:00+00:00",
+      "sectors": [
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "434684d7add57c6a": {
+      "id": "434684d7add57c6a",
+      "title": "Anant Singh goes all out for daughter's wedding",
+      "link": "https://economictimes.indiatimes.com/news/new-updates/defender-for-son-in-law-150-dishes-dubai-models-bollywood-stars-horse-race-with-suv-prize-anant-singh-pulls-out-all-stops-for-daughter-shivangis-wedding/articleshow/135724654.cms",
+      "summary": "",
+      "pub": "11 Nov 09:22 IST",
+      "pub_dt": "2026-11-11T03:52:13+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "493ae745de2b6878": {
+      "id": "493ae745de2b6878",
+      "title": "'No flights will move to Navi Mumbai airport': CM",
+      "link": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/cm-devendra-fadnavis-says-no-flights-will-shift-from-mumbai-to-navi-mumbai-airport-opposes-proposed-relocation-of-international-services-and-suggests-an-alternative-plan-for-terminal-1-redevelopment/articleshow/135724417.cms",
+      "summary": "",
+      "pub": "11 Nov 09:32 IST",
+      "pub_dt": "2026-11-11T04:02:31+00:00",
+      "sectors": [
+        "IT",
+        "Industrials",
+        "Telecoms"
+      ],
+      "stocks": [
+        "Vodafone Idea"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "7e23c4db6ff9c089": {
+      "id": "7e23c4db6ff9c089",
+      "title": "Sonia Gandhi questioned Rajiv on Shah Bano case",
+      "link": "https://economictimes.indiatimes.com/news/politics-and-nation/sonia-gandhi-questioned-rajiv-on-shah-bano-case-he-said-he-was-trying-to-deal-with-it-fairly/articleshow/135725026.cms",
+      "summary": "",
+      "pub": "11 Nov 09:21 IST",
+      "pub_dt": "2026-11-11T03:51:31+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "346a2392ea10068f": {
+      "id": "346a2392ea10068f",
+      "title": "Are banks open or closed in your state today?",
+      "link": "https://economictimes.indiatimes.com/wealth/save/bank-holiday-today-wednesday-november-11-2026-on-diwali-bhai-dooj-laxmi-puja-will-banks-open-or-close-rbi-calendar/articleshow/135712499.cms",
+      "summary": "",
+      "pub": "11 Nov 07:00 IST",
+      "pub_dt": "2026-11-11T01:30:00+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "1b0884fbbab129a1": {
+      "id": "1b0884fbbab129a1",
+      "title": "₹30L claim denied over alcohol: Why family won",
+      "link": "https://economictimes.indiatimes.com/wealth/insure/tata-aig-rejected-30-lakh-accidental-death-claim-citing-alcohol-consumption-by-the-insured-pensioner-heres-why-family-won-the-case/articleshow/135711650.cms",
+      "summary": "",
+      "pub": "11 Nov 07:00 IST",
+      "pub_dt": "2026-11-11T01:30:00+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "d401e8d3b8227b29": {
+      "id": "d401e8d3b8227b29",
+      "title": "Assam: 6 coaches of Kolkata-Sairang Express derail",
+      "link": "https://economictimes.indiatimes.com/industry/transportation/railways/kolkata-sairang-express-derailment-in-assam-six-coaches-go-off-tracks-at-digaru-station-several-passengers-injured/articleshow/135723921.cms",
+      "summary": "",
+      "pub": "11 Nov 08:37 IST",
+      "pub_dt": "2026-11-11T03:07:51+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "5e8d2ad54f190cc0": {
+      "id": "5e8d2ad54f190cc0",
+      "title": "Claude unveils AI work tools, taking on Microsoft",
+      "link": "https://economictimes.indiatimes.com/ai/ai-insights/anthropic-launches-claude-whiteboards-sheets-and-data-to-expand-ai-powered-workplace-tools-microsoft/articleshow/135723111.cms",
+      "summary": "",
+      "pub": "11 Nov 08:35 IST",
+      "pub_dt": "2026-11-11T03:05:32+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "f6e9cb032c8bcdd0": {
+      "id": "f6e9cb032c8bcdd0",
+      "title": "Delhi-Agra Vande Bharat set for speed upgrade",
+      "link": "https://economictimes.indiatimes.com/industry/transportation/railways/vande-bharat-and-gatimaan-express-trains-connecting-delhi-and-agra-set-for-speed-upgrade-as-kavach-installation-is-completed-services-to-return-to-160-kmph-from-current-130-kmph-after-successful-safety-trials/articleshow/135723295.cms",
+      "summary": "",
+      "pub": "11 Nov 08:20 IST",
+      "pub_dt": "2026-11-11T02:50:41+00:00",
+      "sectors": [
+        "Telecoms"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "3a255e21fef9ed84": {
+      "id": "3a255e21fef9ed84",
+      "title": "Pak farmers wage a long battle over flood losses",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/pakistan-farmers-in-long-fight-to-make-german-firms-pay-for-flood-damage/articleshow/135723605.cms",
+      "summary": "",
+      "pub": "11 Nov 08:23 IST",
+      "pub_dt": "2026-11-11T02:53:29+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "b0ee9e1b82601749": {
+      "id": "b0ee9e1b82601749",
+      "title": "Higher EPS pension: Pensioners seek Ministry’s help",
+      "link": "https://economictimes.indiatimes.com/wealth/save/epfo-higher-eps-pension-increase-proposal-2026-pensioners-request-ministry-to-withdraw-epfo-circular-rejecting-exempted-employees-claims/articleshow/135723416.cms",
+      "summary": "",
+      "pub": "11 Nov 08:23 IST",
+      "pub_dt": "2026-11-11T02:53:36+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "661cfd37f0d3de79": {
+      "id": "661cfd37f0d3de79",
+      "title": "Wall Street's AI pain becomes India's rupee gain",
+      "link": "https://economictimes.indiatimes.com/news/economy/indicators/indian-rupee-vs-us-dollar-crude-oil-price-fall-foreign-portfolio-investors-fpi-inflows-wall-street-ai-selloff-gtri-forecast/articleshow/135723013.cms",
+      "summary": "",
+      "pub": "11 Nov 08:05 IST",
+      "pub_dt": "2026-11-11T02:35:44+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "d54dd1c7d6361bc1": {
+      "id": "d54dd1c7d6361bc1",
+      "title": "Local partner wanted for Xiaomi ‘home’ coming",
+      "link": "https://economictimes.indiatimes.com/tech/technology/local-partner-wanted-for-xiaomi-home-coming/articleshow/135718228.cms",
+      "summary": "",
+      "pub": "11 Nov 06:00 IST",
+      "pub_dt": "2026-11-11T00:30:00+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "23b20b2f5f37895c": {
+      "id": "23b20b2f5f37895c",
+      "title": "Tighter risk filters guide Prosus’ India fintech push",
+      "link": "https://economictimes.indiatimes.com/tech/startups/tighter-risk-filters-guide-prosus-new-india-fintech-push/articleshow/135718371.cms",
+      "summary": "",
+      "pub": "11 Nov 06:00 IST",
+      "pub_dt": "2026-11-11T00:30:00+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "9f1feaa36aaf75a9": {
+      "id": "9f1feaa36aaf75a9",
+      "title": "Energy infra startups see bigger cheques",
+      "link": "https://economictimes.indiatimes.com/tech/startups/energy-infra-startups-see-bigger-cheques-as-investors-bet-on-sovereign-play/articleshow/135715061.cms",
+      "summary": "",
+      "pub": "11 Nov 06:00 IST",
+      "pub_dt": "2026-11-11T00:30:00+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "926dcdab03ad8f68": {
+      "id": "926dcdab03ad8f68",
+      "title": "Q-comm delivers huge festive triumph for D2C brands",
+      "link": "https://economictimes.indiatimes.com/tech/technology/quick-commerce-delivers-huge-festive-triumph-for-d2c-brands/articleshow/135718293.cms",
+      "summary": "",
+      "pub": "11 Nov 06:00 IST",
+      "pub_dt": "2026-11-11T00:30:00+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "9becd311bd2f8391": {
+      "id": "9becd311bd2f8391",
+      "title": "Top tech and startup stories to start your day with",
+      "link": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/qcomms-diwali-boost-energy-startups-attract-funds/articleshow/135722702.cms",
+      "summary": "",
+      "pub": "11 Nov 07:29 IST",
+      "pub_dt": "2026-11-11T01:59:59+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "6636c688e0cb87c2": {
+      "id": "6636c688e0cb87c2",
+      "title": "IndiGo extends Saudi Arabia flight suspensions to Jeddah, Madinah, Riyadh and Dammam",
+      "link": "https://economictimes.indiatimes.com/nri/latest-updates/indigo-extends-saudi-arabia-flight-suspensions-to-jeddah-madinah-riyadh-and-dammam/articleshow/135725780.cms",
+      "summary": "IndiGo has extended the suspension of commercial flights to four destinations in Saudi Arabia amid continuing safety and security concerns, with services to Jeddah and Madinah halted until November 21 and those to Riyadh and Dammam suspended until November 30, 2026.The airline announced the extension in a travel advisory on social media platform X on November 10, stating that the decision followed",
+      "pub": "11 Nov 10:11 IST",
+      "pub_dt": "2026-11-11T04:41:01+00:00",
+      "sectors": [
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "HAL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "df00db5ea3e88c10": {
+      "id": "df00db5ea3e88c10",
+      "title": "IndiGo shares: InterGlobe Aviation stock flying 5% high, among top Nifty 50 gainers | Buy? Target price, upside",
+      "link": "https://www.livemint.com/market/stock-market-news/indigo-shares-interglobe-aviation-stock-flying-5-high-among-top-nifty-50-gainers-buy-target-price-upside-11794372567454.html",
+      "summary": "IndiGo share price opened at  ₹5,520 apiece on NSE today, as compared to the previous close of  ₹5,430 on Monday and touched an intraday high of  ₹5,692.30 on Wednesday.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "b1d2b00d4687f559": {
+      "id": "b1d2b00d4687f559",
+      "title": "Balmer Lawrie share price jumps 16% as stock rallies after strong Q2 results, gains 19% in two weeks | Check key levels",
+      "link": "https://www.livemint.com/market/stock-market-news/balmer-lawrie-share-price-jumps-16-as-stock-rallies-after-strong-q2-results-gains-19-in-two-weeks-check-key-levels-11794372566602.html",
+      "summary": "Balmer Lawrie shares surged over 16% on Wednesday after strong second-quarter results boosted investor interest. Standalone net profit rose 39.56% year on year to  ₹67.66 crore, while total income increased 26.34% to  ₹818.04 crore.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "ee6f11127794abf6": {
+      "id": "ee6f11127794abf6",
+      "title": "Ashoka Buildcon shares soar 14% after new NHAI order win, still down 43% in 1 year - check contract details, performance",
+      "link": "https://www.livemint.com/market/stock-market-news/ashoka-buildcon-shares-soar-14-after-new-nhai-order-win-still-down-43-in-1-year-check-contract-details-performance-11794372853320.html",
+      "summary": "Ashoka Buildcon shares rose as much as 14% after the company received an  ₹865.90 crore NHAI contract to complete a 26.6-km expressway section in Gujarat. The award boosted sentiment despite Q2 FY27 revenue falling 18.72% year on year and the company reporting a net loss of  ₹118.96 crore.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "07bb86d3fe63c145": {
+      "id": "07bb86d3fe63c145",
+      "title": "Cochin Shipyard shares crash 8%: Defence PSU stock Q2 profit drops 50% but declares  ₹3 dividend- Still a stock to buy?",
+      "link": "https://www.livemint.com/market/stock-market-news/cochin-shipyard-shares-crash-8-defence-psu-stock-q2-profit-drops-50-but-declares-rs-3-dividend-still-a-stock-to-buy-11794370626964.html",
+      "summary": "Cochin Shipyard shares fell 8% after Q2 FY27 net profit nearly halved to  ₹53.77 crore, despite revenue rising 11.7%. Higher expenses and a loss in shipbuilding weighed on results. The company announced a  ₹3 interim dividend.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "Autos",
+        "Industrials"
+      ],
+      "stocks": [
+        "Cochin Ship",
+        "HAL"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "1502115d0ad92435": {
+      "id": "1502115d0ad92435",
+      "title": "Why Kalyan Jewellers shares surged 10%, hit 52-week high after Diwali, Dhanteras; up 26% in a week | Buy, sell or hold?",
+      "link": "https://www.livemint.com/market/stock-market-news/why-kalyan-jewellers-shares-surged-10-hit-52-week-high-after-diwali-dhanteras-up-26-in-a-week-buy-sell-or-hold-11794369395918.html",
+      "summary": "Kalyan Jewellers shares rose 10% to a 52-week high after the company reported Q2 FY27 net profit growth of 64% to  ₹427 crore and revenue growth of 32% to  ₹10,323 crore. Brokerages maintained Buy ratings, while the stock’s gains extended across multiple timeframes.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "7b745ed5fee1df57": {
+      "id": "7b745ed5fee1df57",
+      "title": "TD Power shares up 350% up in 3 years, jumps 5% today as Sensex, Nifty jump massively | More upside? target, stop loss",
+      "link": "https://www.livemint.com/market/stock-market-news/td-power-shares-up-350-up-in-3-years-jumps-5-today-as-sensex-nifty-jump-massively-more-upside-target-stop-loss-11794369346196.html",
+      "summary": "TD Power share price opened at  ₹580.35 per share on NSE today, as compared to previous close of  ₹571.65 on Monday and touched an intraday high of  ₹604 on November 11.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "c48f1823524e8c3d": {
+      "id": "c48f1823524e8c3d",
+      "title": "Stock Market Today: Massive jump in Sensex, Nifty!  ₹4.5 lakh cr wealth added in a few mins - Reasons for bullish party",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-massive-jump-in-sensex-nifty-rs-4-5-lakh-cr-wealth-added-in-a-few-mins-reasons-for-bullish-party-11794369074218.html",
+      "summary": "The Sensex and Nifty climbed more than 1% in Wednesday trading, led by gains in major stocks including IndiGo, M&amp;amp;M and HDFC Bank. Mid- and small-cap shares also advanced as easing oil prices and improved investor sentiment buoyed markets.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "Banking",
+        "IT"
+      ],
+      "stocks": [
+        "HDFC Bank"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "85f6bb0dc5256597": {
+      "id": "85f6bb0dc5256597",
+      "title": "Sensex, Nifty 50 open higher on softer crude, robust foreign buying",
+      "link": "https://www.livemint.com/market/stock-market-news/indian-stocks-poised-for-higher-open-on-softer-crude-robust-foreign-buying-11794366485802.html",
+      "summary": "The NSE Nifty 50 rose 1.17% to 25,337.8 points and the S&amp;amp;P BSE Sensex gained 1.41% to 82,248.68 as of 9:15 a.m. IST, their highest levels since 27 February.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "0bc2c15c48ab1e58": {
+      "id": "0bc2c15c48ab1e58",
+      "title": "ONGC dividend 2026: Last day to buy today | Check dividend payout, record date, history, yield and returns",
+      "link": "https://www.livemint.com/market/stock-market-news/ongc-dividend-2026-last-day-to-buy-today-check-dividend-payout-record-date-history-yield-and-returns-11794363759514.html",
+      "summary": "ONGC dividend 2026: ONGC announced the interim dividend after its board meeting on November 5, alongside its September-quarter results for FY27. The dividend represents a payout of 160% on the face value of  ₹5 per equity share.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "f769513caaad87cb": {
+      "id": "f769513caaad87cb",
+      "title": "Trump says Iran war ‘effectively over’: How's it likely to impact Sensex, Nifty, gold and silver prices? Experts' views",
+      "link": "https://www.livemint.com/market/stock-market-news/trump-says-iran-war-effectively-over-hows-it-likely-to-impact-sensex-nifty-gold-and-silver-prices-experts-views-11794362432588.html",
+      "summary": "US-Iran war: For Indian markets, any signs of de-escalation between the US and Iran could be positive, particularly if they lead to a sustained decline in crude oil prices.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "c86aa4beb4114d98": {
+      "id": "c86aa4beb4114d98",
+      "title": "Top stocks to watch today: Cochin Shipyard, MRF, Tata Power shares in focus on Wednesday, 11 November | Full list",
+      "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-cochin-shipyard-mrf-tata-power-shares-in-focus-on-wednesday-11-november-full-list-11794360457800.html",
+      "summary": "Top stocks to watch today: Cochin Shipyard, MRF, Kalyan Jewellers, Tata Power, Hindustan Copper, BHEL, Bajaj Finance are among the shares in focus on Wednesday.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "Industrials",
+        "Materials"
+      ],
+      "stocks": [
+        "BHEL",
+        "Bajaj Finance",
+        "Cochin Ship",
+        "MRF",
+        "Tata Power"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "1a26b14a8b3df6aa": {
+      "id": "1a26b14a8b3df6aa",
+      "title": "Stock market outlook today, 11 Nov: Sensex, Nifty prediction - DJIA, S&amp;P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-11-nov-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11794357789353.html",
+      "summary": "Stock market prediction for Wednesday, 11 November, 2026: Gift Nifty was trading around the 25,319 level, up nearly 275 points or 1.10% from the Nifty futures’ previous close, indicating a strong start for the Indian stock market indices.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "178cecc196d69a23": {
+      "id": "178cecc196d69a23",
+      "title": "Raja Venkatraman recommends three stocks for 11 November",
+      "link": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-11-november-11794313913047.html",
+      "summary": "Market expert Raja Venkatraman shares his top stock picks for 11 November. Here’s his technical outlook and trade strategy.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "005c1b15a087123b": {
+      "id": "005c1b15a087123b",
+      "title": "Defaults Rattle Brazil’s Shadow Banks, Spark Regulatory Scrutiny",
+      "link": "https://www.livemint.com/market/defaults-rattle-brazil-s-shadow-banks-spark-regulatory-scrutiny-11794343869632.html",
+      "summary": "Investors keep pouring money into Brazil’s so-called shadow-banking market even as defaults continue to climb.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "Autos",
+        "Banking"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "68da986cc2f2d999": {
+      "id": "68da986cc2f2d999",
+      "title": "Fed’s Bowman Warns of Stock Correction If AI Bets Don’t Pan Out",
+      "link": "https://www.livemint.com/market/feds-bowman-warns-of-stock-correction-if-ai-bets-don-t-pan-out-11794343808997.html",
+      "summary": "Federal Reserve Governor Michelle Bowman said she sees a number of risks to economic activity from financial markets, including a sharp downturn in stock prices if returns on investments in artificial intelligence fall short of expectations.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "8d69ed836b4c9a41": {
+      "id": "8d69ed836b4c9a41",
+      "title": "Chile Pension Funds’ Swap Losses Narrow as Treasuries Rally",
+      "link": "https://www.livemint.com/market/chile-pension-funds-swap-losses-narrow-as-treasuries-rally-11794343809144.html",
+      "summary": "Chilean pension funds narrowed their market-value losses on foreign interest-rate swaps in October as a rally in US Treasuries provided some relief to a system under heavy pressure from politicians to reduce risks and boost payments.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "b633cf681a425ed3": {
+      "id": "b633cf681a425ed3",
+      "title": "Dangote Refinery Gets $4.1 Billion Orders in Top Africa IPO",
+      "link": "https://www.livemint.com/market/dangote-refinery-gets-4-1-billion-orders-in-top-africa-ipo-11794341424038.html",
+      "summary": "Africa’s biggest refinery attracted about 5.85 trillion naira ($4.1 billion) of applications for shares in the continent’s largest public offering to date, almost three times the amount it sought to raise, according to people familiar with the matter.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "IT",
+        "Materials"
+      ],
+      "stocks": [
+        "ACC"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "029b835e26888597": {
+      "id": "029b835e26888597",
+      "title": "Wall St retreats as hot inflation data, Fed comments fuel rate worries",
+      "link": "https://www.livemint.com/market/wall-st-retreats-as-hot-inflation-data-fed-comments-fuel-rate-worries-11794339875709.html",
+      "summary": "USA-STOCKS/ (UPDATE 6, GRAPHIC):US STOCKS-Wall St retreats as hot inflation data, Fed comments fuel rate worries",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "71c7f41e8be95f05": {
+      "id": "71c7f41e8be95f05",
+      "title": "Corn Soars After USDA Cuts American Yield in Another Surprise",
+      "link": "https://www.livemint.com/market/corn-soars-after-usda-cuts-american-yield-in-another-surprise-11794339085566.html",
+      "summary": "Corn surged the most in three months after the US Department of Agriculture surprised traders with a bigger-than-expected cut to yield and production of America’s most widely grown crop.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "Telecoms"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "1f74ff1be94cd5f9": {
+      "id": "1f74ff1be94cd5f9",
+      "title": "Gold falls nearly 3% as CPI tops forecasts, lifting dollar and yields",
+      "link": "https://www.livemint.com/market/gold-falls-nearly-3-as-cpi-tops-forecasts-lifting-dollar-and-yields-11794337899940.html",
+      "summary": "GLOBAL-PRECIOUS:Gold falls nearly 3% as CPI tops forecasts, lifting dollar and yields",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "e0d2c61b11f5475a": {
+      "id": "e0d2c61b11f5475a",
+      "title": "Soybeans, corn rally after USDA pegs US harvest, stocks below expectations",
+      "link": "https://www.livemint.com/market/soybeans-corn-rally-after-usda-pegs-us-harvest-stocks-below-expectations-11794336087036.html",
+      "summary": "GLOBAL-GRAINS/ (UPDATE 2):GRAINS-Soybeans, corn rally after USDA pegs US harvest, stocks below expectations",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "BEL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "8d0ef58138049ce4": {
+      "id": "8d0ef58138049ce4",
+      "title": "Nvidia sell-off deepens, fall 6.3%; wipes $10 billion off Jensen Huang's wealth, slips to 12th on Forbes rich list",
+      "link": "https://www.livemint.com/market/stock-market-news/nvidia-sell-off-deepens-fall-6-3-wipes-10-billion-off-jensen-huangs-wealth-slips-to-12th-on-forbes-rich-list-11794327860453.html",
+      "summary": "The latest crash in Nvidia shares has dealt a major blow to Jensen Huang's net worth, which is on track to decline by another $10 billion to $145.6 billion from $154 billion at the previous close, according to Forbes.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "Autos",
+        "Industrials",
+        "Materials"
+      ],
+      "stocks": [
+        "ACC",
+        "L&T"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "c38cdba75600f175": {
+      "id": "c38cdba75600f175",
+      "title": "Nifty PSU Bank Index Performance: Bank of India, UCO Bank among 7 stocks rebound 15–56% from 1-yr lows - here’s why",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-psu-bank-index-performance-bank-of-india-uco-bank-among-7-stocks-rebound-15-56-from-1-yr-lows-here-s-why-11794321816668.html",
+      "summary": "State-owned bank stocks have rallied sharply, with the Nifty PSU Bank index posting its biggest one-day gain in nearly two years. Strong quarterly profits, improving asset quality and returning foreign investment have supported the recovery.&amp;nbsp;",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "6c37d9b0d36003a2": {
+      "id": "6c37d9b0d36003a2",
+      "title": "FPIs return to Dalal Street amid AI sell-off and oil slump; Can proposed tax cuts sustain inflows?",
+      "link": "https://www.livemint.com/market/stock-market-news/fpis-return-to-dalal-street-amid-ai-sell-off-and-oil-slump-can-proposed-tax-cuts-sustain-inflows-11794315705620.html",
+      "summary": "FPIs have poured  ₹53,739 crore into Indian equities in November so far. The inflows have helped the Nifty 50 extend its winning streak to seven consecutive sessions, enabling the benchmark index to pare its year-to-date losses to 4.15%.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "d1a52bfd1b3acff6": {
+      "id": "d1a52bfd1b3acff6",
+      "title": "OMC stocks: Brent slips below $90 to hit over 2-month low amid Iran peace hopes; Will HPCL, BPCL and IOC benefit?",
+      "link": "https://www.livemint.com/market/stock-market-news/omc-stocks-brent-slips-below-90-to-hit-over-2-month-low-amid-iran-peace-hopes-will-hpcl-bpcl-and-ioc-benefit-11794312198955.html",
+      "summary": "Oil marketing companies may draw investor attention as Brent crude falls to a three-month low amid hopes of easing Middle East tensions. HPCL, BPCL and IOC have gained 10%–13.5% so far in November. Lower crude prices can reduce costs, improve margins and cash flows, though shipping risks remain.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "BEL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "0bd84d0da4d7dafe": {
+      "id": "0bd84d0da4d7dafe",
+      "title": "Anthropic sets IPO price band at $70-$78, targets valuation of up to $1.4 trillion",
+      "link": "https://www.livemint.com/market/ipo/anthropic-sets-ipo-price-band-at-70-78-targets-valuation-of-up-to-1-4-trillion-11794311891604.html",
+      "summary": "AI company Anthropic plans to offer 825 million shares in Nasdaq listing; IPO could raise up to $64.35 billion.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "5bd8488dec27575d": {
+      "id": "5bd8488dec27575d",
+      "title": "Nvidia in Crisis! China Spy Allegations, FBI Probe, shares crash, more: Key things investors should know - Still a buy?",
+      "link": "https://www.livemint.com/market/stock-market-news/nvidia-in-crisis-china-spy-allegations-fbi-probe-shares-crash-more-key-things-investors-should-know-still-a-buy-11794309541206.html",
+      "summary": "Nvidia CEO Jensen Huang faces an FBI investigation, congressional scrutiny, an independent board inquiry and a shareholder lawsuit after reports linked him to Alice Huang, a Chinese businesswoman suspected by US intelligence of espionage.&amp;nbsp;",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "d1070bb79c1baee1": {
+      "id": "d1070bb79c1baee1",
+      "title": "₹18 dividend per share: Check record date, payment timeline, stock performance, dividend yield, Q2 results highlights",
+      "link": "https://www.livemint.com/market/stock-market-news/rs-18-dividend-per-share-check-record-date-payment-timeline-stock-performance-dividend-yield-q2-results-highlights-11794307552019.html",
+      "summary": "Galaxy Surfactants declared an interim dividend of  ₹18 per share for FY27, with 11 November 2026 set as the record date. Eligible shareholders will receive payment within 30 days of the declaration.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "96fdd16cd5011d49": {
+      "id": "96fdd16cd5011d49",
+      "title": "Jensen Huang scandal: Nvidia shares rebound in premarket after sharp sell-off, $1.57 trillion in market value wiped out",
+      "link": "https://www.livemint.com/market/stock-market-news/huangs-affair-nvidia-shares-rebound-in-premarket-trade-after-sharp-sell-off-1-57-trillion-in-market-value-wiped-out-11794304912609.html",
+      "summary": "Nvidia stock rises 1.8% after falling more than 4% on Monday amid controversy surrounding CEO Jensen Huang’s affair; The FBI reportedly is investigating allegations involving a suspected Chinese intelligence operative.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "f07dfe472d73d3f4": {
+      "id": "f07dfe472d73d3f4",
+      "title": "SoftBank shares climb 14% despite investment giant posting $7 billion quarterly loss on data-centre costs",
+      "link": "https://www.livemint.com/market/stock-market-news/softbank-shares-climb-14-despite-investment-giant-posting-7-billion-quarterly-loss-on-data-centre-costs-11794307614054.html",
+      "summary": "SoftBank shares rose 14% Tuesday before the company reported a $7 billion quarterly net loss, announced after markets closed. The loss reflected costly US data-centre investments, rising financing expenses and volatile portfolio valuations, despite sales growth and an investment gain from ByteDance.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "135d955aa113db6c": {
+      "id": "135d955aa113db6c",
+      "title": "Balrampur Chini Mills shares: Over 50% returns in 1 year, sugar stock in focus with new  ₹3100 cr plant - check target",
+      "link": "https://www.livemint.com/market/stock-market-news/balrampur-chini-mills-shares-over-50-returns-in-1-year-sugar-stock-in-focus-with-new-rs-3100-cr-plant-check-target-11794306339768.html",
+      "summary": "Balrampur Chini expects its  ₹3,080-crore, 80,000-tonne-per-year PLA plant in Uttar Pradesh to begin commercial operations in Q4FY27. The project could add about  ₹2,000 crore in annual revenue. September-quarter profit rose 88.9%, and the company declared a  ₹4-per-share interim dividend.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "def112718ae7d4a2": {
+      "id": "def112718ae7d4a2",
+      "title": "Stocks to watch tomorrow 11 November Wednesday: Why Data Patterns, MRF, Cochin Shipyard, IRB Infra, others are in focus",
+      "link": "https://www.livemint.com/market/stock-market-news/stocks-to-watch-tomorrow-11-november-wednesday-why-data-patterns-mrf-cochin-shipyard-irb-infra-others-are-in-focus-11794304295254.html",
+      "summary": "Stocks to watch Wednesday include Data Patterns, MRF, Cochin Shipyard, GPT Infraprojects, Ashoka Buildcon, IRB Infrastructure and HLE Glascoat, following analyst commentary, quarterly results, order wins and business updates. Indian markets were closed Tuesday for the Diwali-Balipratipada holiday.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "Autos",
+        "Industrials"
+      ],
+      "stocks": [
+        "Cochin Ship",
+        "Data Patterns",
+        "IRB Infra",
+        "MRF"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "fc9c7392d1fbbdea": {
+      "id": "fc9c7392d1fbbdea",
+      "title": "This multibagger small-cap stock surges 485% in a year, but retail investors keep trimming stake; what are they missing?",
+      "link": "https://www.livemint.com/market/stock-market-news/this-multibagger-small-cap-stock-surges-485-in-a-year-but-retail-investors-keep-trimming-stake-what-are-they-missing-11794303226235.html",
+      "summary": "Retail investors, who had long maintained confidence in the company's fundamentals, have gradually trimmed their holdings over the past year. At the end of Q2, retail shareholders collectively held a 26.2% stake in the company, down from 33.5% during the corresponding period last year.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "39180a9300e82486": {
+      "id": "39180a9300e82486",
+      "title": "When is next stock market holiday? Check date for Nov weekday; NSE-BSE closed for Prakash Gurpurab Sri Guru Nanak Dev Ji",
+      "link": "https://www.livemint.com/market/stock-market-news/when-is-next-stock-market-holiday-check-date-for-nov-weekday-nse-bse-closed-for-prakash-gurpurab-sri-guru-nanak-dev-ji-11794299235957.html",
+      "summary": "Indian stock markets will close on 24 November 2026, for Guru Nanak Jayanti, with regular trading resuming 25 November. The NSE and BSE will suspend trading across equity, derivatives, securities lending and borrowing, and currency segments.&amp;nbsp;",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "30d43dbd2bf0270d": {
+      "id": "30d43dbd2bf0270d",
+      "title": "MRF dividend 2026: India's most expensive  ₹1.25 lakh stock but  ₹3 in Q2; down 21% in 1 year - Record, payment date",
+      "link": "https://www.livemint.com/market/stock-market-news/mrf-dividend-2026-indias-most-expensive-rs-1-25-lakh-stock-but-rs-3-in-q2-down-21-in-1-year-record-payment-date-11794299431157.html",
+      "summary": "MRF declared an interim dividend of  ₹3 per share for FY27, with November 17, 2026, set as the record date and payment due on or after December 1. The announcement came as quarterly net profit fell 28% to  ₹369 crore, pressured by higher costs despite revenue growth.",
+      "pub": "",
+      "pub_dt": "",
+      "sectors": [
+        "Autos",
+        "Materials"
+      ],
+      "stocks": [
+        "MRF"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "46251dd43a12ed1f": {
+      "id": "46251dd43a12ed1f",
+      "title": "Lifestyle brand Nicobar eyes  ₹1,000 crore revenue in 5-6 years",
+      "link": "https://www.livemint.com/companies/news/nicobar-targets-rs-1000-crore-revenue-expansion-store-growth-11794329907305.html",
+      "summary": "Nicobar is targeting 25-30% revenue growth this year and plans to add seven to ten stores annually, expanding retail and corporate gifting while funding growth through internal cash flows.",
+      "pub": "11 Nov 10:52 IST",
+      "pub_dt": "2026-11-11T05:22:42+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "9a077583ff2bc0d5": {
+      "id": "9a077583ff2bc0d5",
+      "title": "Nagpur couple cultivates saffron in indoor facility; generates  ₹40-50 lakh in annual revenue | Details",
+      "link": "https://www.livemint.com/companies/news/nagpur-couple-cultivates-saffron-in-indoor-facility-generates-rs-40-50-lakh-in-annual-revenue-details-11794372109098.html",
+      "summary": "A couple from Maharashtra, Akshay Holey and Divya Lohakare Holey, is growing saffron in Nagpur using aeroponics, a soil-free farming technique. Their venture reportedly earns  ₹40-50 lakh annually.&amp;nbsp;",
+      "pub": "11 Nov 10:22 IST",
+      "pub_dt": "2026-11-11T04:52:20+00:00",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Materials"
+      ],
+      "stocks": [
+        "UPL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "409fcc45b92bb34e": {
+      "id": "409fcc45b92bb34e",
+      "title": "Qualcomm begins layoffs in India: How many jobs are at risk, what's the severance package, benefits offered to employees",
+      "link": "https://www.livemint.com/companies/news/qualcomm-begins-layoffs-india-bengaluru-how-many-jobs-at-risk-what-severance-package-benefits-offered-to-employees-11794366514287.html",
+      "summary": "The reported layoffs in India follow job cuts in the US, with the exercise expected to be carried out in phases across its operations. This comes as the US-based chipmaker undertakes a global workforce restructuring.",
+      "pub": "11 Nov 08:42 IST",
+      "pub_dt": "2026-11-11T03:12:51+00:00",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "ed4801ab832225ef": {
+      "id": "ed4801ab832225ef",
+      "title": "Airbus A350-1000ULR breaks world distance record with 24-hour non-stop flight from Australia to France | Details",
+      "link": "https://www.livemint.com/companies/news/airbus-a350-1000ulr-breaks-world-distance-record-with-24-hour-non-stop-flight-from-australia-to-france-details-11794364418671.html",
+      "summary": "Airbus' A350-1000ULR has set a Guinness World Record after flying 12,503 nautical miles non-stop from Melbourne to Toulouse in 24 hours and 24 minutes. The aircraft is being developed for Qantas' Project Sunrise, which aims to introduce ultra-long-haul flights connecting Australia with London",
+      "pub": "11 Nov 08:19 IST",
+      "pub_dt": "2026-11-11T02:49:41+00:00",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "IRB Infra"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "66f097abfc50adab": {
+      "id": "66f097abfc50adab",
+      "title": "Nvidia briefly slips behind Microsoft in market value as shares tumble 10% amid Jensen Huang controversy",
+      "link": "https://www.livemint.com/companies/news/nvidia-briefly-slips-behind-microsoft-in-market-value-as-shares-tumble-10-amid-jensen-huang-controversy-11794363923176.html",
+      "summary": "Nvidia lost nearly $430 billion in market value over two sessions as shares fell 10% amid allegations involving CEO Jensen Huang and a Chinese businesswoman. The controversy has raised concerns over corporate governance and potential chip shipments to China.",
+      "pub": "11 Nov 08:15 IST",
+      "pub_dt": "2026-11-11T02:45:58+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "b4abfb3326a2ec90": {
+      "id": "b4abfb3326a2ec90",
+      "title": "Alice Huang used her relationship with Jensen Huang to move 240,000 Nvidia chips worth $7.5 billion to China: Report",
+      "link": "https://www.livemint.com/companies/news/alice-huang-used-her-relationship-with-jensen-huang-to-move-240-000-nvidia-chips-worth-7-5-billion-to-china-report-11794363878153.html",
+      "summary": "Alice Huang, a former Megaspeed executive, is alleged to have assisted a network of companies in acquiring and redirecting restricted Nvidia chips to China estimated to be worth $7.5 bn. Separately, Malaysian authorities seized 30 server units containing advanced AI chips at Kuala Lumpur Airport.",
+      "pub": "11 Nov 08:07 IST",
+      "pub_dt": "2026-11-11T02:37:18+00:00",
+      "sectors": [
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
     }
   }
 }
