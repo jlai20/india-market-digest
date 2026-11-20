@@ -508907,6 +508907,779 @@
         "reasoning": "",
         "stocks": {}
       }
+    },
+    "e7aced4e6593ee98": {
+      "id": "e7aced4e6593ee98",
+      "title": "Anthropic shares close 17% higher on first day of trading amid protest, arrests outside Nasdaq",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/anthropic-shares-close-17-higher-on-first-day-of-trading-amid-protest-arrests-outside-nasdaq/videoshow/136013757.cms",
+      "summary": "",
+      "pub": "20 Nov 10:18 IST",
+      "pub_dt": "2026-11-20T04:48:04+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "ccc817f2df8ba8e5": {
+      "id": "ccc817f2df8ba8e5",
+      "title": "IndiGo, Tata Motors PV among 10 Nifty stocks facing earnings downgrades",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/indigo-tata-motors-pv-among-10-nifty-stocks-facing-earnings-downgrades/slideshow/136012225.cms",
+      "summary": "Elara Securities identifies 10 Nifty 50 companies facing the sharpest earnings estimate downgrades for FY27 and FY28 against its Q2FY27 preview. IndiGo leads the list, followed by Tata Motors PV and Eternal. The companies span sectors including automobiles, healthcare, materials, consumer staples, utilities and financials.",
+      "pub": "20 Nov 09:11 IST",
+      "pub_dt": "2026-11-20T03:41:57+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [
+        "Tata Motors"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "e02d38fd9c908267": {
+      "id": "e02d38fd9c908267",
+      "title": "Gold Rate Today Live: Gold plunges Rs 6,000/10g, silver sheds Rs 9,900/kg amid Fed rate hike bets; Buy the dip or wait?",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/live-updates-gold-rate-today-20th-november-24k-22k-20k-18-carat-mcx-gold-silver-price-in-delhi-hyderabad-chennai-bengaluru-citywise/liveblog/136011549.cms",
+      "summary": "",
+      "pub": "20 Nov 08:57 IST",
+      "pub_dt": "2026-11-20T03:27:40+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "cade3c3f76c4be32": {
+      "id": "cade3c3f76c4be32",
+      "title": "Stock Market Live Updates: Sensex gains over 100 pts, Nifty above 25,500; IT stocks rally",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-paytm-coal-india-share-price-20-november-2026/liveblog/136009816.cms",
+      "summary": "",
+      "pub": "20 Nov 07:12 IST",
+      "pub_dt": "2026-11-20T01:42:55+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "686054b434366561": {
+      "id": "686054b434366561",
+      "title": "Gold Rates Highlights: Gold prices fall marginally, silver gains on MCX. Check future estimates",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/live-updates-gold-rate-today-19th-november-24k-22k-20k-18-carat-mcx-gold-silver-price-in-delhi-hyderabad-chennai-bengaluru-citywise/liveblog/135979606.cms",
+      "summary": "",
+      "pub": "19 Nov 11:28 IST",
+      "pub_dt": "2026-11-19T05:58:41+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "a52d864ee0e67d49": {
+      "id": "a52d864ee0e67d49",
+      "title": "Treasury rally spills over to Indian bonds, debt supply slows move",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/treasury-rally-spills-over-to-indian-bonds-debt-supply-slows-move/articleshow/136014379.cms",
+      "summary": "Indian government bonds saw slight gains, reflecting the upward trend in US Treasuries. Investors are keeping a close eye on the forthcoming weekly debt auction, pivotal for market movements. With retail inflation and fluctuating oil prices in play, the Reserve Bank of India may entertain further rate hikes. Although benchmark Brent crude holds steady, it remains vulnerable to geopolitical shifts,",
+      "pub": "20 Nov 10:49 IST",
+      "pub_dt": "2026-11-20T05:19:20+00:00",
+      "sectors": [
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "334c12a9d0ecf0c5": {
+      "id": "334c12a9d0ecf0c5",
+      "title": "Rupee rises past 93 vs USD as portfolio inflows, bear retreat fuel rally",
+      "link": "https://economictimes.indiatimes.com/markets/forex/rupee-rises-past-93-vs-usd-as-portfolio-inflows-bear-retreat-fuel-rally/articleshow/136014185.cms",
+      "summary": "The Indian rupee has shown remarkable strength, breaking the 93 per dollar barrier for the first time since April. This positive shift was fueled by impressive foreign portfolio investments, exceeding $12 billion in November alone. Consequently, the rupee has left its Asian peers behind as it thrives against a strong dollar, all while navigating the Federal Reserve's anticipated hawkish stance, sh",
+      "pub": "20 Nov 10:38 IST",
+      "pub_dt": "2026-11-20T05:08:53+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "1ca2ee9731858d8c": {
+      "id": "1ca2ee9731858d8c",
+      "title": "Rupee strengthens 17 paise to 93.15 against US dollar in early trade",
+      "link": "https://economictimes.indiatimes.com/markets/forex/rupee-strengthens-17-paise-to-93-15-against-us-dollar-in-early-trade/articleshow/136013858.cms",
+      "summary": "Rupee gained 17 paise to trade at 93.15 against the US dollar in early trade on Friday. The appreciation was supported by strong foreign fund inflows into the domestic equity markets. Despite higher crude prices and negative stock market sentiment, the currency showed resilience. Analysts expect slight positive bias in rupee trading due to declining crude and gold prices.",
+      "pub": "20 Nov 10:24 IST",
+      "pub_dt": "2026-11-20T04:54:03+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "1015aa6d49d0a8a1": {
+      "id": "1015aa6d49d0a8a1",
+      "title": "SELLAS Life Sciences shares plunge 19%: What triggered the sharp sell-off?",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/sellas-life-sciences-shares-plunge-19-what-triggered-the-sharp-sell-off/slideshow/136013890.cms",
+      "summary": "SELLAS Life Sciences shares plunged nearly 20% after the biotechnology company priced a $150 million public offering at $13 per share, a discount of around 28% to its previous close. The sell-off followed a sharp rally triggered by positive Phase 3 REGAL trial results for its experimental leukemia vaccine.",
+      "pub": "20 Nov 10:17 IST",
+      "pub_dt": "2026-11-20T04:47:39+00:00",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Materials"
+      ],
+      "stocks": [
+        "ACC"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "b88d8987487f42b1": {
+      "id": "b88d8987487f42b1",
+      "title": "Gold Rate Live Updates: Gold plunges Rs 6,000/10g, silver sheds Rs 9,900/kg amid Fed rate hike bets; Buy the dip or wait?",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/live-updates-gold-rate-today-20th-november-24k-22k-20k-18-carat-mcx-gold-silver-price-in-delhi-hyderabad-chennai-bengaluru-citywise/liveblog/136011549.cms",
+      "summary": "",
+      "pub": "20 Nov 08:57 IST",
+      "pub_dt": "2026-11-20T03:27:40+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "d999eab56b980949": {
+      "id": "d999eab56b980949",
+      "title": "D-Street’s stellar rally faces valuation test as bond allure grows",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/indias-stock-rally-faces-valuation-test-as-bond-allure-grows/articleshow/136010605.cms",
+      "summary": "India's stock market is experiencing valuation challenges due to increasing bond yields that diminish equity attractiveness. The gap between government bond yields and stock earnings yield has widened significantly recently. Analysts suggest that high bond yields could hamper valuations as earnings struggle to catch up. Many global firms maintain a bullish outlook on India's market despite this pr",
+      "pub": "20 Nov 08:17 IST",
+      "pub_dt": "2026-11-20T02:47:28+00:00",
+      "sectors": [
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "HAL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "0b8234dba32be285": {
+      "id": "0b8234dba32be285",
+      "title": "Stock Market Live Updates: Sensex gains over 300 pts, Nifty above 25,550; IT stocks rally",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-paytm-coal-india-share-price-20-november-2026/liveblog/136009816.cms",
+      "summary": "",
+      "pub": "20 Nov 07:12 IST",
+      "pub_dt": "2026-11-20T01:42:55+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "47c0f8707be18512": {
+      "id": "47c0f8707be18512",
+      "title": "India's wheat area set for steepest decline in 26 years as farmers switch crops",
+      "link": "https://economictimes.indiatimes.com/news/economy/agriculture/indias-wheat-area-set-for-steepest-decline-in-26-years-as-farmers-switch-crops/articleshow/136015985.cms",
+      "summary": "India is experiencing its most severe decline in wheat acreage in 26 years due to insufficient monsoon rains. Farmers are shifting to less water-intensive crops like chickpeas and rapeseed, which promise better returns. The government's minimal increase in wheat procurement prices has also discouraged wheat planting among farmers. As a result, wheat acreage is expected to drop to its lowest level ",
+      "pub": "20 Nov 11:54 IST",
+      "pub_dt": "2026-11-20T06:24:43+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "c1758482c188f407": {
+      "id": "c1758482c188f407",
+      "title": "India, Japan deepen defence, tech, and economic security ties as EAM Jaishankar concludes Tokyo visit",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-japan-deepen-defence-tech-and-economic-security-ties-as-eam-jaishankar-concludes-tokyo-visit/articleshow/136014870.cms",
+      "summary": "During the visit, Jaishankar participated in the fourth India-Japan Foreign and Defence Ministerial Dialogue (2+2) alongside Defence Minister Rajnath Singh and their Japanese counterparts, Foreign Minister Toshimitsu Motegi and Defence Minister Shinjiro Koizumi.",
+      "pub": "20 Nov 11:14 IST",
+      "pub_dt": "2026-11-20T05:44:31+00:00",
+      "sectors": [
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "1a31a3039b8339a9": {
+      "id": "1a31a3039b8339a9",
+      "title": "India picks 4 players to take on China's magnet grip",
+      "link": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/govt-clears-coal-india-three-others-for-rare-earth-magnet-production/articleshow/136009583.cms",
+      "summary": "",
+      "pub": "20 Nov 07:00 IST",
+      "pub_dt": "2026-11-20T01:30:06+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "7f70fb61767586cc": {
+      "id": "7f70fb61767586cc",
+      "title": "Chaayos, 5 Spice, Blinkit hit by FDA action",
+      "link": "https://economictimes.indiatimes.com/news/new-updates/chaayos-5-spice-blinkit-hit-by-fda-action-in-mumbai-cockroaches-and-flies-found-on-premises-lead-to-licence-suspensions/articleshow/136015154.cms",
+      "summary": "",
+      "pub": "20 Nov 11:40 IST",
+      "pub_dt": "2026-11-20T06:10:19+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "ccab5d56683d986c": {
+      "id": "ccab5d56683d986c",
+      "title": "India's oil bill hits $19.5 billion amid crude shock",
+      "link": "https://economictimes.indiatimes.com/industry/energy/oil-gas/indias-crude-import-bill-jumps-88-to-19-5-billion-in-october/articleshow/136009713.cms",
+      "summary": "",
+      "pub": "20 Nov 07:24 IST",
+      "pub_dt": "2026-11-20T01:54:59+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "9b583e39748145a2": {
+      "id": "9b583e39748145a2",
+      "title": "Should you buy the dip in gold now or wait?",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-plunge-rs-6000/10g-silver-crashes-rs-9900/kg-on-mcx-as-rate-hike-bets-us-dollar-rattle-sentiment-buy-the-dip-or-wait/articleshow/136014336.cms",
+      "summary": "",
+      "pub": "20 Nov 10:50 IST",
+      "pub_dt": "2026-11-20T05:20:16+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "46a612e175401a89": {
+      "id": "46a612e175401a89",
+      "title": "Beyond stocks &amp; MFs: 7 lessons for investors",
+      "link": "https://economictimes.indiatimes.com/wealth/invest/beyond-stocks-and-mutual-funds-7-things-wealthy-investors-should-know-about-returns-risks-and-asset-allocation/articleshow/136013216.cms",
+      "summary": "",
+      "pub": "20 Nov 10:08 IST",
+      "pub_dt": "2026-11-20T04:38:18+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "925ee64b10b832e9": {
+      "id": "925ee64b10b832e9",
+      "title": "Fake gold! How 'Mr India' powder is fooling buyers",
+      "link": "https://economictimes.indiatimes.com/news/new-updates/fake-gold-with-real-hallmark-how-invisible-mr-india-chinese-rhenium-powder-is-allegedly-being-used-to-sell-impure-gold/articleshow/136014080.cms",
+      "summary": "",
+      "pub": "20 Nov 11:08 IST",
+      "pub_dt": "2026-11-20T05:38:48+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "d7e6e7aa37021fe3": {
+      "id": "d7e6e7aa37021fe3",
+      "title": "UP’s Silicon Valley dream gets Rs 281 crore push",
+      "link": "https://economictimes.indiatimes.com/news/new-updates/up-silicon-valley-plan-in-next-24-months-yogi-govt-will-build-rs-281-crore-deep-tech-u-hub-in-noida-to-help-innovators-turn-ideas-into-reality/articleshow/136014465.cms",
+      "summary": "",
+      "pub": "20 Nov 11:08 IST",
+      "pub_dt": "2026-11-20T05:38:32+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "506e4276279237dd": {
+      "id": "506e4276279237dd",
+      "title": "Rupee tops 93 vs USD for first time since April",
+      "link": "https://economictimes.indiatimes.com/markets/forex/rupee-rises-past-93-vs-usd-as-portfolio-inflows-bear-retreat-fuel-rally/articleshow/136014185.cms",
+      "summary": "",
+      "pub": "20 Nov 10:38 IST",
+      "pub_dt": "2026-11-20T05:08:53+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "f13fb5d01aff82a9": {
+      "id": "f13fb5d01aff82a9",
+      "title": "No exit yet: Republicans block bid to end Iran war",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/senate-republicans-block-latest-democratic-effort-to-end-the-war-in-iran/articleshow/136009158.cms",
+      "summary": "",
+      "pub": "20 Nov 06:33 IST",
+      "pub_dt": "2026-11-20T01:03:45+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "803cc34203c56ee3": {
+      "id": "803cc34203c56ee3",
+      "title": "Cheese to tuition fees: Check EU-UK summit menu",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/cheese-to-tuition-fees-whats-on-the-eu-uk-summit-menu/articleshow/136012887.cms",
+      "summary": "",
+      "pub": "20 Nov 09:45 IST",
+      "pub_dt": "2026-11-20T04:15:04+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "0d2dcdf8a53aec10": {
+      "id": "0d2dcdf8a53aec10",
+      "title": "EPF SWP vs FD: Returns, calculation for Rs 50L fund",
+      "link": "https://economictimes.indiatimes.com/wealth/save/epf-swp-approved-epfo-cbt-meeting-update-higher-returns-monthly-withdrawals-than-fds-annuity-know-how-your-rs-50-lakh-corpus-could-grow/articleshow/135982898.cms",
+      "summary": "",
+      "pub": "19 Nov 15:08 IST",
+      "pub_dt": "2026-11-19T09:38:21+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "77c7f4ebf92becab": {
+      "id": "77c7f4ebf92becab",
+      "title": "Tata Sons largest shareholder to discuss IPO listing",
+      "link": "https://economictimes.indiatimes.com/news/company/corporate-trends/tata-sons-largest-shareholder-meets-to-discuss-listing-amid-internal-rift-noel-tata-natarajan-chandrasekaran-venu-srinivasan-vijay-singh-cyrus-shapoorji-pallonji-group/articleshow/136012779.cms",
+      "summary": "",
+      "pub": "20 Nov 09:44 IST",
+      "pub_dt": "2026-11-20T04:14:31+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "2a763db3c52f06fb": {
+      "id": "2a763db3c52f06fb",
+      "title": "Tarique Rahman blames India for violence in B'desh",
+      "link": "https://economictimes.indiatimes.com/news/india/tarique-rahman-blames-india-for-violence-in-bangladesh/articleshow/136012207.cms",
+      "summary": "",
+      "pub": "20 Nov 09:23 IST",
+      "pub_dt": "2026-11-20T03:53:01+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "34263c2edcd358c2": {
+      "id": "34263c2edcd358c2",
+      "title": "RaGa takes dig at Modi after Xi-Putin-Trump meet",
+      "link": "https://economictimes.indiatimes.com/news/politics-and-nation/if-congress-were-in-power-india-would-be-rahul-gandhi-takes-dig-at-modi-after-xi-putin-trump-meet/articleshow/136011645.cms",
+      "summary": "",
+      "pub": "20 Nov 09:03 IST",
+      "pub_dt": "2026-11-20T03:33:20+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "885db8eb65578571": {
+      "id": "885db8eb65578571",
+      "title": "Trump says China-Russia nuclear deal will be tough",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/after-historic-meet-trump-says-nuclear-arms-reduction-deal-with-china-russia-will-be-hard-to-negotiate/articleshow/136011119.cms",
+      "summary": "",
+      "pub": "20 Nov 09:00 IST",
+      "pub_dt": "2026-11-20T03:30:41+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "372138f408ccac79": {
+      "id": "372138f408ccac79",
+      "title": "Govt mulls tight scrutiny of antimicrobial drugs",
+      "link": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/govt-proposes-tighter-scrutiny-of-antimicrobial-drugs-to-address-resistance-worries/articleshow/136009895.cms",
+      "summary": "",
+      "pub": "20 Nov 08:51 IST",
+      "pub_dt": "2026-11-20T03:21:00+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "23fe61b1f62b5498": {
+      "id": "23fe61b1f62b5498",
+      "title": "Brent crude rises to $93 after fresh Houthi attacks",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-november-20-brent-crude-rises-to-93-as-fresh-houthi-attacks-heighten-worries-what-are-experts-saying/articleshow/136010579.cms",
+      "summary": "",
+      "pub": "20 Nov 08:09 IST",
+      "pub_dt": "2026-11-20T02:39:43+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "73732df71e3ebbb9": {
+      "id": "73732df71e3ebbb9",
+      "title": "India, Japan deepen defence &amp; economic ties",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-japan-deepen-defence-tech-and-economic-security-ties-as-eam-jaishankar-concludes-tokyo-visit/articleshow/136014870.cms",
+      "summary": "New Delhi: India and Japan have agreed to deepen collaboration across defence, economic security, and critical technologies, while unveiling a joint logo to mark 75 years of diplomatic relations, as External Affairs Minister S Jaishankar concluded his three-day official visit to Japan on Friday.According to the Ministry of External Affairs, during the November 18-20 visit, Jaishankar participated ",
+      "pub": "20 Nov 11:14 IST",
+      "pub_dt": "2026-11-20T05:44:31+00:00",
+      "sectors": [
+        "IT",
+        "Industrials",
+        "Materials",
+        "Telecoms"
+      ],
+      "stocks": [
+        "ACC"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "6c950749fe419ad6": {
+      "id": "6c950749fe419ad6",
+      "title": "Metals losing their shine? Tata Steel, Vedanta, other stocks fall up to 7% in 5 days as metals hit multi-month lows. What analysts say",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/metal-stocks-fall-up-to-7-in-5-days-as-rising-fed-rate-hike-worries-push-metals-to-multi-month-lows-more-downside-ahead/articleshow/136012778.cms",
+      "summary": "Metal prices have seen a sharp drop recently, taking metal stocks down along with them as traders increasingly bet on a rate hike by the Federal Reserve during its upcoming meeting, with some expecting a jumbo 50-basis-point increase.Nifty Metal index plunged more than 6% in seven sessions to hit a low of 11,980 on Friday. While the index grew slightly on Thursday, it was marginal compared to the ",
+      "pub": "20 Nov 09:37 IST",
+      "pub_dt": "2026-11-20T04:07:11+00:00",
+      "sectors": [
+        "Autos",
+        "Materials"
+      ],
+      "stocks": [
+        "Tata Steel",
+        "Vedanta"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "39bdadc4a6d803f6": {
+      "id": "39bdadc4a6d803f6",
+      "title": "Why Tips Films' shares jump 15% after the announcement of voluntary delisting? Experts's views, target price, stop-loss",
+      "link": "https://www.livemint.com/market/stock-market-news/why-tips-films-shares-jump-15-after-the-announcement-of-voluntary-delisting-expertss-views-target-price-stoploss-11795146325237.html",
+      "summary": "Tips Films' share price today opened with an upside gap and touched an intraday high of  ₹434 per share on the NSE, logging an intraday gain of over 15%",
+      "pub": "20 Nov 11:40 IST",
+      "pub_dt": "2026-11-20T06:10:41+00:00",
+      "sectors": [
+        "IT",
+        "Materials"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "2edf5b7bd92bb04c": {
+      "id": "2edf5b7bd92bb04c",
+      "title": "₹200 small-cap stock jumps 4%: Public shareholders' stake can shrink from 50.11% to 10.03% after this update. Details",
+      "link": "https://www.livemint.com/market/stock-market-news/rs-200-small-cap-stock-jumps-4-public-shareholders-stake-can-shrink-from-50-11-to-10-03-after-this-update-details-11795152786864.html",
+      "summary": "Shanti Education Initiatives shares rose as much as 3.8% after BSE issued no adverse observations on a restructuring scheme involving Grew Energy. The company can proceed toward filing with the NCLT, but must first meet regulatory requirements and obtain relevant approvals.",
+      "pub": "20 Nov 11:12 IST",
+      "pub_dt": "2026-11-20T05:42:18+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "2b4e0b6d5b729c36": {
+      "id": "2b4e0b6d5b729c36",
+      "title": "Apollo Hospitals, Aster or Molbio — which is a better bet as healthcare stocks rally up to 4% despite D-Street weakness?",
+      "link": "https://www.livemint.com/market/stock-market-news/apollo-hospitals-aster-or-molbio-which-is-a-better-bet-as-healthcare-stocks-rally-up-to-4-despite-d-street-weakness-11795149565847.html",
+      "summary": "Hospital stocks attracted investor attention after Macquarie turned more positive on Apollo Hospitals and Max Healthcare, raising both price targets. It expects improving utilisation and earnings to support the sector, but cautioned that regulatory changes, new-hospital costs.",
+      "pub": "20 Nov 10:58 IST",
+      "pub_dt": "2026-11-20T05:28:32+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "eab9207bd07a865f": {
+      "id": "eab9207bd07a865f",
+      "title": "Infosys, TCS, HCL Tech: Indian IT stocks buck global AI rout trend; Nifty IT jumps 2% - Key reasons | Top shares to buy",
+      "link": "https://www.livemint.com/market/stock-market-news/infosys-tcs-hcl-tech-indian-it-stocks-buck-global-ai-rout-trend-nifty-it-jumps-2-key-reasons-top-shares-to-buy-11795103694291.html",
+      "summary": "Indian IT stocks rose more than 2% on Friday, bucking global technology losses and a decline in the Nifty 50. The broad-based rebound followed three sessions of losses and was supported by value buying, foreign inflows, lower exposure to AI infrastructure risks, and improving demand.",
+      "pub": "20 Nov 10:19 IST",
+      "pub_dt": "2026-11-20T04:49:37+00:00",
+      "sectors": [
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "HCL Tech",
+        "Infosys",
+        "TCS"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "d4726c8bb8f54dc7": {
+      "id": "d4726c8bb8f54dc7",
+      "title": "SC raps CCI for six-year delay in Star-Sony anti-trust appeal, junks plea",
+      "link": "https://www.livemint.com/companies/news/supreme-court-cci-star-sony-anti-trust-appeal-11795153989557.html",
+      "summary": "The Supreme Court questioned the CCI over its appeal against erstwhile Star India, now JioStar, and Sony Pictures Network, filed in 2020 against a 2019 Bombay High Court ruling, remaining pending without even a notice being issued",
+      "pub": "20 Nov 12:05 IST",
+      "pub_dt": "2026-11-20T06:35:24+00:00",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [
+        "Reliance Jio"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "e297e7a1164d31ca": {
+      "id": "e297e7a1164d31ca",
+      "title": "Abhinav Agarwal quits Amazon after 16 years: Why industry watchers are calling him Prime India's architect",
+      "link": "https://www.livemint.com/companies/people/abhinav-agarwal-quits-amazon-after-16-years-why-industry-watchers-are-calling-him-prime-indias-architect-11795155136255.html",
+      "summary": "Amazon Prime India head Abhinav Agarwal has quit after 16 years at Amazon. E-commerce veteran Satyarth Priyedarshi called him the programme's architect, highlighting his role in driving Prime's growth and customer retention strategy.",
+      "pub": "20 Nov 12:02 IST",
+      "pub_dt": "2026-11-20T06:32:24+00:00",
+      "sectors": [
+        "E-Commerce"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "09b72aa3dd36b78a": {
+      "id": "09b72aa3dd36b78a",
+      "title": "Lego to spin off India operations into separate business unit",
+      "link": "https://www.livemint.com/companies/news/lego-india-operations-separate-business-unit-11795149463342.html",
+      "summary": "The Danish toymaker has been opening its own Lego-certified stores in India.",
+      "pub": "20 Nov 11:33 IST",
+      "pub_dt": "2026-11-20T06:03:27+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "3d9cf8f7edc25bb7": {
+      "id": "3d9cf8f7edc25bb7",
+      "title": "Organisation becomes scalable when responsibility can travel: Aniruddha Singh of VCL Group",
+      "link": "https://www.livemint.com/companies/news/organisation-becomes-scalable-when-responsibility-can-travel-aniruddha-singh-of-vcl-group-11795085297313.html",
+      "summary": "Most organisations confuse culture with engagement. Aniruddha Singh, CHRO of VCL Group, makes the case that scalable culture starts with structure: who owns what, who decides, and who is accountable.",
+      "pub": "20 Nov 11:18 IST",
+      "pub_dt": "2026-11-20T05:48:10+00:00",
+      "sectors": [
+        "Materials"
+      ],
+      "stocks": [
+        "ACC"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "ba2344bcecc38367": {
+      "id": "ba2344bcecc38367",
+      "title": "Anthropics IPO caps an explosive growth period for the AI startup, filled with contradictions",
+      "link": "https://www.livemint.com/companies/anthropics-ipo-caps-an-explosive-growth-period-for-the-ai-startup-filled-with-contradictions-11795150984237.html",
+      "summary": "Anthropic's IPO caps an explosive growth period for the AI startup, filled with contradictions",
+      "pub": "20 Nov 10:33 IST",
+      "pub_dt": "2026-11-20T05:03:03+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "128bbfcd4fde59d1": {
+      "id": "128bbfcd4fde59d1",
+      "title": "Nvidia faces talent exodus risk after Jensen Huang's exit: Can the chipmaker retain engineers behind its AI dominance?",
+      "link": "https://www.livemint.com/companies/news/nvidia-faces-talent-exodus-risk-after-huangs-exit-can-the-chipmaker-retain-the-engineers-behind-its-ai-dominance-11795145847336.html",
+      "summary": "Nvidia faces a potential talent exodus after Jensen Huang's departure, with rivals expected to poach its engineers. Interim CEO Colette Kress has promised early pay raises and stock grants to retain key employees, but questions remain over their long-term loyalty.",
+      "pub": "20 Nov 09:17 IST",
+      "pub_dt": "2026-11-20T03:47:50+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
     }
   }
 }
