@@ -512664,6 +512664,643 @@
         "reasoning": "",
         "stocks": {}
       }
+    },
+    "8cb942e1f37cff05": {
+      "id": "8cb942e1f37cff05",
+      "title": "AI to lead investment strategy in 2027; Energy and borrowing costs shape macro outlook: Barclays",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ai-to-lead-investment-strategy-in-2027-energy-and-borrowing-costs-shape-macro-outlook-barclays/articleshow/136046648.cms",
+      "summary": "According to the latest report from Barclays Private Bank, the impending year 2027 calls for a stronger investment focus on artificial intelligence. While infrastructure is steadily developing, the rising costs of debt financing could negatively impact the economics of these projects. The report warns of potential computing demand outpacing supply, which may hinder technology scalability. Investor",
+      "pub": "21 Nov 11:39 IST",
+      "pub_dt": "2026-11-21T06:09:54+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT",
+        "Industrials",
+        "Materials"
+      ],
+      "stocks": [
+        "ACC"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "03ad4136ca35916b": {
+      "id": "03ad4136ca35916b",
+      "title": "Market winners: Max Healthcare, Deepak Fertilisers among 10 stocks that surged up to 14% in last week",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-winners-max-healthcare-deepak-fertilisers-among-10-stocks-that-surged-up-to-14-in-last-week/slideshow/136046616.cms",
+      "summary": "Max Healthcare, Deepak Fertilisers and Blue Star led Nifty 500 weekly gainers, surging 14.14%, 13.90% and 12.84%, respectively. Ten stocks outperformed the broader index, which gained 1.5%, highlighting strong momentum across healthcare, banking, real estate and other sectors.",
+      "pub": "21 Nov 11:21 IST",
+      "pub_dt": "2026-11-21T05:51:22+00:00",
+      "sectors": [
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "d0495354bc2523ff": {
+      "id": "d0495354bc2523ff",
+      "title": "Sebi proposes limiting tenure of chief executives, independent directors of stock exchanges, market infrastruction institutions",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-limiting-tenure-of-chief-executives-independent-directors-at-exchanges/articleshow/136031465.cms",
+      "summary": "India's Securities and Exchange Board is proposing crucial adjustments to governance norms affecting market institutions. Key suggestions include lowering the age threshold for public interest directors from 75 to 70 years, instituting a maximum of two three-year terms for directors, and restricting managing directors to an eight-year tenure. Current executives can finish their ongoing terms despi",
+      "pub": "20 Nov 20:39 IST",
+      "pub_dt": "2026-11-20T15:09:36+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "16bd6e314cfa35f8": {
+      "id": "16bd6e314cfa35f8",
+      "title": "US Treasury yields drop for day and week; AI trade concern spurs safe-haven bid",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/us-treasury-yields-drop-for-day-and-week-ai-trade-concern-spurs-safe-haven-bid/articleshow/136045682.cms",
+      "summary": "US Treasury yields experienced a significant decline due to heightened investor concerns surrounding the AI trade. As a result, investors shifted their focus towards safe-haven assets such as Treasury securities. The yield on the 10-year Treasury note fell below 5% for the first time in several months. Concerns about rising company debt and spending related to AI contributed to investor unease in ",
+      "pub": "21 Nov 10:53 IST",
+      "pub_dt": "2026-11-21T05:23:49+00:00",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "BEL"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "1db4c2882353ff56": {
+      "id": "1db4c2882353ff56",
+      "title": "Dollar weaker as Fed-fueled rally stalls; lower US yields help yen",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-weaker-as-fed-fueled-rally-stalls-lower-us-yields-help-yen/articleshow/136045620.cms",
+      "summary": "The US dollar has encountered a modest downturn, sliding to 103.86 as investor confidence wavers in the currency market. Despite this pullback, traders expect the Federal Reserve to maintain a hawkish stance in upcoming statements. Concurrently, Bitcoin has dipped below the $60,000 mark, sparking concerns about its valuation amidst ongoing market volatility.",
+      "pub": "21 Nov 10:50 IST",
+      "pub_dt": "2026-11-21T05:20:04+00:00",
+      "sectors": [
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "BEL"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "f01379b768f9e82d": {
+      "id": "f01379b768f9e82d",
+      "title": "Crude prices may normalise to USD 70 by end-2027 as global oil market moves into surplus: Report",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/crude-prices-may-normalise-to-usd-70-by-end-2027-as-global-oil-market-moves-into-surplus-report/articleshow/136045576.cms",
+      "summary": "Global crude oil prices are projected to normalize around USD 70 per barrel by the end of 2027. Rising non-OPEC+ supplies and declining Chinese oil demand are expected to lead to a market surplus. Refining margins are likely to remain elevated in the near term before gradual normalization occurs. Geopolitical tensions, particularly between the US and Iran, are likely to influence oil supply dynami",
+      "pub": "21 Nov 10:46 IST",
+      "pub_dt": "2026-11-21T05:16:52+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "e4a4de74ff22f93d": {
+      "id": "e4a4de74ff22f93d",
+      "title": "Gold's slide deepens as AI rout, rate-hike bets hurt bullion",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/golds-slide-deepens-as-ai-rout-rate-hike-bets-hurt-bullion/articleshow/136045549.cms",
+      "summary": "Gold prices plummeted by 3% on Friday, settling at a 14-month low of $3,502.49 per ounce. This sharp decline is largely due to a hawkish interest rate forecast and a significant selloff within AI stocks. Analysts point to forced liquidations of gold holdings as a factor, alongside increasing expectations of US borrowing costs, contributing to the commodity's bearish trend this week.",
+      "pub": "21 Nov 10:44 IST",
+      "pub_dt": "2026-11-21T05:14:11+00:00",
+      "sectors": [
+        "Banking",
+        "IT",
+        "Materials"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "8fd98c56d15aa9e3": {
+      "id": "8fd98c56d15aa9e3",
+      "title": "UK stocks sink as global selloff weighs on banks and miners",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/uk-stocks-sink-as-global-selloff-weighs-on-banks-and-miners/articleshow/136045502.cms",
+      "summary": "UK stocks experienced significant declines on Friday, resulting from a global market selloff linked to AI valuations. The FTSE 100 index closed at a five-month low, influenced by sharp declines in banking and mining stocks. Despite stronger-than-expected UK retail sales, declines in sectors outweighed positive news. Defensive consumer companies offered some support amid broader financial concerns.",
+      "pub": "21 Nov 10:42 IST",
+      "pub_dt": "2026-11-21T05:12:07+00:00",
+      "sectors": [
+        "Banking",
+        "IT",
+        "Materials"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "854fb9aa974cfda2": {
+      "id": "854fb9aa974cfda2",
+      "title": "European shares post worst week in over a year as AI trade unravels",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/european-shares-post-worst-week-in-over-a-year-as-ai-trade-unravels/articleshow/136045442.cms",
+      "summary": "European shares declined sharply, reflecting deeper worries about the sustainability of AI-related investments and overall economic growth. Concerns intensified after Anthropic's initial public offering did not restore confidence in the tech sector. The overall market decline affected various sectors, including cyclical stocks and semiconductor companies, due to profit-taking by investors. Despite",
+      "pub": "21 Nov 10:38 IST",
+      "pub_dt": "2026-11-21T05:08:46+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "5cbd061a4e52ee7e": {
+      "id": "5cbd061a4e52ee7e",
+      "title": "Tech leads global stocks rout, Treasury yields fall",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/tech-leads-global-stocks-rout-treasury-yields-fall/articleshow/136045354.cms",
+      "summary": "On Friday, global stock markets faced a harsh sell-off, notably impacting technology stocks. In response, US traders turned to safer investments as the 10-year yield sharply decreased. The Dow Jones Industrial Average took a major hit, alongside declines in the S&amp;P 500 and Nasdaq. However, consumer staples emerged relatively unscathed within the S&amp;P 500.",
+      "pub": "21 Nov 10:35 IST",
+      "pub_dt": "2026-11-21T05:05:25+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "30934a62e06651e3": {
+      "id": "30934a62e06651e3",
+      "title": "Wall Street Week Ahead: 'Black Friday' brings consumer spending into focus for AI-rocked market",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-black-friday-brings-consumer-spending-into-focus-for-ai-rocked-market/articleshow/136044202.cms",
+      "summary": "As the holiday season draws near, investors are keenly watching consumer spending patterns amid rising inflation fears. With US retail sales expected to show a modest uptick, this hints at consumer strength. Major retailers express optimism about this year's holiday shopping, although high gasoline and energy costs may pose challenges for spending. Investors are analyzing economic signals to under",
+      "pub": "21 Nov 09:18 IST",
+      "pub_dt": "2026-11-21T03:48:02+00:00",
+      "sectors": [
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "HAL"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "5960d1a3a218052e": {
+      "id": "5960d1a3a218052e",
+      "title": "India, Finland seek to deepen economic ties through startup cooperation: Envoy",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-finland-seek-to-deepen-economic-ties-through-startup-cooperation-envoy/articleshow/136046302.cms",
+      "summary": "India and Finland are working to strengthen their economic relationship by focusing on startup collaboration. Finnish Ambassador Mikko Kivikoski stated the importance of engaging with Indian startups for promoting investment. The Polar Bear Pitching event showcased startups, with Yash Goliya winning to compete globally in 2027. Bilateral trade between the nations is growing, with significant incre",
+      "pub": "21 Nov 11:28 IST",
+      "pub_dt": "2026-11-21T05:58:30+00:00",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "f916420d2536f01e": {
+      "id": "f916420d2536f01e",
+      "title": "8th CPC: Can minimum pension be Rs 45,000?",
+      "link": "https://economictimes.indiatimes.com/wealth/save/8th-pay-commission-latest-news-salary-pension-fitment-factor-calculator-rs-45000-payout-under-8th-cpc-demanded-by-bps-will-it-be-implemented/articleshow/136028166.cms",
+      "summary": "",
+      "pub": "21 Nov 08:00 IST",
+      "pub_dt": "2026-11-21T02:30:00+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "ed0bd3d28542a7c4": {
+      "id": "ed0bd3d28542a7c4",
+      "title": "India vs NZ: KL's 136, Gill's 98 guide India to 486/4",
+      "link": "https://economictimes.indiatimes.com/news/sports/cricket/india-vs-nz-1st-test-kl-rahuls-136-gills-98-guide-india-to-486/4-against-nz-on-day-3/articleshow/136046000.cms",
+      "summary": "",
+      "pub": "21 Nov 11:13 IST",
+      "pub_dt": "2026-11-21T05:43:12+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "e6451124b0d043fe": {
+      "id": "e6451124b0d043fe",
+      "title": "Honda's new SUV signals big shift in its EV strategy",
+      "link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/honda-debuts-hybrid-suv-as-it-recalibrates-ev-strategy/articleshow/136038788.cms",
+      "summary": "",
+      "pub": "21 Nov 01:19 IST",
+      "pub_dt": "2026-11-20T19:49:42+00:00",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "144e08053505b260": {
+      "id": "144e08053505b260",
+      "title": "Delhi teen caught for selling 2,500 Agniveers' data",
+      "link": "https://economictimes.indiatimes.com/news/new-updates/delhi-teenager-detained-for-trying-to-sell-allegedly-hacked-data-of-2500-agniveer-personnel-on-dark-web-for-500/articleshow/136046225.cms",
+      "summary": "",
+      "pub": "21 Nov 11:27 IST",
+      "pub_dt": "2026-11-21T05:57:00+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "cb9ce3b1756a77c3": {
+      "id": "cb9ce3b1756a77c3",
+      "title": "What's hiding in Nvidia's books? SEC wants to check",
+      "link": "https://economictimes.indiatimes.com/news/international/business/nvidias-accounting-is-a-focus-of-us-sec-investigation-sources-say/articleshow/136042298.cms",
+      "summary": "",
+      "pub": "21 Nov 06:09 IST",
+      "pub_dt": "2026-11-21T00:39:43+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "c36e7d0cbb06cb88": {
+      "id": "c36e7d0cbb06cb88",
+      "title": "Taxpayer wins unexplained cash, jewellery case",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/rs-4-10-crore-cash-rs-8-11-crore-jewellery-seized-by-i-t-dept-businessman-challenges-tax-action-and-wins-in-itat-bangalore/articleshow/136028394.cms",
+      "summary": "",
+      "pub": "21 Nov 09:00 IST",
+      "pub_dt": "2026-11-21T03:30:00+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "eb637ed1eb3f0b38": {
+      "id": "eb637ed1eb3f0b38",
+      "title": "Employees win Rs 33.95L gratuity in SC",
+      "link": "https://economictimes.indiatimes.com/wealth/legal/will/two-employees-win-rs-33-95-lakh-gratuity-battle-why-supreme-court-asked-employer-to-pay-despite-pending-corruption-case/articleshow/136028619.cms",
+      "summary": "",
+      "pub": "21 Nov 08:00 IST",
+      "pub_dt": "2026-11-21T02:30:00+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "58697617497cf5f5": {
+      "id": "58697617497cf5f5",
+      "title": "Trump says he is ‘genetically blessed’; Rubio reacts",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/trump-says-he-is-genetically-blessed-because-of-mit-family-link-while-discussing-nuclear-threat-video-of-rubio-vance-smiling-goes-viral/articleshow/136045135.cms",
+      "summary": "",
+      "pub": "21 Nov 10:33 IST",
+      "pub_dt": "2026-11-21T05:03:44+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "0644f9b1516c1811": {
+      "id": "0644f9b1516c1811",
+      "title": "Hong Kong Open: Satwik-Chirag lose in semifinals",
+      "link": "https://economictimes.indiatimes.com/news/sports/badminton/satwik-chirag-lose-in-semifinals-of-hong-kong-open/articleshow/136045145.cms",
+      "summary": "",
+      "pub": "21 Nov 10:24 IST",
+      "pub_dt": "2026-11-21T04:54:26+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "205242210f0a6755": {
+      "id": "205242210f0a6755",
+      "title": "Why Epstein loved Russia: Women, oligarchs and more",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/why-jeffrey-epstein-loved-russia-women-oligarchs-and-a-shot-at-redemption/articleshow/136044541.cms",
+      "summary": "",
+      "pub": "21 Nov 09:49 IST",
+      "pub_dt": "2026-11-21T04:19:35+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "be25a252e5ab7a23": {
+      "id": "be25a252e5ab7a23",
+      "title": "Finmin seeks review of SC's Yes Bank AT-1 bond ruling",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/finance-ministry-seeks-review-of-scs-yes-bank-at-1-bond-ruling/articleshow/136038138.cms",
+      "summary": "",
+      "pub": "21 Nov 00:28 IST",
+      "pub_dt": "2026-11-20T18:58:12+00:00",
+      "sectors": [
+        "Autos",
+        "Banking"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "53c32ee6166de6c8": {
+      "id": "53c32ee6166de6c8",
+      "title": "Hasina's offer to return to B'desh's raises a question",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/sheikh-hasinas-offer-to-return-voluntarily-puts-bangladeshs-extradition-demand-in-question/articleshow/136044282.cms",
+      "summary": "",
+      "pub": "21 Nov 09:36 IST",
+      "pub_dt": "2026-11-21T04:06:35+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "e08b5c026a0afb70": {
+      "id": "e08b5c026a0afb70",
+      "title": "FBI hacked again: Hackers target crime database",
+      "link": "https://economictimes.indiatimes.com/news/new-updates/fbi-hacked-again-hackers-target-worlds-top-investigating-agencys-crime-database-used-by-police-across-us/articleshow/136044594.cms",
+      "summary": "",
+      "pub": "21 Nov 09:52 IST",
+      "pub_dt": "2026-11-21T04:22:56+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "a728c6b50358d9b0": {
+      "id": "a728c6b50358d9b0",
+      "title": "Under fire for Sandpapergate, Cummins gets backing",
+      "link": "https://economictimes.indiatimes.com/news/sports/cricket/cricket-australia-backs-pat-cummins-as-captain-amid-fresh-allegations-in-2018-sandpapergate-scandal/articleshow/136043705.cms",
+      "summary": "",
+      "pub": "21 Nov 08:55 IST",
+      "pub_dt": "2026-11-21T03:25:49+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "0d185fd531ce0370": {
+      "id": "0d185fd531ce0370",
+      "title": "Capitalmind Flexi Cap Fund increases stake in MCX, Radico Khaitan, 9 others, makes exit from Bajaj Auto and 8 more",
+      "link": "https://economictimes.indiatimes.com/mf/analysis/capitalmind-flexi-cap-fund-increases-stake-in-mcx-radico-khaitan-9-others-makes-exit-from-bajaj-auto-and-8-more/articleshow/136045812.cms",
+      "summary": "Capitalmind Flexi Cap Fund, managed by Capitalmind Mutual Fund, increased its stake in Multi Commodity Exchange of India (MCX), Radico Khaitan and nine others in October and the fund made a complete exit from Bajaj Auto and eight more stocks in the same time period, according to the monthly portfolio disclosed by ACE MF.The fund added 4,500 shares of Multi Commodity Exchange of India (MCX) taking ",
+      "pub": "21 Nov 11:06 IST",
+      "pub_dt": "2026-11-21T05:36:11+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT",
+        "Materials"
+      ],
+      "stocks": [
+        "ACC",
+        "Bajaj Auto"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "6362a5e953d70eca": {
+      "id": "6362a5e953d70eca",
+      "title": "Nvidia's $2.6 trillion rout: Shares tumble 46% in 7 weeks, worst losing streak since 2008",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nvidias-2-6-trillion-rout-shares-tumble-46-in-7-weeks-worst-losing-streak-since-2008/articleshow/136045936.cms",
+      "summary": "Nvidia shares plunged 14% on Friday, extending their losing streak to seven consecutive sessions and putting the chipmaker on track for a seventh straight weekly decline, its longest such run since 2008.The stock has fallen 46% over the past seven weeks, wiping out approximately $2.6 trillion in market value as investors grapple with leadership uncertainty, growing competition in AI chips and conc",
+      "pub": "21 Nov 11:16 IST",
+      "pub_dt": "2026-11-21T05:46:46+00:00",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "c2473701fbd1a01d": {
+      "id": "c2473701fbd1a01d",
+      "title": "Nvidia vs Anthropic shares: AI chip stock tanks 14% while Claude-maker falls 8.5% - See who wins in earnings, valuation?",
+      "link": "https://www.livemint.com/market/stock-market-news/nvidia-vs-anthropic-shares-ai-chip-stock-tanks-14-while-claude-maker-falls-8-5-see-who-wins-in-earnings-valuation-11795238170165.html",
+      "summary": "Nvidia and Anthropic shares fell sharply amid a broader technology sell-off, raising questions about AI valuations and the returns on heavy industry spending. Nvidia remains highly profitable, while Anthropic is growing rapidly but faces substantial costs and losses.",
+      "pub": "21 Nov 11:41 IST",
+      "pub_dt": "2026-11-21T06:11:37+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "b9bc5c6c6af175c3": {
+      "id": "b9bc5c6c6af175c3",
+      "title": "Bitcoin crashes to over two-year low below $60,000 level: What do experts expect from crypto markets going ahead?",
+      "link": "https://www.livemint.com/market/cryptocurrency/bitcoin-crashes-to-over-two-year-low-below-60-000-level-what-do-experts-expect-from-crypto-markets-going-ahead-11795234024656.html",
+      "summary": "Bitcoin price today: The world's largest cryptocurrency is trading near over two-year lows on 21 November, below the $60,000 level. The overall crypto market cap also slipped by 7.58% to $1.95 trillion.",
+      "pub": "21 Nov 11:11 IST",
+      "pub_dt": "2026-11-21T05:41:57+00:00",
+      "sectors": [
+        "Autos",
+        "Industrials"
+      ],
+      "stocks": [
+        "BEL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "5ed106a1c0649517": {
+      "id": "5ed106a1c0649517",
+      "title": "Top 3 stocks to buy: Axis Bank, Bajaj Finance, HDFC Life by Sumeet Bagadia | Targets, stop-loss, stock market prediction",
+      "link": "https://www.livemint.com/market/stock-market-news/top-3-stocks-to-buy-axis-bank-bajaj-finance-hdfc-life-by-sumeet-bagadia-targets-stop-loss-stock-market-prediction-11795228228586.html",
+      "summary": "Stock market prediction: Sumeet Bagadia of Choice Broking believes that Dalal Street bias has improved after sharp rally in the Indian indices",
+      "pub": "21 Nov 10:45 IST",
+      "pub_dt": "2026-11-21T05:15:33+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "Industrials"
+      ],
+      "stocks": [
+        "Axis Bank",
+        "BEL",
+        "Bajaj Finance",
+        "HDFC Life"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "146fda2ed0447fcb": {
+      "id": "146fda2ed0447fcb",
+      "title": "Missed 50% rally in Samvardhana Motherson? Choice's Sumeet Bagadia spots another buying opportunity | Target, stop loss",
+      "link": "https://www.livemint.com/market/stock-market-news/missed-50-rally-in-samvardhana-motherson-choices-sumeet-bagadia-spots-another-buying-opportunity-target-stop-loss-11795233784659.html",
+      "summary": "Choice Broking recommended a one-month positional buy in Samvardhana Motherson International at  ₹162.70, with a target of  ₹180 and a stop loss at  ₹154. The brokerage cited a bullish breakout retest, improving momentum and support near  ₹155.",
+      "pub": "21 Nov 09:53 IST",
+      "pub_dt": "2026-11-21T04:23:27+00:00",
+      "sectors": [
+        "Autos"
+      ],
+      "stocks": [
+        "Motherson"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "aebc81b16c719e11": {
+      "id": "aebc81b16c719e11",
+      "title": "India's cumin soda revolution costs  ₹10: Lahori Zeera challenges Coca-Cola and Pepsi, targets  ₹1,112 crore in revenue",
+      "link": "https://www.livemint.com/companies/indias-cumin-soda-revolution-costs-10-lahori-zeera-challenges-coca-cola-and-pepsi-targets-1-112-crore-in-revenue-11795240176635.html",
+      "summary": "Three cousins turned a kitchen experiment into Lahori Zeera, a cumin-flavoured soda now challenging global beverage brands in India’s affordable drinks market.&amp;nbsp;",
+      "pub": "21 Nov 11:27 IST",
+      "pub_dt": "2026-11-21T05:57:13+00:00",
+      "sectors": [
+        "Autos",
+        "Industrials"
+      ],
+      "stocks": [
+        "HAL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "80f3a99edd9313e5": {
+      "id": "80f3a99edd9313e5",
+      "title": "How much is Jensen Huang's value in the market? $1 trillion, it seems: Nvidia loses 25% capitalisation after CEO's exit",
+      "link": "https://www.livemint.com/companies/people/how-much-is-jensen-huangs-value-in-the-market-1-trillion-it-seems-nvidia-loses-25-capitalisation-after-ceos-exit-11795232305554.html",
+      "summary": "Nvidia’s market value fell about $1.04 trillion in the nine days after Jensen Huang resigned, dropping from roughly $4.2 trillion to $3.14 trillion.&amp;nbsp;",
+      "pub": "21 Nov 09:14 IST",
+      "pub_dt": "2026-11-21T03:44:56+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
     }
   }
 }
