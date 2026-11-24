@@ -519826,6 +519826,656 @@
         "reasoning": "",
         "stocks": {}
       }
+    },
+    "455a2d48c6c29bc2": {
+      "id": "455a2d48c6c29bc2",
+      "title": "Investors mint Rs 34.61 lakh cr in November as markets rally nearly 11%",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/investors-mint-rs-34-61-lakh-cr-in-november-as-markets-rally-nearly-11/articleshow/136123662.cms",
+      "summary": "In a remarkable surge this month, Indian equity markets have observed a substantial upswing, with the BSE Sensex climbing nearly 11 percent. This rally was largely propelled by foreign institutional investors, who contributed record-setting inflows exceeding Rs 1 lakh crore. Motivated by lower crude oil prices and impressive Q2 earnings, investor optimism soared, although a recent profit booking s",
+      "pub": "24 Nov 13:28 IST",
+      "pub_dt": "2026-11-24T07:58:46+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "e0f176d664d535e3": {
+      "id": "e0f176d664d535e3",
+      "title": "IIFCL IPO: Govt plans to sell part of its stake, company to issue fresh shares",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/iifcl-ipo-govt-plans-to-sell-part-of-its-stake-company-to-issue-fresh-shares/articleshow/136124476.cms",
+      "summary": "The government aims to partially divest its shareholding in India Infrastructure Finance Company Ltd through an initial public offering. The IPO is expected to occur by the end of the current fiscal year, according to an official statement. IIFCL will issue fresh shares to raise capital alongside the government stake sale. The proceeds from the stake sale will contribute to the government's disinv",
+      "pub": "24 Nov 14:02 IST",
+      "pub_dt": "2026-11-24T08:32:38+00:00",
+      "sectors": [
+        "IT",
+        "Industrials",
+        "Materials"
+      ],
+      "stocks": [
+        "ACC"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "245269dfd047e662": {
+      "id": "245269dfd047e662",
+      "title": "India, Canada 'very close' to conclude trade pact negotiations: Official",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-canada-very-close-to-conclude-trade-pact-negotiations-official/articleshow/136123468.cms",
+      "summary": "Negotiators from India and Canada are engaging daily to finalize the Comprehensive Economic Partnership Agreement negotiations. A sixth round of discussions took place recently, focusing on key areas such as trade and investment. Both countries aim to increase bilateral trade to USD 50 billion by 2030, after a decline in trade values. India is also working on a separate bilateral investment protec",
+      "pub": "24 Nov 13:21 IST",
+      "pub_dt": "2026-11-24T07:51:32+00:00",
+      "sectors": [
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "4cc458de609f7ae0": {
+      "id": "4cc458de609f7ae0",
+      "title": "India-EU free trade pact to open new opportunities for trade, investment: German state leader",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-eu-free-trade-pact-to-open-new-opportunities-for-trade-investment-german-state-leader/articleshow/136121903.cms",
+      "summary": "India and the European Union concluded negotiations on a Free Trade Agreement that is set to be finalized soon. Minister-President Olaf Lies of Lower Saxony emphasized the potential benefits for both Indian and German businesses. He mentioned cooperation in areas like digitalization and artificial intelligence as key prospects for collaboration. The partnership aims to enhance skilled workforce mo",
+      "pub": "24 Nov 12:12 IST",
+      "pub_dt": "2026-11-24T06:42:45+00:00",
+      "sectors": [
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "7fbb40ceea8f0dad": {
+      "id": "7fbb40ceea8f0dad",
+      "title": "India counters China in Nepal amid flood crisis",
+      "link": "https://economictimes.indiatimes.com/news/india/india-seizes-nepal-flood-crisis-to-rebuild-influence-as-china-gains-ground/articleshow/136125481.cms",
+      "summary": "",
+      "pub": "24 Nov 14:45 IST",
+      "pub_dt": "2026-11-24T09:15:46+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "5719440eaf6e24d8": {
+      "id": "5719440eaf6e24d8",
+      "title": "TN Thiruparankundram Deepathoon issue explained",
+      "link": "https://economictimes.indiatimes.com/news/new-updates/thiruparankundram-deepathoon-issue-explained-why-light-karthigai-deepam-at-a-disputed-pillar-near-a-dargah-history-temple-dispute-and-tvk-cm-vijays-stand/articleshow/136121590.cms",
+      "summary": "",
+      "pub": "24 Nov 12:19 IST",
+      "pub_dt": "2026-11-24T06:49:07+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "6590ef1a50a6ad47": {
+      "id": "6590ef1a50a6ad47",
+      "title": "Kejriwal slams BJP over SAD alliance",
+      "link": "https://economictimes.indiatimes.com/news/politics-and-nation/kejriwal-blasts-bjp-for-sad-alliance-a-power-driven-pact-ahead-of-2027-punjab-elections/articleshow/136124968.cms",
+      "summary": "",
+      "pub": "24 Nov 14:24 IST",
+      "pub_dt": "2026-11-24T08:54:19+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "24a7c004cd8ac15c": {
+      "id": "24a7c004cd8ac15c",
+      "title": "Boss is back! Nvidia's Jensen joins comeback club",
+      "link": "https://economictimes.indiatimes.com/news/international/business/nvidias-jensen-huangs-corporate-comeback-puts-him-in-the-league-of-steve-jobs-murthy-iger-altman-ceo-returns/articleshow/136123543.cms",
+      "summary": "",
+      "pub": "24 Nov 13:51 IST",
+      "pub_dt": "2026-11-24T08:21:42+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "0b8d18961dc86da1": {
+      "id": "0b8d18961dc86da1",
+      "title": "BESCOM's 'careless' work injures Bengaluru man",
+      "link": "https://economictimes.indiatimes.com/news/new-updates/bengaluru-businessmans-family-blames-bescom-for-careless-roadwork-after-cement-pole-crashes-onto-his-car-leaves-him-injured/articleshow/136124648.cms",
+      "summary": "",
+      "pub": "24 Nov 14:26 IST",
+      "pub_dt": "2026-11-24T08:56:10+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "8bee9c8b738da1c6": {
+      "id": "8bee9c8b738da1c6",
+      "title": "RBI approves SBI MF's stake in South Indian Bank",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-approves-sbi-mutual-fund-to-acquire-up-to-9-99-pc-stake-in-south-indian-bank/articleshow/136124361.cms",
+      "summary": "",
+      "pub": "24 Nov 13:58 IST",
+      "pub_dt": "2026-11-24T08:28:41+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [
+        "SBI"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "6a1c84b4c21a5c98": {
+      "id": "6a1c84b4c21a5c98",
+      "title": "Punjab polls 2027: Amit Shah hints who will be CM",
+      "link": "https://economictimes.indiatimes.com/news/elections/assembly-elections/punjab/who-will-be-cm-if-bjp-akali-dal-alliance-wins-punjab-elections-in-2027-amit-shah-answers/articleshow/136124259.cms",
+      "summary": "",
+      "pub": "24 Nov 13:56 IST",
+      "pub_dt": "2026-11-24T08:26:54+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "3cd3a5916902cf6e": {
+      "id": "3cd3a5916902cf6e",
+      "title": "Tired of govt inaction, farmer fixes road",
+      "link": "https://economictimes.indiatimes.com/news/new-updates/tired-of-govt-inaction-karnataka-farmer-spends-rs-2-lakh-to-repair-a-road-that-made-a-3-km-journey-take-over-3-hours-villagers-contribute-money-machinery-labour/articleshow/136123869.cms",
+      "summary": "",
+      "pub": "24 Nov 13:50 IST",
+      "pub_dt": "2026-11-24T08:20:56+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "d5c5a9b277548f92": {
+      "id": "d5c5a9b277548f92",
+      "title": "Mideast crude exports trend lower amid stalemate",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/middle-east-crude-oil-exports-trend-lower-amid-fake-iran-stalemate/articleshow/136121160.cms",
+      "summary": "",
+      "pub": "24 Nov 11:36 IST",
+      "pub_dt": "2026-11-24T06:06:56+00:00",
+      "sectors": [
+        "Telecoms"
+      ],
+      "stocks": [
+        "Vodafone Idea"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "4dbd9971440d5cd4": {
+      "id": "4dbd9971440d5cd4",
+      "title": "Taiwan is psyched that Jensen Huang is back",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/taiwan-is-psyched-that-jensen-huang-is-back-in-the-drivers-seat-at-nvidia/articleshow/136123527.cms",
+      "summary": "",
+      "pub": "24 Nov 13:26 IST",
+      "pub_dt": "2026-11-24T07:56:01+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "894367a698d26833": {
+      "id": "894367a698d26833",
+      "title": "₹2.1L unpaid power bill for new home, dues squashed",
+      "link": "https://economictimes.indiatimes.com/news/new-updates/jk-man-moves-into-new-house-finds-rs-2-1-lakh-unpaid-electricity-bill-in-his-name-consumer-court-orders-rs-10000-compensation-and-to-quash-dues/articleshow/136123780.cms",
+      "summary": "",
+      "pub": "24 Nov 13:40 IST",
+      "pub_dt": "2026-11-24T08:10:56+00:00",
+      "sectors": [
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "490bf2108c7025d1": {
+      "id": "490bf2108c7025d1",
+      "title": "Vietnam explosion: At least 6 killed, 10 injured",
+      "link": "https://economictimes.indiatimes.com/nri/latest-updates/vietnam-explosion-at-least-6-killed-10-injured-in-suspected-gas-blast-at-hanoi-restaurant/articleshow/136123605.cms",
+      "summary": "",
+      "pub": "24 Nov 13:32 IST",
+      "pub_dt": "2026-11-24T08:02:44+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "0cfa6f210a181d13": {
+      "id": "0cfa6f210a181d13",
+      "title": "India's big plan for cash-strapped startups",
+      "link": "https://economictimes.indiatimes.com/news/new-updates/no-lab-no-problem-india-plans-100-acre-innovation-park-in-ujjain-where-startups-can-build-ai-drones-and-semiconductors-by-paying-per-use/articleshow/136123185.cms",
+      "summary": "",
+      "pub": "24 Nov 13:19 IST",
+      "pub_dt": "2026-11-24T07:49:52+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "6472571a6cbdbd4f": {
+      "id": "6472571a6cbdbd4f",
+      "title": "Deepam row: TN BJP chief placed under house arrest",
+      "link": "https://economictimes.indiatimes.com/news/politics-and-nation/karthigai-deepam-row-tamil-nadu-bjp-chief-nainar-nagenthran-placed-under-house-arrest/articleshow/136123045.cms",
+      "summary": "",
+      "pub": "24 Nov 13:12 IST",
+      "pub_dt": "2026-11-24T07:42:35+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "df08a77993164426": {
+      "id": "df08a77993164426",
+      "title": "Past conviction can't be ignored for bail: SC",
+      "link": "https://economictimes.indiatimes.com/news/india/criminal-having-previous-conviction-cant-be-given-bail-only-on-strength-of-right-to-speedy-trial-sc/articleshow/136123313.cms",
+      "summary": "",
+      "pub": "24 Nov 13:15 IST",
+      "pub_dt": "2026-11-24T07:45:33+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "08d5f9e924fe6745": {
+      "id": "08d5f9e924fe6745",
+      "title": "SMAT: Priyansh Arya storms past KL's T20 record",
+      "link": "https://economictimes.indiatimes.com/news/sports/cricket/smat-2026-priyansh-arya-breaks-kl-rahuls-record-for-highest-score-in-t20s-by-an-indian-posts-second-highest-individual-score-in-format/articleshow/136122033.cms",
+      "summary": "",
+      "pub": "24 Nov 12:05 IST",
+      "pub_dt": "2026-11-24T06:35:21+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "523226975190f86e": {
+      "id": "523226975190f86e",
+      "title": "Bottled water's clean image faces a murky test",
+      "link": "https://economictimes.indiatimes.com/industry/cons-products/food/packaged-water-industry-under-fssai-scrutiny-after-bisleri-sample-found-unsafe/articleshow/136113010.cms",
+      "summary": "",
+      "pub": "24 Nov 00:24 IST",
+      "pub_dt": "2026-11-23T18:54:02+00:00",
+      "sectors": [
+        "E-Commerce"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "2939aefc2fdaceb9": {
+      "id": "2939aefc2fdaceb9",
+      "title": "Sreedharan pitches 5-year plan for Kerala rail",
+      "link": "https://economictimes.indiatimes.com/industry/transportation/railways/kerala-high-speed-rail-project-can-be-completed-in-5-years-if-dmrc-takes-charge-metro-man-e-sreedharan-says-state-govts-delay-is-holding-it-back/articleshow/136122457.cms",
+      "summary": "",
+      "pub": "24 Nov 12:37 IST",
+      "pub_dt": "2026-11-24T07:07:41+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "2f6cfe54d7c81435": {
+      "id": "2f6cfe54d7c81435",
+      "title": "Huang's return sends S Korea's AI stocks soaring",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-korean-shares-rebound-as-huangs-nvidia-return-lifts-ai-stocks/articleshow/136118071.cms",
+      "summary": "",
+      "pub": "24 Nov 08:35 IST",
+      "pub_dt": "2026-11-24T03:05:02+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "d027d3bdb9d60bf7": {
+      "id": "d027d3bdb9d60bf7",
+      "title": "Trump shares bizarre AI image of Nvidia boss",
+      "link": "https://economictimes.indiatimes.com/news/new-updates/national-treasure-trump-puts-nvidia-boss-jensen-huang-in-bizarre-ai-recreation-of-his-2024-assassination-attempt-photograph-after-hailing-him-as-great-patriot/articleshow/136121520.cms",
+      "summary": "",
+      "pub": "24 Nov 11:55 IST",
+      "pub_dt": "2026-11-24T06:25:11+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "41446a20b5481333": {
+      "id": "41446a20b5481333",
+      "title": "Former envoy on India's relief package for Nepal",
+      "link": "https://economictimes.indiatimes.com/news/india/india-stepped-up-to-the-plate-with-rs-15000-crore-relief-package-for-nepal-former-envoy-manjeev-singh-puri/articleshow/136121747.cms",
+      "summary": "",
+      "pub": "24 Nov 11:48 IST",
+      "pub_dt": "2026-11-24T06:18:58+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "14eff51ec7c712da": {
+      "id": "14eff51ec7c712da",
+      "title": "Saurav Das stopped at Delhi airport before UK visit",
+      "link": "https://economictimes.indiatimes.com/news/politics-and-nation/cjps-saurav-das-claims-modi-government-prevented-him-from-flying-to-oxford-lecture-on-cockroach-movement/articleshow/136117565.cms",
+      "summary": "",
+      "pub": "24 Nov 07:54 IST",
+      "pub_dt": "2026-11-24T02:24:20+00:00",
+      "sectors": [
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "c4e26f8899bc2ebe": {
+      "id": "c4e26f8899bc2ebe",
+      "title": "What oil's new plot twist means for India",
+      "link": "https://economictimes.indiatimes.com/industry/energy/oil-gas/hormuz-roiled-but-oil-didnt-boil-what-crudes-plot-twist-means-for-india-oil-prices-iran-war-trump-lng/articleshow/136123113.cms",
+      "summary": "The fear of a renewal of war is again roiling the waters of Hormuz following Iran's warning that it will use \"all available means\" to break US's blockade. As the possibility of another bout of costly fighting looms, policymakers have begun looking anxiously at the geopolitical powder keg once more.Despite this big new threat to one of the world's most critical shipping corridors, oil prices moved ",
+      "pub": "24 Nov 13:52 IST",
+      "pub_dt": "2026-11-24T08:22:16+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "3221e725803ad893": {
+      "id": "3221e725803ad893",
+      "title": "Penny stock under  ₹10 with high book value, strong fundamentals — Can it become a multibagger? Experts' views, target",
+      "link": "https://www.livemint.com/market/stock-market-news/penny-stock-under-rs-10-with-high-book-value-strong-fundamentals-can-it-become-a-multibagger-experts-views-target-11795505964712.html",
+      "summary": "Penny stock under  ₹10: Experts believe that green energy share has the potential to become a multibagger touching  ₹19 in the long-term",
+      "pub": "24 Nov 14:10 IST",
+      "pub_dt": "2026-11-24T08:40:35+00:00",
+      "sectors": [
+        "Autos",
+        "Industrials"
+      ],
+      "stocks": [
+        "BEL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "f5748013e6f601ed": {
+      "id": "f5748013e6f601ed",
+      "title": "Is stock market open today? Thanksgiving, Black Friday holiday, US trading schedule - Nasdaq, New York Stock Exchange",
+      "link": "https://www.livemint.com/market/stock-market-news/is-stock-market-open-today-thanksgiving-black-friday-holiday-us-trading-schedule-nasdaq-new-york-stock-exchange-11795503931602.html",
+      "summary": "US stock markets will close for Thanksgiving on November 26 and reopen with an early 1 p.m. ET close on Black Friday. The article also outlines holiday trading hours for bonds and year-end market closures, while reporting a sharp Monday rally led by Nvidia.",
+      "pub": "24 Nov 13:18 IST",
+      "pub_dt": "2026-11-24T07:48:34+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "ce7c2a14805f16ce": {
+      "id": "ce7c2a14805f16ce",
+      "title": "RBI’s Rohit Jain wants primary dealers to become architects of G-Sec market development",
+      "link": "https://www.livemint.com/market/bonds/rbi-deputy-governor-urges-primary-dealers-to-boost-g-sec-market-11795501774694.html",
+      "summary": "Jain said primary dealers could contribute towards building a partnership that continues to serve the government securities market well.",
+      "pub": "24 Nov 13:08 IST",
+      "pub_dt": "2026-11-24T07:38:34+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "be8a91eb2bc7cde7": {
+      "id": "be8a91eb2bc7cde7",
+      "title": "Gold rate today, 24 November 2026: Gold price rebounds from 14-month low; is it the right time to buy? Experts' explain",
+      "link": "https://www.livemint.com/market/commodities/gold-rate-today-24-november-2026-gold-price-rebounds-from-14-month-low-is-it-the-right-time-to-buy-experts-explain-11795498644088.html",
+      "summary": "Gold price today: The MCX gold rate finished at  ₹1,26,021 per 10 gm, whereas in the international market gold USD rate is around $3,635 per ounce",
+      "pub": "24 Nov 12:24 IST",
+      "pub_dt": "2026-11-24T06:54:34+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "7dc6b7db43e452e6": {
+      "id": "7dc6b7db43e452e6",
+      "title": "Jensen Huang is back $1 trn m-cap; Nvidia's  ₹92.84 lakh cr comeback - 70% losses recovered; Baird is bullish; target",
+      "link": "https://www.livemint.com/market/stock-market-news/jensen-huang-is-back-1-trn-m-cap-nvidias-rs-92-84-lakh-cr-comeback-70-losses-recovered-baird-is-bullish-target-11795500713599.html",
+      "summary": "Nvidia shares surged 31.5% after Jensen Huang returned as CEO, recovering about 70% of recent losses and adding more than $1 trillion to the company’s market value. Several brokerages turned more positive, though export restrictions, China exposure and uncertainty over AI spending remain risks.",
+      "pub": "24 Nov 12:24 IST",
+      "pub_dt": "2026-11-24T06:54:30+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "99e47450f86e51e8": {
+      "id": "99e47450f86e51e8",
+      "title": "No successor in sight: What Jensen Huang’s return reveals about Nvidia’s leadership challenges",
+      "link": "https://www.livemint.com/companies/news/no-successor-in-sight-what-jensen-huang-s-return-reveals-about-nvidia-s-leadership-challenges-11795509856500.html",
+      "summary": "Nvidia added nearly $1 trillion in market value after Huang's return, while the rally boosted the value of his personal stake by about $32 billion, according to the Bloomberg Billionaires Index. The estimate is based on his 3.4% ownership of the company.",
+      "pub": "24 Nov 14:35 IST",
+      "pub_dt": "2026-11-24T09:05:52+00:00",
+      "sectors": [
+        "Autos",
+        "IT",
+        "Industrials",
+        "Materials"
+      ],
+      "stocks": [
+        "ACC",
+        "HAL"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "f235ad1050f154ce": {
+      "id": "f235ad1050f154ce",
+      "title": "Cashing in on nostalgia! In pics: From Campa Cola to Gold Spot, iconic Indian soft drink brands that have made comeback",
+      "link": "https://www.livemint.com/companies/news/cashing-in-on-nostalgia-in-pics-from-campa-cola-to-gold-spot-iconic-indian-soft-drink-brands-that-made-a-comeback-11795508742953.html",
+      "summary": "Gold Spot, once a popular Indian orange soda, may return to shelves after more than two decades, according to reports. Though Coca-Cola has not formally announced the revival, the brand would join Campa Cola and Thums Up among homegrown drinks that have made successful comebacks.",
+      "pub": "24 Nov 14:08 IST",
+      "pub_dt": "2026-11-24T08:38:23+00:00",
+      "sectors": [
+        "Autos",
+        "Materials"
+      ],
+      "stocks": [
+        "ACC"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "c2b1c30f6396d54c": {
+      "id": "c2b1c30f6396d54c",
+      "title": "‘IDBI Bank’ not ‘State’ under Article 12, rules Supreme Court; dismisses appeal by association | What we know",
+      "link": "https://www.livemint.com/companies/news/idbi-bank-not-state-under-article-12-rules-supreme-court-dismisses-appeal-by-association-what-we-know-11795508773827.html",
+      "summary": "The Supreme Court has ruled that IDBI Bank is not 'State' under Article 12 of the Constitution, dismissing appeals by its officers' association. The decision comes amid the proposed sale of over 60% stake by the Centre and LIC, and concerns over employee and pension benefits.",
+      "pub": "24 Nov 14:04 IST",
+      "pub_dt": "2026-11-24T08:34:22+00:00",
+      "sectors": [
+        "Banking"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "ab5f5a0de53821b0": {
+      "id": "ab5f5a0de53821b0",
+      "title": "‘Portfolio rebalancing’: JioStar to lay off around 150 employees this week - what we know",
+      "link": "https://www.livemint.com/companies/news/portfolio-rebalancing-jiostar-to-lay-off-around-150-employees-this-week-what-we-know-11795505571851.html",
+      "summary": "JioStar plans to lay off about 150 employees across departments, including marketing, production and operations. The company says the cuts are part of a portfolio rebalancing and will provide affected staff with at least six months’ salary and a pro-rata bonus.",
+      "pub": "24 Nov 13:14 IST",
+      "pub_dt": "2026-11-24T07:44:34+00:00",
+      "sectors": [
+        "Telecoms"
+      ],
+      "stocks": [
+        "Reliance Jio"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
     }
   }
 }
