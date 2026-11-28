@@ -534990,6 +534990,476 @@
         "reasoning": "",
         "stocks": {}
       }
+    },
+    "e9e49445f57ac159": {
+      "id": "e9e49445f57ac159",
+      "title": "Microcap winners: Greaves Cotton, Thomas Cook among 10 stocks with gains of up to 50%",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/microcap-winners-greaves-cotton-thomas-cook-among-10-stocks-with-gains-of-up-to-50/slideshow/136238905.cms",
+      "summary": "Ten microcap stocks, led by Greaves Cotton, Thomas Cook India and Tanla Platforms, gained up to 50.21% over two months, outperforming the Nifty Microcap 250's broader decline.",
+      "pub": "28 Nov 10:21 IST",
+      "pub_dt": "2026-11-28T04:51:49+00:00",
+      "sectors": [
+        "E-Commerce",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "632ce25f0db81a90": {
+      "id": "632ce25f0db81a90",
+      "title": "Bond market to stay cautious ahead of RBI policy: Equirus",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/bond-market-to-stay-cautious-ahead-of-rbi-policy-equirus/articleshow/136240295.cms",
+      "summary": "The bond market is expected to remain cautious due to persistent inflationary pressures and anticipated rate hikes. Analysts predict a 25 basis points hike in the RBI's upcoming monetary policy review. Market yields are likely to be influenced by geopolitical tensions and global bond movements. Foreign portfolio investor inflows and stable currency conditions may provide some support for bond yiel",
+      "pub": "28 Nov 11:43 IST",
+      "pub_dt": "2026-11-28T06:13:58+00:00",
+      "sectors": [
+        "Autos",
+        "IT"
+      ],
+      "stocks": [
+        "Persistent"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "03e6ffa5c4c1c89c": {
+      "id": "03e6ffa5c4c1c89c",
+      "title": "From war premium to demand concerns: What is driving the sharp fall in crude oil prices?",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/from-war-premium-to-demand-concerns-what-is-driving-the-sharp-fall-in-crude-oil-prices/articleshow/136238953.cms",
+      "summary": "Crude oil prices have fallen sharply from their September highs as geopolitical risk premiums fade and concerns over oversupply and slowing demand take centre stage. Rising production from non-OPEC countries, resilient Middle Eastern exports and weaker consumption expectations are weighing on global benchmarks. Here's what is driving the correction.",
+      "pub": "28 Nov 10:35 IST",
+      "pub_dt": "2026-11-28T05:05:56+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "9f60d9d45bed7cde": {
+      "id": "9f60d9d45bed7cde",
+      "title": "India's FY28 fiscal deficit projected to stay unchanged at 4.3% of GDP: Deutsche Bank",
+      "link": "https://economictimes.indiatimes.com/news/economy/indicators/indias-fy28-fiscal-deficit-projected-to-stay-unchanged-at-4-3-of-gdp-deutsche-bank/articleshow/136238634.cms",
+      "summary": "India's fiscal deficit for the financial year 2028 is expected to stay at 4.3 percent of GDP. The report highlights challenges in consolidation efforts due to rising expenditure and subsidy bills. Economic growth remains steady, with GDP forecasts at 7.3 percent for FY27 and 7.2 percent for FY28. Retail inflation surpassed the RBI's upper threshold driven primarily by higher food prices.",
+      "pub": "28 Nov 10:20 IST",
+      "pub_dt": "2026-11-28T04:50:51+00:00",
+      "sectors": [
+        "Banking",
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "HAL"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "3640d58280dc9cf5": {
+      "id": "3640d58280dc9cf5",
+      "title": "Senior citizen FDs with 7.5% &amp; higher rates",
+      "link": "https://economictimes.indiatimes.com/wealth/invest/fds-offering-7-5-and-higher-interest-rates-to-senior-citizens-check-psu-private-and-small-finance-bank-fixed-deposit-rate-lists/articleshow/136238133.cms",
+      "summary": "",
+      "pub": "28 Nov 12:21 IST",
+      "pub_dt": "2026-11-28T06:51:50+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "836248ee3cdf052f": {
+      "id": "836248ee3cdf052f",
+      "title": "CRPF takes charge of Thiruparankundram hill",
+      "link": "https://economictimes.indiatimes.com/news/india/thiruparankundram-deepam-row-crpf-takes-charge-of-hill-security-ahead-of-deepathoon-lamp-lighting/articleshow/136240610.cms",
+      "summary": "",
+      "pub": "28 Nov 12:12 IST",
+      "pub_dt": "2026-11-28T06:42:28+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "f050810491eeb4db": {
+      "id": "f050810491eeb4db",
+      "title": "Bisleri cites lab tests to dispute FSSAI in WB case",
+      "link": "https://economictimes.indiatimes.com/industry/cons-products/food/bisleri-cites-independent-lab-tests-to-dispute-fssai-findings-in-bengal-case/articleshow/136240286.cms",
+      "summary": "",
+      "pub": "28 Nov 11:49 IST",
+      "pub_dt": "2026-11-28T06:19:04+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "e81cbfe1fecc2c2c": {
+      "id": "e81cbfe1fecc2c2c",
+      "title": "Breakthrough in Karnaprayag rail project",
+      "link": "https://economictimes.indiatimes.com/industry/transportation/railways/breakthrough-in-rishikesh-karnaprayag-project-railways-tackles-one-of-its-toughest-himalayan-stretches-how-close-is-the-125-km-line-to-becoming-operational/articleshow/136239857.cms",
+      "summary": "",
+      "pub": "28 Nov 11:43 IST",
+      "pub_dt": "2026-11-28T06:13:05+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "f936545bdf039ef1": {
+      "id": "f936545bdf039ef1",
+      "title": "Muslims visit Dargah atop Thirupparankundram hill",
+      "link": "https://economictimes.indiatimes.com/news/india/over-100-muslims-visit-dargah-atop-thirupparankundram-hill-offer-prayers/articleshow/136239898.cms",
+      "summary": "",
+      "pub": "28 Nov 11:39 IST",
+      "pub_dt": "2026-11-28T06:09:22+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "569b02f3a0451129": {
+      "id": "569b02f3a0451129",
+      "title": "Delimitation Bill: Opposition split, allies differ",
+      "link": "https://economictimes.indiatimes.com/news/politics-and-nation/delimitation-bill-rahul-gandhi-congress-india-bloc-leaders-oppose-centres-move-allies-divided-check-reactions/articleshow/136239819.cms",
+      "summary": "",
+      "pub": "28 Nov 11:32 IST",
+      "pub_dt": "2026-11-28T06:02:09+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "25c8c0117f8037b7": {
+      "id": "25c8c0117f8037b7",
+      "title": "Wife sought Rs 1.80L monthly; husband wins in HC",
+      "link": "https://economictimes.indiatimes.com/wealth/legal/will/wife-sought-rs-1-80-lakh-monthly-maintenance-husband-claims-she-earns-rs-1-30-lakh-per-month-calcutta-hc-finds-personal-vengeance-penalises-wife/articleshow/136237484.cms",
+      "summary": "",
+      "pub": "28 Nov 11:22 IST",
+      "pub_dt": "2026-11-28T05:52:38+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "0da78616efe77e3e": {
+      "id": "0da78616efe77e3e",
+      "title": "Indian woman shares Rs 1,421 France grocery bill",
+      "link": "https://economictimes.indiatimes.com/news/new-updates/rs-1421-for-six-grocery-items-indian-woman-in-france-reveals-prices-of-onions-tomatoes-rice-and-coca-cola/articleshow/136240662.cms",
+      "summary": "",
+      "pub": "28 Nov 12:15 IST",
+      "pub_dt": "2026-11-28T06:45:56+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "57d4603cc34aec33": {
+      "id": "57d4603cc34aec33",
+      "title": "Congress reminds Pawar of RS favour over BJP Bill",
+      "link": "https://economictimes.indiatimes.com/news/politics-and-nation/congress-reminds-sharad-pawar-of-rajya-sabha-re-election-favour-as-ncp-sp-backs-bjps-delimitation-bill/articleshow/136238520.cms",
+      "summary": "",
+      "pub": "28 Nov 10:14 IST",
+      "pub_dt": "2026-11-28T04:44:47+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "a31acc92dc2e900a": {
+      "id": "a31acc92dc2e900a",
+      "title": "HDFC Bank UPI SMS alerts changing from January 1",
+      "link": "https://economictimes.indiatimes.com/wealth/save/hdfc-bank-upi-sms-alert-changes-from-january-1-2027-bank-wont-send-alerts-for-these-upi-transactions/articleshow/136239659.cms",
+      "summary": "",
+      "pub": "28 Nov 11:17 IST",
+      "pub_dt": "2026-11-28T05:47:28+00:00",
+      "sectors": [
+        "Banking",
+        "E-Commerce"
+      ],
+      "stocks": [
+        "HDFC Bank"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "9070dd5b8f7e9649": {
+      "id": "9070dd5b8f7e9649",
+      "title": "British tourist rates Indian train journey 10/10",
+      "link": "https://economictimes.indiatimes.com/news/new-updates/zero-complaints-10/10-british-tourist-travels-29-hours-from-mumbai-to-amritsar-praises-indian-railways/articleshow/136239780.cms",
+      "summary": "",
+      "pub": "28 Nov 11:27 IST",
+      "pub_dt": "2026-11-28T05:57:39+00:00",
+      "sectors": [
+        "IT",
+        "Telecoms"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "a20f8daa38c6077f": {
+      "id": "a20f8daa38c6077f",
+      "title": "Gold, silver rates today: Check prices across brands",
+      "link": "https://economictimes.indiatimes.com/wealth/invest/gold-and-silver-rates-today-november-28-2026-check-24k-22k-20k-and-18k-gold-jewellery-prices-from-ibja-malabar-gold-diamonds-joyalukkas-kalyan-jewellers-and-tanishq/articleshow/136237109.cms",
+      "summary": "",
+      "pub": "28 Nov 10:23 IST",
+      "pub_dt": "2026-11-28T04:53:52+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "714911206c202579": {
+      "id": "714911206c202579",
+      "title": "Saryu Kamala Express: Booking, fare, luggage rules",
+      "link": "https://economictimes.indiatimes.com/industry/transportation/railways/saryu-kamala-express-india-nepal-train-service-ticket-booking-rules-child-fares-luggage-allowance-and-other-details-passengers-must-know-before-travelling/articleshow/136238421.cms",
+      "summary": "",
+      "pub": "28 Nov 10:06 IST",
+      "pub_dt": "2026-11-28T04:36:34+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "574bcca98b05254b": {
+      "id": "574bcca98b05254b",
+      "title": "A 6-month leap for some Indian green-card hopefuls",
+      "link": "https://economictimes.indiatimes.com/nri/migrate/us-december-visa-bulletin-a-six-month-leap-for-some-indian-green-card-hopefuls-while-others-are-stuck-waiting/articleshow/136240195.cms",
+      "summary": "Green Card Update: The December visa bulletin brings limited movement for Indian applicants, with advances concentrated in a few categories. In the family-sponsored final action dates, F2A moves one month to November 22, 2026, while F4 advances two months to February 15, 2007. F1, F2B and F3 remain unchanged.The family-sponsored dates for filing show a sharper change in F4, which moves from Februa",
+      "pub": "28 Nov 11:53 IST",
+      "pub_dt": "2026-11-28T06:23:22+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "5440dd8654354344": {
+      "id": "5440dd8654354344",
+      "title": "F&amp;O Talk: 25,350 remains crucial support for Nifty, says Sudeep Shah; gives RIL, HDFC Bank, IT stocks strategy",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fo-talk-25350-remains-crucial-support-for-nifty-says-sudeep-shah-gives-ril-hdfc-bank-it-stocks-strategy/articleshow/136240788.cms",
+      "summary": "Benchmark indices Nifty and Sensex closed lower on Friday, snapping a two-session winning streak as selling pressure in banking, IT, auto and FMCG stocks weighed on market sentiment. The Nifty has slipped almost a percent this week.The broader market, however, moved against the trend, with the Midcap 150 and Smallcap 250 indices gaining up to 0.52% each.Analyst Sudeep Shah, Vice President and Head",
+      "pub": "28 Nov 12:20 IST",
+      "pub_dt": "2026-11-28T06:50:28+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT"
+      ],
+      "stocks": [
+        "HDFC Bank"
+      ],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "c8f0462d3ea53454": {
+      "id": "c8f0462d3ea53454",
+      "title": "Binance gets in-principle approval to set up Asia hub in Bhutan's Gelephu Mindfulness City",
+      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/binance-gets-in-principle-approval-to-set-up-asia-hub-in-bhutans-gelephu-mindfulness-city/articleshow/136240584.cms",
+      "summary": "Binance will establish a substantive operational presence in Bhutan, with plans to create jobs, develop local talent and build digital-asset capabilities. The approval is subject to the exchange fulfilling regulatory conditions before it can secure a full licence.Binance has received in-principle approval (IPA) from the Gelephu Central Bank (GCB) to establish regulated digital-asset operations in ",
+      "pub": "28 Nov 12:04 IST",
+      "pub_dt": "2026-11-28T06:34:46+00:00",
+      "sectors": [
+        "Autos",
+        "Banking",
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "9966bef79d8b5173": {
+      "id": "9966bef79d8b5173",
+      "title": "Multibagger circuit-to-circuit stock jumps 2350% in 2026, hits 5% upper circuit for 14 days in a row | Do you own?",
+      "link": "https://www.livemint.com/market/stock-market-news/multibagger-circuit-to-circuit-stock-jumps-2350-in-2026-hits-5-upper-circuit-for-14-days-in-a-row-do-you-own-11795845287136.html",
+      "summary": "Multibagger circuit-to-circuit stock has been hitting 5% upper circuit since 9 November 2026",
+      "pub": "28 Nov 12:12 IST",
+      "pub_dt": "2026-11-28T06:42:58+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "3479516d269121f6": {
+      "id": "3479516d269121f6",
+      "title": "Top stocks to watch on Monday, Nov 30: Suzlon, Zee, Tata Group stocks, KEC, Bosch, APL Apollo, among 10 shares in focus",
+      "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-on-monday-nov-30-suzlon-zee-tata-group-stocks-kec-bosch-apl-apollo-among-10-shares-in-focus-11795845823543.html",
+      "summary": "Monday’s stocks to watch include Suzlon’s Tata wind-repowering order, Tata Sons’ board meeting, Zee’s buyback, KEC International’s  ₹1,407-crore orders, and regulatory or business updates from several other companies.",
+      "pub": "28 Nov 11:56 IST",
+      "pub_dt": "2026-11-28T06:26:10+00:00",
+      "sectors": [
+        "Autos",
+        "Industrials",
+        "Materials"
+      ],
+      "stocks": [
+        "APL Apollo",
+        "Bosch",
+        "KEC Intl"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "144692f735d1bea9": {
+      "id": "144692f735d1bea9",
+      "title": "Suzlon Energy shares: Down 36% in 6 months! Will it rebound after winning wind repowering project from Tata Group?",
+      "link": "https://www.livemint.com/market/stock-market-news/suzlon-energy-shares-down-36-in-6-months-will-it-rebound-after-winning-wind-repowering-project-from-tata-group-11795841310470.html",
+      "summary": "Suzlon Energy share price has slipped from around  ₹57 to  ₹36.38 per share on the NSE in six months, logging 36% dip in this period",
+      "pub": "28 Nov 11:14 IST",
+      "pub_dt": "2026-11-28T05:44:46+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": true,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "3b8e45a49e507e6d": {
+      "id": "3b8e45a49e507e6d",
+      "title": "Defence stocks set for fresh rally? BEL, Solar Industries, HAL - Motilal Oswal names 3 shares to buy as big orders loom",
+      "link": "https://www.livemint.com/market/stock-market-news/defence-stocks-set-for-fresh-rally-bel-solar-industries-hal-motilal-oswal-names-3-shares-to-buy-as-big-orders-loom-11795769903953.html",
+      "summary": "Motilal Oswal remains positive on defence stocks, naming BEL, Solar Industries and HAL as preferred picks. It expects government spending, domestic manufacturing and large procurement programmes to support future orders and execution.",
+      "pub": "28 Nov 10:30 IST",
+      "pub_dt": "2026-11-28T05:00:46+00:00",
+      "sectors": [
+        "IT",
+        "Industrials"
+      ],
+      "stocks": [
+        "BEL",
+        "HAL"
+      ],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "6388ed5711d0cca2": {
+      "id": "6388ed5711d0cca2",
+      "title": "‘Relocate to India or quit’: IBM ends H-1B US visa, green card sponsorship; what it means for Indian techies",
+      "link": "https://www.livemint.com/companies/news/relocate-to-india-or-quit-ibm-ends-h-1b-us-visa-green-card-sponsorship-what-it-means-for-indian-techies-11795848734857.html",
+      "summary": "Amid uncertainty over US immigration rules, IBM will stop sponsoring visas and green cards for most US consulting roles. Affected employees must relocate or leave the company by December 31.",
+      "pub": "28 Nov 12:34 IST",
+      "pub_dt": "2026-11-28T07:04:55+00:00",
+      "sectors": [
+        "IT"
+      ],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
+    },
+    "2e0077152254f470": {
+      "id": "2e0077152254f470",
+      "title": "Tata Sons files caveats in Bombay HC, SC ahead of possible Tata trusts' appeal over board meeting: All about the row",
+      "link": "https://www.livemint.com/companies/news/tata-sons-files-caveats-in-bombay-hc-sc-ahead-of-possible-tata-trusts-appeal-over-board-meeting-all-about-the-row-11795846285289.html",
+      "summary": "Tata Sons has filed caveats in the Supreme Court and Bombay High Court ahead of a possible appeal by two Tata trusts over the November 30 board meeting, amid a dispute over N Chandrasekaran's reappointment.",
+      "pub": "28 Nov 11:54 IST",
+      "pub_dt": "2026-11-28T06:24:08+00:00",
+      "sectors": [],
+      "stocks": [],
+      "macro": false,
+      "sentiment": {
+        "overall": "neutral",
+        "reasoning": "",
+        "stocks": {}
+      }
     }
   }
 }
